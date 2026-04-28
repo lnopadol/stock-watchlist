@@ -122,7 +122,7 @@
         }
       ],
       "consensus_target": "$235",
-      "consensus_target_num": 235.0,
+      "consensus_target_num": 235,
       "upside_pct": 5.3,
       "key_catalysts": "Q1 2026 earnings May 4; naval contract awards; SMR commercialization progress; AI/data center nuclear fuel deals (3-6 mo).",
       "key_risks": "Commercial nuclear project delays; high valuation vulnerable to rotation out of nuclear hype; budget cuts to naval programs; competition in SMR space.",
@@ -210,7 +210,7 @@
       "upside_pct": null,
       "key_catalysts": "H1/H2 2026 earnings showing sustained cash positivity and EBITDA growth; new contracts in mining/food sectors; successful NSF small filtration system launch; further acquisitions.",
       "key_risks": "Continued operating losses leading to dilution via equity raises; customer concentration in mining; competition from larger water tech firms; regulatory/commodity price impacts on end-markets.",
-      "notes": ""
+      "notes": "Wait for confirmed profitability or major contracts."
     },
     {
       "ticker": "IRDM",
@@ -260,7 +260,7 @@
       "sector": "Utilities - Regulated Electric",
       "currency": "USD",
       "price": "$70 (approx)",
-      "price_num": 70.0,
+      "price_num": 70,
       "market_cap": "$13.2B",
       "pe_ratio": "N/A",
       "what_it_does": "Oklo develops advanced fast-fission nuclear power plants like the Aurora (15-75 MW) for clean, reliable energy using recycled nuclear fuel. Targets data centers, industrial sites, defense. Pre-commercial stage aiming first power 2027-2028.",
@@ -290,8 +290,8 @@
         }
       ],
       "consensus_target": "$91 USD",
-      "consensus_target_num": 91.0,
-      "upside_pct": 30.0,
+      "consensus_target_num": 91,
+      "upside_pct": 30,
       "key_catalysts": "Regulatory milestones (NRC approval Phase 1/2), first Aurora deployment progress, new data center PPAs (Meta expansion), Q1 2026 earnings.",
       "key_risks": "Regulatory delays/rejections, construction overruns, no revenue until 2027+, competition from SMR peers (NuScale), funding dilution.",
       "notes": ""
@@ -374,7 +374,7 @@
         }
       ],
       "consensus_target": "$100 USD",
-      "consensus_target_num": 100.0,
+      "consensus_target_num": 100,
       "upside_pct": 35.6,
       "key_catalysts": "Q1 2026 earnings (May 2026), data center contracts, hydrogen engine commercialization, margin expansion to 12-15% EBITDA.[Yahoo Finance](https://finance.yahoo.com/quote/PSIX)",
       "key_risks": "High volatility (beta 2.3), supply chain/geopolitical risks (Weichai China ties), competition in gaseous engines, slower data center growth, regulatory changes on emissions.[TradingView](https://www.tradingview.com/symbols/NASDAQ-PSIX/)",
@@ -458,7 +458,7 @@
         }
       ],
       "consensus_target": "$93 USD",
-      "consensus_target_num": 93.0,
+      "consensus_target_num": 93,
       "upside_pct": 16.3,
       "key_catalysts": "Q1/Q2 2026 earnings beats (guidance 25-30% rev growth), subscription GMV expansion (Sezzle Anywhere/Premium), long-term lending partnerships rollout, consumer app monetization (Earnback, AI tools).",
       "key_risks": "Macro slowdown hitting discretionary spending/GMV, rising credit losses in recession, intensified competition from Affirm/Klarna/PayPal, regulatory scrutiny on BNPL lending practices, high beta/volatility (3.75).",
@@ -500,7 +500,7 @@
         }
       ],
       "consensus_target": "$19 USD",
-      "consensus_target_num": 19.0,
+      "consensus_target_num": 19,
       "upside_pct": 50.2,
       "key_catalysts": "TVA/ENTRA1 6 GW SMR program advancement; first NuScale Power Module manufacturing readiness; new data center/hydrogen contracts; Q1 2026 earnings beat [NuScale](https://www.nuscalepower.com/press-releases/2026/nuscale-power-reports-fourth-quarter-and-full-year-2025-results).",
       "key_risks": "Commercial deployment delays/cancellations; nuclear project cost overruns; regulatory hurdles in new markets; competition from OKLO/BWXT; equity dilution to fund burn [TipRanks](https://www.tipranks.com/stocks/smr/forecast).",
@@ -542,7 +542,7 @@
         }
       ],
       "consensus_target": "C$92 (~$67 USD)",
-      "consensus_target_num": 92.0,
+      "consensus_target_num": 92,
       "upside_pct": 42.7,
       "key_catalysts": "Q1 2026 earnings (May 6), oil price trends, production updates from Fort Hills/Syncrude ramp-up, potential buybacks/dividend hikes.",
       "key_risks": "Oil price decline below $60/bbl, WCS discount widening, regulatory changes on oil sands emissions, geopolitical tensions affecting energy demand.",
@@ -752,7 +752,7 @@
         }
       ],
       "consensus_target": "$154 USD",
-      "consensus_target_num": 154.0,
+      "consensus_target_num": 154,
       "upside_pct": 3.9,
       "key_catalysts": "Q1 2026 earnings (soon), oil price movements above $80/bbl, progress on Permian production growth, M&A announcements, updates on low-carbon projects like Baytown hydrogen.",
       "key_risks": "Declining oil prices due to demand weakness or oversupply, intensified energy transition regulations/carbon taxes, geopolitical disruptions in supply chains, weaker refining margins.",
