@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Stock Watchlist</title>
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png" />
+<link rel="shortcut icon" href="assets/favicon.ico" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <img src="assets/favicon-32.png" alt="" class="logo" />
+    <div>
+      <h1>Stock Watchlist</h1>
+      <p class="sub" id="subline">Loading…</p>
+    </div>
+  </div>
+  <div class="actions">
+    <input id="search" type="search" placeholder="Search ticker, sector…" />
+    <button id="addBtn" class="btn primary">+ Add ticker</button>
+    <button id="historyBtn" class="btn">History</button>
+    <button id="exportBtn" class="btn">Export</button>
+  </div>
+</header>
+
+<main>
+  <section class="summary" id="summary"></section>
+
+  <table class="watchlist" id="table">
+    <thead>
+      <tr>
+        <th data-sort="ticker">Ticker <span class="ar">⇅</span></th>
+        <th data-sort="company">Company <span class="ar">⇅</span></th>
+        <th data-sort="sector">Sector <span class="ar">⇅</span></th>
+        <th data-sort="price_num" class="num">Price <span class="ar">⇅</span></th>
+        <th data-sort="market_cap" class="num">Mkt Cap <span class="ar">⇅</span></th>
+        <th data-sort="pe_ratio" class="num">P/E <span class="ar">⇅</span></th>
+        <th data-sort="upside_pct" class="num">Upside <span class="ar">⇅</span></th>
+        <th data-sort="verdict">Verdict <span class="ar">⇅</span></th>
+        <th data-sort="status">Status <span class="ar">⇅</span></th>
+        <th data-sort="risk_score" class="num">Risk <span class="ar">⇅</span></th>
+        <th>Notes</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody id="tbody"></tbody>
+  </table>
+
+  <p class="footnote">
+    Data refreshed weekly. Click any row for full thesis, analyst targets, and sources.
+    Notes auto-save to your browser. Use <strong>Export</strong> to save changes back to <code>data/stocks.json</code> on GitHub.
+  </p>
+</main>
+
+<!-- Add ticker modal -->
+<div class="modal" id="addModal" hidden>
+  <div class="modal-card">
+    <h2>Add ticker</h2>
+    <p class="muted">Enter a ticker (e.g. <code>AAPL</code>, <code>NESN.SW</code>). It will be added to the list with empty research — run the weekly refresh prompt to populate it.</p>
+    <input id="newTicker" type="text" placeholder="TICKER" autocapitalize="characters" />
+    <input id="newCompany" type="text" placeholder="Company name (optional)" />
+    <div class="modal-actions">
+      <button class="btn" id="cancelAdd">Cancel</button>
+      <button class="btn primary" id="confirmAdd">Add</button>
+    </div>
+  </div>
+</div>
+
+<!-- Detail modal -->
+<div class="modal" id="detailModal" hidden>
+  <div class="modal-card detail" id="detailContent"></div>
+</div>
+
+<!-- History modal -->
+<div class="modal" id="historyModal" hidden>
+  <div class="modal-card history" id="historyContent"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
