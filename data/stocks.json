@@ -757,6 +757,29 @@
       "key_catalysts": "Q1 2026 earnings (soon), oil price movements above $80/bbl, progress on Permian production growth, M&A announcements, updates on low-carbon projects like Baytown hydrogen.",
       "key_risks": "Declining oil prices due to demand weakness or oversupply, intensified energy transition regulations/carbon taxes, geopolitical disruptions in supply chains, weaker refining margins.",
       "notes": ""
+    },
+    {
+      "ticker": "HUBB",
+      "company": "HUBB",
+      "sector": "—",
+      "currency": "",
+      "price": "—",
+      "price_num": null,
+      "market_cap": "—",
+      "pe_ratio": "—",
+      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
+      "is_good_bet": "",
+      "buy_now_signal": "",
+      "verdict": "Reasonably Priced",
+      "status": "Under Review",
+      "risk_score": 5,
+      "houses": [],
+      "consensus_target": "",
+      "consensus_target_num": null,
+      "upside_pct": null,
+      "key_catalysts": "",
+      "key_risks": "",
+      "notes": "Newly added — needs research"
     }
   ]
 }
