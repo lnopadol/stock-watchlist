@@ -279,6 +279,27 @@ main { padding: 24px 32px 60px; max-width: 1600px; margin: 0 auto; }
 .footnote { color: var(--muted); font-size: 12px; margin-top: 16px; line-height: 1.6; }
 .footnote code { background: var(--card); padding: 1px 6px; border-radius: 3px; border: 1px solid var(--line); }
 
+/* Sync status */
+.sync-status {
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-weight: 500;
+  border: 1px solid var(--line-strong);
+  white-space: nowrap;
+}
+.sync-signed-out { background: var(--gray-bg); color: var(--gray-fg); }
+.sync-pending    { background: var(--amber-bg); color: var(--amber-fg); border-color: #ead7a0; }
+.sync-saving     { background: var(--blue-bg); color: var(--blue-fg); border-color: #b6c4de; }
+.sync-saved      { background: var(--green-bg); color: var(--green-fg); border-color: #b9dec5; }
+.sync-error      { background: var(--red-bg); color: var(--red-fg); border-color: #e5b6b6; cursor: help; }
+.sync-error-text { color: var(--red-fg); font-size: 12px; margin-top: 8px; }
+
+/* Read-only state — hide edit affordances */
+body.readonly .notes-input { pointer-events: none; opacity: 0.7; border-style: solid; border-color: transparent; }
+body.readonly .del-btn { display: none; }
+body.readonly #addBtn { display: none; }
+
 /* Responsive */
 @media (max-width: 900px) {
   .topbar { flex-direction: column; align-items: stretch; gap: 12px; padding: 14px 16px; }

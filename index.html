@@ -20,9 +20,11 @@
   </div>
   <div class="actions">
     <input id="search" type="search" placeholder="Search ticker, sector…" />
+    <span id="syncStatus" class="sync-status sync-signed-out">🔒 Read-only</span>
     <button id="addBtn" class="btn primary">+ Add ticker</button>
     <button id="historyBtn" class="btn">History</button>
-    <button id="exportBtn" class="btn">Export</button>
+    <button id="signInBtn" class="btn">Sign in</button>
+    <button id="exportBtn" class="btn" title="Manual export (also works without sign-in)">Export</button>
   </div>
 </header>
 
@@ -79,6 +81,26 @@
   <div class="modal-card history" id="historyContent"></div>
 </div>
 
+<!-- Sign-in modal -->
+<div class="modal" id="signInModal" hidden>
+  <div class="modal-card">
+    <h2>Sign in to GitHub</h2>
+    <p class="muted">Paste a <strong>Personal Access Token</strong> to enable auto-save. Your token is stored only in this browser's localStorage and is sent only to <code>api.github.com</code>.</p>
+    <p class="muted" style="font-size:12px">
+      Create one at <a href="https://github.com/settings/tokens/new?scopes=public_repo&description=stock-watchlist-dashboard" target="_blank" rel="noopener">github.com/settings/tokens/new</a>
+      with the <code>public_repo</code> scope (classic), or use a fine-grained token with <em>Contents: Read &amp; write</em> on the <code>stock-watchlist</code> repo.
+    </p>
+    <input id="tokenInput" type="password" placeholder="ghp_… or github_pat_…" autocomplete="off" />
+    <div class="modal-actions">
+      <button class="btn danger" id="signOutBtn" hidden>Sign out</button>
+      <button class="btn" id="cancelSignIn">Cancel</button>
+      <button class="btn primary" id="confirmSignIn">Sign in</button>
+    </div>
+    <p id="signInError" class="sync-error-text" hidden></p>
+  </div>
+</div>
+
+<script src="github-sync.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

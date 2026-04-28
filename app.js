@@ -1,6 +1,5 @@
 // Stock Watchlist — static dashboard
-// Data flow: data/stocks.json (current) + data/snapshots/YYYY-Www.json (history)
-// Notes are saved to localStorage and merged into export.
+// When signed in, edits auto-commit to GitHub. When signed out, edits stay local.
 
 const STATE = {
   data: null,
@@ -8,8 +7,30 @@ const STATE = {
   sortKey: "ticker",
   sortDir: 1,
   notes: JSON.parse(localStorage.getItem("watchlist_notes") || "{}"),
-  prevSnap: null, // for week-over-week diff
+  prevSnap: null,
 };
+
+function syncToGitHub(reason) {
+  if (!GH.isSignedIn()) return;
+  const payload = {
+    updated: STATE.data.updated,
+    week_label: STATE.data.week_label,
+    stocks: STATE.data.stocks,
+  };
+  GH.queueSave("data/stocks.json", JSON.stringify(payload, null, 2), `Dashboard edit: ${reason}`);
+}
+
+function applyEditMode() {
+  if (GH.isSignedIn()) {
+    document.body.classList.remove("readonly");
+    document.getElementById("signInBtn").textContent = "Account";
+    GH.setStatus("saved");
+  } else {
+    document.body.classList.add("readonly");
+    document.getElementById("signInBtn").textContent = "Sign in";
+    GH.setStatus("signed-out");
+  }
+}
 
 // ---- Helpers ----
 const $ = (s) => document.querySelector(s);
@@ -73,10 +94,12 @@ async function loadData() {
   const res = await fetch("data/stocks.json?t=" + Date.now());
   STATE.data = await res.json();
 
-  // Apply persisted notes
-  STATE.data.stocks.forEach(s => {
-    if (STATE.notes[s.ticker] !== undefined) s.notes = STATE.notes[s.ticker];
-  });
+  // Local-only notes are a fallback for signed-out browsing.
+  if (!GH.isSignedIn()) {
+    STATE.data.stocks.forEach(s => {
+      if (STATE.notes[s.ticker] !== undefined) s.notes = STATE.notes[s.ticker];
+    });
+  }
 
   // Try to load previous week snapshot for diff
   try {
@@ -196,6 +219,7 @@ function renderTable() {
       const stock = STATE.data.stocks.find(x => x.ticker === t);
       if (stock) stock.notes = inp.value;
       localStorage.setItem("watchlist_notes", JSON.stringify(STATE.notes));
+      syncToGitHub(`update note for ${t}`);
     });
     inp.addEventListener("click", e => e.stopPropagation());
   });
@@ -207,6 +231,7 @@ function renderTable() {
         STATE.data.stocks = STATE.data.stocks.filter(s => s.ticker !== t);
         delete STATE.notes[t];
         localStorage.setItem("watchlist_notes", JSON.stringify(STATE.notes));
+        syncToGitHub(`remove ${t}`);
         render();
       }
     });
@@ -306,10 +331,12 @@ function openDetail(ticker) {
     STATE.notes[s.ticker] = e.target.value;
     localStorage.setItem("watchlist_notes", JSON.stringify(STATE.notes));
     renderTable();
+    syncToGitHub(`update note for ${s.ticker}`);
   };
   $("#statusSel").onchange = (e) => {
     s.status = e.target.value;
     renderTable();
+    syncToGitHub(`status → ${e.target.value} for ${s.ticker}`);
   };
 }
 
@@ -353,7 +380,39 @@ $("#confirmAdd").onclick = () => {
     notes: "Newly added — needs research",
   });
   $("#addModal").hidden = true;
+  syncToGitHub(`add ${t}`);
   render();
+};
+
+// ---- Sign in / out ----
+$("#signInBtn").onclick = () => {
+  $("#tokenInput").value = GH.isSignedIn() ? "•••••••• (saved)" : "";
+  $("#signOutBtn").hidden = !GH.isSignedIn();
+  $("#signInError").hidden = true;
+  $("#signInModal").hidden = false;
+  setTimeout(() => $("#tokenInput").focus(), 50);
+};
+$("#cancelSignIn").onclick = () => $("#signInModal").hidden = true;
+$("#signOutBtn").onclick = () => {
+  GH.clearToken();
+  $("#signInModal").hidden = true;
+  applyEditMode();
+};
+$("#confirmSignIn").onclick = async () => {
+  const tok = $("#tokenInput").value.trim();
+  if (!tok || tok.startsWith("•")) { $("#signInModal").hidden = true; return; }
+  GH.setToken(tok);
+  try {
+    const user = await GH.verify();
+    $("#signInModal").hidden = true;
+    applyEditMode();
+    await loadData();
+    GH.setStatus("saved", `Signed in as ${user.login}`);
+  } catch (e) {
+    GH.clearToken();
+    $("#signInError").textContent = e.message;
+    $("#signInError").hidden = false;
+  }
 };
 
 // ---- Export ----
@@ -443,4 +502,14 @@ $$(".modal").forEach(m => {
   m.addEventListener("click", (e) => { if (e.target === m) m.hidden = true; });
 });
 
+applyEditMode();
 loadData();
+
+// Warn before closing if there are unsaved changes
+window.addEventListener("beforeunload", (e) => {
+  if (document.querySelector(".sync-pending")) {
+    GH.flushSaves();
+    e.preventDefault();
+    e.returnValue = "";
+  }
+});
