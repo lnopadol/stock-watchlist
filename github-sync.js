@@ -56,8 +56,14 @@ GH.b64 = (str) => {
   return btoa(bin);
 };
 
-// Commit a single file (create or update)
-GH.putFile = async (path, content, message) => {
+// Sleep helper
+GH.sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+// Commit a single file (create or update) with automatic retry on SHA conflicts.
+// Conflicts (409/422) happen when another commit landed between our getFile() and PUT —
+// e.g. when the user fires several edits rapidly. We refetch the SHA and retry.
+GH.putFile = async (path, content, message, attempt = 1) => {
+  const MAX_ATTEMPTS = 5;
   const existing = await GH.getFile(path);
   const url = `https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${path}`;
   const body = {
@@ -71,17 +77,36 @@ GH.putFile = async (path, content, message) => {
     headers: { ...GH.headers(), "Content-Type": "application/json" },
     body: JSON.stringify(body),
   });
-  if (!res.ok) {
-    const err = await res.text();
-    throw new Error(`commit ${path} failed: ${res.status} ${err}`);
+  if (res.ok) return res.json();
+
+  const errText = await res.text();
+
+  // 409 = SHA mismatch, 422 = validation (often stale SHA), 5xx = transient — all retryable
+  const retryable = [409, 422, 500, 502, 503, 504].includes(res.status);
+  if (retryable && attempt < MAX_ATTEMPTS) {
+    const delay = Math.min(2000, 200 * Math.pow(2, attempt)); // 400, 800, 1600, 2000ms
+    console.warn(`commit ${path} got ${res.status}, retrying in ${delay}ms (attempt ${attempt+1}/${MAX_ATTEMPTS})`);
+    await GH.sleep(delay);
+    return GH.putFile(path, content, message, attempt + 1);
   }
-  return res.json();
+
+  // Rate-limited — honor the Retry-After header if present
+  if (res.status === 403 && res.headers.get("x-ratelimit-remaining") === "0") {
+    const reset = parseInt(res.headers.get("x-ratelimit-reset") || "0", 10) * 1000;
+    const waitMs = Math.max(reset - Date.now(), 60000);
+    throw new Error(`Rate limited. Try again in ${Math.ceil(waitMs/60000)} minute(s).`);
+  }
+
+  throw new Error(`Commit failed (${res.status}): ${errText.slice(0, 200)}`);
 };
 
-// Debounced save queue — avoids one commit per keystroke when typing notes
+// Debounced + mutex-guarded save queue. The mutex prevents two concurrent flushes
+// from racing each other when the user edits faster than commits land.
 GH.SAVE_DELAY_MS = 1500;
 let saveTimer = null;
 let pendingSaves = new Map(); // path -> {content, message}
+let isFlushing = false;
+let rerunAfterFlush = false;
 
 GH.queueSave = (path, content, message) => {
   pendingSaves.set(path, { content, message });
@@ -91,20 +116,34 @@ GH.queueSave = (path, content, message) => {
 };
 
 GH.flushSaves = async () => {
+  if (isFlushing) { rerunAfterFlush = true; return; }
   if (pendingSaves.size === 0) return;
-  const batch = Array.from(pendingSaves.entries());
-  pendingSaves.clear();
+  isFlushing = true;
   GH.setStatus("saving");
   try {
-    for (const [path, { content, message }] of batch) {
-      await GH.putFile(path, content, message);
+    // Drain the queue. New edits during the await will overwrite map entries by path,
+    // so we always commit the LATEST content (not stale partial states).
+    while (pendingSaves.size > 0) {
+      const batch = Array.from(pendingSaves.entries());
+      pendingSaves.clear();
+      for (const [path, { content, message }] of batch) {
+        await GH.putFile(path, content, message);
+      }
     }
     GH.setStatus("saved");
   } catch (e) {
     console.error(e);
     GH.setStatus("error", e.message);
-    // Re-queue for retry
-    batch.forEach(([p, v]) => pendingSaves.set(p, v));
+    // Schedule one retry in 5s if it wasn't a hard error like rate-limit
+    if (!/rate limit/i.test(e.message)) {
+      setTimeout(() => { if (pendingSaves.size > 0) GH.flushSaves(); }, 5000);
+    }
+  } finally {
+    isFlushing = false;
+    if (rerunAfterFlush) {
+      rerunAfterFlush = false;
+      setTimeout(GH.flushSaves, 100);
+    }
   }
 };
 

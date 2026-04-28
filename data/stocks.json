@@ -45,6 +45,90 @@
       "notes": ""
     },
     {
+      "ticker": "ASY.PA",
+      "company": "Assystem SA",
+      "sector": "Industrials / Engineering & Construction",
+      "currency": "EUR",
+      "price": "€44.10",
+      "price_num": 44.1,
+      "market_cap": "€687m",
+      "pe_ratio": "88.04",
+      "what_it_does": "Assystem SA provides engineering and infrastructure project management services worldwide, focusing on critical and complex projects for public authorities and utilities. It offers services in nuclear, energy, transportation, defense, and buildings/infrastructure, including decommissioning, waste management, and digital engineering. The company operates in Europe, North America, and Asia.",
+      "is_good_bet": "Bull thesis: Strong positioning in nuclear energy and infrastructure megatrends with stable long-term contracts; recent Q1 revenue growth and dividend; consensus OUTPERFORM/Buy from available analysts. Bear thesis: High P/E ratio of 88 suggests overvaluation or thin margins; cyclical exposure to government spending; limited analyst coverage signals lower liquidity/interest. Overall neutral with value in energy transition exposure but caution on valuation.",
+      "buy_now_signal": "No strong buy signal; trading near consensus target (~€48) with high P/E; wait for dip below €42 or earnings catalyst.",
+      "verdict": "Reasonably Priced",
+      "status": "Buy Zone",
+      "risk_score": 6,
+      "houses": [
+        {
+          "name": "MarketScreener Consensus",
+          "rating": "OUTPERFORM",
+          "target": "€48.27",
+          "source": "[MarketScreener](https://www.marketscreener.com/quote/stock/ASSYSTEM-4614/consensus/)"
+        },
+        {
+          "name": "Stockopedia Consensus",
+          "rating": "Buy",
+          "target": "€48.80",
+          "source": "[Stockopedia](https://www.stockopedia.com/share-prices/assystem-sa-EPA:ASY/)"
+        },
+        {
+          "name": "Investing.com Consensus (4 analysts)",
+          "rating": "N/A",
+          "target": "€47.95",
+          "source": "[Investing.com](https://www.investing.com/equities/assytem-consensus-estimates)"
+        }
+      ],
+      "consensus_target": "€48",
+      "consensus_target_num": 48,
+      "upside_pct": 8.8,
+      "key_catalysts": "Q2 earnings (July 2026), nuclear project wins, European infrastructure spending updates, dividend announcement.",
+      "key_risks": "Earnings miss on high expectations, cyclical slowdown in energy/infra capex, high valuation compression, limited coverage increases volatility.",
+      "notes": ""
+    },
+    {
+      "ticker": "BWXT",
+      "company": "BWX Technologies, Inc.",
+      "sector": "Industrials (Aerospace & Defense)",
+      "currency": "USD",
+      "price": "$223.15",
+      "price_num": 223.15,
+      "market_cap": "$20.34B",
+      "pe_ratio": "62.03",
+      "what_it_does": "BWX Technologies manufactures and sells nuclear components and fuel to the U.S. government and provides technical, management, and site services for nuclear facilities and environmental remediation. It also supplies precision manufactured components, services, and CANDU fuel for the commercial nuclear power industry, with focus on naval nuclear propulsion and emerging small modular reactors (SMR).",
+      "is_good_bet": "BWXT benefits from strong U.S. naval nuclear contracts and growing commercial nuclear demand driven by AI data centers and clean energy push. Bull thesis: backlog visibility through 2026+, SMR exposure positions for multi-year growth; recent awards like $174M contract reinforce momentum. Bear thesis: elevated P/E at 62 signals rich valuation amid stock's 100%+ run-up; commercial nuclear ramp-up risks delays. Overall solid bet for nuclear theme investors but watch valuation stretch.",
+      "buy_now_signal": "No strong buy now signal; stock trades near or above several targets (e.g., consensus ~$235 close to $223, Seaport neutral post-target exceedance). Wait for pullback to $210 or Q1 2026 earnings catalyst on May 4.",
+      "verdict": "Premium Priced",
+      "status": "Monitoring",
+      "risk_score": 4,
+      "houses": [
+        {
+          "name": "BofA Securities",
+          "rating": "Buy",
+          "target": "$250",
+          "source": "[Investing.com Nov 2025](https://www.investing.com/news/analyst-ratings/bwx-technologies-stock-price-target-raised-to-230-from-220-at-bofa-securities-93CH-4354484), [Intellectia Mar 2026](https://intellectia.ai/news/monitor/bwx-technologies-receives-buy-rating-with-230-target)"
+        },
+        {
+          "name": "Seaport Global",
+          "rating": "Neutral",
+          "target": "$195 (former)",
+          "source": "[Investing.com Jan 2026](https://www.investing.com/news/analyst-ratings/bwx-technologies-stock-rating-downgraded-to-neutral-by-seaport-global-93CH-4455163)"
+        },
+        {
+          "name": "Argus",
+          "rating": "Buy",
+          "target": "$239",
+          "source": "[Yahoo Finance Apr 2026](https://finance.yahoo.com/quote/BWXT/)"
+        }
+      ],
+      "consensus_target": "$235",
+      "consensus_target_num": 235.0,
+      "upside_pct": 5.3,
+      "key_catalysts": "Q1 2026 earnings May 4; naval contract awards; SMR commercialization progress; AI/data center nuclear fuel deals (3-6 mo).",
+      "key_risks": "Commercial nuclear project delays; high valuation vulnerable to rotation out of nuclear hype; budget cuts to naval programs; competition in SMR space.",
+      "notes": ""
+    },
+    {
       "ticker": "CCJ",
       "company": "Cameco Corporation",
       "sector": "Energy",
@@ -84,6 +168,216 @@
       "upside_pct": -1.8,
       "key_catalysts": "Westinghouse project distributions/milestones; long-term uranium contracting uptick; nuclear policy expansions (e.g., US, EU); Q1 2026 earnings May 2026.",
       "key_risks": "Uranium price declines, production disruptions (Kazakhstan geopolitics), high capex/inflation in mining, nuclear regulatory delays, market saturation from new supply.",
+      "notes": ""
+    },
+    {
+      "ticker": "DEM.AX",
+      "company": "De.mem Limited",
+      "sector": "Industrials",
+      "currency": "AUD",
+      "price": "A$0.08",
+      "price_num": 0.08,
+      "market_cap": "A$26.13M",
+      "pe_ratio": "N/A",
+      "what_it_does": "De.mem Limited designs, builds, owns, and operates decentralized water and wastewater treatment systems using proprietary hollow fiber membrane technologies for industrial, municipal, and residential clients in Australia, Singapore, and Germany. It offers specialty chemicals, pumps, consumables, and BOOT services to sectors including mining, food & beverage, agriculture, and heavy industry. The company focuses on water recycling and regulatory compliance to reduce client costs.[Yahoo Finance](https://finance.yahoo.com/quote/DEM.AX), [Company site](https://demembranes.com)",
+      "is_good_bet": "De.mem shows progress toward profitability with positive operating cash flows in late 2024, recurring revenue growth (90% of sales), and accretive acquisitions boosting EBITDA to $1.6M pro-forma. However, it remains loss-making with negative EPS, faces dilution from capital raises, and trades at low multiples amid execution risks in a competitive water treatment market. Bull case rests on scaling membrane tech and new NSF-approved systems; bear case highlights persistent losses and microcap volatility. Limited coverage reflects high uncertainty.",
+      "buy_now_signal": "No, due to ongoing losses, recent price weakness to multi-year lows, and lack of analyst support signaling caution. Wait for confirmed profitability or major contracts.",
+      "verdict": "Reasonably Priced",
+      "status": "Monitoring",
+      "risk_score": 9,
+      "houses": [
+        {
+          "name": "Limited coverage",
+          "rating": "N/A",
+          "target": "N/A",
+          "source": "No recent ratings found [Yahoo Finance](https://finance.yahoo.com/quote/DEM.AX/analysis), [Market Index](https://www.marketindex.com.au/asx/dem)"
+        },
+        {
+          "name": "None",
+          "rating": "N/A",
+          "target": "N/A",
+          "source": "No recent ratings found [Yahoo Finance](https://finance.yahoo.com/quote/DEM.AX/analysis), [Market Index](https://www.marketindex.com.au/asx/dem)"
+        },
+        {
+          "name": "None",
+          "rating": "N/A",
+          "target": "N/A",
+          "source": "No recent ratings found [Yahoo Finance](https://finance.yahoo.com/quote/DEM.AX/analysis), [Market Index](https://www.marketindex.com.au/asx/dem)"
+        }
+      ],
+      "consensus_target": "N/A (Limited coverage)",
+      "consensus_target_num": null,
+      "upside_pct": null,
+      "key_catalysts": "H1/H2 2026 earnings showing sustained cash positivity and EBITDA growth; new contracts in mining/food sectors; successful NSF small filtration system launch; further acquisitions.",
+      "key_risks": "Continued operating losses leading to dilution via equity raises; customer concentration in mining; competition from larger water tech firms; regulatory/commodity price impacts on end-markets.",
+      "notes": ""
+    },
+    {
+      "ticker": "IRDM",
+      "company": "Iridium Communications Inc.",
+      "sector": "Communication Services",
+      "currency": "USD",
+      "price": "$39",
+      "price_num": 39,
+      "market_cap": "$4.1B",
+      "pe_ratio": "39",
+      "what_it_does": "Operates the only truly global LEO satellite constellation providing voice, data, IoT, and PNT services with pole-to-pole coverage [Iridium Investor](https://investor.iridium.com/). Serves governments (US DoD), maritime, aviation, land mobile, and emerging direct-to-device markets. Unique inter-satellite links enable reliable mission-critical comms anywhere.",
+      "is_good_bet": "Unique moat in global satcom with recurring revenue from govt/IoT contracts; expanding via Project Stardust NTN D2D in 2026. Steady FCF supports dividends despite high debt. Bears note competition from Starlink, expensive valuation, debt burden [SimplyWallSt](https://simplywall.st/stocks/us/telecom/nasdaq-irdm/iridium-communications). Mixed analyst views reflect execution risks but durable network value.",
+      "buy_now_signal": "No - trading ~30% above consensus target ($27-31); wait for pullback [TickerNerd](https://tickernerd.com/stock/irdm-forecast/), [QuiverQuant](https://www.quiverquant.com/news/New+Analyst+Forecast:+$IRDM+Given+$26+Price+Target).",
+      "verdict": "Premium Priced",
+      "status": "Monitoring",
+      "risk_score": 7,
+      "houses": [
+        {
+          "name": "Morgan Stanley",
+          "rating": "Equal-Weight",
+          "target": "$26 USD",
+          "source": "[QuiverQuant](https://www.quiverquant.com/news/New+Analyst+Forecast:+$IRDM+Given+$26+Price+Target), [TickerNerd](https://tickernerd.com/stock/irdm-forecast/)"
+        },
+        {
+          "name": "Barclays",
+          "rating": "Overweight",
+          "target": "$36 USD",
+          "source": "[TickerNerd](https://tickernerd.com/stock/irdm-forecast/)"
+        },
+        {
+          "name": "Raymond James",
+          "rating": "Outperform",
+          "target": "$26 USD",
+          "source": "[QuiverQuant](https://www.quiverquant.com/news/New+Analyst+Forecast:+$IRDM+Given+$26+Price+Target)"
+        }
+      ],
+      "consensus_target": "$28 USD",
+      "consensus_target_num": 28,
+      "upside_pct": -28.2,
+      "key_catalysts": "Project Stardust D2D launch (2026), DoD/govt contracts, IoT growth, Q2 2026 earnings [Iridium](https://investor.iridium.com/).",
+      "key_risks": "High debt/equity (376%), Starlink competition, satellite capex/maintenance, execution on new services [SimplyWallSt](https://simplywall.st/stocks/us/telecom/nasdaq-irdm/iridium-communications).",
+      "notes": ""
+    },
+    {
+      "ticker": "OKLO",
+      "company": "Oklo Inc.",
+      "sector": "Utilities - Regulated Electric",
+      "currency": "USD",
+      "price": "$70 (approx)",
+      "price_num": 70.0,
+      "market_cap": "$13.2B",
+      "pe_ratio": "N/A",
+      "what_it_does": "Oklo develops advanced fast-fission nuclear power plants like the Aurora (15-75 MW) for clean, reliable energy using recycled nuclear fuel. Targets data centers, industrial sites, defense. Pre-commercial stage aiming first power 2027-2028.",
+      "is_good_bet": "Bull thesis: Positioned for AI/data center nuclear demand boom with innovative fast reactor tech, fuel recycling, early deals like Meta. Growing order book, regulatory progress. Bear: Pre-revenue with ongoing losses, high execution/regulatory risks, recent analyst target cuts signal slower near-term deployment. Speculative play on nuclear renaissance.",
+      "buy_now_signal": "Yes, trading below consensus target (~$95) implying 35% upside despite risks. Recent deals validate demand but watch Q1 earnings/regs.",
+      "verdict": "Attractively Priced",
+      "status": "Monitoring",
+      "risk_score": 9,
+      "houses": [
+        {
+          "name": "Tigress Financial",
+          "rating": "Buy",
+          "target": "$130 USD",
+          "source": "[TipRanks](https://www.tipranks.com/stocks/oklo/forecast)"
+        },
+        {
+          "name": "B. Riley",
+          "rating": "Buy",
+          "target": "$92 USD",
+          "source": "[TipRanks](https://www.tipranks.com/stocks/oklo/forecast)"
+        },
+        {
+          "name": "Needham",
+          "rating": "Buy",
+          "target": "$73 USD",
+          "source": "[TipRanks](https://www.tipranks.com/stocks/oklo/forecast)"
+        }
+      ],
+      "consensus_target": "$91 USD",
+      "consensus_target_num": 91.0,
+      "upside_pct": 30.0,
+      "key_catalysts": "Regulatory milestones (NRC approval Phase 1/2), first Aurora deployment progress, new data center PPAs (Meta expansion), Q1 2026 earnings.",
+      "key_risks": "Regulatory delays/rejections, construction overruns, no revenue until 2027+, competition from SMR peers (NuScale), funding dilution.",
+      "notes": ""
+    },
+    {
+      "ticker": "PRY.MI",
+      "company": "Prysmian SpA",
+      "sector": "Industrials",
+      "currency": "EUR",
+      "price": "€125.45",
+      "price_num": 125.45,
+      "market_cap": "€36B",
+      "pe_ratio": "28.4",
+      "what_it_does": "Prysmian SpA is an Italy-based company engaged in the development, design, production, supply, and installation of cables and systems for energy transmission, distribution, and telecommunications. Its Energy segment covers utilities, trade & installers, industrial applications, and other areas, while the Telecom segment provides optical fiber, cables, and connectivity products. It supports global infrastructure for power grids, renewables, and digital networks.",
+      "is_good_bet": "Bull thesis: Leader in high-demand cables for energy transition, offshore wind, grid upgrades, and 5G/data centers; strong revenue growth (19.65B EUR TTM), profitability (1.27B net income), and order backlog from electrification megatrend. Bear thesis: Elevated valuation after 160%+ YTD surge, consensus targets below current price suggesting overvaluation; cyclical industrial exposure and competition pressure margins.",
+      "buy_now_signal": "No, stock trades at €125 well above consensus target ~€110-114; analysts like Morgan Stanley Hold at €95 highlight downside risk post-rally.",
+      "verdict": "Premium Priced",
+      "status": "Monitoring",
+      "risk_score": 6,
+      "houses": [
+        {
+          "name": "Goldman Sachs",
+          "rating": "Buy",
+          "target": "€126",
+          "source": "[Investing.com](https://www.investing.com/equities/prysmian-consensus-estimates)"
+        },
+        {
+          "name": "Morgan Stanley",
+          "rating": "Hold",
+          "target": "€95",
+          "source": "[Investing.com](https://www.investing.com/equities/prysmian-consensus-estimates)"
+        },
+        {
+          "name": "J.P. Morgan",
+          "rating": "Buy",
+          "target": "€113",
+          "source": "[Investing.com](https://www.investing.com/equities/prysmian-consensus-estimates)"
+        }
+      ],
+      "consensus_target": "€113",
+      "consensus_target_num": 113,
+      "upside_pct": -9.9,
+      "key_catalysts": "Q1 2026 earnings (late Apr), new submarine cable contracts for offshore wind, grid modernization deals in EU/US.",
+      "key_risks": "Commodity price volatility (copper), project delays/cancellations, Chinese competition, economic slowdown reducing infrastructure spend.",
+      "notes": ""
+    },
+    {
+      "ticker": "PSIX",
+      "company": "Power Solutions International, Inc.",
+      "sector": "Industrials",
+      "currency": "USD",
+      "price": "$73.75",
+      "price_num": 73.75,
+      "market_cap": "$1.71B",
+      "pe_ratio": "15.59",
+      "what_it_does": "Power Solutions International, Inc. designs, engineers, manufactures, and sells emission-certified engines and power systems running on fuels like natural gas, propane, diesel, and biofuels. It provides integrated turnkey solutions to OEMs and end-users in energy, industrial (forklifts, construction equipment), and transportation (terminal tractors) markets, including standby power generation for data centers. The company is headquartered in Wood Dale, Illinois.[Robinhood](https://robinhood.com/us/en/stocks/PSIX/)[TradingView](https://www.tradingview.com/symbols/NASDAQ-PSIX/)",
+      "is_good_bet": "PSIX has delivered strong growth fueled by data center power demand and shift to gaseous fuels, with robust profitability (ROE >80%, P/E 15.59 reasonable for growth stock). Bull thesis: positioned for AI/data center backup power boom with fuel-flexible engines; Weichai backing provides scale. Bear concerns: high beta (2.3+), small-mid cap volatility, competition from Cummins/Caterpillar, supply chain risks from China ties.[Yahoo Finance](https://finance.yahoo.com/quote/PSIX)[Ticker Nerd](https://tickernerd.com/stock/psix-forecast/)",
+      "buy_now_signal": "Yes, trading at $73.75 below recent analyst targets averaging ~$100 (Jefferies $92.90, Freedom $87, Craig-Hallum $109+), implying 25-40% upside; strong buy consensus despite limited coverage.[Ticker Nerd](https://tickernerd.com/stock/psix-forecast/)[Yahoo Finance](https://finance.yahoo.com/quote/PSIX)",
+      "verdict": "Attractively Priced",
+      "status": "Monitoring",
+      "risk_score": 7,
+      "houses": [
+        {
+          "name": "Jefferies",
+          "rating": "Buy",
+          "target": "$92.90 USD",
+          "source": "[Ticker Nerd](https://tickernerd.com/stock/psix-forecast/) [Investing.com](https://www.investing.com/news/analyst-ratings/jefferies-initiates-coverage-on-power-solutions-stock-with-buy-rating-93CH-4382925)"
+        },
+        {
+          "name": "Freedom Capital Markets",
+          "rating": "Buy",
+          "target": "$87.00 USD",
+          "source": "[Ticker Nerd](https://tickernerd.com/stock/psix-forecast/)"
+        },
+        {
+          "name": "Craig-Hallum",
+          "rating": "Buy",
+          "target": "$109 USD",
+          "source": "[FuTu News](https://news.futunn.com/en/post/69604732/craig-hallum-maintains-power-solutions-international-psixus-with-buy-rating)"
+        }
+      ],
+      "consensus_target": "$100 USD",
+      "consensus_target_num": 100.0,
+      "upside_pct": 35.6,
+      "key_catalysts": "Q1 2026 earnings (May 2026), data center contracts, hydrogen engine commercialization, margin expansion to 12-15% EBITDA.[Yahoo Finance](https://finance.yahoo.com/quote/PSIX)",
+      "key_risks": "High volatility (beta 2.3), supply chain/geopolitical risks (Weichai China ties), competition in gaseous engines, slower data center growth, regulatory changes on emissions.[TradingView](https://www.tradingview.com/symbols/NASDAQ-PSIX/)",
       "notes": ""
     },
     {
@@ -129,45 +423,213 @@
       "notes": ""
     },
     {
-      "ticker": "IRDM",
-      "company": "Iridium Communications Inc.",
-      "sector": "Communication Services",
+      "ticker": "SEZL",
+      "company": "Sezzle Inc.",
+      "sector": "Financial Services",
       "currency": "USD",
-      "price": "$39",
-      "price_num": 39,
-      "market_cap": "$4.1B",
-      "pe_ratio": "39",
-      "what_it_does": "Operates the only truly global LEO satellite constellation providing voice, data, IoT, and PNT services with pole-to-pole coverage [Iridium Investor](https://investor.iridium.com/). Serves governments (US DoD), maritime, aviation, land mobile, and emerging direct-to-device markets. Unique inter-satellite links enable reliable mission-critical comms anywhere.",
-      "is_good_bet": "Unique moat in global satcom with recurring revenue from govt/IoT contracts; expanding via Project Stardust NTN D2D in 2026. Steady FCF supports dividends despite high debt. Bears note competition from Starlink, expensive valuation, debt burden [SimplyWallSt](https://simplywall.st/stocks/us/telecom/nasdaq-irdm/iridium-communications). Mixed analyst views reflect execution risks but durable network value.",
-      "buy_now_signal": "No - trading ~30% above consensus target ($27-31); wait for pullback [TickerNerd](https://tickernerd.com/stock/irdm-forecast/), [QuiverQuant](https://www.quiverquant.com/news/New+Analyst+Forecast:+$IRDM+Given+$26+Price+Target).",
-      "verdict": "Premium Priced",
+      "price": "$79.94",
+      "price_num": 79.94,
+      "market_cap": "$2.7B",
+      "pe_ratio": "21.49",
+      "what_it_does": "Sezzle Inc. operates a technology-enabled payments platform primarily in the US and Canada. It allows consumers to split purchases into four interest-free installments over six weeks via Pay-in-Four, with additional options like virtual cards, Sezzle Anywhere subscription for use at any merchant, Premium access to large merchants, and credit-building tools like Sezzle Up. The company generates revenue from merchant fees, consumer subscriptions, late fees, and transaction income while maintaining low credit losses through transaction-level underwriting.",
+      "is_good_bet": "Bull thesis: Sezzle has transitioned from pure BNPL to a profitable fintech ecosystem with high margins (ROE ~90%), rapid revenue growth (27%+ expected 2026), and sticky subscription revenue; unique underwriting keeps losses low at ~2% GMV, positioning it to capture underserved Gen Z/millennial market amid shift from credit cards. Bear thesis: Highly competitive BNPL space with Affirm, Klarna, Afterpay; regulatory risks on consumer lending, sensitivity to consumer spending/macro downturns, and elevated valuation leaves little margin for error on execution/growth.",
+      "buy_now_signal": "Yes, trading ~14% below consensus target of $93 with strong Q4 2025 beat, upward guidance revisions, and multiple Buy/Outperform initiations/maintains in early 2026; growth catalysts intact despite volatility.",
+      "verdict": "Attractively Priced",
       "status": "Monitoring",
       "risk_score": 7,
       "houses": [
         {
-          "name": "Morgan Stanley",
-          "rating": "Equal-Weight",
-          "target": "$26 USD",
-          "source": "[QuiverQuant](https://www.quiverquant.com/news/New+Analyst+Forecast:+$IRDM+Given+$26+Price+Target), [TickerNerd](https://tickernerd.com/stock/irdm-forecast/)"
+          "name": "B. Riley",
+          "rating": "Buy",
+          "target": "$99 USD",
+          "source": "[Yahoo Finance](https://finance.yahoo.com/news/b-riley-raised-target-price-194121873.html), [Insider Monkey](https://www.insidermonkey.com/blog/b-riley-raised-target-price-on-sezzle-sezl-to-99-due-to-massive-q4-1710917/)"
         },
         {
-          "name": "Barclays",
-          "rating": "Overweight",
-          "target": "$36 USD",
-          "source": "[TickerNerd](https://tickernerd.com/stock/irdm-forecast/)"
+          "name": "Needham",
+          "rating": "Buy",
+          "target": "$94 USD",
+          "source": "[Investing.com](https://www.investing.com/news/analyst-ratings/needham-raises-sezzle-stock-price-target-to-94-on-strong-results-93CH-4527291)"
         },
         {
-          "name": "Raymond James",
+          "name": "Keefe, Bruyette & Woods",
           "rating": "Outperform",
-          "target": "$26 USD",
-          "source": "[QuiverQuant](https://www.quiverquant.com/news/New+Analyst+Forecast:+$IRDM+Given+$26+Price+Target)"
+          "target": "$85 USD",
+          "source": "[MarketBeat](https://www.marketbeat.com/instant-alerts/sezzle-nasdaqsezl-coverage-initiated-by-analysts-at-keefe-bruyette-woods-2026-04-06/), [GuruFocus](https://www.gurufocus.com/news/8776140/sezl-stock-keefe-bruyette-woods-initiates-coverage-with-outperform-rating-sezl-stock-news)"
         }
       ],
-      "consensus_target": "$28 USD",
-      "consensus_target_num": 28,
-      "upside_pct": -28.2,
-      "key_catalysts": "Project Stardust D2D launch (2026), DoD/govt contracts, IoT growth, Q2 2026 earnings [Iridium](https://investor.iridium.com/).",
-      "key_risks": "High debt/equity (376%), Starlink competition, satellite capex/maintenance, execution on new services [SimplyWallSt](https://simplywall.st/stocks/us/telecom/nasdaq-irdm/iridium-communications).",
+      "consensus_target": "$93 USD",
+      "consensus_target_num": 93.0,
+      "upside_pct": 16.3,
+      "key_catalysts": "Q1/Q2 2026 earnings beats (guidance 25-30% rev growth), subscription GMV expansion (Sezzle Anywhere/Premium), long-term lending partnerships rollout, consumer app monetization (Earnback, AI tools).",
+      "key_risks": "Macro slowdown hitting discretionary spending/GMV, rising credit losses in recession, intensified competition from Affirm/Klarna/PayPal, regulatory scrutiny on BNPL lending practices, high beta/volatility (3.75).",
+      "notes": ""
+    },
+    {
+      "ticker": "SMR",
+      "company": "NuScale Power Corporation",
+      "sector": "Industrials",
+      "currency": "USD",
+      "price": "$12.65",
+      "price_num": 12.65,
+      "market_cap": "4.34B",
+      "pe_ratio": "N/A",
+      "what_it_does": "NuScale Power Corporation designs and markets the world's first NRC-certified small modular reactors (SMRs). Their NuScale Power Module generates 77 MWe of carbon-free electricity per unit, scalable to 12-module plants delivering up to 924 MWe. The technology supports power generation, district heating, desalination, hydrogen production, and industrial process heat, powering the global energy transition through safe, factory-built reactors [NuScale](https://www.nuscalepower.com).",
+      "is_good_bet": "Bull thesis: NuScale leads as the only NRC-approved SMR designer amid surging nuclear demand for AI data centers and clean baseload power; strategic partnerships like ENTRA1 Energy with TVA for up to 6 GW deployment position it for multi-GW scale-up; 2025 progress strengthened cash for commercialization. Bear thesis: Pre-revenue with no operational plants, past project cancellations (e.g., Idaho due to cost escalation), and recent analyst target cuts highlight execution risks and high cash burn. Overall mixed with first-mover edge but unproven at scale [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SMR/price-target/), [TipRanks](https://www.tipranks.com/stocks/smr/forecast).",
+      "buy_now_signal": "No strong buy signal now; shares trade ~30% below consensus target but recent downgrades (Citi Sell $9, UBS/GS cuts) and 56% YTD drop reflect commercialization delays (e.g., Romania to 2033). Wait for deployment milestones amid high volatility [Google Finance](https://www.google.com/finance/quote/SMR:NYSE).",
+      "verdict": "Attractively Priced",
+      "status": "Monitoring",
+      "risk_score": 9,
+      "houses": [
+        {
+          "name": "B. Riley",
+          "rating": "Buy",
+          "target": "$19 USD",
+          "source": "[MarketBeat](https://www.marketbeat.com/stocks/NYSE/SMR/price-target/)"
+        },
+        {
+          "name": "Citigroup",
+          "rating": "Sell",
+          "target": "$9 USD",
+          "source": "[MarketBeat](https://www.marketbeat.com/stocks/NYSE/SMR/price-target/)"
+        },
+        {
+          "name": "Goldman Sachs",
+          "rating": "Neutral",
+          "target": "$14 USD",
+          "source": "[MarketBeat](https://www.marketbeat.com/stocks/NYSE/SMR/price-target/)"
+        }
+      ],
+      "consensus_target": "$19 USD",
+      "consensus_target_num": 19.0,
+      "upside_pct": 50.2,
+      "key_catalysts": "TVA/ENTRA1 6 GW SMR program advancement; first NuScale Power Module manufacturing readiness; new data center/hydrogen contracts; Q1 2026 earnings beat [NuScale](https://www.nuscalepower.com/press-releases/2026/nuscale-power-reports-fourth-quarter-and-full-year-2025-results).",
+      "key_risks": "Commercial deployment delays/cancellations; nuclear project cost overruns; regulatory hurdles in new markets; competition from OKLO/BWXT; equity dilution to fund burn [TipRanks](https://www.tipranks.com/stocks/smr/forecast).",
+      "notes": ""
+    },
+    {
+      "ticker": "SU",
+      "company": "Suncor Energy Inc.",
+      "sector": "Energy",
+      "currency": "USD",
+      "price": "$64.47",
+      "price_num": 64.47,
+      "market_cap": "$76.43B",
+      "pe_ratio": "18.15",
+      "what_it_does": "Suncor Energy is a Canadian integrated energy company headquartered in Calgary, Alberta. It specializes in the development and production of synthetic crude oil from oil sands in the Athabasca region, along with conventional oil, natural gas, refining, and marketing under the Petro-Canada brand. The company operates major oil sands projects like Base Plant, Firebag, Fort Hills, and Syncrude, and has refining capacity across Canada and the US.",
+      "is_good_bet": "Suncor is a leading oil sands producer with strong production growth potential from integrated operations and cost efficiencies post recent strategic updates. Bull thesis: High oil prices, operational improvements under new leadership, and Syncrude optimization support earnings growth and dividends. Bear thesis: Exposure to volatile WCS differentials, high breakeven costs in oil sands (~$45-50/bbl), and ESG pressures on heavy oil could cap upside if energy transition accelerates.",
+      "buy_now_signal": "Yes, now is a good time to buy as the stock trades below multiple analyst targets (e.g., JPM C$105 ~$77 USD, RBC C$100 ~$73 USD, GS $73), implying 10-20% upside, amid positive updates in April 2026 following investor day.",
+      "verdict": "Attractively Priced",
+      "status": "Monitoring",
+      "risk_score": 4,
+      "houses": [
+        {
+          "name": "JPMorgan",
+          "rating": "Buy",
+          "target": "C$105",
+          "source": "[MarketBeat](https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-increases-suncor-energy-tsesu-price-target-to-c10500-2026-04-14/)"
+        },
+        {
+          "name": "Goldman Sachs",
+          "rating": "Buy",
+          "target": "$73",
+          "source": "[Moomoo](https://www.moomoo.com/news/post/68415712/goldman-sachs-maintains-suncor-energy-suus-with-buy-rating-maintains)"
+        },
+        {
+          "name": "RBC Capital",
+          "rating": "Outperform",
+          "target": "C$100",
+          "source": "[MarketScreener](https://www.marketscreener.com/news/rbc-keeps-suncor-energy-s-outperform-rating-c-100-price-target-ce7f59ddd98cf22c)"
+        }
+      ],
+      "consensus_target": "C$92 (~$67 USD)",
+      "consensus_target_num": 92.0,
+      "upside_pct": 42.7,
+      "key_catalysts": "Q1 2026 earnings (May 6), oil price trends, production updates from Fort Hills/Syncrude ramp-up, potential buybacks/dividend hikes.",
+      "key_risks": "Oil price decline below $60/bbl, WCS discount widening, regulatory changes on oil sands emissions, geopolitical tensions affecting energy demand.",
+      "notes": ""
+    },
+    {
+      "ticker": "TE.PA",
+      "company": "Technip Energies N.V.",
+      "sector": "Energy",
+      "currency": "EUR",
+      "price": "€40.10",
+      "price_num": 40.1,
+      "market_cap": "€7.04B",
+      "pe_ratio": "19.75",
+      "what_it_does": "Technip Energies is a global engineering and technology company focused on energy transition and decarbonization. It provides technologies and services for LNG, hydrogen, sustainable chemistry, CO2 management, and renewables through Project Delivery and Technology, Products & Services segments. Headquartered in France with operations worldwide.",
+      "is_good_bet": "Bull thesis: Leader in LNG and growing in hydrogen/CCUS with strong 2025 results (revenue €7.2B, EBITDA €638M), robust backlog €16B, and dividend growth/share buybacks signal confidence. Energy transition tailwinds support long-term growth. Bear thesis: Project-based revenue cyclical with oil/gas price volatility; limited analyst coverage suggests lower visibility. Recent acquisition integration risks.",
+      "buy_now_signal": "Yes, trading at discount to €43 consensus target (~7% upside); forward P/E 14.6 attractive vs peers. Strong balance sheet (€3.7B cash) supports buybacks/dividends amid positive outlook.",
+      "verdict": "Attractively Priced",
+      "status": "Monitoring",
+      "risk_score": 6,
+      "houses": [
+        {
+          "name": "Berenberg Bank",
+          "rating": "Buy",
+          "target": "€43",
+          "source": "[Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/1360154/berenberg-bank-remains-a-buy-on-technip-energies-nv-te/)"
+        },
+        {
+          "name": "Consensus (23 analysts)",
+          "rating": "Buy",
+          "target": "€43.32",
+          "source": "[eToro](https://www.etoro.com/markets/te.pa), [Yahoo Finance](https://finance.yahoo.com/quote/TE.PA)"
+        },
+        {
+          "name": "Limited coverage",
+          "rating": "N/A",
+          "target": "N/A",
+          "source": "Extensive searches yielded fewer than 3 specific recent major house reports with URLs"
+        }
+      ],
+      "consensus_target": "€43.21",
+      "consensus_target_num": 43.21,
+      "upside_pct": 7.8,
+      "key_catalysts": "Q1 2026 earnings (Apr 30), LNG project awards (US/Africa/ME), hydrogen/CCUS contracts, 2026 guidance confirmation.",
+      "key_risks": "Commodity price volatility, project delays/cost overruns, energy transition policy shifts, competition in renewables, geopolitical risks in LNG regions.",
+      "notes": ""
+    },
+    {
+      "ticker": "TEA.AX",
+      "company": "Tasmea Limited",
+      "sector": "Industrials",
+      "currency": "AUD",
+      "price": "A$5.63",
+      "price_num": 5.63,
+      "market_cap": "A$1.47B",
+      "pe_ratio": "29.05",
+      "what_it_does": "Tasmea Limited provides essential maintenance, engineering, and specialized project services across electrical, mechanical, civil, and water & fluid segments to mining/resources, oil & gas, power/renewables, defense/infrastructure, and water sectors in Australia. It offers shutdown services, programmed maintenance, emergency breakdown response, and capital upgrades through 25+ subsidiaries. The company focuses on remote area specialist services with recurring demand from asset owners prioritizing uptime over cost.",
+      "is_good_bet": "Bull thesis: Rapid revenue growth (72% FY23-25), improving margins, ROE 25-29%, serial acquirer leveraging scale in non-discretionary services to blue-chip clients. Bear thesis: Elevated valuation 29x P/E vs sector peers ~16x, rising debt post-acquisitions (net gearing ~65%), cyclical exposure to commodities. Recent acquisitions like WorkPac could drive synergies but carry execution risk. Overall, solid operator but priced for perfection.",
+      "buy_now_signal": "No, trading above consensus target (~A$5.00) at premium 29x P/E; better entry on pullback to A$4.50-5.00 for margin of safety.",
+      "verdict": "Premium Priced",
+      "status": "Monitoring",
+      "risk_score": 6,
+      "houses": [
+        {
+          "name": "Barrenjoey Markets",
+          "rating": "Overweight",
+          "target": "A$4.75",
+          "source": "[MarketScreener](https://www.marketscreener.com/quote/stock/TASMEA-LIMITED-167693664/consensus/)"
+        },
+        {
+          "name": "Morgans",
+          "rating": "Buy",
+          "target": "A$5.25",
+          "source": "[Moomoo](https://www.moomoo.com/news/post/65952567/tasmea-price-target-cut-2-8-to-a-5-25?futusource=news_newspage_recommend), [Market Index](https://www.marketindex.com.au/news/evening-wrap-asx-200-dips-despite-critical-minerals-stocks-aru-tmg-wa1-ilu)"
+        },
+        {
+          "name": "Shaw and Partners",
+          "rating": "Buy",
+          "target": "A$4.10",
+          "source": "[Market Index](https://www.marketindex.com.au/news/evening-wrap-asx-200-dips-despite-critical-minerals-stocks-aru-tmg-wa1-ilu)"
+        }
+      ],
+      "consensus_target": "A$4.96",
+      "consensus_target_num": 4.96,
+      "upside_pct": -11.9,
+      "key_catalysts": "M&A execution (e.g. WorkPac integration), FY26 earnings growth from revenue scale/margins, upcycle in mining/oil capex, dividend increases",
+      "key_risks": "Commodity price weakness hurting client spend, acquisition integration/debt risks, interest rate sensitivity, services competition",
       "notes": ""
     },
     {
@@ -255,153 +717,46 @@
       "notes": ""
     },
     {
-      "ticker": "TE.PA",
-      "company": "Technip Energies N.V.",
+      "ticker": "XOM",
+      "company": "ExxonMobil Corporation",
       "sector": "Energy",
-      "currency": "EUR",
-      "price": "€40.10",
-      "price_num": 40.1,
-      "market_cap": "€7.04B",
-      "pe_ratio": "19.75",
-      "what_it_does": "Technip Energies is a global engineering and technology company focused on energy transition and decarbonization. It provides technologies and services for LNG, hydrogen, sustainable chemistry, CO2 management, and renewables through Project Delivery and Technology, Products & Services segments. Headquartered in France with operations worldwide.",
-      "is_good_bet": "Bull thesis: Leader in LNG and growing in hydrogen/CCUS with strong 2025 results (revenue €7.2B, EBITDA €638M), robust backlog €16B, and dividend growth/share buybacks signal confidence. Energy transition tailwinds support long-term growth. Bear thesis: Project-based revenue cyclical with oil/gas price volatility; limited analyst coverage suggests lower visibility. Recent acquisition integration risks.",
-      "buy_now_signal": "Yes, trading at discount to €43 consensus target (~7% upside); forward P/E 14.6 attractive vs peers. Strong balance sheet (€3.7B cash) supports buybacks/dividends amid positive outlook.",
-      "verdict": "Attractively Priced",
+      "currency": "USD",
+      "price": "$148.19",
+      "price_num": 148.19,
+      "market_cap": "$616B",
+      "pe_ratio": "22.12",
+      "what_it_does": "ExxonMobil is one of the world's largest integrated energy companies, engaged in the exploration, production, refining, and marketing of oil, natural gas, and petrochemical products. It operates globally across upstream (exploration and production), energy products (refining and fuels), chemical products, and specialty products including lubricants. The company also invests in low-carbon solutions like carbon capture and hydrogen.",
+      "is_good_bet": "Bull thesis: Strong balance sheet, dominant position in key basins like Permian post-Pioneer acquisition, high-return projects, and resilient dividends make XOM a defensive energy play amid volatile oil prices. Bear thesis: Energy transition pressures, potential oil price declines if recession hits, regulatory risks on emissions, and high valuation relative to peers limit upside. Overall, solid but not exceptional given macro uncertainties.",
+      "buy_now_signal": "No strong buy signal now; trading near consensus target with mixed ratings (buys from JPM/MS but holds from others). Wait for dip below $140 or oil price catalyst.",
+      "verdict": "Reasonably Priced",
       "status": "Monitoring",
-      "risk_score": 6,
+      "risk_score": 2,
       "houses": [
         {
-          "name": "Berenberg Bank",
-          "rating": "Buy",
-          "target": "€43",
-          "source": "[Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/1360154/berenberg-bank-remains-a-buy-on-technip-energies-nv-te/)"
-        },
-        {
-          "name": "Consensus (23 analysts)",
-          "rating": "Buy",
-          "target": "€43.32",
-          "source": "[eToro](https://www.etoro.com/markets/te.pa), [Yahoo Finance](https://finance.yahoo.com/quote/TE.PA)"
-        },
-        {
-          "name": "Limited coverage",
-          "rating": "N/A",
-          "target": "N/A",
-          "source": "Extensive searches yielded fewer than 3 specific recent major house reports with URLs"
-        }
-      ],
-      "consensus_target": "€43.21",
-      "consensus_target_num": 43.21,
-      "upside_pct": 7.8,
-      "key_catalysts": "Q1 2026 earnings (Apr 30), LNG project awards (US/Africa/ME), hydrogen/CCUS contracts, 2026 guidance confirmation.",
-      "key_risks": "Commodity price volatility, project delays/cost overruns, energy transition policy shifts, competition in renewables, geopolitical risks in LNG regions.",
-      "notes": ""
-    },
-    {
-      "ticker": "PRY.MI",
-      "company": "Prysmian SpA",
-      "sector": "Industrials",
-      "currency": "EUR",
-      "price": "€125.45",
-      "price_num": 125.45,
-      "market_cap": "€36B",
-      "pe_ratio": "28.4",
-      "what_it_does": "Prysmian SpA is an Italy-based company engaged in the development, design, production, supply, and installation of cables and systems for energy transmission, distribution, and telecommunications. Its Energy segment covers utilities, trade & installers, industrial applications, and other areas, while the Telecom segment provides optical fiber, cables, and connectivity products. It supports global infrastructure for power grids, renewables, and digital networks.",
-      "is_good_bet": "Bull thesis: Leader in high-demand cables for energy transition, offshore wind, grid upgrades, and 5G/data centers; strong revenue growth (19.65B EUR TTM), profitability (1.27B net income), and order backlog from electrification megatrend. Bear thesis: Elevated valuation after 160%+ YTD surge, consensus targets below current price suggesting overvaluation; cyclical industrial exposure and competition pressure margins.",
-      "buy_now_signal": "No, stock trades at €125 well above consensus target ~€110-114; analysts like Morgan Stanley Hold at €95 highlight downside risk post-rally.",
-      "verdict": "Premium Priced",
-      "status": "Monitoring",
-      "risk_score": 6,
-      "houses": [
-        {
-          "name": "Goldman Sachs",
-          "rating": "Buy",
-          "target": "€126",
-          "source": "[Investing.com](https://www.investing.com/equities/prysmian-consensus-estimates)"
+          "name": "JPMorgan",
+          "rating": "Overweight/Buy",
+          "target": "$170 USD",
+          "source": "[StockAnalysis](https://stockanalysis.com/stocks/xom/ratings/)"
         },
         {
           "name": "Morgan Stanley",
-          "rating": "Hold",
-          "target": "€95",
-          "source": "[Investing.com](https://www.investing.com/equities/prysmian-consensus-estimates)"
+          "rating": "Buy",
+          "target": "$171 USD",
+          "source": "[StockAnalysis](https://stockanalysis.com/stocks/xom/ratings/)"
         },
         {
-          "name": "J.P. Morgan",
-          "rating": "Buy",
-          "target": "€113",
-          "source": "[Investing.com](https://www.investing.com/equities/prysmian-consensus-estimates)"
+          "name": "Goldman Sachs",
+          "rating": "Neutral",
+          "target": "$158 USD",
+          "source": "[TheStreet](https://www.thestreet.com/investing/stocks/goldman-sachs-resets-price-target-on-energy-giant)"
         }
       ],
-      "consensus_target": "€113",
-      "consensus_target_num": 113,
-      "upside_pct": -9.9,
-      "key_catalysts": "Q1 2026 earnings (late Apr), new submarine cable contracts for offshore wind, grid modernization deals in EU/US.",
-      "key_risks": "Commodity price volatility (copper), project delays/cancellations, Chinese competition, economic slowdown reducing infrastructure spend.",
+      "consensus_target": "$154 USD",
+      "consensus_target_num": 154.0,
+      "upside_pct": 3.9,
+      "key_catalysts": "Q1 2026 earnings (soon), oil price movements above $80/bbl, progress on Permian production growth, M&A announcements, updates on low-carbon projects like Baytown hydrogen.",
+      "key_risks": "Declining oil prices due to demand weakness or oversupply, intensified energy transition regulations/carbon taxes, geopolitical disruptions in supply chains, weaker refining margins.",
       "notes": ""
-    },
-    {
-      "ticker": "ASY.PA",
-      "company": "Assystem SA",
-      "sector": "Industrials / Engineering & Construction",
-      "currency": "EUR",
-      "price": "€44.10",
-      "price_num": 44.1,
-      "market_cap": "€687m",
-      "pe_ratio": "88.04",
-      "what_it_does": "Assystem SA provides engineering and infrastructure project management services worldwide, focusing on critical and complex projects for public authorities and utilities. It offers services in nuclear, energy, transportation, defense, and buildings/infrastructure, including decommissioning, waste management, and digital engineering. The company operates in Europe, North America, and Asia.",
-      "is_good_bet": "Bull thesis: Strong positioning in nuclear energy and infrastructure megatrends with stable long-term contracts; recent Q1 revenue growth and dividend; consensus OUTPERFORM/Buy from available analysts. Bear thesis: High P/E ratio of 88 suggests overvaluation or thin margins; cyclical exposure to government spending; limited analyst coverage signals lower liquidity/interest. Overall neutral with value in energy transition exposure but caution on valuation.",
-      "buy_now_signal": "No strong buy signal; trading near consensus target (~€48) with high P/E; wait for dip below €42 or earnings catalyst.",
-      "verdict": "Reasonably Priced",
-      "status": "Buy Zone",
-      "risk_score": 6,
-      "houses": [
-        {
-          "name": "MarketScreener Consensus",
-          "rating": "OUTPERFORM",
-          "target": "€48.27",
-          "source": "[MarketScreener](https://www.marketscreener.com/quote/stock/ASSYSTEM-4614/consensus/)"
-        },
-        {
-          "name": "Stockopedia Consensus",
-          "rating": "Buy",
-          "target": "€48.80",
-          "source": "[Stockopedia](https://www.stockopedia.com/share-prices/assystem-sa-EPA:ASY/)"
-        },
-        {
-          "name": "Investing.com Consensus (4 analysts)",
-          "rating": "N/A",
-          "target": "€47.95",
-          "source": "[Investing.com](https://www.investing.com/equities/assytem-consensus-estimates)"
-        }
-      ],
-      "consensus_target": "€48",
-      "consensus_target_num": 48,
-      "upside_pct": 8.8,
-      "key_catalysts": "Q2 earnings (July 2026), nuclear project wins, European infrastructure spending updates, dividend announcement.",
-      "key_risks": "Earnings miss on high expectations, cyclical slowdown in energy/infra capex, high valuation compression, limited coverage increases volatility.",
-      "notes": ""
-    },
-    {
-      "ticker": "TEA",
-      "company": "TEA",
-      "sector": "—",
-      "currency": "",
-      "price": "—",
-      "price_num": null,
-      "market_cap": "—",
-      "pe_ratio": "—",
-      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
-      "is_good_bet": "",
-      "buy_now_signal": "",
-      "verdict": "Reasonably Priced",
-      "status": "Under Review",
-      "risk_score": 5,
-      "houses": [],
-      "consensus_target": "",
-      "consensus_target_num": null,
-      "upside_pct": null,
-      "key_catalysts": "",
-      "key_risks": "",
-      "notes": "Newly added — needs research"
     }
   ]
 }
