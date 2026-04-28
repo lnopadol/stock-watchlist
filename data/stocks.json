@@ -80,7 +80,7 @@
         }
       ],
       "consensus_target": "$120 USD",
-      "consensus_target_num": 120.0,
+      "consensus_target_num": 120,
       "upside_pct": -1.8,
       "key_catalysts": "Westinghouse project distributions/milestones; long-term uranium contracting uptick; nuclear policy expansions (e.g., US, EU); Q1 2026 earnings May 2026.",
       "key_risks": "Uranium price declines, production disruptions (Kazakhstan geopolitics), high capex/inflation in mining, nuclear regulatory delays, market saturation from new supply.",
@@ -92,7 +92,7 @@
       "sector": "Industrials / Aerospace & Defense",
       "currency": "GBp",
       "price": "1,130 GBp",
-      "price_num": 1130.0,
+      "price_num": 1130,
       "market_cap": "£93.4B",
       "pe_ratio": "16.3",
       "what_it_does": "Rolls-Royce Holdings plc develops mission-critical power systems for civil aerospace (engines and services for widebody aircraft, jets), defence, power systems, and new markets including small modular reactors. Headquartered in London, it operates internationally with strong aftermarket services. Founded in 1884.",
@@ -122,7 +122,7 @@
         }
       ],
       "consensus_target": "GBX 1,386",
-      "consensus_target_num": 1386.0,
+      "consensus_target_num": 1386,
       "upside_pct": 22.7,
       "key_catalysts": "Q1 earnings, buyback execution, civil engine flying hours growth, new defense/power contracts.",
       "key_risks": "Aviation demand weakness, engine supply delays, FX volatility (USD/GBP), lingering high leverage.",
@@ -134,7 +134,7 @@
       "sector": "Communication Services",
       "currency": "USD",
       "price": "$39",
-      "price_num": 39.0,
+      "price_num": 39,
       "market_cap": "$4.1B",
       "pe_ratio": "39",
       "what_it_does": "Operates the only truly global LEO satellite constellation providing voice, data, IoT, and PNT services with pole-to-pole coverage [Iridium Investor](https://investor.iridium.com/). Serves governments (US DoD), maritime, aviation, land mobile, and emerging direct-to-device markets. Unique inter-satellite links enable reliable mission-critical comms anywhere.",
@@ -164,7 +164,7 @@
         }
       ],
       "consensus_target": "$28 USD",
-      "consensus_target_num": 28.0,
+      "consensus_target_num": 28,
       "upside_pct": -28.2,
       "key_catalysts": "Project Stardust D2D launch (2026), DoD/govt contracts, IoT growth, Q2 2026 earnings [Iridium](https://investor.iridium.com/).",
       "key_risks": "High debt/equity (376%), Starlink competition, satellite capex/maintenance, execution on new services [SimplyWallSt](https://simplywall.st/stocks/us/telecom/nasdaq-irdm/iridium-communications).",
@@ -206,7 +206,7 @@
         }
       ],
       "consensus_target": "C$12 (~$8.80 USD)",
-      "consensus_target_num": 12.0,
+      "consensus_target_num": 12,
       "upside_pct": 60.6,
       "key_catalysts": "Florence Copper commissioning and first full quarter production; copper price trajectory; Q1 2026 earnings beat on Gibraltar/Florence output.",
       "key_risks": "Delays/cost overruns at Florence, copper price decline below $4/lb, operational issues at Gibraltar, FX (CAD strength), permitting/environmental hurdles.",
@@ -248,7 +248,7 @@
         }
       ],
       "consensus_target": "$77-80 USD",
-      "consensus_target_num": 77.0,
+      "consensus_target_num": 77,
       "upside_pct": 1.4,
       "key_catalysts": "Q1 2026 earnings (late Apr/May); tanker rate trajectory amid Red Sea/Middle East tensions; dividend declaration; fleet expansion/acquisitions.",
       "key_risks": "Tanker rate collapse from resolved geopolitics or weak China oil demand; rising bunker fuel costs; new vessel deliveries increasing supply; regulatory changes on emissions/scrapping.",
@@ -332,7 +332,7 @@
         }
       ],
       "consensus_target": "€113",
-      "consensus_target_num": 113.0,
+      "consensus_target_num": 113,
       "upside_pct": -9.9,
       "key_catalysts": "Q1 2026 earnings (late Apr), new submarine cable contracts for offshore wind, grid modernization deals in EU/US.",
       "key_risks": "Commodity price volatility (copper), project delays/cancellations, Chinese competition, economic slowdown reducing infrastructure spend.",
@@ -374,11 +374,34 @@
         }
       ],
       "consensus_target": "€48",
-      "consensus_target_num": 48.0,
+      "consensus_target_num": 48,
       "upside_pct": 8.8,
       "key_catalysts": "Q2 earnings (July 2026), nuclear project wins, European infrastructure spending updates, dividend announcement.",
       "key_risks": "Earnings miss on high expectations, cyclical slowdown in energy/infra capex, high valuation compression, limited coverage increases volatility.",
       "notes": ""
+    },
+    {
+      "ticker": "SEZL",
+      "company": "Sezzle",
+      "sector": "—",
+      "currency": "",
+      "price": "—",
+      "price_num": null,
+      "market_cap": "—",
+      "pe_ratio": "—",
+      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
+      "is_good_bet": "",
+      "buy_now_signal": "",
+      "verdict": "Reasonably Priced",
+      "status": "Under Review",
+      "risk_score": 5,
+      "houses": [],
+      "consensus_target": "",
+      "consensus_target_num": null,
+      "upside_pct": null,
+      "key_catalysts": "",
+      "key_risks": "",
+      "notes": "Newly added — needs research"
     }
   ]
 }
