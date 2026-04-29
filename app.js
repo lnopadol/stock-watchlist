@@ -10,15 +10,25 @@ const STATE = {
   prevSnap: null,
 };
 
-function syncToGitHub(reason) {
-  if (!GH.isSignedIn()) return;
-  const payload = {
-    updated: STATE.data.updated,
-    week_label: STATE.data.week_label,
-    stocks: STATE.data.stocks,
-  };
-  GH.queueSave("data/stocks.json", JSON.stringify(payload, null, 2), `Dashboard edit: ${reason}`);
-}
+// Apply a fresh remote stocks payload into local STATE. Called after every successful
+// commit and on the periodic refresh — keeps tabs across devices in sync without losing
+// the user's in-flight edits (those go through the patch queue separately).
+window.applyRemoteData = function applyRemoteData(remote) {
+  if (!remote || !Array.isArray(remote.stocks)) return;
+  const oldCount = STATE.data ? STATE.data.stocks.length : 0;
+  // Replace whole STATE.data with remote — patches in flight are already in remote because
+  // commitPatches applied them server-side. Local-only state (notes typed but not yet
+  // committed) lives in STATE.notes and is layered on top during render.
+  STATE.data = remote;
+  // Layer in any locally typed notes that haven't been committed yet
+  for (const s of STATE.data.stocks) {
+    if (STATE.notes[s.ticker] !== undefined) s.notes = STATE.notes[s.ticker];
+  }
+  if (typeof render === "function") render();
+  if (oldCount !== STATE.data.stocks.length) {
+    console.log(`Watchlist refreshed from remote: ${oldCount} -> ${STATE.data.stocks.length} tickers`);
+  }
+};
 
 function applyEditMode() {
   const banner = document.getElementById("readOnlyBanner");
@@ -222,7 +232,7 @@ function renderTable() {
       const stock = STATE.data.stocks.find(x => x.ticker === t);
       if (stock) stock.notes = inp.value;
       localStorage.setItem("watchlist_notes", JSON.stringify(STATE.notes));
-      syncToGitHub(`update note for ${t}`);
+      GH.updateField(t, "notes", inp.value, `update note for ${t}`);
     });
     inp.addEventListener("click", e => e.stopPropagation());
   });
@@ -234,7 +244,7 @@ function renderTable() {
         STATE.data.stocks = STATE.data.stocks.filter(s => s.ticker !== t);
         delete STATE.notes[t];
         localStorage.setItem("watchlist_notes", JSON.stringify(STATE.notes));
-        syncToGitHub(`remove ${t}`);
+        GH.removeTicker(t, `remove ${t}`);
         render();
       }
     });
@@ -334,12 +344,12 @@ function openDetail(ticker) {
     STATE.notes[s.ticker] = e.target.value;
     localStorage.setItem("watchlist_notes", JSON.stringify(STATE.notes));
     renderTable();
-    syncToGitHub(`update note for ${s.ticker}`);
+    GH.updateField(s.ticker, "notes", e.target.value, `update note for ${s.ticker}`);
   };
   $("#statusSel").onchange = (e) => {
     s.status = e.target.value;
     renderTable();
-    syncToGitHub(`status → ${e.target.value} for ${s.ticker}`);
+    GH.updateField(s.ticker, "status", e.target.value, `status → ${e.target.value} for ${s.ticker}`);
   };
 }
 
@@ -383,7 +393,9 @@ $("#confirmAdd").onclick = () => {
     notes: "Newly added — needs research",
   });
   $("#addModal").hidden = true;
-  syncToGitHub(`add ${t}`);
+  // Find the just-added ticker so we can patch the FULL entry to remote
+  const newStock = STATE.data.stocks.find(s => s.ticker === t);
+  if (newStock) GH.upsertTicker(t, newStock, `add ${t}`);
   render();
 };
 
@@ -705,10 +717,13 @@ $$(".modal").forEach(m => {
 applyEditMode();
 loadData();
 
+// Start periodic remote refresh so multi-device edits propagate within 60s
+GH.startRefreshLoop();
+
 // Warn before closing if there are unsaved changes
 window.addEventListener("beforeunload", (e) => {
   if (document.querySelector(".sync-pending")) {
-    GH.flushSaves();
+    GH.flushPatches();
     e.preventDefault();
     e.returnValue = "";
   }
