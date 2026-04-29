@@ -57,7 +57,7 @@
       "is_good_bet": "ASM is well-positioned in the booming semiconductor equipment market driven by AI infrastructure buildout and advanced node transitions like Gate-All-Around (GAA) at 2nm and 1.4nm, where its ALD and epitaxy tools see increased intensity per wafer. Record Q1 2026 margins (33.1%) and double-digit growth outlook for 2026 highlight execution strength amid strong logic/foundry demand. China rebound and spares/services growth add resilience. However, cyclicality and high valuation warrant caution; bear case sees slowdown if AI hype cools or supply chain issues persist.",
       "buy_now_signal": "No, current price around €812 with P/E 40x reflects premium valuation vs historical averages (~24x); analysts' average target ~€950 implies modest 17% upside, but recent strength and high targets from bulls like Morgan Stanley (€1000) suggest potential if Q2 beats continue. Wait for pullback given rich multiples.",
       "verdict": "Premium Priced",
-      "status": "Under Review",
+      "status": "Monitoring",
       "risk_score": 6,
       "houses": [
         {
@@ -84,7 +84,7 @@
       "upside_pct": 17,
       "key_catalysts": "Q2 revenue €980M ±5%; H2 strength in advanced logic/foundry and 1.4nm pilots; AI infrastructure expansion; memory recovery with 4F² transition; China mature node rebound.",
       "key_risks": "Semiconductor cyclical downturn; China exposure/geopolitical risks/export controls; supply chain constraints; high valuation vulnerable to AI spending slowdown; competition in deposition tools.",
-      "notes": "Newly added — needs research"
+      "notes": "No, current price around €812 with P/E 40x reflects premium valuation vs historical averages (~24x); analysts' average target ~€950 implies modest 17% upside, but recent strength and high targets from bulls like Morgan Stanley (€1000) suggest potential if Q2 beats continue. Wait for pullback given rich multiples."
     },
     {
       "ticker": "ASY.PA",
@@ -99,7 +99,7 @@
       "is_good_bet": "Bull thesis: Strong positioning in nuclear energy and infrastructure megatrends with stable long-term contracts; recent Q1 revenue growth and dividend; consensus OUTPERFORM/Buy from available analysts. Bear thesis: High P/E ratio of 88 suggests overvaluation or thin margins; cyclical exposure to government spending; limited analyst coverage signals lower liquidity/interest. Overall neutral with value in energy transition exposure but caution on valuation.",
       "buy_now_signal": "No strong buy signal; trading near consensus target (~€48) with high P/E; wait for dip below €42 or earnings catalyst.",
       "verdict": "Reasonably Priced",
-      "status": "Buy Zone",
+      "status": "Monitoring",
       "risk_score": 6,
       "houses": [
         {
@@ -126,7 +126,7 @@
       "upside_pct": 8.8,
       "key_catalysts": "Q2 earnings (July 2026), nuclear project wins, European infrastructure spending updates, dividend announcement.",
       "key_risks": "Earnings miss on high expectations, cyclical slowdown in energy/infra capex, high valuation compression, limited coverage increases volatility.",
-      "notes": ""
+      "notes": "No strong buy signal; trading near consensus target (~€48) with high P/E; wait for dip below €42 or earnings catalyst."
     },
     {
       "ticker": "BWXT",
