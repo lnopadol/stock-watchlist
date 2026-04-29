@@ -168,7 +168,7 @@
       "upside_pct": 5.3,
       "key_catalysts": "Q1 2026 earnings May 4; naval contract awards; SMR commercialization progress; AI/data center nuclear fuel deals (3-6 mo).",
       "key_risks": "Commercial nuclear project delays; high valuation vulnerable to rotation out of nuclear hype; budget cuts to naval programs; competition in SMR space.",
-      "notes": ""
+      "notes": "No strong buy now signal; stock trades near or above several targets (e.g., consensus ~$235 close to $223, Seaport neutral post-target exceedance). Wait for pullback to $210 or Q1 2026 earnings catalyst on May 4."
     },
     {
       "ticker": "CCJ",
@@ -183,7 +183,7 @@
       "is_good_bet": "Bull thesis: Surging global nuclear demand for decarbonization, energy security; Cameco's tier-1 assets, long-term contracts (~230M lbs U3O8), Westinghouse stake adding stable EBITDA; strong balance sheet positions for market strength. Bear: Uranium spot price volatility, production challenges (e.g., Inkai), high valuation assumes continued rally. Overall good bet for nuclear exposure given policy tailwinds.",
       "buy_now_signal": "Neutral; trading near consensus targets (~$120-140), no strong discount or premium signal. Wait for uranium price dip or catalyst.",
       "verdict": "Reasonably Priced",
-      "status": "Monitoring",
+      "status": "Under Review",
       "risk_score": 7,
       "houses": [
         {
@@ -210,7 +210,7 @@
       "upside_pct": -1.8,
       "key_catalysts": "Westinghouse project distributions/milestones; long-term uranium contracting uptick; nuclear policy expansions (e.g., US, EU); Q1 2026 earnings May 2026.",
       "key_risks": "Uranium price declines, production disruptions (Kazakhstan geopolitics), high capex/inflation in mining, nuclear regulatory delays, market saturation from new supply.",
-      "notes": ""
+      "notes": "Neutral; trading near consensus targets (~$120-140), no strong discount or premium signal. Wait for uranium price dip or catalyst."
     },
     {
       "ticker": "DEM.AX",
@@ -252,7 +252,7 @@
       "upside_pct": null,
       "key_catalysts": "H1/H2 2026 earnings showing sustained cash positivity and EBITDA growth; new contracts in mining/food sectors; successful NSF small filtration system launch; further acquisitions.",
       "key_risks": "Continued operating losses leading to dilution via equity raises; customer concentration in mining; competition from larger water tech firms; regulatory/commodity price impacts on end-markets.",
-      "notes": "Wait for confirmed profitability or major contracts."
+      "notes": "No, due to ongoing losses, recent price weakness to multi-year lows, and lack of analyst support signaling caution. Wait for confirmed profitability or major contracts."
     },
     {
       "ticker": "EXA.PA",
@@ -1506,6 +1506,29 @@
     {
       "ticker": "NLST",
       "company": "NLST",
+      "sector": "—",
+      "currency": "",
+      "price": "—",
+      "price_num": null,
+      "market_cap": "—",
+      "pe_ratio": "—",
+      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
+      "is_good_bet": "",
+      "buy_now_signal": "",
+      "verdict": "Reasonably Priced",
+      "status": "Under Review",
+      "risk_score": 5,
+      "houses": [],
+      "consensus_target": "",
+      "consensus_target_num": null,
+      "upside_pct": null,
+      "key_catalysts": "",
+      "key_risks": "",
+      "notes": "Newly added — needs research"
+    },
+    {
+      "ticker": "RELX",
+      "company": "RELX",
       "sector": "—",
       "currency": "",
       "price": "—",
