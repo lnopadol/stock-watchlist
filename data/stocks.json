@@ -1410,6 +1410,29 @@
       "key_catalysts": "",
       "key_risks": "",
       "notes": "Newly added — needs research"
+    },
+    {
+      "ticker": "ALGID",
+      "company": "ALGID",
+      "sector": "—",
+      "currency": "",
+      "price": "—",
+      "price_num": null,
+      "market_cap": "—",
+      "pe_ratio": "—",
+      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
+      "is_good_bet": "",
+      "buy_now_signal": "",
+      "verdict": "Reasonably Priced",
+      "status": "Under Review",
+      "risk_score": 5,
+      "houses": [],
+      "consensus_target": "",
+      "consensus_target_num": null,
+      "upside_pct": null,
+      "key_catalysts": "",
+      "key_risks": "",
+      "notes": "Newly added — needs research"
     }
   ]
 }
