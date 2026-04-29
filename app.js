@@ -21,14 +21,17 @@ function syncToGitHub(reason) {
 }
 
 function applyEditMode() {
+  const banner = document.getElementById("readOnlyBanner");
   if (GH.isSignedIn()) {
     document.body.classList.remove("readonly");
     document.getElementById("signInBtn").textContent = "Account";
     GH.setStatus("saved");
+    if (banner) banner.hidden = true;
   } else {
     document.body.classList.add("readonly");
     document.getElementById("signInBtn").textContent = "Sign in";
     GH.setStatus("signed-out");
+    if (banner) banner.hidden = false;
   }
 }
 

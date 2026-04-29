@@ -362,6 +362,17 @@ main { padding: 24px 32px 60px; max-width: 1600px; margin: 0 auto; }
 .sync-error-text { color: var(--red-fg); font-size: 12px; margin-top: 8px; }
 
 /* Read-only state — hide edit affordances */
+.readonly-banner {
+  background: #fff4d6;
+  border: 1px solid #d4a92d;
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin: 0 0 16px 0;
+  font-size: 14px;
+  color: #5c4400;
+}
+.readonly-banner strong { color: #3a2c00; }
+body:not(.readonly) .readonly-banner { display: none; }
 body.readonly .notes-input { pointer-events: none; opacity: 0.7; border-style: solid; border-color: transparent; }
 body.readonly .del-btn { display: none; }
 body.readonly #addBtn { display: none; }
