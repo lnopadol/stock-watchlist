@@ -42,7 +42,7 @@
       "upside_pct": 2.4,
       "key_catalysts": "Q1 CY2026 earnings (late May): rev >$80M expected; Comtrafo integration adding $85M backlog; grid contracts from AI power demand; Canadian/US Navy ship protection deliveries starting 2026.",
       "key_risks": "High stock volatility (recent 25% swings), supply chain/margin pressures, execution on acquisitions/international expansion, competition in power/resiliency tech, potential slowdown in renewables/defense spending.",
-      "notes": ""
+      "notes": "No - recent 25% surge on power demand hype pushed price above some targets; wait for pullback to low $40s for better entry amid volatility."
     },
     {
       "ticker": "ASM.AS",
@@ -1506,29 +1506,6 @@
     {
       "ticker": "NLST",
       "company": "NLST",
-      "sector": "—",
-      "currency": "",
-      "price": "—",
-      "price_num": null,
-      "market_cap": "—",
-      "pe_ratio": "—",
-      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
-      "is_good_bet": "",
-      "buy_now_signal": "",
-      "verdict": "Reasonably Priced",
-      "status": "Under Review",
-      "risk_score": 5,
-      "houses": [],
-      "consensus_target": "",
-      "consensus_target_num": null,
-      "upside_pct": null,
-      "key_catalysts": "",
-      "key_risks": "",
-      "notes": "Newly added — needs research"
-    },
-    {
-      "ticker": "FLEX",
-      "company": "FLEX",
       "sector": "—",
       "currency": "",
       "price": "—",
