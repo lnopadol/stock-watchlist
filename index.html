@@ -23,6 +23,7 @@
     <span id="syncStatus" class="sync-status sync-signed-out">🔒 Read-only</span>
     <button id="addBtn" class="btn primary">+ Add ticker</button>
     <button id="historyBtn" class="btn">History</button>
+    <button id="reviewBtn" class="btn">Quarterly Review</button>
     <button id="signInBtn" class="btn">Sign in</button>
     <button id="exportBtn" class="btn" title="Manual export (also works without sign-in)">Export</button>
   </div>
@@ -79,6 +80,11 @@
 <!-- History modal -->
 <div class="modal" id="historyModal" hidden>
   <div class="modal-card history" id="historyContent"></div>
+</div>
+
+<!-- Quarterly Review modal -->
+<div class="modal" id="reviewModal" hidden>
+  <div class="modal-card review" id="reviewContent"></div>
 </div>
 
 <!-- Sign-in modal -->

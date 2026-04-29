@@ -485,6 +485,203 @@ $("#historyBtn").onclick = async () => {
   $("#closeHist").onclick = () => $("#historyModal").hidden = true;
 };
 
+// ---- Quarterly Review ----
+$("#reviewBtn").onclick = async () => {
+  $("#reviewContent").innerHTML = "<p class='muted'>Loading review…</p>";
+  $("#reviewModal").hidden = false;
+  let idx;
+  try {
+    idx = await fetch("data/reviews/index.json?t=" + Date.now()).then(r => r.ok ? r.json() : null);
+  } catch (e) { idx = null; }
+  if (!idx || !idx.quarters || idx.quarters.length === 0) {
+    $("#reviewContent").innerHTML = `
+      <h2>Quarterly Review</h2>
+      <p class='muted'>No review available yet. Quarterly reviews are generated on demand and saved to <code>data/reviews/</code>.</p>
+      <div class='detail-actions'><div></div><div class='right'><button class='btn' onclick='document.getElementById("reviewModal").hidden = true'>Close</button></div></div>`;
+    return;
+  }
+  const latest = idx.quarters[idx.quarters.length - 1];
+  const review = await fetch(`data/reviews/${latest}.json?t=${Date.now()}`).then(r => r.json());
+  renderReview(review, idx.quarters);
+};
+
+function renderReview(r, allQuarters) {
+  const tabs = [
+    ["summary", "Executive Summary"],
+    ["macro", "Macro Context"],
+    ["buckets", "Buckets"],
+    ["angle1", "Angle 1: Macro"],
+    ["angle2", "Angle 2: Fundamentals"],
+    ["angle3", "Angle 3: Risk Sizing"],
+    ["clusters", "Factor Clusters"],
+    ["priority", "High Priority"],
+    ["actions", "Actions"],
+  ];
+
+  const tabBar = `<div class="review-tabs">${tabs.map(([k,n],i)=>`<button class="review-tab ${i===0?'active':''}" data-tab="${k}">${n}</button>`).join("")}</div>`;
+
+  const summaryPane = `
+    <div class="review-pane active" data-pane="summary">
+      <h2>Executive Summary — ${escape(r.quarter)}</h2>
+      <div class="review-meta">Generated ${escape(r.review_date)} · ${r.by_ticker.length} names reviewed</div>
+      <div class="exec-summary"><ul>${(r.executive_summary||[]).map(b=>`<li>${mdLink(escape(b))}</li>`).join("")}</ul></div>
+    </div>`;
+
+  const macroPane = `
+    <div class="review-pane" data-pane="macro">
+      <h2>Macro Context — ${escape(r.quarter)}</h2>
+      <p>${mdLink(escape(r.macro_context.summary || ""))}</p>
+      <div class="macro-grid">
+        ${(r.macro_context.key_drivers||[]).map(d=>`
+          <div class="macro-card">
+            <div class="driver">${escape(d.driver)}</div>
+            <div class="level">${escape(d.level)}</div>
+            <div class="impl">${mdLink(escape(d.implication))}</div>
+          </div>`).join("")}
+      </div>
+      ${(r.macro_context.sources||[]).length ? `<div class="source-list"><strong>Sources:</strong> ${r.macro_context.sources.map(s=>mdLink(escape(s))).join(" · ")}</div>` : ""}
+    </div>`;
+
+  const bucketLabels = {
+    core_compounders: "Core compounders",
+    cyclicals: "Cyclicals",
+    defensives: "Defensives",
+    turnaround_special_situations: "Turnaround / special situations",
+    deep_value: "Deep value",
+    quality_growth: "Quality growth",
+    income_plays: "Income plays",
+    thematic_structural: "Thematic / structural",
+  };
+  const bucketsPane = `
+    <div class="review-pane" data-pane="buckets">
+      <h2>Buckets</h2>
+      <p class="muted">Each name's primary role in a portfolio context.</p>
+      ${Object.entries(r.buckets||{}).map(([k,arr])=>`
+        <div class="bucket-row">
+          <div class="bucket-name">${escape(bucketLabels[k]||k)}</div>
+          <div class="bucket-tickers">${(arr||[]).map(t=>`<span class="tk">${escape(t)}</span>`).join("")}${(!arr||arr.length===0)?"<span class='muted'>—</span>":""}</div>
+        </div>`).join("")}
+    </div>`;
+
+  const tagClass = (t) => {
+    if (!t) return "tag-mixed";
+    const l = t.toLowerCase();
+    if (l.includes("lead")) return "tag-good";
+    if (l.includes("compensat")) return "tag-mixed";
+    if (l.includes("vulnerable")) return "tag-bad";
+    return "tag-mixed";
+  };
+
+  const tickerCards = (angleKey, angleTitle, fields) => {
+    return r.by_ticker.map(t => {
+      const a = t[angleKey] || {};
+      const inner = fields.map(([fkey, flabel]) => {
+        const v = a[fkey];
+        if (!v) return "";
+        if (Array.isArray(v)) return `<div class="angle"><b>${flabel}:</b> ${v.map(x=>escape(x)).join(" · ")}</div>`;
+        return `<div class="angle"><b>${flabel}:</b> ${mdLink(escape(v))}</div>`;
+      }).join("");
+      const extra = angleKey === "angle2_fundamental" && a.tag
+        ? `<span class="tag ${tagClass(a.tag)}">${escape(a.tag)}</span>`
+        : "";
+      const sizing = angleKey === "angle3_quant" && a.sizing_tier
+        ? `<span class="sizing">Sizing: ${escape(a.sizing_tier)}</span>`
+        : "";
+      return `
+        <div class="ticker-card">
+          <div class="head">
+            <div>
+              <span class="tkname">${escape(t.ticker)}</span>
+              <span class="role">· ${escape(t.bucket || "")}</span>
+              ${extra}${sizing}
+            </div>
+          </div>
+          <div class="angles">${inner}</div>
+        </div>`;
+    }).join("");
+  };
+
+  const angle1Pane = `
+    <div class="review-pane" data-pane="angle1">
+      <h2>Angle 1 — Macro & Regime Fit</h2>
+      ${tickerCards("angle1_macro", "Macro", [["regime_fit","Regime fit"],["drivers","Drivers"],["sensitivity","Sensitivity"]])}
+    </div>`;
+  const angle2Pane = `
+    <div class="review-pane" data-pane="angle2">
+      <h2>Angle 2 — Fundamentals & Valuation</h2>
+      ${tickerCards("angle2_fundamental", "Fundamentals", [["summary","Business"],["drivers","Drivers"],["valuation","Valuation"]])}
+    </div>`;
+  const angle3Pane = `
+    <div class="review-pane" data-pane="angle3">
+      <h2>Angle 3 — Risk Profile & Sizing</h2>
+      ${tickerCards("angle3_quant", "Risk", [["vol_drawdown","Vol / drawdown"],["factor_clusters","Factor clusters"],["diversification","Diversification"]])}
+    </div>`;
+
+  const clustersPane = `
+    <div class="review-pane" data-pane="clusters">
+      <h2>Factor Clusters</h2>
+      <p class="muted">Names that move together in stress scenarios.</p>
+      ${(r.factor_clusters||[]).map(c=>`
+        <div class="cluster-card">
+          <div class="cluster-name">${escape(c.cluster)}</div>
+          <div class="members">${(c.members||[]).map(t=>`<span class="tk" style="display:inline-block;padding:2px 8px;background:var(--bg);border:1px solid var(--line);border-radius:4px;margin:2px 3px 2px 0;font-size:11.5px;font-weight:500">${escape(t)}</span>`).join("")}</div>
+          <div style="font-size:12.5px;line-height:1.5"><b>Shared risks:</b> ${mdLink(escape(c.shared_risks||""))}</div>
+          ${c.concentration_warning ? `<div class="warning">⚠ ${mdLink(escape(c.concentration_warning))}</div>` : ""}
+        </div>`).join("")}
+    </div>`;
+
+  const priorityPane = `
+    <div class="review-pane" data-pane="priority">
+      <h2>High-Priority Names</h2>
+      <p class="muted">Where all three angles align, or where they sharply conflict.</p>
+      ${(r.high_priority_names||[]).map(p=>`
+        <div class="priority-card ${p.type==='sharp_conflict'?'conflict':''}">
+          <div><span class="pname">${escape(p.ticker)}</span><span class="ptype">${p.type==='all_three_align'?'All angles align':'Sharp conflict'}</span></div>
+          <div class="case">${mdLink(escape(p.case||""))}</div>
+          <h4>Entry triggers</h4>
+          <ul>${(p.entry_triggers||[]).map(e=>`<li>${mdLink(escape(e))}</li>`).join("")}</ul>
+          <h4>Risks by angle</h4>
+          <ul>
+            <li><b>Macro:</b> ${mdLink(escape(p.thesis_risks?.macro||"—"))}</li>
+            <li><b>Fundamental:</b> ${mdLink(escape(p.thesis_risks?.fundamental||"—"))}</li>
+            <li><b>Quantitative:</b> ${mdLink(escape(p.thesis_risks?.quantitative||"—"))}</li>
+          </ul>
+        </div>`).join("")}
+    </div>`;
+
+  const a = r.actions_to_consider || {};
+  const lst = (arr) => (arr||[]).length ? `<ul>${arr.map(x=>`<li>${mdLink(escape(x))}</li>`).join("")}</ul>` : "<p class='muted'>—</p>";
+  const actionsPane = `
+    <div class="review-pane" data-pane="actions">
+      <h2>Actions to Consider</h2>
+      <div class="actions-grid">
+        <div class="action-card"><h4>Upgrade priority</h4>${lst(a.upgrade_priority)}</div>
+        <div class="action-card"><h4>Downgrade priority</h4>${lst(a.downgrade_priority)}</div>
+        <div class="action-card"><h4>Themes to add</h4>${lst(a.themes_to_add)}</div>
+        <div class="action-card"><h4>Themes to trim</h4>${lst(a.themes_to_trim)}</div>
+      </div>
+      <h4>Research to clarify</h4>
+      ${lst(a.research_to_clarify)}
+    </div>`;
+
+  $("#reviewContent").innerHTML = `
+    ${tabBar}
+    ${summaryPane}${macroPane}${bucketsPane}${angle1Pane}${angle2Pane}${angle3Pane}${clustersPane}${priorityPane}${actionsPane}
+    <div class="detail-actions"><div class="muted" style="font-size:12px">${allQuarters.length} quarter${allQuarters.length>1?'s':''} on file</div><div class="right"><button class="btn" id="closeReview">Close</button></div></div>
+  `;
+
+  $$("#reviewContent .review-tab").forEach(t => {
+    t.addEventListener("click", () => {
+      $$("#reviewContent .review-tab").forEach(x => x.classList.remove("active"));
+      $$("#reviewContent .review-pane").forEach(x => x.classList.remove("active"));
+      t.classList.add("active");
+      const target = $(`#reviewContent .review-pane[data-pane="${t.dataset.tab}"]`);
+      if (target) target.classList.add("active");
+    });
+  });
+  $("#closeReview").onclick = () => $("#reviewModal").hidden = true;
+}
+
 // ---- Sort handlers ----
 $$("th[data-sort]").forEach(th => {
   th.addEventListener("click", () => {

@@ -1,0 +1,1396 @@
+{
+  "quarter": "2026-Q2",
+  "review_date": "2026-04-29",
+  "macro_context": {
+    "summary": "April 2026 macro regime: stagflationary crosscurrents dominate. The Iran war has pushed Brent crude to ~$101-111/bbl (+$35-47 YoY), reigniting energy inflation and freezing the Fed at 3.50-3.75% despite growth softening. The 10Y UST sits at 4.35%, credit spreads are near 25-year tights (IG OAS ~80 bps, HY ~285 bps), and the DXY has corrected ~10% from its 2025 peak to ~98-99 — weakening against EUR (~1.17) and CHF — which is materially positive for Swiss and European assets in USD terms. AI hyperscaler capex is surging ($600-630B aggregate 2026E, +36-62% YoY), keeping the power/grid/semicap complex structurally bid, but the cycle is maturing and vulnerable to any demand digestion signal. Central bank divergence is acute: BOJ tightening to 0.75% (hawkish dissenters want 1.0%), ECB debating hikes from 2.00%, BOE frozen at 3.75%. Equity factor leadership has rotated toward value/quality in Europe and small-cap value showing early reversal after years of growth dominance; defensives have re-rated as rate-cut expectations were crushed.",
+    "key_drivers": [
+      {
+        "driver": "Real rates",
+        "level": "10Y UST 4.35%; Fed funds 3.50-3.75%; Core PCE 2.8%; implied real rate ~+1.5-1.6%",
+        "implication": "Positive real rates constrain long-duration assets and pre-revenue names (OKLO, SMR, NuScale). Swiss names insulated if CHF holds. High-yielders (SREN, SCHD, GLIFX) competitive vs bonds only if spreads stay tight. Any recession pivot instantly re-rates duration."
+      },
+      {
+        "driver": "USD",
+        "level": "DXY ~98-99, down ~10% from 2025 highs; EUR/USD ~1.17; USD/CHF ~0.87; USD/CAD bearish",
+        "implication": "USD weakness is a structural tailwind for EUR/CHF-denominated assets in USD terms — Swiss names (GIVN, ROG, NESN, TECN, SREN, SGSN), ASM.AS (EUR), PRY.MI (EUR), RR.L (GBP) all benefit from translation. SU (CAD) and TGB (CAD) get a modest lift. Conversely, XOM/PSIX/AMSC lose FX tailwind."
+      },
+      {
+        "driver": "Oil",
+        "level": "Brent ~$101-106/bbl (late April 2026); WTI ~$98-102; +$35-47/bbl YoY driven by Iran war Hormuz risk",
+        "implication": "Strongly positive for SU, XOM, XLE, TNK (tanker rates/geopolitical premium), TE.PA (LNG/energy infra). Moderately positive for HGER (commodity ETF). Negative for European industrials (energy cost), airlines (not on list). Inflationary for broader economy, keeping central banks on hold and compressing equity multiples."
+      },
+      {
+        "driver": "China cycle",
+        "level": "GDP growth slowing to 4.5% in 2026 from ~5% in 2025; property sector down 40-50% from peak but stabilizing; modest stimulus signaled",
+        "implication": "Negative for pure China-cyclical commodity plays. Mixed for copper (TGB): structural long-term demand intact but near-term softness. ASM.AS China revenue at risk from export controls. HGER copper component under modest pressure. Uranium (CCJ) relatively insulated — China nuclear build is a multi-decade state program."
+      },
+      {
+        "driver": "AI capex",
+        "level": "Hyperscaler 2026E capex $600-630B (+36-62% YoY); ~75% AI infrastructure; power demand 'speed to power' critical constraint",
+        "implication": "Strongest structural tailwind for AMSC, PSIX, HUBB (grid/power solutions), ASM.AS (ALD/semicap), SNDK (NAND cycle). Nuclear as baseload for data centers: BWXT, OKLO, SMR, CCJ, ASY.PA. The capex growth rate is decelerating from 73% to ~36% — still expanding but rate of change softening, which matters for momentum names."
+      },
+      {
+        "driver": "Geopolitics",
+        "level": "Iran war driving Hormuz risk; Russia/Ukraine frozen; US tariffs creating supply chain fragmentation; European rearmament accelerating",
+        "implication": "European defense a structural winner: RR.L, EXA.PA (naval drones/defense robotics), ASY.PA (nuclear/defense infra). Tanker rates supported by Red Sea/Hormuz: TNK benefits. Energy security premium supports nuclear (CCJ, OKLO, SMR, BWXT) and LNG (TE.PA). US tariff risk adds friction for ASM.AS (Dutch semicap), PRY.MI (cable imports)."
+      }
+    ],
+    "sources": [
+      "[FRED 10Y UST Yield (4.35% April 27, 2026)](https://fred.stlouisfed.gov/series/DGS10)",
+      "[Maseconomics: Central Bank Divergence in 2026](https://maseconomics.com/central-bank-divergence-in-2026-why-the-fed-ecb-boj-and-boe-are-moving-in-opposite-directions/)",
+      "[BOJ April 28 2026 Policy Statement (0.75% hold)](https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260428a.pdf)",
+      "[Fortune: Oil price $106/bbl April 24, 2026](https://fortune.com/article/price-of-oil-04-24-2026/)",
+      "[Uranium Spot $86.80/lb April 21, 2026 (YouTube briefing)](https://www.youtube.com/watch?v=S3qUjPBdL7s)",
+      "[S&P Global: Copper LME ~$12,100/t 2026E average](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/04/copper-gold-market-outlook-2026-prices-supply-mining-costs)",
+      "[Natural Resource Stocks: Gold $4,838/oz April 15, 2026](https://naturalresourcestocks.net/gold-price-today-april-15-2026/)",
+      "[Cambridge Currencies: DXY ~98.7, EUR/USD ~1.17 late April 2026](https://cambridgecurrencies.com/usd-forecast-2026/)",
+      "[CreditSights: Hyperscaler Capex 2026E $602B](https://know.creditsights.com/insights/technology-hyperscaler-capex-2026-estimates/)",
+      "[investmentgrade.com: IG OAS ~80 bps, HY ~285 bps Q1 2026](https://investmentgrade.com/credit-spreads/)",
+      "[Nomura Asset Management: Global HY spreads 343 bps end-March 2026](https://www.nomura-asset.co.uk/insight/high-yield-monthly-update/)",
+      "[Reuters: China property sector stabilizing April 2026](https://www.reuters.com/world/china/china-is-coming-back-timing-couldnt-be-better-2026-04-16/)"
+    ]
+  },
+  "executive_summary": [
+    "OVER-REPRESENTED: Nuclear/SMR cluster (OKLO, SMR, BWXT, CCJ, ASY.PA = 15% of list) creates concentration risk precisely when the theme is most crowded; pre-revenue names OKLO and SMR require long time horizons incompatible with near-term macro uncertainty.",
+    "OVER-REPRESENTED: US power-grid/AI capex cyclicals (AMSC, PSIX, HUBB, SNDK) are deeply correlated to the same AI capex cycle that is already decelerating in growth rate; all four are 'Premium Priced' or near-consensus-target with limited new upside.",
+    "UNDER-REPRESENTED: Gold/precious metals exposure is essentially zero despite gold at $4,838/oz (near all-time highs, up ~14% YTD) — with real rates likely to fall if growth rolls over, gold miners or a GLD-type position is a conspicuous gap as a macro hedge.",
+    "UNDER-REPRESENTED: EM ex-China and healthcare beyond Roche — only ROG.SW and TECN.SW represent healthcare; no EM equity, no emerging Asia fintech, no healthcare services/managed care.",
+    "MOST ACTIONABLE NOW (all-three-angle conviction): GIVN.SW (47% upside, below-historical P/E, CHF deflation hedge, buy signal active), RR.L (22% upside, turnaround validated, aerospace recovery structural), PSIX (36% upside, clean AI power-grid play at 15x P/E, buy signal active), TECN.SW (62% upside, biopharma recovery, 11x EV/EBITDA, buy signal active), SU (43% upside, oil at $101+ vs breakeven ~$50, buy signal active).",
+    "SHARP CONFLICTS TO WATCH: IRDM (trading 28% ABOVE consensus target — a hard sell/avoid even though the satellite moat thesis is structurally valid); PRY.MI (trading 10% above target despite copper input cost surge from oil-shock inflation); HUBB (at 33x P/E vs 23x historical average with only -1.7% upside — valuation stretched even with grid tailwind).",
+    "KEY MACRO RISKS TO WHOLE LIST: (1) Iran de-escalation would crash oil to $70s, cutting SU/XOM/TNK/XLE earnings, unwinding HGER gains, and removing the nuclear energy-security premium from OKLO/SMR; (2) Fed surprise hike would re-rate all long-duration and pre-revenue names; (3) AI capex digestion (any hyperscaler capex cut) would simultaneously hit AMSC, PSIX, HUBB, ASM.AS, SNDK — a cluster that is not as diversified as it looks."
+  ],
+  "buckets": {
+    "core_compounders": [
+      "GIVN.SW",
+      "ROG.SW",
+      "NESN.SW",
+      "SGSN.SW",
+      "XOM"
+    ],
+    "cyclicals": [
+      "TGB",
+      "TNK",
+      "SU",
+      "SNDK",
+      "SEZL"
+    ],
+    "defensives": [
+      "SREN.SW",
+      "SCHD",
+      "GLIFX",
+      "QDVW"
+    ],
+    "turnaround_special_situations": [
+      "RR.L",
+      "TECN.SW",
+      "DEM.AX",
+      "SMR"
+    ],
+    "deep_value": [
+      "SU",
+      "TNK",
+      "SREN.SW"
+    ],
+    "quality_growth": [
+      "ASM.AS",
+      "PSIX",
+      "HUBB",
+      "BWXT",
+      "SEZL"
+    ],
+    "income_plays": [
+      "SCHD",
+      "GLIFX",
+      "SREN.SW",
+      "QDVW",
+      "XLE"
+    ],
+    "thematic_structural": [
+      "AMSC",
+      "ASY.PA",
+      "CCJ",
+      "EXA.PA",
+      "HGER",
+      "IRDM",
+      "OKLO",
+      "PRY.MI",
+      "RR.L",
+      "SMR",
+      "TE.PA",
+      "TEA.AX"
+    ]
+  },
+  "by_ticker": [
+    {
+      "ticker": "AMSC",
+      "bucket": "thematic_structural",
+      "portfolio_role": "US grid-power resiliency / AI data center optionality; naval propulsion niche",
+      "complement_or_compete": "Competes for the same factor exposure as PSIX and HUBB — all three are US AI-power-grid names. Adding all three is redundant; pick one or two and size accordingly. Does NOT complement Swiss defensives or energy plays.",
+      "angle1_macro": {
+        "regime_fit": "Tailwind from AI capex ($630B hyperscaler 2026E) and US grid modernization; moderate headwind from USD weakness reducing foreign-currency revenue (Comtrafo LatAm) and from real rates staying elevated (small-cap re-rating pressure)",
+        "drivers": [
+          "AI data center power demand",
+          "US Navy ship protection contracts",
+          "Comtrafo transformer backlog ($85M)"
+        ],
+        "sensitivity": "High beta to AI capex cycle; meaningful sensitivity to small-cap factor (risk-off hurts disproportionately); oil-shock inflation raises input costs modestly"
+      },
+      "angle2_fundamental": {
+        "summary": "Revenue +43% annual, debt-free, FCF positive, recent $85M backlog from Comtrafo. Naval contracts provide government-backed revenue floor. Margins tied to project mix, not recurring subscriptions.",
+        "drivers": "Grid/marine revenue ramp; Q1 2026 earnings (>$80M rev expected); Comtrafo integration margin contribution",
+        "valuation": "Trading at $49.48 vs consensus $50.67 — only 2.4% upside; 100%+ prior run leaves no margin of safety. Roth MKM target $40 implies 19% downside.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility with 25%+ observed swings in single months; deep drawdowns during capex pauses (beta to AI theme ~1.5-2x); risk score 8/10",
+        "factor_clusters": [
+          "AI-power theme",
+          "US small-cap industrials",
+          "Grid-tech capex cycle"
+        ],
+        "diversification": "Highly correlated to PSIX and HUBB — adds pure factor redundancy, not diversification; the three together are effectively one mega-position on the AI-power-grid theme",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "ASM.AS",
+      "bucket": "quality_growth",
+      "portfolio_role": "Pure-play on AI semiconductor equipment cycle (ALD/epitaxy for 2nm/GAA nodes); highest-quality semicap name in list",
+      "complement_or_compete": "Pairs naturally with SNDK as the 'equipment + memory' semiconductor dumbbell. Competes for capex-cycle factor exposure with AMSC/PSIX but at a higher quality tier. Diversifies away from pure US exposure with EUR and Dutch domicile.",
+      "angle1_macro": {
+        "regime_fit": "Structural AI capex tailwind is the primary driver; USD weakness vs EUR adds ~5-8% translation benefit for a USD-based investor. China export control risk is a medium-term overhang — China represents meaningful revenue. BOJ tightening reduces Japanese customer capex appetite marginally.",
+        "drivers": [
+          "Gate-All-Around (GAA) node transitions driving ALD intensity",
+          "AI/HPC wafer starts growth",
+          "Memory recovery — 4F² DRAM transition"
+        ],
+        "sensitivity": "High sensitivity to semiconductor cycle; meaningful China-revenue risk from escalating export controls; EUR/USD tailwind from USD weakness"
+      },
+      "angle2_fundamental": {
+        "summary": "Leader in ALD, the most critical deposition technology for sub-3nm nodes. Dominant customer relationships with TSMC, Samsung, Intel. Strong order book into H2 2026. Premium P/E reflects quality of moat.",
+        "drivers": "Q2 revenue guide €980M ±5%; memory recovery H2 2026; 1.4nm node pilot ramp; AI infrastructure expansion",
+        "valuation": "P/E 40x vs historical 24x — premium justified by structural moat and cycle tailwind, but leaves little room for disappointment. 17% upside to €950 target is real but requires multiple expansion staying elevated.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Mid-high volatility; risk score 6/10; semiconductor cycles create 30-40% drawdown periods; recent China export control news a tail risk",
+        "factor_clusters": [
+          "AI semicap",
+          "European large-cap technology",
+          "Capex-cycle"
+        ],
+        "diversification": "Only EUR-denominated pure-play semicap in list — genuinely diversifying from US names. SNDK is a complement (memory end-market) not a substitute.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "ASY.PA",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Nuclear engineering services; European defense infrastructure play; concentrated exposure to French nuclear program",
+      "complement_or_compete": "Sits in the nuclear cluster with BWXT, CCJ, OKLO, SMR but at the engineering/services layer (project management) rather than fuel or reactor design. More stable revenue profile than OKLO/SMR. Competes for capital vs RR.L as European defense/industrial.",
+      "angle1_macro": {
+        "regime_fit": "Europe's nuclear renaissance is accelerating (energy security post-Iran shock, French government nuclear policy) — directly in ASY's core market. European defense budget expansion adds an adjacent tailwind. Geopolitical stability risk: any Ukraine-Russia de-escalation removes some energy-security urgency.",
+        "drivers": [
+          "European nuclear new build program acceleration",
+          "French government nuclear commitment (Macron 6 new EPR2)",
+          "European rearmament programs"
+        ],
+        "sensitivity": "Moderate sensitivity to European fiscal policy; limited oil/commodity sensitivity (services not materials); EUR strength vs USD is translation neutral for European investors but beneficial for USD investors"
+      },
+      "angle2_fundamental": {
+        "summary": "Stable long-term engineering contracts with nuclear utilities and government bodies. Q1 2026 revenue growth confirmed. Dividend declared. Limited analyst coverage creates price discovery inefficiency.",
+        "drivers": "Q2 2026 earnings (July); nuclear project wins; European infrastructure spending updates",
+        "valuation": "P/E 88 is optically extreme but reflects thin GAAP margins in engineering services — better assessed on EV/EBITDA which analysts value at ~€48 (only 8.8% upside from current). Near consensus target; limited immediate upside.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate-high volatility; risk score 6/10; limited liquidity (thin analyst coverage); prone to gap moves on contract announcements",
+        "factor_clusters": [
+          "Nuclear engineering/services",
+          "European defense infrastructure",
+          "French small-cap industrials"
+        ],
+        "diversification": "Provides unique engineering/project-management exposure within the nuclear cluster — less correlated to uranium price than CCJ, less pre-revenue risk than OKLO/SMR",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "BWXT",
+      "bucket": "quality_growth",
+      "portfolio_role": "Highest-quality nuclear name in list; US government-backed naval nuclear and SMR exposure; pricing power via sole-source contracts",
+      "complement_or_compete": "The 'blue chip' of the nuclear cluster. Complements CCJ (fuel) and OKLO/SMR (reactor design) by providing the manufacturing/fuel services layer. Competes with ASY.PA for capital in the nuclear engineering bucket. Lower risk than CCJ/SMR/OKLO.",
+      "angle1_macro": {
+        "regime_fit": "Strong: US naval nuclear budget is bipartisan, multi-year, recession-resistant. Commercial nuclear renaissance (AI energy security) adds a second growth vector. Oil at $101+ reinforces nuclear energy security narrative. Real rates slightly negative for long-dated contracts but government backlog visibility offsets this.",
+        "drivers": [
+          "US Navy nuclear propulsion multi-year contract backlog",
+          "SMR commercial pipeline from AI data center demand",
+          "AI nuclear fuel contracting"
+        ],
+        "sensitivity": "Low commodity/oil sensitivity; high US defense budget sensitivity (budget cuts are the key risk); moderate valuation sensitivity to real rates given 62x P/E"
+      },
+      "angle2_fundamental": {
+        "summary": "Backlog visibility through 2026+. Sole-source manufacturer for US naval nuclear components — genuine moat. SMR commercialization adds long-term optionality but is not near-term revenue. Q1 2026 earnings May 4.",
+        "drivers": "Naval contract awards; SMR commercial progress; AI/data center nuclear fuel deals",
+        "valuation": "P/E 62x is demanding — highest quality name in nuclear cluster but price already reflects it. Only 5.3% upside to consensus $235. Seaport Global's Neutral at $195 signals the premium is debated.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-moderate volatility; risk score 4/10 (by far the lowest in the nuclear cluster); drawdowns tend to be shallow vs OKLO/SMR; government revenue base provides floor",
+        "factor_clusters": [
+          "Nuclear manufacturing/services",
+          "US defense industrials",
+          "SMR thematic"
+        ],
+        "diversification": "The defensive anchor of the nuclear cluster. Sizing BWXT larger relative to OKLO/SMR/CCJ reduces nuclear cluster vol without sacrificing nuclear thematic exposure.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "CCJ",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Uranium supply bellwether; Westinghouse stake adds fuel cycle diversification; nuclear renaissance pure-play",
+      "complement_or_compete": "Primary uranium-price-sensitive name in the list; complements BWXT (services) and ASY.PA (engineering) by providing the fuel supply exposure. OKLO/SMR are reactor-design names — CCJ feeds all of them eventually. Some overlap with XLE/SU on energy macro.",
+      "angle1_macro": {
+        "regime_fit": "Uranium spot at $86.80/lb (up from $63 lows in 2025) — a meaningful recovery. Nuclear energy security narrative reinforced by Iran shock. Long-term contracting demand from utilities accelerating. Kazakhstan geopolitics (Russia influence) add supply risk that benefits price.",
+        "drivers": [
+          "Uranium spot price ($86.80/lb, recovering)",
+          "Long-term contracting with utilities (230M lbs U3O8 contracted)",
+          "Westinghouse stake distributing EBITDA"
+        ],
+        "sensitivity": "High uranium spot sensitivity; Kazakhstan production disruption tail risk; Chinese nuclear demand (state program — insulated from consumer cycle); strong correlation to nuclear policy news globally"
+      },
+      "angle2_fundamental": {
+        "summary": "World's largest public uranium company. Tier-1 assets (McArthur River, Cigar Lake). Westinghouse stake generating stable EBITDA. Long-term contract book provides revenue visibility. Strong balance sheet.",
+        "drivers": "Westinghouse distributions; long-term contracting momentum; uranium spot recovery; Q1 2026 earnings May 20",
+        "valuation": "P/E 125 is structurally misleading — uranium companies trade on EV/EBITDA and forward contracting cycles. Consensus $120-160 range; at -1.8% upside to mean target, the easy money has been made. Wait for uranium spot pullback to <$80 or major contract announcement for re-entry.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility; risk score 7/10; uranium commodity cycle creates 40-60% drawdowns; highly correlated to uranium spot and nuclear policy headlines; not a smooth compounder",
+        "factor_clusters": [
+          "Uranium / nuclear fuel cycle",
+          "Critical minerals",
+          "Energy security"
+        ],
+        "diversification": "The uranium-specific exposure in the list — different driver set from oil (SU/XOM) or industrial metals (TGB). Adds genuine commodity diversification within the energy complex.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "DEM.AX",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "Deep micro-cap water technology turnaround; structural water scarcity tailwind; early-stage profitability inflection",
+      "complement_or_compete": "Genuinely uncorrelated to every other name on the list — water tech with recurring revenue from mining and food sectors. Adds a genuine thematic diversifier but at extreme micro-cap risk. No material overlap with any cluster.",
+      "angle1_macro": {
+        "regime_fit": "Water scarcity is a structural multi-decade megatrend unrelated to oil/AI/nuclear. However, DEM.AX's mining sector clients (copper, gold) benefit from commodity cycle — oil-shock inflation indirectly positive via higher commodity prices. Australian small-cap with AUD exposure — USD weakness mildly positive. Real rates at elevated levels raise the hurdle rate for a pre-profit micro-cap significantly.",
+        "drivers": [
+          "Mining sector activity (copper/gold price tailwinds)",
+          "Water regulation and scarcity driving industrial demand",
+          "Recurring contract wins in food and mining"
+        ],
+        "sensitivity": "Extreme sensitivity to AUD/USD FX; high sensitivity to Australian small-cap risk premium; limited trading liquidity amplifies all moves"
+      },
+      "angle2_fundamental": {
+        "summary": "Transitioning toward cash flow positivity with EBITDA $1.6M pro-forma. Recurring revenue ~90% of sales. Loss-making on GAAP basis; no analyst target available. Very early stage.",
+        "drivers": "H1/H2 2026 earnings showing sustained cash positivity; new contract wins in mining/food; NSF filtration system commercialization",
+        "valuation": "No P/E, no analyst target, no upside_pct — a venture-style position in a listed micro-cap. Cannot be sized on valuation metrics alone.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Extreme volatility; risk score 9/10 (highest tier); multi-year price lows; no institutional analyst following means price discovery is poor; illiquid AX listing amplifies drawdowns",
+        "factor_clusters": [
+          "Water tech / ESG infrastructure",
+          "Australian micro-cap industrials",
+          "Specialty materials"
+        ],
+        "diversification": "Genuinely diversifying from all other names — unique risk factor. However, the micro-cap/illiquidity risk means correlation can spike to 1 with the broad risk-off factor during stress.",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "EXA.PA",
+      "bucket": "thematic_structural",
+      "portfolio_role": "European defense robotics and maritime drone play; quantum/photonics optionality; direct beneficiary of European rearmament",
+      "complement_or_compete": "Sits in the European defense cluster with RR.L, but is a fundamentally different exposure — EXA is maritime/autonomous systems vs RR.L's jet engines. Complements rather than duplicates. ASY.PA overlaps slightly on European defense infrastructure but again is different layer (services vs systems).",
+      "angle1_macro": {
+        "regime_fit": "European defense budgets expanding rapidly amid Ukraine and Iran-war geopolitics — 519% order growth Q1 2025, €1.1B backlog validates structural demand. USD weakness vs EUR adds translation drag for USD investors buying EUR-denominated stock, but the fundamental tailwind is so strong it overrides FX.",
+        "drivers": [
+          "European rearmament programs (NATO 2%+ GDP target)",
+          "Naval drone demand from multiple navies",
+          "Quantum/photonics for defense applications"
+        ],
+        "sensitivity": "Moderate; highly tied to European defense budgets and geopolitical risk premium. P/E 736 is a normalization artifact (thin GAAP earnings in transition); real valuation on backlog and revenue trajectory"
+      },
+      "angle2_fundamental": {
+        "summary": "Transition to profitability with positive EPS now established. Revenue up 40% Q1 2026, 52% Q2 2025. Massive order surge (519% Q1 2025) validates future revenue pipeline. €1.1B backlog is ~5x recent annual revenue. Defense orders have long tails.",
+        "drivers": "Continued defense order intake; Q1 2026 revenue results; new navy contracts; European rearmament program acceleration",
+        "valuation": "P/E 736 is distorted by normalization. Consensus €155 from 3 analysts (24% upside from €125 current) is the right anchor. Multiple analysts at Strong Buy. Buy signal active.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility; risk score 7/10; small-cap French name with thin liquidity; defense sentiment is binary (geopolitical de-escalation would sell this off hard)",
+        "factor_clusters": [
+          "European defense systems",
+          "Maritime autonomy / drones",
+          "French small/mid-cap defense"
+        ],
+        "diversification": "Unique maritime defense robot exposure not replicated anywhere else on the list. Genuine thematic diversifier within the defense bucket.",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "GIVN.SW",
+      "bucket": "core_compounders",
+      "portfolio_role": "Swiss quality compounder; world's largest flavors and fragrances company; defensive growth with pricing power and CHF tailwind",
+      "complement_or_compete": "Clusters with NESN.SW, ROG.SW, SGSN.SW, SREN.SW as Swiss defensives; provides consumer-facing (B2B to FMCG) exposure vs Roche's pharma. GIVN is the most attractively priced of the Swiss cluster with the widest upside.",
+      "angle1_macro": {
+        "regime_fit": "CHF strength (USD/CHF ~0.87, USD weakening) is a direct translation tailwind for USD investors holding CHF assets. Defensive business model (consumer staples through B2B) is insulated from oil-shock disruptions. Below-historical-average P/E in a world of tight credit spreads and elevated multiples is unusual.",
+        "drivers": [
+          "CHF appreciation (USD/CHF dollar weakness)",
+          "Consumer staples pricing power (coffee, personal care)",
+          "2030 strategy LFL growth 4-6%"
+        ],
+        "sensitivity": "Low commodity sensitivity; moderate FX sensitivity (CHF revenues, global cost base); input cost risk (natural ingredients) minimal compared to oil-driven industrial names"
+      },
+      "angle2_fundamental": {
+        "summary": "World's largest flavors and fragrances company. EBITDA margins ~23-24%. Consistent free cash flow. Defensive demand (ingredients in everyday consumer products — cannot be disrupted). Q1 2026 sales results expected April 2026.",
+        "drivers": "Q1 2026 sales (April 2026 — catalyst near-term); 2030 strategy LFL 4-6% growth; potential M&A in active beauty",
+        "valuation": "Trading at ~2,820 CHF vs consensus target ~4,150 CHF (47% upside). P/E 24.4x is BELOW 10-year historical average — rare for a defensive compounder of this quality. Multiple analysts (JPM Overweight CHF4,200, Berenberg Buy CHF4,700) see substantial upside.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low volatility; risk score 3/10; defensive business + CHF = natural volatility dampener; drawdowns shallow vs cyclicals; institutional quality ownership provides bid in stress",
+        "factor_clusters": [
+          "Swiss quality defensives",
+          "Consumer staples B2B",
+          "CHF safe haven"
+        ],
+        "diversification": "Among the best diversifiers on the list relative to nuclear/AI/energy cluster concentration. Low correlation to oil, AI capex, or uranium. A genuine 'sleep well' position.",
+        "sizing_tier": "core / large"
+      }
+    },
+    {
+      "ticker": "GLIFX",
+      "bucket": "income_plays",
+      "portfolio_role": "Global listed infrastructure income fund; inflation-hedge dividend stream; diversifier across utilities, pipelines, toll roads, airports",
+      "complement_or_compete": "GLIFX, SCHD, QDVW, and XLE are the four income/ETF positions in the list — they partially overlap on dividend-yield factor. GLIFX's infrastructure tilt is distinctly different from SCHD's US dividend focus or QDVW's quality-screen equity. XLE competes for energy infrastructure exposure. Consider whether four separate income instruments are needed.",
+      "angle1_macro": {
+        "regime_fit": "Infrastructure is a long-duration asset sensitive to real rates — elevated real rates (~1.5-1.6%) are a mild headwind vs 2020-2021 levels. However, inflation-linked revenues (utility tariffs, toll road CPI escalators) provide partial hedge. Oil at $101+ is positive for pipeline/energy infra holdings. Global USD weakness reduces translation drag for non-USD infra assets.",
+        "drivers": [
+          "Inflation-linked revenues across regulated utilities/toll roads",
+          "Energy transition infra demand ($151T global need to 2050)",
+          "Rate cut optionality (any Fed pivot instantly re-rates)"
+        ],
+        "sensitivity": "Moderate duration sensitivity (negative to rate hikes); positive to inflation; low equity market beta (~0.6-0.7)"
+      },
+      "angle2_fundamental": {
+        "summary": "Actively managed global listed infra equity fund. Strong track record: 1Y 24% vs 13% benchmark, 5Y 12% vs 8%. Portfolio P/E ~15 vs benchmark 22. Outperforms in lower-vol, inflation environments.",
+        "drivers": "Global infrastructure spending; energy transition; Lazard active stock selection",
+        "valuation": "Portfolio P/E ~15 is genuinely low vs historical equity average of ~19; fund-level upside -84.9% is a NAV vs price calculation artifact — not meaningful as an upside metric for an open-end fund. Yield ~3% is competitive.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-moderate volatility; risk score 4/10; low equity beta; standard deviation ~9% vs equity market ~17%; designed as a smoother return stream",
+        "factor_clusters": [
+          "Global infrastructure / utilities",
+          "Inflation-linked income",
+          "Real asset equity"
+        ],
+        "diversification": "Low correlation to nuclear/AI/energy names — genuine portfolio ballast. The -84.9% upside_pct is a data artifact (fund NAV vs target price doesn't apply); treat as an income/diversification holding.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "HGER",
+      "bucket": "income_plays",
+      "portfolio_role": "Commodity inflation hedge via futures; adaptive commodity allocation optimized for inflation environments; provides real asset exposure without single-commodity concentration",
+      "complement_or_compete": "HGER is the purest inflation hedge in the list — complements gold (not directly held elsewhere), energy, and base metals exposure. Partially overlaps with XLE on energy but through futures (roll yield) not equity. Complements SU/XOM on energy theme without equity risk.",
+      "angle1_macro": {
+        "regime_fit": "Peak regime for HGER: oil at $101-106/bbl (+$35-47 YoY), gold at $4,838/oz (near ATH), copper ~$12,100/t — all core HGER holdings elevated. The Iran-war inflationary shock is directly in HGER's wheelhouse. However, the fund has already rallied +28.65% YTD — much of the easy money has been made.",
+        "drivers": [
+          "Energy complex (Brent at $101+)",
+          "Gold at $4,838/oz (debasement + geopolitical premium)",
+          "Uranium/copper as industrial commodity diversifiers"
+        ],
+        "sensitivity": "High commodity price sensitivity; roll yield drag if futures curves stay in contango; gold concentration risk; USD weakness positive (most commodities dollar-denominated)"
+      },
+      "angle2_fundamental": {
+        "summary": "Tracks Quantix Commodity Index with adaptive weighting toward inflation-sensitive commodities. Uses excess-return swaps on commodity futures (not equity). 5.69% yield from T-bill collateral. ETF structure with daily liquidity.",
+        "drivers": "Commodity price trajectory; inflation regime persistence; roll yield efficiency",
+        "valuation": "No P/E applicable. Near 52-week high ($32.03) after +28.65% YTD — entry risk is elevated. The upside_pct is 'None' as ETFs don't have analyst targets.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate volatility; risk score 6/10; commodity vol can be sharp but dampened by diversification across 15+ commodities; low equity correlation = genuine diversifier during equity stress",
+        "factor_clusters": [
+          "Commodity inflation hedge",
+          "Real assets",
+          "Energy complex futures"
+        ],
+        "diversification": "One of the best diversifiers on the list — low equity beta, inflation-positive, benefits when equities suffer. Overlap with XLE on direction but different instrument/mechanism.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "HUBB",
+      "bucket": "quality_growth",
+      "portfolio_role": "US electrical grid infrastructure compounder; AI/data center electrification demand beneficiary; high FCF conversion",
+      "complement_or_compete": "Directly clusters with AMSC and PSIX on the AI-power-grid theme. Among the three, HUBB has the lowest risk score (4/10) and most reliable earnings base, but also the most stretched valuation. They are additive in portfolio only if sizing each small — all three together create an undiversified US-grid mega-bet.",
+      "angle1_macro": {
+        "regime_fit": "AI capex boom directly drives data center electrification demand for Hubbell's wiring devices, switchgear, and grid products. Oil-shock inflation raises input costs (copper, steel) but HUBB historically passes through with pricing power. Real rates slightly negative for a 33x P/E industrial.",
+        "drivers": [
+          "AI/data center electrification (wiring, switchgear)",
+          "Grid modernization utility capex",
+          "US infrastructure fiscal spending"
+        ],
+        "sensitivity": "Moderate-high sensitivity to industrial capex cycle; copper price sensitivity (input costs); real rate sensitivity via multiple (33x P/E expensive)"
+      },
+      "angle2_fundamental": {
+        "summary": "High-quality industrials compounder. 90% FCF conversion, consistent margin expansion, vertical integration in wiring products. Q1 2026 earnings April 30 (EPS $3.87 expected, rev $1.51B). Multi-year structural demand from grid modernization.",
+        "drivers": "Q1 2026 results (April 30 — imminent); grid modernization contracts; AI/data center demand",
+        "valuation": "P/E 33x vs 23x historical average and 25x sector — 40%+ premium to history. Consensus $535 implies -1.7% downside from current. Multiple Neutral/Hold ratings (JPM, MS, Barclays) reinforce cautious stance.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-moderate volatility; risk score 4/10; large-cap industrial with institutional ownership; drawdowns smaller than AMSC/PSIX but multiple risk is real at 33x",
+        "factor_clusters": [
+          "AI-power theme",
+          "US large-cap industrials",
+          "Grid modernization"
+        ],
+        "diversification": "Redundant to AMSC and PSIX on factor exposure; HUBB adds more certainty of earnings delivery but at a steeper price. Hold if already owned; don't add to the grid-theme cluster here.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "IRDM",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Global satellite communications monopoly (pole-to-pole LEO coverage); DoD/government recurring revenue base; Project Stardust NTN D2D optionality",
+      "complement_or_compete": "Unique satellite/communications exposure — no direct substitute on the list. However, the current price is 28% above consensus target, making it a candidate for reduction, not addition. IRDM's government/IoT contract base is genuinely different from the AI-capex/grid cluster.",
+      "angle1_macro": {
+        "regime_fit": "Defense/government spending is a tailwind given geopolitical environment. However, high debt load (376% debt/equity) in a real-rate environment of +1.5% is a structural headwind. Starlink competition is existential on consumer side. Project Stardust D2D (2026 launch) is the key inflection catalyst.",
+        "drivers": [
+          "DoD/government satellite contracts (recurring)",
+          "Project Stardust NTN direct-to-device launch 2026",
+          "IoT device growth"
+        ],
+        "sensitivity": "High debt sensitivity to real rates; moderate geopolitical sensitivity (defense contracts); high sentiment sensitivity to Starlink competitive news"
+      },
+      "angle2_fundamental": {
+        "summary": "Unique global coverage moat — only LEO constellation covering poles. DoD dependence provides revenue floor. FCF supports dividend despite high leverage. Project Stardust is the key optionality event. Bears: Starlink threat is real on IoT/consumer; debt load limits financial flexibility.",
+        "drivers": "Project Stardust launch (2026); DoD contract renewals; IoT subscriber growth; Q2 2026 earnings",
+        "valuation": "P/E 39x with only Morgan Stanley at $26, Raymond James $26 consensus — current price implies -28.2% to consensus. This is the most overvalued name on the list relative to analyst targets. Hard to justify adding here.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility; risk score 7/10; high debt amplifies equity vol; satellite industry has binary outcomes on competitive dynamics; sentiment-driven",
+        "factor_clusters": [
+          "Satellite communications",
+          "Government/defense tech",
+          "High-yield debt service risk"
+        ],
+        "diversification": "Adds unique comms-satellite exposure; genuinely uncorrelated to oil/nuclear/semiconductor themes. But at -28% to consensus target, any position is an active bet that consensus is wrong.",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "NESN.SW",
+      "bucket": "core_compounders",
+      "portfolio_role": "Defensive Swiss blue-chip staples; coffee/pet food pricing power; multi-decade dividend grower; CHF safe-haven exposure",
+      "complement_or_compete": "Clusters with GIVN.SW, ROG.SW, SGSN.SW, SREN.SW as the Swiss defensive core. NESN is more defensively-positioned (consumer staples) than GIVN (materials/B2B) or ROG (healthcare). Some overlap with SCHD/QDVW on 'stable dividend compounder' factor but CHF currency is differentiated.",
+      "angle1_macro": {
+        "regime_fit": "CHF translation benefit for USD investors (USD/CHF dollar weakness). Consumer staples demand is recession-resistant. However, coffee/cocoa commodity inflation is a near-term margin headwind that partially offsets pricing power. Q1 2026 results showed 3.5% organic growth — volume recovery tracking.",
+        "drivers": [
+          "CHF appreciation (dollar weakness)",
+          "Pricing power in coffee/pet food/infant formula recovery",
+          "Portfolio simplification proceeds (asset sales boosting returns)"
+        ],
+        "sensitivity": "Low to oil price directly; moderate commodity input cost sensitivity (coffee/cocoa); FX (CHF revenues vs global cost base); infant formula recall resolution is an idiosyncratic risk"
+      },
+      "angle2_fundamental": {
+        "summary": "Q1 2026 organic growth +3.5% beats expectations. Volume (RIG +1.2%) recovering. Portfolio simplification under new management. 39-year dividend growth streak. CHF 90B annual revenue — impossible to replicate.",
+        "drivers": "Q2 2026 earnings (July); infant formula recall resolution; margin expansion to 17%+ UTOP; potential divestiture of underperforming units",
+        "valuation": "P/E 22.7x at premium to consensus CHF 85-87 targets (8.2% upside). Goldman Sachs Buy at CHF 95 is the bullish outlier. Verdict 'Premium Priced' reflects the slight overshoot vs targets.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Very low volatility; risk score 2/10; global defensive blue-chip with institutional support; low drawdown history",
+        "factor_clusters": [
+          "Swiss quality defensives",
+          "Global consumer staples",
+          "CHF safe haven"
+        ],
+        "diversification": "Maximum diversifier from cyclicals/growth/nuclear cluster. Core holding for risk management. Slight overlap with GIVN on Swiss/CHF factor but different industry.",
+        "sizing_tier": "core / large"
+      }
+    },
+    {
+      "ticker": "OKLO",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "High-optionality pre-revenue nuclear startup; Aurora fast-fission reactor for AI data centers; fuel recycling technology differentiation",
+      "complement_or_compete": "Tightly correlated to SMR (NuScale) and BWXT within the nuclear cluster. OKLO vs SMR is a portfolio choice — both are pre-revenue SMR plays, but OKLO's fast fission technology is differentiated. Recommend holding ONE of OKLO/SMR and one of BWXT (operational anchor) rather than all three.",
+      "angle1_macro": {
+        "regime_fit": "AI data center nuclear demand (Meta deal validates commercial interest) is the primary driver. Oil at $101+ reinforces nuclear energy-security narrative. However, elevated real rates (+1.5%) are a significant headwind for a DCF-heavy pre-revenue name — every 50bp rate move meaningfully affects intrinsic value.",
+        "drivers": [
+          "AI/data center nuclear power purchase agreements (Meta as anchor)",
+          "NRC regulatory approval milestones",
+          "Fuel recycling cost advantage vs traditional enriched uranium"
+        ],
+        "sensitivity": "Extremely high sensitivity to regulatory timelines; high sensitivity to real rates (pre-revenue); binary outcomes on NRC milestones"
+      },
+      "angle2_fundamental": {
+        "summary": "Pre-revenue. Aurora SMR design (15-75 MW). Fuel recycling using DoE-held used fuel is the key technological differentiation and potential cost advantage. No revenue until 2027+. Meta PPA validates commercial interest. Q1 2026 earnings may provide timeline updates.",
+        "drivers": "NRC approval Phase 1/2 timing; first Aurora deployment milestones; new data center PPAs",
+        "valuation": "Consensus targets $73-130 (mean ~$95 vs current ~$73 = 30% upside per the input). Three Buy ratings. Pre-revenue DCF heavily model-dependent; execution risk is extremely high.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Extreme volatility; risk score 9/10; binary event-driven (NRC approvals); no revenue to anchor valuation; correlation with SMR/nuclear thematic is ~0.8+",
+        "factor_clusters": [
+          "Nuclear SMR pre-revenue",
+          "AI-nuclear thematic",
+          "Speculative deep-tech"
+        ],
+        "diversification": "Highly correlated to SMR and BWXT — the nuclear cluster has 4 names (5 counting ASY.PA). OKLO adds SMR-specific optionality but does not diversify the nuclear cluster meaningfully.",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "PRY.MI",
+      "bucket": "thematic_structural",
+      "portfolio_role": "European cable leader; offshore wind and grid-upgrade beneficiary; 5G infrastructure exposure",
+      "complement_or_compete": "No direct substitute on the list. Provides unique electrical cable/submarine cable exposure. Tangentially related to HUBB/AMSC on grid-modernization theme but at a different value chain position (cable manufacturing vs power resiliency). RR.L clusters as European industrial but is unrelated operationally.",
+      "angle1_macro": {
+        "regime_fit": "European grid electrification and offshore wind are structural tailwinds. However, copper at $12,100/t is a significant input cost headwind (PRY is a major copper consumer). Oil-shock inflation squeezes margins on long-duration fixed-price projects. Consensus target ~€110-114 is BELOW current price ~€125 — a sell signal from fundamentals.",
+        "drivers": [
+          "European offshore wind cable installations",
+          "Grid modernization high-voltage DC cables",
+          "5G infrastructure rollout"
+        ],
+        "sensitivity": "High copper price sensitivity (input cost); EUR/USD translation irrelevant (EUR-denominated revenue); project-based revenue has lumpy recognition; competition from Chinese cable makers intensifying"
+      },
+      "angle2_fundamental": {
+        "summary": "Leader in high-demand cables for energy transition. Revenue €19.65B TTM, net income €1.27B. Strong order backlog from electrification megatrend. But stock is trading 10% ABOVE consensus target — markets have already priced in the thesis.",
+        "drivers": "Q1 2026 earnings (late April — imminent); new submarine cable contracts; copper price trajectory",
+        "valuation": "P/E 28.4x with -9.9% downside to consensus (the only negative upside-pct in the industrial names aside from TEA.AX). Goldman Sachs Buy €126, Morgan Stanley Hold €95 — wide target dispersion. Currently above consensus.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate volatility; risk score 6/10; mid-large cap Italian industrial; copper commodity risk creates input cost volatility; project revenue lumpiness",
+        "factor_clusters": [
+          "European cable/electrification infrastructure",
+          "Offshore wind supply chain",
+          "EU industrial/defense"
+        ],
+        "diversification": "Provides specific European electrification infrastructure exposure not directly replicated. But current valuation suggests trim, not add.",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "PSIX",
+      "bucket": "quality_growth",
+      "portfolio_role": "Gaseous-fuel engine/power systems for AI data center backup power; natural gas and hydrogen engine differentiation; high-ROE, low-P/E AI power play",
+      "complement_or_compete": "The highest-conviction AI-power name on the list given the combination of buy signal active, 36% upside, low P/E (15.59x) vs AMSC (16.33x near-target) and HUBB (33x above target). Weichai China ownership (strategic shareholder) adds geopolitical risk but also supply chain advantage.",
+      "angle1_macro": {
+        "regime_fit": "AI hyperscaler capex at $630B drives demand for data center backup power — PSIX's engines run on natural gas (cheap, reliable) and are positioned for hydrogen transition. Oil at $101+ makes diesel backup alternatives more expensive, benefiting gaseous-fuel PSIX engines. Real rates at 1.5%+ are manageable at 15.59x P/E.",
+        "drivers": [
+          "AI/data center backup power demand (natural gas engines)",
+          "Hydrogen engine commercialization (next-generation positioning)",
+          "Weichai China distribution / supply chain access"
+        ],
+        "sensitivity": "High beta to AI capex cycle (beta 2.3 — highest on list); natural gas price sensitivity (input to customers); China tie (Weichai) adds geopolitical tail risk"
+      },
+      "angle2_fundamental": {
+        "summary": "ROE >80% — exceptional capital efficiency. P/E 15.59x is the cheapest valuation among the US AI-power-grid cluster (AMSC 16.33x near target, HUBB 33x above). Buy signal active with multiple analysts at Buy and $87-109 targets vs $73.75 current. Q1 2026 earnings May 2026.",
+        "drivers": "Q1 2026 earnings (May); data center contract announcements; hydrogen engine commercialization timeline",
+        "valuation": "Consensus $93 average (35.6% upside). Jefferies $92.90, Craig-Hallum $109, Freedom $87 — tight clustering on Buy. The cheapest way to play the AI power theme with the most upside.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility (beta 2.3); risk score 7/10; small/mid-cap name with thin float; Weichai China tie creates binary geopolitical event risk; drawdowns can be severe on AI cycle pauses",
+        "factor_clusters": [
+          "AI-power theme",
+          "US small/mid-cap industrials",
+          "Natural gas infrastructure"
+        ],
+        "diversification": "Most differentiated of the three US AI-power names (AMSC, PSIX, HUBB) — different mechanism (gaseous engine vs grid resiliency vs electrical products). PSIX is the best-value entry into the theme.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "QDVW",
+      "bucket": "income_plays",
+      "portfolio_role": "Global developed-market quality dividend income; ESG-screened; EUR-denominated distributing ETF; defensive income diversifier",
+      "complement_or_compete": "Overlaps with SCHD on 'quality dividend' factor — QDVW is global/EUR-denominated while SCHD is US-only/USD. The two together provide good geographic income diversification. GLIFX is distinctly different (real assets/infra). The four income names (SCHD, QDVW, GLIFX, SREN) each provide a differentiated income angle.",
+      "angle1_macro": {
+        "regime_fit": "USD weakness vs EUR is a structural positive for QDVW's EUR-denominated NAV from a USD investor's perspective. Quality/dividend factor outperformance noted in Europe/UK per LSEG Q4 2025 data — continuing into 2026. Global AI tech concentration adds volatility (NVDA in top holdings increases tech sensitivity vs purely defensive).",
+        "drivers": [
+          "EUR translation benefit (USD weakness)",
+          "Quality/value factor leadership in Europe",
+          "Dividend sustainability in profitable tech+industrial holdings"
+        ],
+        "sensitivity": "EUR/USD currency sensitivity; tech-sector weight adds AI-cycle correlation; ESG screens reduce some concentrated single-stock risks"
+      },
+      "angle2_fundamental": {
+        "summary": "Distributing ETF with globally diversified quality dividend payers. ESG screens. Low TER. Strong historical performance. Some tech concentration (NVDA, QCOM). Trading near 52-week high — no immediate value signal.",
+        "drivers": "Q4 earnings from top holdings; dividend increase announcements; potential rate cuts boosting dividend stocks globally",
+        "valuation": "ETF — no target price applicable. P/E not shown. Verdict 'Premium Priced' reflects elevated market overall. Upside 'None' is appropriate for an ETF tracking mechanism.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-moderate volatility; risk score 4/10; globally diversified; ESG screens reduce tail risk from governance events; tech concentration is mild downside risk",
+        "factor_clusters": [
+          "ETFs and funds",
+          "Global quality dividend",
+          "EUR-denominated income"
+        ],
+        "diversification": "QDVW + SCHD together give the watchlist global dividend coverage. QDVW is the EUR/international leg; SCHD is the USD/domestic leg. Both are income ballast.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "ROG.SW",
+      "bucket": "core_compounders",
+      "portfolio_role": "Swiss pharma/diagnostics blue-chip; 39-year dividend streak; obesity drug pipeline (CT-388) as optionality; defensive healthcare anchor",
+      "complement_or_compete": "The healthcare anchor of the list. TECN.SW is the only other healthcare name (lab automation) — they are complementary (pharma vs instruments). ROG and NESN.SW are both Swiss defensive blue-chips but in different industries. GIVN.SW adds to the Swiss cluster.",
+      "angle1_macro": {
+        "regime_fit": "CHF translation tailwind for USD investors. Defensive healthcare demand is recession-resistant. Real rates mildly negative (reduces DCF present value of long-dated pipeline assets) but the 20.4x P/E is not expensive enough to create meaningful rate sensitivity. Obesity drug opportunity (CT-388 Phase III Q1 2026) is an idiosyncratic catalyst.",
+        "drivers": [
+          "CT-388 obesity Phase III (2026) — massive TAM optionality",
+          "Fenebrutinib MS/lupus regulatory filings",
+          "Diagnostics division stable recurring revenue"
+        ],
+        "sensitivity": "Low macroeconomic sensitivity; high pipeline binary event risk; biosimilar erosion risk (Perjeta 2025, Kadcyla 2026); China pricing reform pressure on diagnostics"
+      },
+      "angle2_fundamental": {
+        "summary": "Swiss pharma leader with dual pharma + diagnostics platform. DCF fair value estimates CHF 358-430 with current at CHF 327 — 10%+ upside. 39-year dividend growth streak unbroken. Pipeline: 10+ Phase III datasets in 2026. CT-388 obesity is the transformative optionality.",
+        "drivers": "CT-388 Phase III initiation; fenebrutinib regulatory filings; Gazyva expansions; Q2 2026 earnings",
+        "valuation": "P/E 20.4x below historical average, below DCF fair value. Goldman Sachs Neutral CHF 365, Barclays Buy. The 9.5% upside to consensus understates the value if CT-388 shows efficacy.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low volatility; risk score 3/10; institutional-grade quality; CHF defensive characteristic; pipeline event risk adds episodic volatility but base business is stable",
+        "factor_clusters": [
+          "Swiss quality defensives",
+          "Global pharma/diagnostics",
+          "CHF safe haven"
+        ],
+        "diversification": "Excellent macro diversifier; low correlation to oil/AI/nuclear cluster. The only large-cap pharma on the list — a genuine gap-filler relative to the otherwise industrials-heavy watchlist.",
+        "sizing_tier": "core / large"
+      }
+    },
+    {
+      "ticker": "RR.L",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "UK aerospace and defense turnaround; civil aviation aftermarket recovery; SMR exposure in New Markets division; European defense budget tailwind",
+      "complement_or_compete": "The only UK-listed name; provides GBP exposure and civil aerospace exposure absent elsewhere on the list. EXA.PA and ASY.PA are European defense names but different value chain layers. RR.L is the high-quality turnaround with confirmed FCF generation — a different risk profile from pre-revenue OKLO/SMR.",
+      "angle1_macro": {
+        "regime_fit": "Civil aviation recovery (flying hours growth) is structural post-COVID. European defense budgets expanding — Rolls' defense division benefits directly. GBP has strengthened to 1.349 vs USD (USD weakness) — positive translation for USD investors. UK BOE frozen at 3.75% (no near-term rate change impact).",
+        "drivers": [
+          "Civil engine flying hours growth driving aftermarket power-by-the-hour revenue",
+          "European NATO defense spending (Typhoon engines, naval)",
+          "SMR program (civil nuclear power) long-term optionality"
+        ],
+        "sensitivity": "High sensitivity to civil aviation demand (jet fuel prices, passenger volumes); moderate defense budget sensitivity; lingering leverage sensitivity (though much improved)"
+      },
+      "angle2_fundamental": {
+        "summary": "Post-turnaround with record FCF, £2.5B+ buyback program, and debt reduction underway. Civil aerospace aftermarket driving revenue recovery. Q1 earnings, buyback execution, and flying-hours data are near-term catalysts. Three Buys (JPM GBX1,500, DB GBX1,550, Jefferies GBX1,530) with 22.7% upside.",
+        "drivers": "Q1 earnings; civil flying hours data; buyback execution; new defense/power contracts",
+        "valuation": "P/E 16.3x — the cheapest aerospace/defense name relative to peers. Consensus GBX 1,510 implies 22.7% upside from current. Three Buy ratings, all clustered around GBX1,500-1,550.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate volatility; risk score 6/10; GBP/USD risk; leverage has declined substantially but not zero; 80%+ 1-year rally creates some mean-reversion risk; aviation sector correlated to oil price (cost input)",
+        "factor_clusters": [
+          "European defense/aerospace",
+          "UK large-cap industrials",
+          "Civil aviation recovery"
+        ],
+        "diversification": "Unique civil aviation aftermarket exposure (power-by-the-hour — essentially recurring revenue from flying hours). Low correlation to Swiss defensives, nuclear, or commodity names. Genuine diversifier.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "SCHD",
+      "bucket": "income_plays",
+      "portfolio_role": "US large-value dividend income ETF; defensive factor exposure; portfolio income anchor in a still-elevated real-rate environment",
+      "complement_or_compete": "US counterpart to QDVW (global). SCHD's energy (17%) and consumer staples (19%) sector concentrations provide natural overlap with XOM/XLE and NESN/GIVN themes on the list — this is cluster redundancy to monitor. At 17.6x P/E, it is cheaper than the broad market (22-25x) and fairly priced.",
+      "angle1_macro": {
+        "regime_fit": "In an environment of 4.35% 10Y UST, dividend stocks face competition from bonds but SCHD's 3.5%+ yield plus capital appreciation has historically delivered. Value/dividend factor outperformance began in late 2025. US-only exposure means no USD/FX tailwind for a domestic USD investor — a relative disadvantage vs Swiss/European names in current USD-weak environment.",
+        "drivers": [
+          "US dividend sustainability from quality payers (TXN, UNH, QCOM, CVX)",
+          "Energy sector weight (17%) — benefits from oil at $101+",
+          "Consumer staples weight — defensive in slowdown"
+        ],
+        "sensitivity": "Moderate sensitivity to dividend cut cycle (recession trigger); energy concentration adds oil price sensitivity; interest rate sensitivity (yield comparison to bonds)"
+      },
+      "angle2_fundamental": {
+        "summary": "Tracks Dow Jones US Dividend 100 Index. 12.4% annualized 10-year returns vs 10.7% category. YTD +12.7%. P/E 17.6x near 10-year median, below broad market. Tax-efficient structure. Strong issuer track record.",
+        "drivers": "Q2 dividend (June 2026); index rebalance; sustained dividend growth from holdings",
+        "valuation": "Portfolio P/E 17.6x — near 10-year median of 17x. Reasonably priced. Buy signal active per input data.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low volatility; risk score 4/10; diversified 100-stock portfolio; energy/consumer staples weight provides commodity inflation hedge; standard ETF tracking",
+        "factor_clusters": [
+          "ETFs and funds",
+          "US large-cap value/dividend",
+          "Income/yield"
+        ],
+        "diversification": "Core income anchor. The US-domestic version of the 'quality dividend' factor. Low correlation to nuclear/semicap/Swiss names.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "SEZL",
+      "bucket": "cyclicals",
+      "portfolio_role": "High-ROE fintech BNPL-to-ecosystem play; US consumer spending proxy; subscription-based revenue transition differentiates from pure BNPL peers",
+      "complement_or_compete": "Unique fintech/payments exposure on the list — no other name provides this. However, SEZL is a consumer credit proxy and will underperform sharply if the Iran-shock stagflation reduces US consumer spending. Low correlation to all other clusters.",
+      "angle1_macro": {
+        "regime_fit": "Stagflation risk (oil shock + slowing growth + sticky inflation) is the key macro headwind for SEZL — discretionary consumer spending BNPL volumes would contract in a slowdown. Fed holding rates at 3.50-3.75% keeps consumer borrowing costs elevated. USD domestic name — no FX benefit. Credit spreads still tight, which helps SEZL's funding costs.",
+        "drivers": [
+          "US consumer spending health (GMV driver)",
+          "Fed rate trajectory (affects borrowing costs and credit losses)",
+          "Subscription revenue expansion (Sezzle Premium/Anywhere)"
+        ],
+        "sensitivity": "High sensitivity to US consumer cycle; moderate credit loss sensitivity; high beta fintech stock (risk-on/risk-off amplification)"
+      },
+      "angle2_fundamental": {
+        "summary": "ROE ~90% — exceptional capital efficiency. Transition from pure BNPL to subscription fintech ecosystem. Q4 2025 beat with upward guidance revisions. Revenue growth 25-30% expected 2026. P/E 21.49x reasonable for growth fintech. Credit losses kept low at ~2% GMV via unique underwriting.",
+        "drivers": "Q1/Q2 2026 earnings; subscription GMV expansion; long-term lending partnerships rollout",
+        "valuation": "Consensus $93 average (16.3% upside). B. Riley $99, Needham $94, KBW $85. All Buy/Outperform. P/E 21.49x is not demanding for the growth rate.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility; risk score 7/10; small-cap fintech with high beta; credit cycle risk creates tail event exposure; macro slowdown could cause 40-60% drawdowns",
+        "factor_clusters": [
+          "US fintech / consumer credit",
+          "BNPL / payments",
+          "Small-cap growth"
+        ],
+        "diversification": "Genuinely uncorrelated to nuclear/industrial/Swiss clusters. Consumer credit is a real diversifier but adds stagflation vulnerability — a specific macro risk.",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "SGSN.SW",
+      "bucket": "core_compounders",
+      "portfolio_role": "Swiss TIC (testing, inspection, certification) defensive compounder; quality assurance across agriculture, pharma, industrial — regulatory demand floor",
+      "complement_or_compete": "Sits in the Swiss defensive cluster with GIVN, ROG, NESN, SREN. Among the five, SGSN is the most diversified by sector exposure (TIC is used in every industry). However, high debt/equity (492%) post-ATS acquisition is a notable negative not present in peers.",
+      "angle1_macro": {
+        "regime_fit": "CHF translation tailwind for USD investors (USD/CHF weakening). TIC demand is regulatory-driven and grows with global trade complexity — tariffs, ESG regulations, supply chain scrutiny all increase demand for SGS services. High debt in a real-rate environment is a mild headwind (492% debt/equity).",
+        "drivers": [
+          "Global TIC demand growth from regulation/ESG/trade complexity",
+          "ATS acquisition accretion (close late 2025/early 2026)",
+          "Efficiency savings CHF 150M program"
+        ],
+        "sensitivity": "Moderate commodity-cycle sensitivity (resource industry clients); FX sensitivity (CHF revenues but global cost base); leverage is the key financial risk at this stage"
+      },
+      "angle2_fundamental": {
+        "summary": "CHF 150M efficiency program underway. ATS acquisition accretive to EPS. Margins 15%+ (target 16%+). Strong M&A pipeline. Downgrade noise from Goldman/UBS (Neutral) vs Morgan Stanley Overweight. Buy signal absent per input (trading near 52-week low range).",
+        "drivers": "ATS close (early 2026); Q2/H1 2026 results (organic growth 5-7%); margin expansion",
+        "valuation": "P/E 24.5x — above historical average ~23x. Consensus CHF 92-97 (Morgan Stanley/UBS) implies 11.8% upside. Not cheap but TIC is a sticky business. Leverage is the swing factor.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-moderate volatility; risk score 4/10; Swiss institutional quality; leverage creates moderate downside risk in rate-shock scenario; M&A integration risk is episodic",
+        "factor_clusters": [
+          "Swiss quality defensives",
+          "TIC services / regulatory compliance",
+          "Global industrial services"
+        ],
+        "diversification": "Among the best macro diversifiers — TIC demand is counter-cyclical in some ways (recalls and regulatory events spike TIC demand during crises). CHF exposure adds safety.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "SMR",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "Only NRC-certified SMR designer; first-mover advantage in modular nuclear; ENTRA1/TVA 6 GW program is the commercial anchor",
+      "complement_or_compete": "Direct substitute for OKLO as the speculative SMR pre-revenue position. SMR (NuScale) has the NRC certification advantage; OKLO has the fast fission/fuel recycling differentiation. Holding both is excessive nuclear cluster concentration — choose one. BWXT is the better risk-adjusted nuclear position if conviction is uncertain.",
+      "angle1_macro": {
+        "regime_fit": "Same nuclear energy-security tailwind as OKLO/BWXT/CCJ. However, SMR suffered a 56% YTD drop before recovery — the Romanian project cancellation revealed commercial fragility. ENTRA1/TVA program is a credible replacement but is further from revenue. Real rates (+1.5%) are highly dilutive to a pre-revenue name burning cash.",
+        "drivers": [
+          "ENTRA1/TVA 6 GW SMR deployment program",
+          "NRC certification as the only approved SMR design",
+          "AI data center nuclear demand for baseload power"
+        ],
+        "sensitivity": "Binary regulatory/commercial milestones; extremely high real-rate sensitivity (pre-revenue DCF); equity dilution risk to fund ongoing losses is meaningful"
+      },
+      "angle2_fundamental": {
+        "summary": "NRC-certified — the only SMR with regulatory approval in the US. ENTRA1/TVA 6 GW program is the commercial anchor. Pre-revenue with ongoing losses and equity dilution risk. 50.2% upside to consensus but Citi at Sell $9, Goldman Neutral $14 are strong contrarian voices.",
+        "drivers": "TVA/ENTRA1 program advancement; first manufacturing readiness; new data center/hydrogen contracts",
+        "valuation": "Consensus average ~$15 (B. Riley $19 bull, Citi $9 bear, Goldman $14 neutral) — the wide dispersion reflects genuine uncertainty. 50.2% upside uses the average target. Citi's Sell at $9 suggests near-term downside risk is real.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Extreme volatility; risk score 9/10; 56% YTD prior drawdown; analyst disagreement is extreme (Citi Sell vs B. Riley Buy = 2x valuation spread); equity dilution cycles add additional vol",
+        "factor_clusters": [
+          "Nuclear SMR pre-revenue",
+          "AI-nuclear thematic",
+          "Speculative deep-tech"
+        ],
+        "diversification": "Highly correlated to OKLO — both are pre-revenue SMR plays. The cluster (OKLO + SMR + BWXT + CCJ) already creates high nuclear concentration.",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "SNDK",
+      "bucket": "cyclicals",
+      "portfolio_role": "NAND flash memory supercycle play; AI data center storage demand; High Bandwidth Flash (HBF) next-gen differentiation",
+      "complement_or_compete": "Pairs with ASM.AS as the semiconductor dumbbell (equipment + memory). SNDK is a more cyclical, higher-risk position — negative EPS TTM, massive 30x rally from lows. Momentum risk is extreme.",
+      "angle1_macro": {
+        "regime_fit": "NAND supercycle driven by AI data center storage demand is real — 20-22% demand growth vs 15-17% supply growth. However, the stock has already rallied 200-300% YTD 2026 and 30x from lows. The AI capex growth rate is decelerating (from 73% to 36% YoY) which will reduce the rate-of-change tailwind for memory demand.",
+        "drivers": [
+          "AI data center NAND demand (20-22% growth)",
+          "High Bandwidth Flash HBF engineering samples H2 2026",
+          "NAND pricing supercycle (supply discipline)"
+        ],
+        "sensitivity": "High sensitivity to memory cycle — the most cyclical technology market; Q3 FY2026 earnings (April 30 — imminent); extreme valuation sensitivity (negative EPS = P/E meaningless)"
+      },
+      "angle2_fundamental": {
+        "summary": "Largest public NAND flash company. Gross margins expanding toward 65-67%. Upcoming HBF technology with SK Hynix could open new markets. Stock up 30x from lows — multiple compression now the key risk. Q3 FY2026 earnings April 30 (rev guide $4.4-4.8B is the key data point).",
+        "drivers": "Q3 FY2026 earnings (April 30 — imminently important); HBF engineering samples; Nasdaq-100 inclusion momentum",
+        "valuation": "Negative EPS TTM makes P/E meaningless. Trading at fwd P/S ~7x at peak margins — a multiple that requires flawless execution. Trading near/above analyst targets. No margin of safety.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Extreme volatility; risk score 8/10; 30x rally creates mean-reversion risk; memory cycle turns are abrupt and violent (50-70% drawdowns in past cycles); high short interest potential",
+        "factor_clusters": [
+          "AI semicap / memory",
+          "Technology large-cap momentum",
+          "Memory supercycle"
+        ],
+        "diversification": "Provides memory semiconductor exposure not in ASM.AS (equipment). But both are AI-capex-cycle correlated — not a genuine hedge. Better viewed as the same factor at different positions.",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "SREN.SW",
+      "bucket": "defensives",
+      "portfolio_role": "Swiss P&C reinsurance income play; record 2025 earnings foundation; disciplined underwriting compounder; CHF safe-haven income",
+      "complement_or_compete": "Sits in both the Swiss defensive cluster AND the income cluster. SREN complements SCHD/QDVW/GLIFX with a distinctly different instrument type (reinsurance equity). Low correlation to all other names — no reinsurance elsewhere on list.",
+      "angle1_macro": {
+        "regime_fit": "Record 2025 net income $4.8B. Reinsurance pricing cycle remains strong (Iran war, climate events keep nat cat loss memory fresh). Real rates at 4.35% are supportive — Swiss Re earns investment income on float. CHF translation positive. Iran war amplifies insurance/reinsurance demand (political risk, energy infrastructure coverage).",
+        "drivers": [
+          "P&C reinsurance pricing strength (post-cat loss cycle)",
+          "Investment income on float (4.35% 10Y UST environment)",
+          "CHF appreciation (USD investor translation benefit)"
+        ],
+        "sensitivity": "High sensitivity to catastrophe events (nat cat tail risk); US casualty reserve adequacy (the key uncertainty for 2026); moderate credit spread sensitivity (investment portfolio)"
+      },
+      "angle2_fundamental": {
+        "summary": "Record $4.8B net income 2025. Combined ratio 79.5% — exceptional underwriting profitability. 2026 target $4.5B = slightly lower but still strong. $1.5B buyback program. SST ratio 250% (very strong solvency). Low-teens P/E at 10.3x.",
+        "drivers": "Q1 2026 earnings (May); P&C combined ratio delivery; buyback pace; US casualty reserving update",
+        "valuation": "P/E 10.3x at only 2.1% upside to consensus CHF 125-130. Trading near 52-week low (CHF 121-157 range). Low P/E offset by near-term stock weakness. UBS Buy CHF 188, Berenberg Buy CHF 202 — substantial upside if those targets are right, but JPM Neutral CHF 200 creates uncertainty.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low volatility; risk score 4/10; large-cap Swiss insurer; nat cat events create sharp but usually short-lived drawdowns; long-term compounder characteristics",
+        "factor_clusters": [
+          "Swiss quality defensives",
+          "Reinsurance / insurance",
+          "Financial services income"
+        ],
+        "diversification": "Unique reinsurance exposure — no correlation to AI/nuclear/commodity themes. Pure financial services + Swiss defensive + income play. Maximum diversification from cyclical cluster.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "SU",
+      "bucket": "deep_value",
+      "portfolio_role": "Canadian integrated oil sands value play; oil at $101+ = significant free cash flow generation; buybacks + dividend policy; Syncrude optimization upside",
+      "complement_or_compete": "The best risk-adjusted energy name among SU/XOM/XLE. SU provides unique oil sands/WCS exposure (different crude benchmark than WTI) and Canadian management under new leadership (operational improvement story). XOM is more diversified but less upside. XLE is just energy beta. All three together = over-concentration in oil.",
+      "angle1_macro": {
+        "regime_fit": "Oil at $101-106/bbl vs SU's breakeven ~$50/bbl = extraordinary FCF generation right now. USD/CAD dollar weakness (DXY -10% from peak) is positive for SU's CAD-denominated assets vs USD-reporting investors. Iran shock geopolitical premium supports oil prices near-term. Risk: Iran de-escalation would crash to $70s.",
+        "drivers": [
+          "Oil price ($101+ Brent vs ~$50 breakeven)",
+          "Q1 2026 earnings (May 6)",
+          "Fort Hills/Syncrude production ramp-up"
+        ],
+        "sensitivity": "Very high oil price sensitivity; WCS differential (oil sands crude discount to WTI) is a specific risk; CAD/USD FX additive; regulatory/emissions risk on oil sands is long-dated but real"
+      },
+      "angle2_fundamental": {
+        "summary": "Canadian integrated oil leader. Multiple analysts at Buy (JPM C$105, Goldman $73, RBC C$100) with 42.7% upside — the second-largest upside among non-pre-revenue names after TECN. Operational improvements under new leadership. Syncrude optimization adding production. Buyback program active.",
+        "drivers": "Q1 2026 earnings (May 6 — specific near-term catalyst); oil price trajectory; Syncrude production data",
+        "valuation": "P/E 18.15x is reasonable for an integrated major at mid-cycle. Trading well below JPM C$105 and RBC C$100 analyst targets. Strong multi-analyst buy consensus.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate volatility; risk score 4/10; large-cap integrated — less volatile than TNK or TGB; oil price drives the vol; WCS differential spikes can create sharp near-term moves",
+        "factor_clusters": [
+          "Integrated oil / energy services",
+          "Canadian energy / oil sands",
+          "Deep value / commodity"
+        ],
+        "diversification": "Energy cluster with XOM/XLE/TNK — trim one of these four, not all. SU is the highest-upside/best-value among the four energy names. TNK and XLE are more redundant to SU than SU is to XOM.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "TE.PA",
+      "bucket": "thematic_structural",
+      "portfolio_role": "LNG/hydrogen/CCUS engineering and technology leader; energy transition services; strong backlog and cash generation",
+      "complement_or_compete": "Provides European energy-transition engineering exposure distinct from SU/XOM (production) or XLE (US energy equity). TE.PA's LNG engineering is a different value chain from Suncor's production. No direct substitute on the list.",
+      "angle1_macro": {
+        "regime_fit": "Iran-shock oil prices at $101+ make LNG (alternative to oil in some applications) more competitive — directly positive for TE.PA's LNG engineering backlog. Energy security urgency from Iran conflict accelerates LNG project awards in US, Africa, and Middle East. European energy transition spending continuing despite fiscal constraints.",
+        "drivers": [
+          "LNG project awards (US/Africa/Middle East energy security)",
+          "Hydrogen/CCUS project pipeline growth",
+          "€16B backlog execution"
+        ],
+        "sensitivity": "Project-based revenue lumpiness; commodity price impacts on client investment decisions; EUR/USD (revenues and costs both largely EUR — translation minor for European investors)"
+      },
+      "angle2_fundamental": {
+        "summary": "Revenue €7.2B, EBITDA €638M, backlog €16B. Forward P/E 14.6 attractive vs sector peers. €3.7B cash = fortress balance sheet. Q1 2026 earnings April 30 (imminent). Buy signal active per input data.",
+        "drivers": "Q1 2026 earnings (April 30 — today/imminent); LNG contract awards; hydrogen/CCUS projects",
+        "valuation": "P/E 19.75x (TTM), forward 14.6x. Consensus €43 (23 analysts) implies 7.8% upside — modest but with 14.6x forward P/E, undervalued relative to backlog and growth. Berenberg Buy €43.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate volatility; risk score 6/10; project-based revenue creates quarterly lumpiness but backlog provides multi-year visibility; mid-cap European name",
+        "factor_clusters": [
+          "European energy transition engineering",
+          "LNG infrastructure",
+          "Energy services"
+        ],
+        "diversification": "Unique LNG/hydrogen engineering exposure. Low correlation to Swiss defensives, nuclear reactor names, or US AI-power cluster. Genuine thematic diversifier within the energy transition.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "TEA.AX",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Australian maintenance/engineering services to mining and oil & gas; serial acquirer; operational leverage to commodity cycle",
+      "complement_or_compete": "Similar industrial services profile to SGSN.SW (inspection/services to industrial clients) but at a smaller, more cyclical Australian level. No direct substitute in the list for Australian mining-services exposure.",
+      "angle1_macro": {
+        "regime_fit": "Copper at $12,100/t and gold at $4,838/oz support Australian mining capex — TEA's core clients. Oil at $101+ supports oil & gas maintenance spending. However, Australian small-cap with AUD exposure in a strong-AUD environment provides translation benefit. Stock is trading 11.9% ABOVE consensus — a caution flag.",
+        "drivers": [
+          "Mining/oil capex levels (copper/gold/oil tailwind)",
+          "M&A execution (WorkPac integration)",
+          "Operational leverage from revenue scaling"
+        ],
+        "sensitivity": "High commodity price sensitivity via mining client capex decisions; AUD/USD FX; acquisition integration risk (debt post-M&A, gearing ~65%)"
+      },
+      "angle2_fundamental": {
+        "summary": "Revenue growth 72% FY23-25. ROE 25-29%. Serial acquirer in non-discretionary maintenance services. Bear: 29x P/E vs sector ~16x, elevated post-acquisition debt (gearing ~65%). Trading ABOVE consensus target (−11.9% downside to mean).",
+        "drivers": "M&A execution; FY26 earnings growth from revenue scaling; mining/oil upcycle",
+        "valuation": "P/E 29x vs sector peers 16x — significant premium for an Australian small-cap services business. Trading above A$5.00 consensus target. Barrenjoey Overweight A$4.75, Shaw Buy A$4.10 — both below current price.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate-high volatility; risk score 6/10; Australian small/mid-cap; M&A integration risk; commodity cycle sensitivity creates drawdown periods",
+        "factor_clusters": [
+          "Australian resources services",
+          "Mining/oil cycle",
+          "Industrial services M&A rollup"
+        ],
+        "diversification": "Geographic (AUD) and sector (Australian resources) diversification from the otherwise heavily US/European and nuclear/AI-focused list.",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "TECN.SW",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "Swiss lab automation compounder in recovery; biopharma instrument demand rebound play; CHF defensive growth",
+      "complement_or_compete": "Pairs with ROG.SW as the two healthcare names on the list. TECN provides instruments/automation (capital equipment), ROG provides drugs and diagnostics (recurring consumables). Complementary rather than competitive. Both are Swiss CHF-denominated.",
+      "angle1_macro": {
+        "regime_fit": "Biopharma capex recovery after 2023-2025 destocking cycle is the primary driver — largely independent of oil/AI/nuclear macro. CHF translation tailwind for USD investors. China softness (Tecan has China exposure) is a headwind. 62.4% upside at a 24.57x P/E on a CHF 117 stock vs CHF 167-221 targets is striking.",
+        "drivers": [
+          "Biopharma instrument demand recovery (after destocking)",
+          "China market stabilization",
+          "New product launches (Veya, Duo, LabNavigator)"
+        ],
+        "sensitivity": "Biopharma sector spending sensitivity; China GDP/biotech cycle; CHF/USD translation; M&A integration (Paramit)"
+      },
+      "angle2_fundamental": {
+        "summary": "Lab automation leader with ~CHF 25B TAM. Revenue in recovery phase — channel checks suggest stabilization. 11x EV/EBITDA when measured against biopharma sector peers (typically 18-25x). Multiple Buy initiations at CHF 166-221 vs current CHF 117. The gap is extraordinary for a profitable Swiss compounder.",
+        "drivers": "Biopharma instrument recovery; China stabilization; new product ramp; Q2/H2 2026 earnings beats",
+        "valuation": "P/E 24.57x on current depressed earnings; consensus CHF 166-221 (avg ~CHF 195 = 62.4% upside per input). Berenberg CHF 220, MarketScreener CHF 221, Yahoo avg CHF 166. All agree direction is sharply higher.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate volatility; risk score 5/10; Swiss institutional quality; biopharma cycle weakness created the current dislocation; mean-reversion from cycle trough is the thesis",
+        "factor_clusters": [
+          "Swiss healthcare technology",
+          "Lab automation / biopharma instruments",
+          "CHF quality defensives"
+        ],
+        "diversification": "Healthcare/medtech exposure complementary to ROG. CHF defensive adds to the Swiss quality cluster (though that cluster is already large). The biopharma recovery driver is uncorrelated to oil/nuclear/AI.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "TGB",
+      "bucket": "cyclicals",
+      "portfolio_role": "Pure-play copper miner with Florence ISR project doubling output potential; leveraged to green energy transition copper demand; speculative upside on project delivery",
+      "complement_or_compete": "The only pure-play mining/copper name on the list. HGER (commodity ETF) includes copper but is diversified. TGB provides leveraged copper equity exposure — amplified sensitivity vs the commodity itself. No direct substitute.",
+      "angle1_macro": {
+        "regime_fit": "LME copper ~$12,100/t (2026E average per S&P Global) — below 2025 peaks but structurally supported by EV/grid electrification demand. US tariffs potentially disrupt copper trade flows but Canada-to-US supply (Gibraltar mine, BC) may be advantaged. CAD/USD tailwind from dollar weakness. Florence Copper Arizona = US domestic — tariff-advantaged.",
+        "drivers": [
+          "Copper spot price ($12,100/t 2026E)",
+          "Florence Copper ISR commissioning and first full production quarter",
+          "Gibraltar mine stable base production"
+        ],
+        "sensitivity": "High copper price sensitivity; project execution binary (Florence delays have happened before); CAD/USD FX; permitting/environmental risk at Florence Arizona"
+      },
+      "angle2_fundamental": {
+        "summary": "Florence Copper could double output to ~150M lbs Cu/year by 2027 at low cost (ISR method — minimal capital, low operating cost). Gibraltar is the cash-flow base. 60.6% upside to consensus. No P/E (mining EV/EBITDA framework). Q1 production results are the key near-term catalyst.",
+        "drivers": "Florence Copper commissioning timeline; Q1 2026 Gibraltar/Florence production output; copper price trajectory",
+        "valuation": "No P/E. Canaccord Genuity Buy C$14 (bull), BMO C$4.18 (bear), Cantor Hold C$5.50 — extreme target dispersion reflecting high binary risk from Florence execution. Current ~$8.80 USD equivalent near consensus mean. Risk/reward depends entirely on Florence.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility; risk score 8/10; mining junior with project execution risk; copper cycle + project binary creates double-layer of risk; analyst target spread of 3x is itself a volatility signal",
+        "factor_clusters": [
+          "Copper mining / critical minerals",
+          "Energy transition metals",
+          "Canadian junior miners"
+        ],
+        "diversification": "Adds the only direct mining equity exposure to the list. Low correlation to nuclear, AI, Swiss defensives. Copper is structurally tied to energy transition — a genuine thematic position.",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "TNK",
+      "bucket": "cyclicals",
+      "portfolio_role": "Mid-size crude tanker operator; geopolitical rate premium from Red Sea/Hormuz disruptions; variable dividend from excess cash",
+      "complement_or_compete": "Clusters with SU/XOM/XLE as energy names but a different mechanism (shipping rates vs production economics). The Iran-war shipping disruption is TNK's key catalyst. But it's a pure rate cycle play with very limited upside to consensus (1.4%) and high risk (8/10).",
+      "angle1_macro": {
+        "regime_fit": "Geopolitical disruptions (Red Sea, Hormuz risk) support tanker spot rates — directly positive for TNK revenue. Oil at $101+ increases the value of cargo transported. However, any resolution of Iran conflict would immediately compress tanker rates. High cyclicality with rate cycles.",
+        "drivers": [
+          "Tanker spot rates (Red Sea/Hormuz geopolitical premium)",
+          "Oil trade volume growth",
+          "Variable dividend excess cash distribution"
+        ],
+        "sensitivity": "Extremely high geopolitical sensitivity; tanker rate cycle can turn instantly; oil demand weakness from recession = rate compression; new vessel deliveries increase supply"
+      },
+      "angle2_fundamental": {
+        "summary": "Variable dividend structure passes excess cash to shareholders. P/E 7.69x — cheapest P/E on the list. But consensus $77-80 vs current ~$76 = only 1.4% upside. Evercore Buy $90 is the bull case; BofA Underperform $69 is the bear case. The easy money was made in the geopolitical premium run-up.",
+        "drivers": "Q1 2026 earnings (late April/May); tanker rate data; dividend declaration; Red Sea resolution or escalation",
+        "valuation": "P/E 7.69x is cheap by any measure but the tanker cycle is already elevated. BofA Underperform $69 at a current ~$76 price means one major house is actively negative. Very limited consensus upside.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility; risk score 8/10; tanker rates are among the most volatile asset classes; binary geopolitical event risk; small fleet concentration means a single vessel incident matters",
+        "factor_clusters": [
+          "Integrated oil / energy services",
+          "Tanker/shipping",
+          "Geopolitical premium plays"
+        ],
+        "diversification": "The only shipping name — genuinely diversifying within the energy complex. But the risk/reward (1.4% upside, 8/10 risk) makes it a hold-don't-add position currently.",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "XLE",
+      "bucket": "income_plays",
+      "portfolio_role": "Broad US energy sector ETF; income + energy inflation hedge; tactical energy exposure without single-stock risk",
+      "complement_or_compete": "XLE holds XOM as top position (~22%) — so owning both XLE and XOM is significant double-counting. XLE's P/E 21.3x is higher than XOM's 22.12x, and the fund adds services names (Schlumberger, Halliburton) not otherwise in the list. As an ETF, it dilutes the quality of the individual energy selections.",
+      "angle1_macro": {
+        "regime_fit": "Oil at $101-106/bbl is XLE's most powerful driver — sustained Iran-war geopolitical premium. Services exposure (SLB, HAL) benefits from higher E&P spending. No individual stock risk but also no alpha. At 21.3x P/E vs 5Y average 12.4x and 10Y average 17.7x — historically expensive for energy ETF.",
+        "drivers": [
+          "Oil price (primary)",
+          "US E&P spending levels",
+          "Energy dividend yield (~2.6-3.3%)"
+        ],
+        "sensitivity": "Very high oil price sensitivity; US dollar sensitivity (oil priced in USD); OPEC+ supply decisions"
+      },
+      "angle2_fundamental": {
+        "summary": "Energy sector ETF. 23 holdings dominated by XOM (~22%), CVX (~17%). P/E 21.3x above 5Y and 10Y historical averages. Buy signal absent — verdict 'Premium Priced'. The thesis is intact (oil at $101+) but multiple is elevated.",
+        "drivers": "OPEC+ decisions; Iran-war oil premium; Q2 energy earnings",
+        "valuation": "P/E 21.3x vs 5Y avg 12.4x and 10Y avg 17.7x — elevated. Input data buy signal = No. Trim vs adding given XOM direct holding provides more targeted exposure.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility; risk score 8/10; standard deviation ~22%; oil price beta means large drawdowns in any oil price correction; concentrated in few names (XOM/CVX)",
+        "factor_clusters": [
+          "ETFs and funds",
+          "Integrated oil / energy services",
+          "US energy sector"
+        ],
+        "diversification": "Overlaps heavily with XOM position. Consider: hold XOM (specific, higher quality) and trim XLE (redundant exposure at higher historical multiple). If only one energy name, XOM or SU is preferred over XLE.",
+        "sizing_tier": "satellite / medium"
+      }
+    },
+    {
+      "ticker": "XOM",
+      "bucket": "core_compounders",
+      "portfolio_role": "Integrated energy blue-chip; Permian growth engine; 40+ year dividend streak; defensive energy anchor",
+      "complement_or_compete": "The quality anchor of the energy cluster. XOM is to energy what NESN is to consumer staples — the blue-chip defensive compounder. SU provides higher upside but more geographical risk. XLE double-counts XOM. TNK is a pure tanker rate play. XOM is the 'own always, size for conviction' energy name.",
+      "angle1_macro": {
+        "regime_fit": "Oil at $101-106/bbl with $50/bbl Permian breakeven = excellent FCF generation. Pioneer acquisition fully integrated — Permian is now XOM's growth engine. Risk score 2/10 is the lowest energy name. Baytown hydrogen project adds long-term optionality on energy transition. USD weakness has minimal net impact (oil priced in USD — revenues and costs both dollar-linked).",
+        "drivers": [
+          "Permian production growth (post-Pioneer)",
+          "Oil price above $100/bbl",
+          "Baytown hydrogen / low-carbon project optionality"
+        ],
+        "sensitivity": "Primary sensitivity to oil price; secondary sensitivity to refining margins; Permian execution risk is low (proven assets)"
+      },
+      "angle2_fundamental": {
+        "summary": "One of the world's largest companies. Risk score 2/10. Pioneer acquisition now producing free cash flow. 40+ year dividend streak. JPM/MS Buy at $170-171 vs current ~$163-165 = modest upside but that understates the quality premium. No urgent catalyst near-term.",
+        "drivers": "Q1 2026 earnings; oil price trajectory; Permian production update; low-carbon project milestones",
+        "valuation": "P/E 22.12x — reasonable for a mega-cap integrated major in a high-oil environment. Only 3.9% upside to consensus but that's the cost of owning the best quality. Goldman Neutral $158 is the only skeptical voice; JPM/MS both $170-171.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low volatility for energy; risk score 2/10; mega-cap S&P500 anchor; drawdowns shallower than sector peers; dividend provides total return floor",
+        "factor_clusters": [
+          "Integrated oil / energy services",
+          "US large-cap value/dividend",
+          "Permian basin production"
+        ],
+        "diversification": "The safe-harbor energy name. Hold as the core energy position; let SU provide the higher-upside complement. Avoid double-counting with XLE.",
+        "sizing_tier": "satellite / medium"
+      }
+    }
+  ],
+  "factor_clusters": [
+    {
+      "cluster": "Nuclear / SMR thematic",
+      "members": [
+        "OKLO",
+        "SMR",
+        "BWXT",
+        "CCJ",
+        "ASY.PA"
+      ],
+      "shared_risks": "Uranium price volatility; SMR regulatory delays and cost overruns; nuclear project cancellations (Romania precedent for SMR); AI-power capex digestion reducing demand urgency; equity dilution risk for pre-revenue names (OKLO, SMR); geopolitical de-escalation removing energy security premium",
+      "concentration_warning": "5 names = 15% of list. OKLO + SMR are nearly identical risk-factor exposures (both pre-revenue, both AI-nuclear). BWXT and CCJ are higher quality and genuinely differentiated. Reduce OKLO+SMR to max one position; keep BWXT as the quality anchor; CCJ for uranium spot exposure."
+    },
+    {
+      "cluster": "US AI-power / grid infrastructure",
+      "members": [
+        "AMSC",
+        "PSIX",
+        "HUBB"
+      ],
+      "shared_risks": "AI hyperscaler capex digestion (any spend cut signals simultaneous sell across all three); grid electrification project delays; copper/steel input cost inflation; US tariff disruption to supply chains; small-cap factor risk (AMSC/PSIX more vulnerable than HUBB)",
+      "concentration_warning": "3 names correlated to the same AI capex cycle. PSIX is the best-value entry (15x P/E, 36% upside, buy signal); HUBB is most expensive (33x P/E, negative upside); AMSC is fully priced (2.4% upside). Consolidate into PSIX as the primary position."
+    },
+    {
+      "cluster": "Swiss quality defensives",
+      "members": [
+        "NESN.SW",
+        "ROG.SW",
+        "GIVN.SW",
+        "SREN.SW",
+        "SGSN.SW",
+        "TECN.SW"
+      ],
+      "shared_risks": "CHF appreciation reducing competitiveness of Swiss exports (though current USD weakness is positive for USD investors); Swiss referendum/regulatory risk (Roche, Nestlé); slow-growth European macro reducing end-market demand; geopolitical disruption to global trade (SGSN TIC services most exposed)",
+      "concentration_warning": "6 names = 18% of list. The single largest cluster. However, within the cluster, the correlations are LOWER than they appear — GIVN (B2B consumer ingredients), ROG (pharma/diagnostics), SREN (reinsurance), SGSN (TIC services), TECN (lab automation), NESN (consumer staples) have distinct economic drivers. The common factor is CHF and Swiss quality, not fundamentals. This cluster is actually well-diversified internally. No need to reduce Swiss exposure — it IS the diversification vs the cyclical/thematic names."
+    },
+    {
+      "cluster": "Integrated oil / energy services",
+      "members": [
+        "XOM",
+        "SU",
+        "XLE",
+        "TNK"
+      ],
+      "shared_risks": "Iran conflict de-escalation crashing Brent to $70s; global oil demand destruction from recession; OPEC+ production increase; energy transition accelerating beyond consensus; tanker rate normalization (TNK specifically); WCS discount widening (SU specifically)",
+      "concentration_warning": "4 names = 12% of list. XLE holds XOM (~22%) — direct double-count. SU is the highest-upside (42.7%) and best-value energy name. TNK has 1.4% upside and 8/10 risk — weakest risk-reward. Reduce to 2-3 energy names: XOM + SU as core, drop XLE (redundant) or TNK (limited upside, high risk)."
+    },
+    {
+      "cluster": "European defense / aerospace",
+      "members": [
+        "RR.L",
+        "EXA.PA",
+        "ASY.PA",
+        "TE.PA",
+        "PRY.MI"
+      ],
+      "shared_risks": "Geopolitical de-escalation (Ukraine ceasefire, Iran resolution) reducing urgency of defense/energy security spending; EUR/USD reversal (though currently favorable); European fiscal consolidation constraining national defense budgets; project execution risk on large backlogs",
+      "concentration_warning": "5 names — diverse enough internally (jet engines / naval drones / nuclear engineering / LNG / cables) that correlations are lower than cluster label implies. RR.L and EXA.PA have active buy signals; PRY.MI and ASY.PA are trading near/above consensus. Prefer RR.L and EXA.PA within this cluster."
+    },
+    {
+      "cluster": "Semicap / AI hardware",
+      "members": [
+        "ASM.AS",
+        "SNDK"
+      ],
+      "shared_risks": "Memory and equipment cycles are correlated to the same AI capex driver; China export controls (ASM has China revenue exposure); NAND cycle downturn; Samsung/Micron supply ramp cutting SNDK's pricing advantage",
+      "concentration_warning": "2 names. ASM.AS (equipment, 17% upside, 6/10 risk) is higher quality than SNDK (memory, 2% upside, 8/10 risk). SNDK has already made its move (30x from lows, trading above targets). Trim/avoid SNDK; maintain ASM.AS as the semiconductor proxy."
+    },
+    {
+      "cluster": "ETFs and funds",
+      "members": [
+        "XLE",
+        "SCHD",
+        "GLIFX",
+        "HGER",
+        "QDVW"
+      ],
+      "shared_risks": "ETFs provide beta not alpha — any systematic sell-off hits all ETFs equally; GLIFX actively managed but still broadly correlated to equity markets; HGER commodity exposure can be volatile; XLE overlaps with XOM direct position; SCHD sector concentrations (energy 17%, consumer staples 19%) overlap with other list holdings",
+      "concentration_warning": "5 ETFs/funds = 15% of list. They serve different purposes: GLIFX (infra income + inflation hedge), HGER (commodity inflation), SCHD (US dividend income), QDVW (global quality dividend), XLE (US energy). XLE is the most redundant given XOM direct holding. Consider whether 5 fund positions is optimal or whether consolidating to 3 (GLIFX + HGER + SCHD) sharpens the portfolio."
+    },
+    {
+      "cluster": "Commodity / critical materials",
+      "members": [
+        "TGB",
+        "CCJ",
+        "HGER"
+      ],
+      "shared_risks": "Global growth slowdown reducing commodity demand; Chinese property market recovery stalling (copper demand); uranium spot price retracement; USD strength (commodity inverse); Chinese copper over-production",
+      "concentration_warning": "3 names across copper, uranium, and broad commodities. Internally diversified but all share commodity-cycle risk. Manageable cluster size."
+    },
+    {
+      "cluster": "Pre-revenue / venture-stage",
+      "members": [
+        "OKLO",
+        "SMR",
+        "DEM.AX"
+      ],
+      "shared_risks": "Equity dilution to fund operating losses; regulatory delays; no revenue anchor for valuation; high real-rate environment compresses DCF values; binary execution outcomes",
+      "concentration_warning": "3 pre-revenue names across very different industries. OKLO and SMR are correlated (same nuclear/AI theme). DEM.AX is uncorrelated but extreme micro-cap. Together they represent meaningful tail risk if held at full sizing. Each should be small/option-like."
+    }
+  ],
+  "high_priority_names": [
+    {
+      "ticker": "GIVN.SW",
+      "type": "all_three_align",
+      "case": "All three angles are bullish simultaneously: (1) Macro — CHF strengthening vs USD benefits USD investors; defensive B2B consumer staples insulated from oil shock; (2) Fundamental — trading at CHF 2,820 vs consensus CHF 4,150 (47% upside), P/E 24.4x below 10-year historical average for this quality of compounder — rare for a defensive leader; JPM Overweight CHF 4,200, Berenberg Buy CHF 4,700; Q1 2026 sales catalyst imminent (April 2026); (3) Quantitative — risk score 3/10, low volatility, maximum diversification from the list's AI/nuclear/energy cluster concentration. This is arguably the best risk-adjusted unforced-error setup on the entire watchlist.",
+      "entry_triggers": [
+        "Immediate — buy signal already active; current price CHF 2,820 is below all major analyst targets",
+        "Q1 2026 sales results (April 2026) confirming organic growth trajectory — use any post-result dip as a top-up opportunity",
+        "Any macro risk-off (CHF typically strengthens in flight-to-quality) would be the ideal add-on entry"
+      ],
+      "thesis_risks": {
+        "macro": "Fragrance industry pricing competition probe (EU regulatory) could constrain pricing power; strong CHF is positive for USD investors but reduces EUR-market revenue competitiveness",
+        "fundamental": "Input cost inflation (natural ingredients, solvents) in an oil-shock environment could squeeze margins; M&A integration risk if large acquisition pursued",
+        "quantitative": "The 47% gap to consensus target implies the market is pricing in persistent margin compression — consensus could be wrong on the upside too (multiple inputs to flavors/fragrances that are commodity-sensitive)"
+      }
+    },
+    {
+      "ticker": "RR.L",
+      "type": "all_three_align",
+      "case": "Turnaround fully validated, all three angles supportive: (1) Macro — European defense budget expansion is structural, not cyclical; civil aviation flying-hours recovery is intact; GBP strength (USD/GBP 1.349) adds translation benefit; (2) Fundamental — P/E 16.3x is the cheapest aerospace/defense valuation, with 22.7% upside to consensus; three Buy ratings (JPM GBX1,500, DB GBX1,550, Jefferies GBX1,530) all clustered tightly; buyback program executing; (3) Quantitative — risk score 6/10 (moderate, appropriate for the upside); genuinely diversifying addition vs Swiss defensives, nuclear, and oil clusters.",
+      "entry_triggers": [
+        "Q1 2026 earnings release — any miss on flying hours guidance would be a buy-the-dip opportunity given structural recovery",
+        "GBP/USD pulling back toward 1.32 (stronger USD scenario) would provide better FX entry for USD investors",
+        "New defense contract announcement — any major EJ200/Typhoon or naval program win"
+      ],
+      "thesis_risks": {
+        "macro": "Iran de-escalation removing European defense urgency; jet fuel cost surge from oil-shock squeezing airline customers' maintenance spend",
+        "fundamental": "Lingering leverage — though much improved; civil aviation demand shock (new COVID variant or recession reducing flying hours); engine supply chain delays",
+        "quantitative": "80%+ 1-year rally creates mean-reversion risk; market may have pulled forward 3+ years of recovery earnings"
+      }
+    },
+    {
+      "ticker": "PSIX",
+      "type": "all_three_align",
+      "case": "The most actionable US name on the list: (1) Macro — AI hyperscaler capex $630B drives demand for data center natural gas backup power, precisely PSIX's market; (2) Fundamental — P/E 15.59x is the cheapest AI-power proxy on the list (AMSC 16.33x near target, HUBB 33x above target); 36% upside to consensus; three Buy ratings ($87-109) with buy signal active; ROE >80% exceptional capital efficiency; (3) Quantitative — high beta (2.3) is a risk but is appropriate for a satellite/medium position sized for upside.",
+      "entry_triggers": [
+        "Any near-term pullback toward $65-68 (prior consolidation zone) before Q1 earnings (May 2026)",
+        "Q1 2026 earnings beat — if data center contract order intake accelerates, price could re-rate toward $92-109 range",
+        "Hydrogen engine commercialization update — any commercial pilot announcement rerates the long-term story"
+      ],
+      "thesis_risks": {
+        "macro": "AI capex digestion (any hyperscaler spend reduction immediately compresses PSIX's order pipeline); beta 2.3 means a 10% equity market drawdown = 23% PSIX drawdown",
+        "fundamental": "Weichai China strategic shareholder adds US-China geopolitical binary risk; small float means institutional exits cause disproportionate price impact",
+        "quantitative": "Beta 2.3 — the highest realized vol on the list; Chinese supply chain exposure is tail risk in trade-war escalation scenario"
+      }
+    },
+    {
+      "ticker": "TECN.SW",
+      "type": "all_three_align",
+      "case": "The highest absolute upside of any non-speculative name (62.4%) with all three angles supporting a re-entry: (1) Macro — CHF appreciation adds FX tailwind; biopharma recovery independent of oil/nuclear macro = genuine uncorrelated driver; (2) Fundamental — trading at CHF 117 vs CHF 166-221 analyst targets; 11x EV/EBITDA vs biopharma instrument sector 18-25x; all analysts (Berenberg CHF 220, MarketScreener CHF 221) are sharply bullish; temporary destocking cycle that is now reversing; (3) Quantitative — risk score 5/10, Swiss quality characteristics; biopharma cycle trough = mean-reversion opportunity with quantifiable timeline (new product launches H2 2026).",
+      "entry_triggers": [
+        "Immediate buy signal active — CHF 117 is already well below all analyst targets; start a position now",
+        "Q2/H2 2026 earnings beats (instrument sales recovery) confirming the biopharma destocking is over",
+        "China biotech market stabilization signal — any positive China pharma-capex data point"
+      ],
+      "thesis_risks": {
+        "macro": "Prolonged biopharma spending caution if biotech sector faces funding crunch in higher-rate environment; China economic deterioration beyond base case",
+        "fundamental": "Paramit acquisition integration risk; new product launch delays (Veya, Duo); competition from Tecan peers (HAMILTON, Beckman); CHF strength reducing competitiveness of CHF-priced instruments internationally",
+        "quantitative": "The 62% upside gap implies the market is pricing in persistent biopharma weakness — this could be partially right; patience required for 12-18 month recovery thesis"
+      }
+    },
+    {
+      "ticker": "SU",
+      "type": "all_three_align",
+      "case": "The clearest fundamental-macro alignment in the energy cluster: (1) Macro — oil at $101-106/bbl vs SU breakeven ~$50/bbl = FCF generation at 2x the expected rate; USD/CAD dollar weakness adds translation tailwind; (2) Fundamental — 42.7% upside to consensus (JPM C$105, RBC C$100); P/E 18.15x reasonable for an integrated major at elevated oil; multi-analyst buy consensus with tight target clustering; Q1 earnings May 6 is an imminent catalyst; (3) Quantitative — risk score 4/10 (moderate for energy), large-cap integrated = lower vol than TNK or TGB.",
+      "entry_triggers": [
+        "Q1 2026 earnings (May 6) — any production update on Fort Hills/Syncrude ramp above plan would re-rate toward $75+",
+        "Brent crude holding above $95/bbl through Q2 — sustains FCF generation and buyback capacity",
+        "Any pullback toward CAD 73-75 ($54-56 USD at current FX) — a 10-15% dip from current levels"
+      ],
+      "thesis_risks": {
+        "macro": "Iran de-escalation crashing Brent to $70s — would compress FCF dramatically; WCS discount widening (oil sands crude vs WTI) if US pipeline capacity becomes constrained",
+        "fundamental": "Canadian oil sands regulatory risk (emissions caps from Ottawa); new management execution on stated operational improvements; wildfire/weather operational disruptions (Alberta risk)",
+        "quantitative": "Oil price beta means SU can fall 20-30% quickly in an oil price correction; WCS-WTI spread is an idiosyncratic risk not hedged by holding WTI futures"
+      }
+    },
+    {
+      "ticker": "IRDM",
+      "type": "sharp_conflict",
+      "case": "Structural moat vs egregious current pricing. (1) Fundamental — current price is 28.2% ABOVE the consensus analyst target (Morgan Stanley $26, Raymond James $26); the only name on the list trading this far above consensus; (2) Macro — high debt (376% D/E) in a 4.35% real rate environment creates persistent financial pressure; (3) Quantitative — risk score 7/10. The conflict: the satellite monopoly thesis is valid long-term (global coverage, DoD contracts, Project Stardust D2D optionality), but the PRICE has massively overrun the fundamental case. This is a hold-at-best / reduce situation, NOT an add.",
+      "entry_triggers": [
+        "Only re-enter aggressively if price pulls back to $27-31 range (consensus band) — currently ~$40+",
+        "Project Stardust D2D successful commercial launch could justify premium — watch for 2026 launch confirmation",
+        "Any pullback to sub-$28 level would align price with fundamental value"
+      ],
+      "thesis_risks": {
+        "macro": "Real rate headwind amplified by 376% D/E; defense budget cuts; USD strength (revenues mostly USD but servicing global customers)",
+        "fundamental": "Starlink existential threat on consumer/IoT side; debt refinancing risk at elevated rates; management execution on Project Stardust timeline",
+        "quantitative": "At -28% to consensus, the quantitative signal is to REDUCE not add; vol is high (7/10) which means a catalyst miss could drive violent downside"
+      }
+    },
+    {
+      "ticker": "SMR",
+      "type": "sharp_conflict",
+      "case": "The sharpest internal conflict on the list — NRC certification is a genuine first-mover advantage (Angle 2 positive), but the financials are in direct conflict with the macro environment: (1) Angle 1 negative — elevated real rates (+1.5%) heavily discount a pre-revenue name with no cash generation through 2026+; (2) Angle 2 mixed — Citi Sell at $9 vs B. Riley Buy at $19 = 2x analyst range, the widest dispersion on the list, indicating genuine uncertainty; 56% YTD drawdown before partial recovery; (3) Angle 3 negative — risk score 9/10, highly correlated to OKLO (redundant if both held). ENTRA1/TVA 6 GW program is real but multi-year away from revenue. The watchlist should not hold both SMR and OKLO simultaneously.",
+      "entry_triggers": [
+        "TVA/ENTRA1 first 500MW SMR construction start announcement — a genuine de-risking milestone",
+        "Price pullback to $10-11 (Citi/Goldman target zone) would establish a better risk/reward",
+        "Any strategic investor (utility, tech hyperscaler) taking a direct equity stake — validates commercial pathway"
+      ],
+      "thesis_risks": {
+        "macro": "Real rates at +1.5% are a sustained valuation headwind; any Fed rate hike would be severe for SMR; Iran de-escalation removes nuclear energy security urgency",
+        "fundamental": "Ongoing equity dilution to fund losses; Romanian project cancellation set a precedent that projects can be cancelled; cost-overrun risk at first-of-a-kind plants",
+        "quantitative": "9/10 risk score; Citi Sell = institutional selling pressure; 56% prior YTD drawdown is a warning about downside depth"
+      }
+    }
+  ],
+  "actions_to_consider": {
+    "upgrade_priority": [
+      "GIVN.SW: Move to core/large sizing — 47% upside, P/E below 10Y average, defensive compounder, CHF tailwind, Q1 2026 sales catalyst imminent. Strongest all-three-angle alignment on list.",
+      "TECN.SW: Upgrade to satellite/medium — 62% upside, 11x EV/EBITDA vs sector 18-25x, Swiss quality characteristics, biopharma recovery trade has defined catalyst timeline.",
+      "PSIX: Best-value AI-power trade — 36% upside at 15.59x P/E (cheapest in grid-AI cluster), buy signal active, clear FCF model. Upgrade vs AMSC (fully priced) and HUBB (overvalued at 33x).",
+      "RR.L: Maintain active position — 22.7% upside, P/E 16.3x cheapest aerospace/defense on list, European defense budget structurally expanding. Q1 earnings imminent.",
+      "EXA.PA: Upgrade to satellite/medium — 24% upside, buy signal active, 519% order growth validates European rearmament thesis, positive EPS transition confirmed. Small position but justified by unique exposure."
+    ],
+    "downgrade_priority": [
+      "IRDM: Reduce or avoid — trading 28.2% ABOVE consensus target; most overvalued name vs analyst consensus. Real upside only if Project Stardust materially outperforms ALL analyst estimates.",
+      "HUBB: Downgrade to hold only — P/E 33x vs 23x historical average; -1.7% to consensus; Morgan Stanley/JPM/Barclays all Neutral/Hold. The AI-power thesis is better expressed via PSIX.",
+      "AMSC: Move to small/hold — 2.4% upside; Roth MKM target $40 implies 19% downside; volatile small-cap with limited new upside after 100%+ prior run. Wait for $40 pullback per buy signal.",
+      "PRY.MI: Reduce — trading 9.9% above consensus; Morgan Stanley Hold at €95 implies real downside. Copper input cost headwind from oil-shock inflation is margin risk on fixed-price projects.",
+      "XLE: Trim — redundant to XOM direct position (XLE holds XOM 22%); P/E 21.3x above 5Y and 10Y historical averages; buy signal absent. Consolidate energy exposure into XOM + SU.",
+      "SMR: Reduce to minimum option-like size — duplicate risk factor to OKLO; 9/10 risk; Citi Sell at $9; either OKLO or SMR, not both. The TVA/ENTRA1 program is 3-5 years from meaningful revenue.",
+      "TNK: Hold only — 1.4% upside; 8/10 risk; BofA Underperform $69. Geopolitical rate premium already in price. Iranian de-escalation would be violent downside catalyst.",
+      "TEA.AX: Downgrade to small/option-like — trading 11.9% above consensus; P/E 29x vs sector 16x; higher debt post-acquisitions. Wait for A$4.50 or below."
+    ],
+    "themes_to_add": [
+      "Gold miners (e.g., Newmont, Barrick, or a gold miner ETF like GDX) — gold at $4,838/oz all-time highs with UBS/GS targets $5,400-6,200; zero gold mining equity exposure despite the commodity being in a structural bull market. HGER provides commodity exposure but is heavily diversified.",
+      "Emerging market healthcare / pharma — no EM exposure on the list; India healthcare (Sun Pharma, Dr. Reddy's) or Southeast Asian healthcare plays provide genuine geographic diversification for a Thailand-based investor.",
+      "Long-duration government bonds (e.g., TLT) — if/when the Fed pivots on recession concerns, duration will rally sharply; the list has no fixed-income exposure and is heavily equity. One bond ETF provides convexity against the 'hard landing' tail risk.",
+      "EM ex-China industrials (e.g., India infrastructure, Vietnam manufacturing, India defense) — geopolitically relevant for a Thailand-based investor; India's defense indigenization (HAL, BEL) is a structural theme.",
+      "European quality growth (e.g., LVMH, Hermes, or luxury goods index) — the list is heavy on Swiss defensives and European defense/industrial but lacks consumer discretionary or luxury exposure that benefits from USD weakness."
+    ],
+    "themes_to_trim": [
+      "Nuclear/SMR cluster: 5 names (OKLO, SMR, BWXT, CCJ, ASY.PA) = 15% of list. The thesis is consensus-crowded and SMR valuations already reflect strong growth expectations. Reduce to BWXT (quality operational) + CCJ (uranium exposure) + one of OKLO/SMR (reactor optionality). Drop ASY.PA only if selling below €42.",
+      "US AI-power grid: AMSC + PSIX + HUBB = 9% of list on the same capex cycle. Keep PSIX (best value), reduce HUBB (overvalued), and put AMSC on watchlist for $40 re-entry.",
+      "Energy ETF redundancy: XLE is largely duplicative of the direct XOM holding. Trim XLE; maintain XOM and SU as the focused energy positions.",
+      "Pre-revenue speculative: OKLO + SMR + DEM.AX together are three venture-stage positions. Ensure aggregate sizing for these three is not more than 3-5% of total equity."
+    ],
+    "research_to_clarify": [
+      "DEM.AX: No analyst coverage, no target, no upside_pct. Needs a deeper fundamental dive — what is the current EBITDA run-rate, cash burn, and time to profitability? This is the most opaque name on the list.",
+      "HGER vs GLIFX correlation: Both are 'alternative asset' income plays — what is the actual return correlation between the two? If high (>0.7), one of them is redundant.",
+      "SEZL credit quality in stagflation: US consumer credit losses under an oil-shock-driven stagflation scenario are poorly modeled for BNPL names. Need a stress test: what happens to GMV and credit losses if US unemployment rises to 5.5% and consumer confidence falls 20 pts?",
+      "IRDM debt maturity profile: 376% debt/equity is a concern — need to understand the maturity schedule and refinancing risk at current rates (3.75% Fed funds). If near-term maturities exist, this is a more acute risk than the thesis implies.",
+      "CCJ vs uranium spot: The input data shows CCJ trading at -1.8% upside to consensus BUT uranium spot has recovered to $86.80/lb from $63 lows. Has consensus fully updated for the spot recovery? Re-check current analyst targets vs the uranium spot recovery.",
+      "TGB Florence Copper timeline verification: The input data is optimistic on Florence commissioning — need to verify that Arizona operating permit and commissioning timeline are on track, as previous delays have been significant."
+    ]
+  }
+}
