@@ -49,13 +49,13 @@
       "company": "ASM International NV",
       "sector": "Semiconductor Equipment",
       "currency": "EUR",
-      "price": "â¬812.00",
+      "price": "Ã¢ÂÂ¬812.00",
       "price_num": 812,
-      "market_cap": "â¬39.8B",
+      "market_cap": "Ã¢ÂÂ¬39.8B",
       "pe_ratio": "40.45 (TTM)",
       "what_it_does": "ASM International NV designs, manufactures, and services wafer processing equipment for semiconductor manufacturers, specializing in thin-film deposition technologies including atomic layer deposition (ALD), epitaxy, and chemical vapor deposition (CVD). The company supplies tools used to deposit precise layers of materials onto silicon wafers to produce advanced integrated circuits for AI, high-performance computing, and other applications. Headquartered in Almere, Netherlands, it serves leading chipmakers worldwide with manufacturing in Singapore and South Korea.",
       "is_good_bet": "ASM is well-positioned in the booming semiconductor equipment market driven by AI infrastructure buildout and advanced node transitions like Gate-All-Around (GAA) at 2nm and 1.4nm, where its ALD and epitaxy tools see increased intensity per wafer. Record Q1 2026 margins (33.1%) and double-digit growth outlook for 2026 highlight execution strength amid strong logic/foundry demand. China rebound and spares/services growth add resilience. However, cyclicality and high valuation warrant caution; bear case sees slowdown if AI hype cools or supply chain issues persist.",
-      "buy_now_signal": "No, current price around â¬812 with P/E 40x reflects premium valuation vs historical averages (~24x); analysts' average target ~â¬950 implies modest 17% upside, but recent strength and high targets from bulls like Morgan Stanley (â¬1000) suggest potential if Q2 beats continue. Wait for pullback given rich multiples.",
+      "buy_now_signal": "No, current price around Ã¢ÂÂ¬812 with P/E 40x reflects premium valuation vs historical averages (~24x); analysts' average target ~Ã¢ÂÂ¬950 implies modest 17% upside, but recent strength and high targets from bulls like Morgan Stanley (Ã¢ÂÂ¬1000) suggest potential if Q2 beats continue. Wait for pullback given rich multiples.",
       "verdict": "Premium Priced",
       "status": "Monitoring",
       "risk_score": 6,
@@ -63,41 +63,41 @@
         {
           "name": "JPMorgan",
           "rating": "Buy",
-          "target": "â¬930",
+          "target": "Ã¢ÂÂ¬930",
           "source": "[Investing.com](https://www.investing.com/equities/asm-international-consensus-estimates)"
         },
         {
           "name": "Morgan Stanley",
           "rating": "Buy",
-          "target": "â¬1000",
+          "target": "Ã¢ÂÂ¬1000",
           "source": "[Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/1503090/asm-international-nv-0nx3-gets-a-buy-from-morgan-stanley/)"
         },
         {
           "name": "UBS",
           "rating": "Buy",
-          "target": "â¬1000",
+          "target": "Ã¢ÂÂ¬1000",
           "source": "[Investing.com](https://www.investing.com/equities/asm-international-consensus-estimates)"
         }
       ],
-      "consensus_target": "â¬950",
+      "consensus_target": "Ã¢ÂÂ¬950",
       "consensus_target_num": 950,
       "upside_pct": 17,
-      "key_catalysts": "Q2 revenue â¬980M Â±5%; H2 strength in advanced logic/foundry and 1.4nm pilots; AI infrastructure expansion; memory recovery with 4FÂ² transition; China mature node rebound.",
+      "key_catalysts": "Q2 revenue Ã¢ÂÂ¬980M ÃÂ±5%; H2 strength in advanced logic/foundry and 1.4nm pilots; AI infrastructure expansion; memory recovery with 4FÃÂ² transition; China mature node rebound.",
       "key_risks": "Semiconductor cyclical downturn; China exposure/geopolitical risks/export controls; supply chain constraints; high valuation vulnerable to AI spending slowdown; competition in deposition tools.",
-      "notes": "No, current price around â¬812 with P/E 40x reflects premium valuation vs historical averages (~24x); analysts' average target ~â¬950 implies modest 17% upside, but recent strength and high targets from bulls like Morgan Stanley (â¬1000) suggest potential if Q2 beats continue. Wait for pullback given rich multiples."
+      "notes": "No, current price around Ã¢ÂÂ¬812 with P/E 40x reflects premium valuation vs historical averages (~24x); analysts' average target ~Ã¢ÂÂ¬950 implies modest 17% upside, but recent strength and high targets from bulls like Morgan Stanley (Ã¢ÂÂ¬1000) suggest potential if Q2 beats continue. Wait for pullback given rich multiples."
     },
     {
       "ticker": "ASY.PA",
       "company": "Assystem SA",
       "sector": "Industrials / Engineering & Construction",
       "currency": "EUR",
-      "price": "â¬44.10",
+      "price": "Ã¢ÂÂ¬44.10",
       "price_num": 44.1,
-      "market_cap": "â¬687m",
+      "market_cap": "Ã¢ÂÂ¬687m",
       "pe_ratio": "88.04",
       "what_it_does": "Assystem SA provides engineering and infrastructure project management services worldwide, focusing on critical and complex projects for public authorities and utilities. It offers services in nuclear, energy, transportation, defense, and buildings/infrastructure, including decommissioning, waste management, and digital engineering. The company operates in Europe, North America, and Asia.",
       "is_good_bet": "Bull thesis: Strong positioning in nuclear energy and infrastructure megatrends with stable long-term contracts; recent Q1 revenue growth and dividend; consensus OUTPERFORM/Buy from available analysts. Bear thesis: High P/E ratio of 88 suggests overvaluation or thin margins; cyclical exposure to government spending; limited analyst coverage signals lower liquidity/interest. Overall neutral with value in energy transition exposure but caution on valuation.",
-      "buy_now_signal": "No strong buy signal; trading near consensus target (~â¬48) with high P/E; wait for dip below â¬42 or earnings catalyst.",
+      "buy_now_signal": "No strong buy signal; trading near consensus target (~Ã¢ÂÂ¬48) with high P/E; wait for dip below Ã¢ÂÂ¬42 or earnings catalyst.",
       "verdict": "Reasonably Priced",
       "status": "Monitoring",
       "risk_score": 6,
@@ -105,28 +105,28 @@
         {
           "name": "MarketScreener Consensus",
           "rating": "OUTPERFORM",
-          "target": "â¬48.27",
+          "target": "Ã¢ÂÂ¬48.27",
           "source": "[MarketScreener](https://www.marketscreener.com/quote/stock/ASSYSTEM-4614/consensus/)"
         },
         {
           "name": "Stockopedia Consensus",
           "rating": "Buy",
-          "target": "â¬48.80",
+          "target": "Ã¢ÂÂ¬48.80",
           "source": "[Stockopedia](https://www.stockopedia.com/share-prices/assystem-sa-EPA:ASY/)"
         },
         {
           "name": "Investing.com Consensus (4 analysts)",
           "rating": "N/A",
-          "target": "â¬47.95",
+          "target": "Ã¢ÂÂ¬47.95",
           "source": "[Investing.com](https://www.investing.com/equities/assytem-consensus-estimates)"
         }
       ],
-      "consensus_target": "â¬48",
+      "consensus_target": "Ã¢ÂÂ¬48",
       "consensus_target_num": 48,
       "upside_pct": 8.8,
       "key_catalysts": "Q2 earnings (July 2026), nuclear project wins, European infrastructure spending updates, dividend announcement.",
       "key_risks": "Earnings miss on high expectations, cyclical slowdown in energy/infra capex, high valuation compression, limited coverage increases volatility.",
-      "notes": "No strong buy signal; trading near consensus target (~â¬48) with high P/E; wait for dip below â¬42 or earnings catalyst."
+      "notes": "No strong buy signal; trading near consensus target (~Ã¢ÂÂ¬48) with high P/E; wait for dip below Ã¢ÂÂ¬42 or earnings catalyst."
     },
     {
       "ticker": "BWXT",
@@ -259,13 +259,13 @@
       "company": "Exail Technologies",
       "sector": "Industrials",
       "currency": "EUR",
-      "price": "â¬125",
+      "price": "Ã¢ÂÂ¬125",
       "price_num": 125,
-      "market_cap": "â¬2.12B",
+      "market_cap": "Ã¢ÂÂ¬2.12B",
       "pe_ratio": "736",
       "what_it_does": "Exail Technologies is a French high-tech company specializing in robotics, navigation, maritime drones, photonics, and quantum technologies for defense and civil applications. It develops unmanned systems, inertial navigation sensors, and optical components used in harsh environments from deep sea to space. Approximately 56% of sales come from defense, with strong presence in over 80 countries.",
-      "is_good_bet": "Exail benefits from rising European defense budgets amid geopolitical tensions, with strong order growth (519% in Q1 2025, backlog â¬1.1B) and revenue increases (40% Q1 2026, 52% Q2 2025). Transition to profitability with positive EPS supports growth potential in high-tech defense niches like underwater drones and navigation. However, high valuation and cyclical defense spending pose risks, but momentum in orders suggests bull case for long-term growth.",
-      "buy_now_signal": "Yes, with consensus target â¬155 (24% upside from â¬125) and strong buy ratings from multiple analysts. Recent revenue growth and massive order surges indicate positive momentum despite elevated P/E.",
+      "is_good_bet": "Exail benefits from rising European defense budgets amid geopolitical tensions, with strong order growth (519% in Q1 2025, backlog Ã¢ÂÂ¬1.1B) and revenue increases (40% Q1 2026, 52% Q2 2025). Transition to profitability with positive EPS supports growth potential in high-tech defense niches like underwater drones and navigation. However, high valuation and cyclical defense spending pose risks, but momentum in orders suggests bull case for long-term growth.",
+      "buy_now_signal": "Yes, with consensus target Ã¢ÂÂ¬155 (24% upside from Ã¢ÂÂ¬125) and strong buy ratings from multiple analysts. Recent revenue growth and massive order surges indicate positive momentum despite elevated P/E.",
       "verdict": "Reasonably Priced",
       "status": "Under Review",
       "risk_score": 7,
@@ -273,28 +273,28 @@
         {
           "name": "Yahoo Finance Analysts",
           "rating": "Buy",
-          "target": "â¬155",
+          "target": "Ã¢ÂÂ¬155",
           "source": "[Yahoo Finance](https://finance.yahoo.com/quote/EXA.PA)"
         },
         {
           "name": "eToro Consensus",
           "rating": "Buy",
-          "target": "â¬155",
+          "target": "Ã¢ÂÂ¬155",
           "source": "[eToro](https://www.etoro.com/markets/exa.pa)"
         },
         {
           "name": "TradingView Analysts",
           "rating": "Strong Buy",
-          "target": "â¬157",
+          "target": "Ã¢ÂÂ¬157",
           "source": "[TradingView](https://www.tradingview.com/symbols/EURONEXT-EXA/forecast/)"
         }
       ],
-      "consensus_target": "â¬155",
+      "consensus_target": "Ã¢ÂÂ¬155",
       "consensus_target_num": 155,
       "upside_pct": 24,
       "key_catalysts": "Continued defense order intake growth, Q1 2026 revenue results, new contracts from navies, European rearmament programs (next 3-6 months).",
       "key_risks": "Geopolitical de-escalation reducing defense spending, execution risks on large backlog, high debt levels, supply chain issues in high-tech components.",
-      "notes": "Yes, with consensus target â¬155 (24% upside from â¬125) and strong buy ratings from multiple analysts. Recent revenue growth and massive order surges indicate positive momentum despite elevated P/E."
+      "notes": "Yes, with consensus target Ã¢ÂÂ¬155 (24% upside from Ã¢ÂÂ¬125) and strong buy ratings from multiple analysts. Recent revenue growth and massive order surges indicate positive momentum despite elevated P/E."
     },
     {
       "ticker": "GIVN.SW",
@@ -357,19 +357,19 @@
         {
           "name": "Morningstar",
           "rating": "4-5 Stars (3Y/5Y/10Y)",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[Morningstar](https://www.morningstar.com/funds/xnas/glifx/quote), [Lazard Fact Sheet](https://www.lazardassetmanagement.com/content/dam/lazard-asset-management/lmap-documents/10612/287220.pdf)"
         },
         {
           "name": "Yahoo Finance / Morningstar",
           "rating": "5 Stars, Below Average Risk",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[Yahoo Finance](https://finance.yahoo.com/quote/GLIFX)"
         },
         {
           "name": "Lazard Asset Management",
           "rating": "Positive Outlook (outperforms benchmark)",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[Lazard Fact Sheet](https://www.lazardassetmanagement.com/content/dam/lazard-asset-management/lmap-documents/10612/287220.pdf)"
         }
       ],
@@ -393,29 +393,29 @@
       "is_good_bet": "HGER offers strong inflation hedging through adaptive commodity exposure, outperforming peers and S&P 500 with smoother returns since 2022 inception (YTD +28.65%, 1-yr +41%). Provides diversification from equities/bonds with 5.69% yield and low equity beta (~0.2-0.8). Bull case: persistent inflation/debasement favors gold tilt; institutional inflows past $2B AUM signal confidence. Bear case: concentration in gold exposes to dollar strength/rate hikes; futures roll costs in contango.",
       "buy_now_signal": "No, near 52-week high ($32.03) after strong YTD gains; underlying commodities (esp. gold) elevated vs history amid recent inflation/debasement regime. Better entry on pullback to $28-29 range.",
       "verdict": "Premium Priced",
-      "status": "Under Review",
+      "status": "Monitoring",
       "risk_score": 6,
       "houses": [
         {
           "name": "ETF Database",
           "rating": "Outperforms category (1-yr +41% vs peers)",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[ETFdb](https://etfdb.com/etf/HGER/)"
         },
         {
           "name": "Danelfin AI",
           "rating": "Buy (7/10 score)",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[Danelfin](https://danelfin.com/etf/HGER)"
         },
         {
           "name": "Yahoo Finance / Harbor",
           "rating": "Strong performance",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[Yahoo Profile](https://finance.yahoo.com/quote/HGER/profile)"
         }
       ],
-      "consensus_target": "ETF â N/A",
+      "consensus_target": "ETF Ã¢ÂÂ N/A",
       "consensus_target_num": null,
       "upside_pct": null,
       "key_catalysts": "Commodity price rallies (gold/energy), inflation persistence, Fed policy shifts, AUM growth/institutional buying next 3-6 months.",
@@ -462,7 +462,7 @@
       "upside_pct": -1.7,
       "key_catalysts": "Q1 2026 earnings Apr 30 (exp EPS $3.87, rev $1.51B); grid modernization contracts; AI/data center electrification demand; margin expansion from vertical integration [Yahoo](https://finance.yahoo.com/quote/HUBB/).",
       "key_risks": "Industrial capex slowdown; high valuation multiple compression; supply chain disruptions; competition in wiring products [Insider Monkey](https://www.insidermonkey.com/blog/hubbell-incorporated-hubb-a-bull-case-theory-1403355/).",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "IRDM",
@@ -508,15 +508,15 @@
     },
     {
       "ticker": "NESN.SW",
-      "company": "NestlÃ© S.A.",
+      "company": "NestlÃÂ© S.A.",
       "sector": "Consumer Defensive",
       "currency": "CHF",
       "price": "80.44",
       "price_num": 80.44,
       "market_cap": "205B",
       "pe_ratio": "22.7",
-      "what_it_does": "NestlÃ© is the world's largest food and beverage company by sales, generating around CHF 90 billion annually. It offers a diverse portfolio including NescafÃ©, Maggi, Nespresso, KitKat, and Purina, with over 30 brands exceeding CHF 1 billion in sales each. The company operates in 185 countries with 270,000 employees. [Morningstar](https://www.morningstar.com/stocks/xswx/nesn/quote)",
-      "is_good_bet": "NestlÃ© benefits from strong global brands, pricing power, and resilient demand for staples like coffee and pet food. Recent Q1 2026 results showed 3.5% organic growth beating expectations, with RIG at 1.2%, signaling volume recovery. Portfolio simplification and execution improvements under new CEO support long-term compounding, though growth is modest. Bear case includes persistent volume softness and margin pressure from costs. Overall, it's a defensive blue-chip with reliable dividends. [Food Ingredients First](https://www.foodingredientsfirst.com/news/nestle-coffee-confectionery-growth-momentum.html)",
+      "what_it_does": "NestlÃÂ© is the world's largest food and beverage company by sales, generating around CHF 90 billion annually. It offers a diverse portfolio including NescafÃÂ©, Maggi, Nespresso, KitKat, and Purina, with over 30 brands exceeding CHF 1 billion in sales each. The company operates in 185 countries with 270,000 employees. [Morningstar](https://www.morningstar.com/stocks/xswx/nesn/quote)",
+      "is_good_bet": "NestlÃÂ© benefits from strong global brands, pricing power, and resilient demand for staples like coffee and pet food. Recent Q1 2026 results showed 3.5% organic growth beating expectations, with RIG at 1.2%, signaling volume recovery. Portfolio simplification and execution improvements under new CEO support long-term compounding, though growth is modest. Bear case includes persistent volume softness and margin pressure from costs. Overall, it's a defensive blue-chip with reliable dividends. [Food Ingredients First](https://www.foodingredientsfirst.com/news/nestle-coffee-confectionery-growth-momentum.html)",
       "buy_now_signal": "No, current price around 80 CHF trades above consensus target of ~87 CHF (8% upside), with P/E 22.7 elevated vs forward 18.5 and historical averages. Recent Q1 beat provides support but analysts mostly Hold/Neutral; wait for pullback or stronger volume proof. [Yahoo Finance](https://finance.yahoo.com/quote/NESN.SW)",
       "verdict": "Premium Priced",
       "status": "Under Review",
@@ -546,7 +546,7 @@
       "upside_pct": 8.2,
       "key_catalysts": "Q2 earnings (Jul 2026); infant formula recall resolution and RIG acceleration to 4%+ medium-term; margin expansion to 17%+ UTOP; potential divestitures (ice cream, water). [MarketScreener](https://www.marketscreener.com/news/nestle-maintains-for-2026-organic-growth-of-3-4-rig-higher-than-2025-ce7f59d9da8df624)",
       "key_risks": "Commodity inflation (coffee/cocoa); persistent volume weakness/downtrading; infant formula recall fallout; FX headwinds; geopolitical disruptions (Middle East). [Food Ingredients First](https://www.foodingredientsfirst.com/news/nestle-coffee-confectionery-growth-momentum.html)",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "OKLO",
@@ -595,13 +595,13 @@
       "company": "Prysmian SpA",
       "sector": "Industrials",
       "currency": "EUR",
-      "price": "â¬125.45",
+      "price": "Ã¢ÂÂ¬125.45",
       "price_num": 125.45,
-      "market_cap": "â¬36B",
+      "market_cap": "Ã¢ÂÂ¬36B",
       "pe_ratio": "28.4",
       "what_it_does": "Prysmian SpA is an Italy-based company engaged in the development, design, production, supply, and installation of cables and systems for energy transmission, distribution, and telecommunications. Its Energy segment covers utilities, trade & installers, industrial applications, and other areas, while the Telecom segment provides optical fiber, cables, and connectivity products. It supports global infrastructure for power grids, renewables, and digital networks.",
       "is_good_bet": "Bull thesis: Leader in high-demand cables for energy transition, offshore wind, grid upgrades, and 5G/data centers; strong revenue growth (19.65B EUR TTM), profitability (1.27B net income), and order backlog from electrification megatrend. Bear thesis: Elevated valuation after 160%+ YTD surge, consensus targets below current price suggesting overvaluation; cyclical industrial exposure and competition pressure margins.",
-      "buy_now_signal": "No, stock trades at â¬125 well above consensus target ~â¬110-114; analysts like Morgan Stanley Hold at â¬95 highlight downside risk post-rally.",
+      "buy_now_signal": "No, stock trades at Ã¢ÂÂ¬125 well above consensus target ~Ã¢ÂÂ¬110-114; analysts like Morgan Stanley Hold at Ã¢ÂÂ¬95 highlight downside risk post-rally.",
       "verdict": "Premium Priced",
       "status": "Monitoring",
       "risk_score": 6,
@@ -609,23 +609,23 @@
         {
           "name": "Goldman Sachs",
           "rating": "Buy",
-          "target": "â¬126",
+          "target": "Ã¢ÂÂ¬126",
           "source": "[Investing.com](https://www.investing.com/equities/prysmian-consensus-estimates)"
         },
         {
           "name": "Morgan Stanley",
           "rating": "Hold",
-          "target": "â¬95",
+          "target": "Ã¢ÂÂ¬95",
           "source": "[Investing.com](https://www.investing.com/equities/prysmian-consensus-estimates)"
         },
         {
           "name": "J.P. Morgan",
           "rating": "Buy",
-          "target": "â¬113",
+          "target": "Ã¢ÂÂ¬113",
           "source": "[Investing.com](https://www.investing.com/equities/prysmian-consensus-estimates)"
         }
       ],
-      "consensus_target": "â¬113",
+      "consensus_target": "Ã¢ÂÂ¬113",
       "consensus_target_num": 113,
       "upside_pct": -9.9,
       "key_catalysts": "Q1 2026 earnings (late Apr), new submarine cable contracts for offshore wind, grid modernization deals in EU/US.",
@@ -693,28 +693,28 @@
         {
           "name": "Morningstar",
           "rating": "Gold Medalist",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[Morningstar WQDV](https://www.morningstar.com/etfs/xlon/wqdv/quote)"
         },
         {
           "name": "justETF",
           "rating": "Recommended (cheapest/largest on index)",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[justETF](https://www.justetf.com/en/etf-profile.html?isin=IE00BYYHSQ67)"
         },
         {
           "name": "BlackRock",
           "rating": "AA MSCI ESG",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[BlackRock](https://www.blackrock.com/dk/individual/products/288147/ishares-msci-world-quality-dividend-ucits-etf)"
         }
       ],
-      "consensus_target": "ETF â N/A",
+      "consensus_target": "ETF Ã¢ÂÂ N/A",
       "consensus_target_num": null,
       "upside_pct": null,
       "key_catalysts": "Q4 earnings from top holdings (NVDA, tech), dividend increases, potential rate cuts boosting dividend stocks, ESG fund inflows.",
       "key_risks": "Currency risk (USD exposure in EUR trading), tech concentration volatility, dividend cuts in recession, geopolitical tensions affecting global developed markets.",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "ROG.SW",
@@ -741,13 +741,13 @@
         {
           "name": "Barclays",
           "rating": "Buy",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[MarketScreener](https://www.marketscreener.com/quote/stock/ROCHE-HOLDING-AG-9364975/consensus/)"
         },
         {
           "name": "UBS",
-          "rating": "â",
-          "target": "â",
+          "rating": "Ã¢ÂÂ",
+          "target": "Ã¢ÂÂ",
           "source": "[MarketScreener](https://www.marketscreener.com/quote/stock/ROCHE-HOLDING-AG-9364975/consensus/)"
         }
       ],
@@ -756,7 +756,7 @@
       "upside_pct": 9.5,
       "key_catalysts": "Phase III starts for CT-388 obesity drug Q1 2026; fenebrutinib MS regulatory filings; giredestrant oncology readouts; 10+ Phase III data in 2026; Gazyva approvals in lupus/nephropathy.[Simply Wall St](https://simplywall.st/community/narratives/ch/pharmaceuticals-biotech/vtx-rog/roche-holding-shares/0uadpeuv-update-for-roche-holding), [Roche](https://www.roche.com/media/releases/med-cor-2026-04-23)",
       "key_risks": "Biosimilar competition on Perjeta (2025), Kadcyla (2026), Ocrevus (2029) eroding ~CHF 5-6B sales; pipeline failures (e.g., giredestrant setback); China pricing reforms; FX headwinds from strong CHF; safety concerns in trials (e.g., fenebrutinib deaths).[SyneticX](https://www.syneticx.com/blog/roche.html), [FuTu News](https://news.futunn.com/en/post/71918222/roche-is-at-a-crossroads-caught-between-the-patent-cliff)",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "RR.L",
@@ -765,10 +765,10 @@
       "currency": "GBp",
       "price": "1,130 GBp",
       "price_num": 1130,
-      "market_cap": "Â£93.4B",
+      "market_cap": "ÃÂ£93.4B",
       "pe_ratio": "16.3",
       "what_it_does": "Rolls-Royce Holdings plc develops mission-critical power systems for civil aerospace (engines and services for widebody aircraft, jets), defence, power systems, and new markets including small modular reactors. Headquartered in London, it operates internationally with strong aftermarket services. Founded in 1884.",
-      "is_good_bet": "Bull thesis: Robust recovery in civil aerospace aftermarket flying hours, record defense orders, improving free cash flow enabling Â£2.5B+ buybacks and debt reduction. Analysts see sustained profitability post-turnaround. Bear: Valuation stretched after 80%+ 1-year rally, potential aviation cyclical downturn, supply chain bottlenecks on engines. Limited disagreement among houses, mostly positive.",
+      "is_good_bet": "Bull thesis: Robust recovery in civil aerospace aftermarket flying hours, record defense orders, improving free cash flow enabling ÃÂ£2.5B+ buybacks and debt reduction. Analysts see sustained profitability post-turnaround. Bear: Valuation stretched after 80%+ 1-year rally, potential aviation cyclical downturn, supply chain bottlenecks on engines. Limited disagreement among houses, mostly positive.",
       "buy_now_signal": "Yes, trading ~20% below consensus target after recent pullback; good entry for aviation recovery play if risk-tolerant.",
       "verdict": "Attractively Priced",
       "status": "Buy Zone",
@@ -819,28 +819,28 @@
         {
           "name": "Morningstar",
           "rating": "Positive (sensible, defensive approach)",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[Morningstar](https://www.morningstar.com/etfs/arcx/schd/quote)"
         },
         {
           "name": "Schwab Asset Management",
           "rating": "Buy and Hold (issuer fact sheet)",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[Schwab](https://www.schwabassetmanagement.com/products/schd)"
         },
         {
           "name": "MarketBeat",
           "rating": "Hold",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[MarketBeat](https://www.marketbeat.com/stocks/NYSEARCA/SCHD/ratings/)"
         }
       ],
-      "consensus_target": "ETF â N/A",
+      "consensus_target": "ETF Ã¢ÂÂ N/A",
       "consensus_target_num": null,
       "upside_pct": null,
       "key_catalysts": "Q2 dividend announcement (June 2026), index rebalance, sustained dividend growth from holdings amid rate cuts.[Schwab](https://www.schwabassetmanagement.com/products/schd)",
       "key_risks": "Sector concentration in energy (17%), consumer staples (19%); dividend cuts in holdings if recession; interest rate sensitivity for yield comparison.[Schwab](https://www.schwabassetmanagement.com/products/schd)",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "SEZL",
@@ -924,7 +924,7 @@
       "upside_pct": 11.8,
       "key_catalysts": "ATS acquisition close (late 2025/early 2026, EPS accretive), Q2/H1 2026 results (exp 5-7% organic growth), continued bolt-ons, margin expansion to 16%+. [SGS News](https://www.sgs.com/en/news/2026/04/sgs-first-quarter-2026-sales-update)",
       "key_risks": "FX volatility (strong CHF), high leverage post-M&A, commodity cycle slowdown, integration risks, regulatory changes. [Yahoo](https://finance.yahoo.com/quote/SGSN.SW/)",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "SMR",
@@ -1008,7 +1008,7 @@
       "upside_pct": 2,
       "key_catalysts": "Q3 FY2026 earnings (Apr 30, rev guide $4.4-4.8B); HBF engineering samples H2 2026; sustained NAND shortage/pricing into 2028; Nasdaq-100 inclusion.",
       "key_risks": "Memory cycle downturn/supply ramp; AI capex slowdown; competition from Samsung/Micron/SK Hynix; high valuation leaves no margin for error; geopolitical/China risks.",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "SREN.SW",
@@ -1050,7 +1050,7 @@
       "upside_pct": 2.1,
       "key_catalysts": "Q1 2026 earnings (May), 2026 net income delivery vs $4.5B target, share buyback progress ($1.5B program), P&C combined ratio &lt;85%. [Swiss Re](https://www.reinsurancene.ws/swiss-re-delivers-record-group-net-income-as-pc-re-profit-rises-to-2-8bn/)",
       "key_risks": "Catastrophe losses (nat/man-made), US casualty reserving, L&H portfolio performance, economic slowdown impacting premiums, rising competition. [MarketScreener](https://www.marketscreener.com/quote/stock/SWISS-RE-LTD-9365870/consensus/)",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "SU",
@@ -1099,13 +1099,13 @@
       "company": "Technip Energies N.V.",
       "sector": "Energy",
       "currency": "EUR",
-      "price": "â¬40.10",
+      "price": "Ã¢ÂÂ¬40.10",
       "price_num": 40.1,
-      "market_cap": "â¬7.04B",
+      "market_cap": "Ã¢ÂÂ¬7.04B",
       "pe_ratio": "19.75",
       "what_it_does": "Technip Energies is a global engineering and technology company focused on energy transition and decarbonization. It provides technologies and services for LNG, hydrogen, sustainable chemistry, CO2 management, and renewables through Project Delivery and Technology, Products & Services segments. Headquartered in France with operations worldwide.",
-      "is_good_bet": "Bull thesis: Leader in LNG and growing in hydrogen/CCUS with strong 2025 results (revenue â¬7.2B, EBITDA â¬638M), robust backlog â¬16B, and dividend growth/share buybacks signal confidence. Energy transition tailwinds support long-term growth. Bear thesis: Project-based revenue cyclical with oil/gas price volatility; limited analyst coverage suggests lower visibility. Recent acquisition integration risks.",
-      "buy_now_signal": "Yes, trading at discount to â¬43 consensus target (~7% upside); forward P/E 14.6 attractive vs peers. Strong balance sheet (â¬3.7B cash) supports buybacks/dividends amid positive outlook.",
+      "is_good_bet": "Bull thesis: Leader in LNG and growing in hydrogen/CCUS with strong 2025 results (revenue Ã¢ÂÂ¬7.2B, EBITDA Ã¢ÂÂ¬638M), robust backlog Ã¢ÂÂ¬16B, and dividend growth/share buybacks signal confidence. Energy transition tailwinds support long-term growth. Bear thesis: Project-based revenue cyclical with oil/gas price volatility; limited analyst coverage suggests lower visibility. Recent acquisition integration risks.",
+      "buy_now_signal": "Yes, trading at discount to Ã¢ÂÂ¬43 consensus target (~7% upside); forward P/E 14.6 attractive vs peers. Strong balance sheet (Ã¢ÂÂ¬3.7B cash) supports buybacks/dividends amid positive outlook.",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
       "risk_score": 6,
@@ -1113,13 +1113,13 @@
         {
           "name": "Berenberg Bank",
           "rating": "Buy",
-          "target": "â¬43",
+          "target": "Ã¢ÂÂ¬43",
           "source": "[Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/1360154/berenberg-bank-remains-a-buy-on-technip-energies-nv-te/)"
         },
         {
           "name": "Consensus (23 analysts)",
           "rating": "Buy",
-          "target": "â¬43.32",
+          "target": "Ã¢ÂÂ¬43.32",
           "source": "[eToro](https://www.etoro.com/markets/te.pa), [Yahoo Finance](https://finance.yahoo.com/quote/TE.PA)"
         },
         {
@@ -1129,7 +1129,7 @@
           "source": "Extensive searches yielded fewer than 3 specific recent major house reports with URLs"
         }
       ],
-      "consensus_target": "â¬43.21",
+      "consensus_target": "Ã¢ÂÂ¬43.21",
       "consensus_target_num": 43.21,
       "upside_pct": 7.8,
       "key_catalysts": "Q1 2026 earnings (Apr 30), LNG project awards (US/Africa/ME), hydrogen/CCUS contracts, 2026 guidance confirmation.",
@@ -1187,7 +1187,7 @@
       "price_num": 117,
       "market_cap": "1.49B CHF",
       "pe_ratio": "24.57",
-      "what_it_does": "Tecan Group AG provides laboratory instruments and automation solutions for biopharmaceuticals, forensics, clinical diagnostics, and medical technology. It specializes in liquid handling, robotics, microplate readers, and OEM components, serving pharma, biotech, universities, and clinics through its Life Sciences and Partnering Business divisions. Recent innovations include Veyaâ¢ multi-omics workstation and partnerships like with HP and Grifols for diagnostics.[Tecan website](https://www.tecan.com/history), [Wikipedia](https://en.wikipedia.org/wiki/Tecan), [Yahoo Finance](https://finance.yahoo.com/quote/TECN.SW/)",
+      "what_it_does": "Tecan Group AG provides laboratory instruments and automation solutions for biopharmaceuticals, forensics, clinical diagnostics, and medical technology. It specializes in liquid handling, robotics, microplate readers, and OEM components, serving pharma, biotech, universities, and clinics through its Life Sciences and Partnering Business divisions. Recent innovations include VeyaÃ¢ÂÂ¢ multi-omics workstation and partnerships like with HP and Grifols for diagnostics.[Tecan website](https://www.tecan.com/history), [Wikipedia](https://en.wikipedia.org/wiki/Tecan), [Yahoo Finance](https://finance.yahoo.com/quote/TECN.SW/)",
       "is_good_bet": "Tecan is positioned in the growing lab automation market (~CHF25B TAM), with mid-high single-digit revenue growth potential from biopharma recovery and automation adoption. Despite recent biopharma weakness and China softness, channel checks suggest stabilization; trading at 11x 2026 EV/EBITDA, below historical premium. Strategic acquisitions (Paramit) and product launches (Veya, Duo) enhance capabilities in NGS, multi-omics, and diagnostics.[Berenberg](https://www.investing.com/news/analyst-ratings/berenberg-sets-tecan-stock-buy-rating-chf220-target-93CH-4088178), [ValueInvesting.io](https://valueinvesting.io/TECN.SW/estimates)",
       "buy_now_signal": "Yes, now is a good time to buy as the stock trades at ~117 CHF vs consensus targets of 167-220 CHF (42-88% upside), reflecting undervaluation amid temporary headwinds resolving; forward P/E 16.8 supports entry.[Yahoo Finance](https://finance.yahoo.com/quote/TECN.SW/), [MarketScreener](https://www.marketscreener.com/quote/stock/TECAN-GROUP-AG-70615/consensus/), [Berenberg](https://www.investing.com/news/analyst-ratings/berenberg-sets-tecan-stock-buy-rating-chf220-target-93CH-4088178)",
       "verdict": "Attractively Priced",
@@ -1208,7 +1208,7 @@
         },
         {
           "name": "Yahoo Finance Analysts",
-          "rating": "â",
+          "rating": "Ã¢ÂÂ",
           "target": "CHF 166 (avg)",
           "source": "[Yahoo UK](https://uk.finance.yahoo.com/quote/TECN.SW/analyst-insights/)"
         }
@@ -1218,7 +1218,7 @@
       "upside_pct": 62.4,
       "key_catalysts": "Biopharma instrument demand recovery; China market stabilization; New product launches (Veya, Duo, LabNavigator); Q2/H2 2026 earnings beats on automation adoption.[Berenberg](https://www.investing.com/news/analyst-ratings/berenberg-sets-tecan-stock-buy-rating-chf220-target-93CH-4088178), [Tecan](https://www.tecan.com/history)",
       "key_risks": "Prolonged biopharma spending caution; China economic slowdown; Competition in lab automation; Integration risks from acquisitions like Paramit; Currency FX volatility (CHF exposure).[Berenberg](https://www.investing.com/news/analyst-ratings/berenberg-sets-tecan-stock-buy-rating-chf220-target-93CH-4088178), [Yahoo Finance](https://finance.yahoo.com/quote/TECN.SW/)",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "TGB",
@@ -1323,28 +1323,28 @@
         {
           "name": "Morningstar",
           "rating": "Bronze Medalist / Neutral",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[Morningstar](https://www.morningstar.com/etfs/arcx/xle/quote)"
         },
         {
           "name": "State Street (Issuer)",
           "rating": "Recommended (low cost, precise exposure)",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[SSGA Fact Sheet](https://www.ssga.com/library-content/products/factsheets/etfs/us/factsheet-us-en-xle.pdf)"
         },
         {
           "name": "ETFRC",
           "rating": "Overweight",
-          "target": "â",
+          "target": "Ã¢ÂÂ",
           "source": "[ETFRC](https://www.etfrc.com/XLE)"
         }
       ],
-      "consensus_target": "ETF â N/A",
+      "consensus_target": "ETF Ã¢ÂÂ N/A",
       "consensus_target_num": null,
       "upside_pct": null,
       "key_catalysts": "Oil price movements amid geopolitics/Iran tensions; Q2 earnings from majors; OPEC+ decisions; US LNG export growth.",
       "key_risks": "Oil price crash on demand slowdown/recession; accelerated shift to renewables; sector concentration in few names; high volatility (beta ~1, std dev ~22%).",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "XOM",
@@ -1391,12 +1391,12 @@
     {
       "ticker": "NNBR",
       "company": "NNBR",
-      "sector": "â",
+      "sector": "Ã¢ÂÂ",
       "currency": "",
-      "price": "â",
+      "price": "Ã¢ÂÂ",
       "price_num": null,
-      "market_cap": "â",
-      "pe_ratio": "â",
+      "market_cap": "Ã¢ÂÂ",
+      "pe_ratio": "Ã¢ÂÂ",
       "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
       "is_good_bet": "",
       "buy_now_signal": "",
@@ -1409,17 +1409,17 @@
       "upside_pct": null,
       "key_catalysts": "",
       "key_risks": "",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "ALGID",
       "company": "ALGID",
-      "sector": "â",
+      "sector": "Ã¢ÂÂ",
       "currency": "",
-      "price": "â",
+      "price": "Ã¢ÂÂ",
       "price_num": null,
-      "market_cap": "â",
-      "pe_ratio": "â",
+      "market_cap": "Ã¢ÂÂ",
+      "pe_ratio": "Ã¢ÂÂ",
       "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
       "is_good_bet": "",
       "buy_now_signal": "",
@@ -1432,17 +1432,17 @@
       "upside_pct": null,
       "key_catalysts": "",
       "key_risks": "",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "KYNCY",
       "company": "KYNCY",
-      "sector": "â",
+      "sector": "Ã¢ÂÂ",
       "currency": "",
-      "price": "â",
+      "price": "Ã¢ÂÂ",
       "price_num": null,
-      "market_cap": "â",
-      "pe_ratio": "â",
+      "market_cap": "Ã¢ÂÂ",
+      "pe_ratio": "Ã¢ÂÂ",
       "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
       "is_good_bet": "",
       "buy_now_signal": "",
@@ -1455,17 +1455,17 @@
       "upside_pct": null,
       "key_catalysts": "",
       "key_risks": "",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "6324.T",
       "company": "6324.T",
-      "sector": "â",
+      "sector": "Ã¢ÂÂ",
       "currency": "",
-      "price": "â",
+      "price": "Ã¢ÂÂ",
       "price_num": null,
-      "market_cap": "â",
-      "pe_ratio": "â",
+      "market_cap": "Ã¢ÂÂ",
+      "pe_ratio": "Ã¢ÂÂ",
       "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
       "is_good_bet": "",
       "buy_now_signal": "",
@@ -1478,17 +1478,17 @@
       "upside_pct": null,
       "key_catalysts": "",
       "key_risks": "",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "6268.T",
       "company": "6268.T",
-      "sector": "â",
+      "sector": "Ã¢ÂÂ",
       "currency": "",
-      "price": "â",
+      "price": "Ã¢ÂÂ",
       "price_num": null,
-      "market_cap": "â",
-      "pe_ratio": "â",
+      "market_cap": "Ã¢ÂÂ",
+      "pe_ratio": "Ã¢ÂÂ",
       "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
       "is_good_bet": "",
       "buy_now_signal": "",
@@ -1501,17 +1501,17 @@
       "upside_pct": null,
       "key_catalysts": "",
       "key_risks": "",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "NLST",
       "company": "NLST",
-      "sector": "â",
+      "sector": "Ã¢ÂÂ",
       "currency": "",
-      "price": "â",
+      "price": "Ã¢ÂÂ",
       "price_num": null,
-      "market_cap": "â",
-      "pe_ratio": "â",
+      "market_cap": "Ã¢ÂÂ",
+      "pe_ratio": "Ã¢ÂÂ",
       "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
       "is_good_bet": "",
       "buy_now_signal": "",
@@ -1524,17 +1524,17 @@
       "upside_pct": null,
       "key_catalysts": "",
       "key_risks": "",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "RELX",
       "company": "RELX",
-      "sector": "â",
+      "sector": "Ã¢ÂÂ",
       "currency": "",
-      "price": "â",
+      "price": "Ã¢ÂÂ",
       "price_num": null,
-      "market_cap": "â",
-      "pe_ratio": "â",
+      "market_cap": "Ã¢ÂÂ",
+      "pe_ratio": "Ã¢ÂÂ",
       "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
       "is_good_bet": "",
       "buy_now_signal": "",
@@ -1547,17 +1547,17 @@
       "upside_pct": null,
       "key_catalysts": "",
       "key_risks": "",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "FLEX",
       "company": "FLEX",
-      "sector": "â",
+      "sector": "Ã¢ÂÂ",
       "currency": "",
-      "price": "â",
+      "price": "Ã¢ÂÂ",
       "price_num": null,
-      "market_cap": "â",
-      "pe_ratio": "â",
+      "market_cap": "Ã¢ÂÂ",
+      "pe_ratio": "Ã¢ÂÂ",
       "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
       "is_good_bet": "",
       "buy_now_signal": "",
@@ -1570,17 +1570,17 @@
       "upside_pct": null,
       "key_catalysts": "",
       "key_risks": "",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     },
     {
       "ticker": "CORZ",
       "company": "CORZ",
-      "sector": "â",
+      "sector": "Ã¢ÂÂ",
       "currency": "",
-      "price": "â",
+      "price": "Ã¢ÂÂ",
       "price_num": null,
-      "market_cap": "â",
-      "pe_ratio": "â",
+      "market_cap": "Ã¢ÂÂ",
+      "pe_ratio": "Ã¢ÂÂ",
       "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
       "is_good_bet": "",
       "buy_now_signal": "",
@@ -1593,7 +1593,7 @@
       "upside_pct": null,
       "key_catalysts": "",
       "key_risks": "",
-      "notes": "Newly added â needs research"
+      "notes": "Newly added Ã¢ÂÂ needs research"
     }
   ]
 }
