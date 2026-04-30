@@ -106,6 +106,15 @@ GH.applyPatchesToData = (remoteData, patches) => {
   return data;
 };
 
+// Detect the classic UTF-8-as-Latin-1 mojibake signature. If present, the page
+// is decoding wrong (likely cached old JS) and any save would compound corruption.
+// Better to abort than poison the file.
+GH.looksMojibaked = (text) => {
+  // A clean stocks.json may legitimately contain € or — but never the
+  // double-encoded sequences "Ã\x82" or "Ã\x83" that appear in mojibake.
+  return /Ã[\x82\x83]/.test(text) || text.includes("\u00c3\u0082") || text.includes("\u00c3\u0083");
+};
+
 // Commit pending patches: fetch remote, merge, PUT, retry on conflict.
 GH.commitPatches = async (patches, attempt = 1) => {
   const MAX_ATTEMPTS = 5;
@@ -113,6 +122,9 @@ GH.commitPatches = async (patches, attempt = 1) => {
   const existing = await GH.getFile(path);
   if (!existing) throw new Error("Remote stocks.json missing — cannot merge.");
 
+  if (GH.looksMojibaked(existing.content)) {
+    throw new Error("Decode mismatch detected — refusing to save to avoid corrupting data. Hard-refresh the page (Cmd+Shift+R / hold reload) and try again.");
+  }
   const remoteData = JSON.parse(existing.content);
   const merged = GH.applyPatchesToData(remoteData, patches);
   const content = JSON.stringify(merged, null, 2);
