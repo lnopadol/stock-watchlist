@@ -46,6 +46,24 @@ GH.verify = async () => {
   return user;
 };
 
+// Decode base64 to a UTF-8 string. Critical: atob() returns a Latin-1 binary
+// string, NOT a UTF-8 string. We must walk it byte-by-byte and TextDecoder it
+// as UTF-8 to recover characters like é, €, —, etc.
+GH.fromB64 = (b64) => {
+  const bin = atob(b64.replace(/\s+/g, ""));
+  const bytes = new Uint8Array(bin.length);
+  for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+  return new TextDecoder("utf-8").decode(bytes);
+};
+
+// Encode a UTF-8 string to base64 safely.
+GH.b64 = (str) => {
+  const bytes = new TextEncoder().encode(str);
+  let bin = "";
+  for (let i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]);
+  return btoa(bin);
+};
+
 // Fetch a file's current SHA + content
 GH.getFile = async (path) => {
   const url = `https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${path}?ref=${GH.branch}&t=${Date.now()}`;
@@ -53,15 +71,7 @@ GH.getFile = async (path) => {
   if (res.status === 404) return null;
   if (!res.ok) throw new Error(`getFile ${path} failed: ${res.status}`);
   const data = await res.json();
-  return { sha: data.sha, content: atob(data.content.replace(/\n/g, "")) };
-};
-
-// Encode UTF-8 string to base64 safely (handles unicode)
-GH.b64 = (str) => {
-  const bytes = new TextEncoder().encode(str);
-  let bin = "";
-  bytes.forEach(b => bin += String.fromCharCode(b));
-  return btoa(bin);
+  return { sha: data.sha, content: GH.fromB64(data.content) };
 };
 
 GH.sleep = (ms) => new Promise(r => setTimeout(r, ms));
