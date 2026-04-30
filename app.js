@@ -60,6 +60,7 @@ function verdictPill(v) {
 function statusPill(s) {
   if (!s) return `<span class="pill gray">—</span>`;
   const l = s.toLowerCase();
+  if (l.includes("newly")) return `<span class="pill purple">${s}</span>`;
   if (l.includes("monitor")) return `<span class="pill blue">${s}</span>`;
   if (l.includes("review")) return `<span class="pill amber">${s}</span>`;
   if (l.includes("buy")) return `<span class="pill green">${s}</span>`;
@@ -324,6 +325,7 @@ function openDetail(ticker) {
     <div class="detail-actions">
       <div class="muted" style="font-size:12px">Status:
         <select id="statusSel" style="padding:6px;border:1px solid var(--line-strong);border-radius:4px">
+          <option ${s.status==="Newly Added"?"selected":""}>Newly Added</option>
           <option ${s.status==="Monitoring"?"selected":""}>Monitoring</option>
           <option ${s.status==="Under Review"?"selected":""}>Under Review</option>
           <option ${s.status==="Buy Zone"?"selected":""}>Buy Zone</option>
@@ -382,7 +384,7 @@ $("#confirmAdd").onclick = () => {
     is_good_bet: "",
     buy_now_signal: "",
     verdict: "Reasonably Priced",
-    status: "Under Review",
+    status: "Newly Added",
     risk_score: 5,
     houses: [],
     consensus_target: "",

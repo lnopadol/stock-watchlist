@@ -146,6 +146,7 @@ main { padding: 24px 32px 60px; max-width: 1600px; margin: 0 auto; }
 .pill.red    { background: var(--red-bg);   color: var(--red-fg);   border-color: #e5b6b6; }
 .pill.blue   { background: var(--blue-bg);  color: var(--blue-fg);  border-color: #b6c4de; }
 .pill.gray   { background: var(--gray-bg);  color: var(--gray-fg);  border-color: #d4d4d4; }
+.pill.purple { background: #e8dcf2; color: #4a2670; border-color: #c2a6d9; }
 
 /* Risk badge */
 .risk {
