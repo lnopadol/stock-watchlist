@@ -1317,7 +1317,7 @@
       "is_good_bet": "XLE provides targeted exposure to U.S. energy majors, offering high dividend yields (~2.6-3.3%) and inflation hedging through commodity prices. Bull case: sustained oil demand, geopolitical tensions support prices above $70/bbl; strong cash flows fund buybacks/dividends. Bear case: energy transition accelerates, oversupply from non-OPEC production pressures margins; sector cyclicality amplifies volatility.",
       "buy_now_signal": "No, underlying P/E of 23.1 exceeds 5Y avg 12.4 and 10Y avg 17.7, indicating expensive relative to history despite recent YTD gains; wait for pullback to historical norms.",
       "verdict": "Premium Priced",
-      "status": "Newly Added",
+      "status": "Monitoring",
       "risk_score": 8,
       "houses": [
         {
