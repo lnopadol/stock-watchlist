@@ -1686,6 +1686,29 @@
       "key_catalysts": "",
       "key_risks": "",
       "notes": "Newly added — needs research"
+    },
+    {
+      "ticker": "ANA.MC",
+      "company": "ANA.MC",
+      "sector": "—",
+      "currency": "",
+      "price": "—",
+      "price_num": null,
+      "market_cap": "—",
+      "pe_ratio": "—",
+      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
+      "is_good_bet": "",
+      "buy_now_signal": "",
+      "verdict": "Reasonably Priced",
+      "status": "Newly Added",
+      "risk_score": 5,
+      "houses": [],
+      "consensus_target": "",
+      "consensus_target_num": null,
+      "upside_pct": null,
+      "key_catalysts": "",
+      "key_risks": "",
+      "notes": "Newly added — needs research"
     }
   ]
 }
