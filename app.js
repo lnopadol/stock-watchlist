@@ -237,20 +237,49 @@ function renderTable() {
     });
     inp.addEventListener("click", e => e.stopPropagation());
   });
+  // Two-click delete: first click arms the button (turns red, shows 'Confirm?'),
+  // second click within 3 seconds actually deletes. Click anywhere else cancels.
   $$(".del-btn").forEach(btn => {
     btn.addEventListener("click", (e) => {
       e.stopPropagation();
       const t = btn.dataset.ticker;
-      if (confirm(`Remove ${t} from watchlist?`)) {
+      if (btn.classList.contains("armed")) {
+        // Second click — commit the delete
+        clearTimeout(btn._armTimer);
         STATE.data.stocks = STATE.data.stocks.filter(s => s.ticker !== t);
         delete STATE.notes[t];
         localStorage.setItem("watchlist_notes", JSON.stringify(STATE.notes));
         GH.removeTicker(t, `remove ${t}`);
         render();
+        return;
       }
+      // First click — arm the button
+      // Disarm any other armed button first
+      $$(".del-btn.armed").forEach(b => {
+        b.classList.remove("armed");
+        b.textContent = "×";
+        clearTimeout(b._armTimer);
+      });
+      btn.classList.add("armed");
+      btn.textContent = "Confirm?";
+      btn._armTimer = setTimeout(() => {
+        btn.classList.remove("armed");
+        btn.textContent = "×";
+      }, 3000);
     });
   });
 }
+
+// Module-scope: click anywhere outside an armed delete button disarms it.
+// Registered once at startup so it doesn't accumulate per render.
+document.addEventListener("click", (e) => {
+  if (e.target.classList && e.target.classList.contains("del-btn")) return;
+  document.querySelectorAll(".del-btn.armed").forEach(b => {
+    b.classList.remove("armed");
+    b.textContent = "\u00d7";
+    clearTimeout(b._armTimer);
+  });
+}, { capture: true });
 
 // ---- Detail modal ----
 function openDetail(ticker) {
