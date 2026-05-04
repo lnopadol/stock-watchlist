@@ -85,12 +85,16 @@ function upsideCell(pct) {
     </div>`;
 }
 function mdLink(s) {
-  if (!s) return "";
+  if (s == null || s === "") return "";
+  const str = Array.isArray(s) ? s.join("; ") : String(s);
   // Convert [text](url) → <a> ; supports multiple in one string
-  return s.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+  return str.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
 }
 function escape(s) {
-  return (s || "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+  if (s == null) return "";
+  // Coerce numbers, arrays, etc. to string to avoid TypeError on .replace
+  const str = Array.isArray(s) ? s.join("; ") : String(s);
+  return str.replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
 }
 
 function deltaSpan(curr, prev) {

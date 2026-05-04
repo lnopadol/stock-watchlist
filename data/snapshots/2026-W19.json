@@ -10,7 +10,7 @@
       "price": "$49.81",
       "price_num": 49.81,
       "market_cap": "$2.37B",
-      "pe_ratio": 16.38,
+      "pe_ratio": "16.38",
       "what_it_does": "American Superconductor provides megawatt-scale power resiliency solutions worldwide through Grid and Wind segments. Gridtec Solutions offer grid systems for utilities and industrials to optimize power networks; Marinetec provides naval ship protection and propulsion; Windtec supplies wind turbine controls and designs. Headquartered in Ayer, MA, with global operations.",
       "is_good_bet": "Bull thesis: Strong revenue growth (43% annual), positive FCF, debt-free balance sheet, positioned for AI/data center power demand and naval contracts. Recent acquisitions like Comtrafo add transformer revenue and LatAm exposure with high margins. Bear: High valuation post-100%+ YTD run, execution risks in scaling grid/marine projects, competition in renewables.",
       "buy_now_signal": "No - recent 25% surge on power demand hype pushed price above some targets; wait for pullback to low $40s for better entry amid volatility.",
@@ -53,7 +53,7 @@
       "price": "€826.60",
       "price_num": 826.6,
       "market_cap": "€40.41B",
-      "pe_ratio": 40.96,
+      "pe_ratio": "40.96",
       "what_it_does": "ASM International NV designs, manufactures, and services wafer processing equipment for semiconductor manufacturers, specializing in thin-film deposition technologies including atomic layer deposition (ALD), epitaxy, and chemical vapor deposition (CVD). The company supplies tools used to deposit precise layers of materials onto silicon wafers to produce advanced integrated circuits for AI, high-performance computing, and other applications. Headquartered in Almere, Netherlands, it serves leading chipmakers worldwide with manufacturing in Singapore and South Korea.",
       "is_good_bet": "ASM is well-positioned in the booming semiconductor equipment market driven by AI infrastructure buildout and advanced node transitions like Gate-All-Around (GAA) at 2nm and 1.4nm, where its ALD and epitaxy tools see increased intensity per wafer. Record Q1 2026 margins (33.1%) and double-digit growth outlook for 2026 highlight execution strength amid strong logic/foundry demand. China rebound and spares/services growth add resilience. However, cyclicality and high valuation warrant caution; bear case sees slowdown if AI hype cools or supply chain issues persist.",
       "buy_now_signal": "No, current price around €812 with P/E 40x reflects premium valuation vs historical averages (~24x); analysts' average target ~€950 implies modest 17% upside, but recent strength and high targets from bulls like Morgan Stanley (€1000) suggest potential if Q2 beats continue. Wait for pullback given rich multiples.",
@@ -96,7 +96,7 @@
       "price": "€45.95",
       "price_num": 45.95,
       "market_cap": "€682M",
-      "pe_ratio": 91.9,
+      "pe_ratio": "91.90",
       "what_it_does": "Assystem SA provides engineering and infrastructure project management services worldwide, focusing on critical and complex projects for public authorities and utilities. It offers services in nuclear, energy, transportation, defense, and buildings/infrastructure, including decommissioning, waste management, and digital engineering. The company operates in Europe, North America, and Asia.",
       "is_good_bet": "Bull thesis: Strong positioning in nuclear energy and infrastructure megatrends with stable long-term contracts; recent Q1 revenue growth and dividend; consensus OUTPERFORM/Buy from available analysts. Bear thesis: High P/E ratio of 88 suggests overvaluation or thin margins; cyclical exposure to government spending; limited analyst coverage signals lower liquidity/interest. Overall neutral with value in energy transition exposure but caution on valuation.",
       "buy_now_signal": "No strong buy signal; trading near consensus target (~€48) with high P/E; wait for dip below €42 or earnings catalyst.",
@@ -139,7 +139,7 @@
       "price": "$217.12",
       "price_num": 217.12,
       "market_cap": "$19.89B",
-      "pe_ratio": 60.48,
+      "pe_ratio": "60.48",
       "what_it_does": "BWX Technologies manufactures and sells nuclear components and fuel to the U.S. government and provides technical, management, and site services for nuclear facilities and environmental remediation. It also supplies precision manufactured components, services, and CANDU fuel for the commercial nuclear power industry, with focus on naval nuclear propulsion and emerging small modular reactors (SMR).",
       "is_good_bet": "BWXT benefits from strong U.S. naval nuclear contracts and growing commercial nuclear demand driven by AI data centers and clean energy push. Bull thesis: backlog visibility through 2026+, SMR exposure positions for multi-year growth; recent awards like $174M contract reinforce momentum. Bear thesis: elevated P/E at 62 signals rich valuation amid stock's 100%+ run-up; commercial nuclear ramp-up risks delays. Overall solid bet for nuclear theme investors but watch valuation stretch.",
       "buy_now_signal": "No strong buy now signal; stock trades near or above several targets (e.g., consensus ~$235 close to $223, Seaport neutral post-target exceedance). Wait for pullback to $210 or Q1 2026 earnings catalyst on May 4.",
@@ -182,7 +182,7 @@
       "price": "$119.64",
       "price_num": 119.64,
       "market_cap": "$52.10B",
-      "pe_ratio": 120.84,
+      "pe_ratio": "120.84",
       "what_it_does": "Cameco Corporation is the world's largest publicly traded uranium company, providing uranium for electricity generation worldwide. It operates in Uranium (exploration, mining, milling, sale), Fuel Services (refining, conversion, fabrication), and Westinghouse (nuclear reactor technology, services). Headquartered in Saskatoon, Canada.",
       "is_good_bet": "Bull thesis: Surging global nuclear demand for decarbonization, energy security; Cameco's tier-1 assets, long-term contracts (~230M lbs U3O8), Westinghouse stake adding stable EBITDA; strong balance sheet positions for market strength. Bear: Uranium spot price volatility, production challenges (e.g., Inkai), high valuation assumes continued rally. Overall good bet for nuclear exposure given policy tailwinds.",
       "buy_now_signal": "Neutral; trading near consensus targets (~$120-140), no strong discount or premium signal. Wait for uranium price dip or catalyst.",
@@ -225,7 +225,7 @@
       "price": "A$0.08",
       "price_num": 0.076,
       "market_cap": "A$25M",
-      "pe_ratio": -7.6,
+      "pe_ratio": "-7.60",
       "what_it_does": "De.mem Limited designs, builds, owns, and operates decentralized water and wastewater treatment systems using proprietary hollow fiber membrane technologies for industrial, municipal, and residential clients in Australia, Singapore, and Germany. It offers specialty chemicals, pumps, consumables, and BOOT services to sectors including mining, food & beverage, agriculture, and heavy industry. The company focuses on water recycling and regulatory compliance to reduce client costs.[Yahoo Finance](https://finance.yahoo.com/quote/DEM.AX), [Company site](https://demembranes.com)",
       "is_good_bet": "De.mem shows progress toward profitability with positive operating cash flows in late 2024, recurring revenue growth (90% of sales), and accretive acquisitions boosting EBITDA to $1.6M pro-forma. However, it remains loss-making with negative EPS, faces dilution from capital raises, and trades at low multiples amid execution risks in a competitive water treatment market. Bull case rests on scaling membrane tech and new NSF-approved systems; bear case highlights persistent losses and microcap volatility. Limited coverage reflects high uncertainty.",
       "buy_now_signal": "No, due to ongoing losses, recent price weakness to multi-year lows, and lack of analyst support signaling caution. Wait for confirmed profitability or major contracts.",
@@ -268,7 +268,7 @@
       "price": "€125.30",
       "price_num": 125.3,
       "market_cap": "€2.13B",
-      "pe_ratio": 737.06,
+      "pe_ratio": "737.06",
       "what_it_does": "Exail Technologies is a French high-tech company specializing in robotics, navigation, maritime drones, photonics, and quantum technologies for defense and civil applications. It develops unmanned systems, inertial navigation sensors, and optical components used in harsh environments from deep sea to space. Approximately 56% of sales come from defense, with strong presence in over 80 countries.",
       "is_good_bet": "Exail benefits from rising European defense budgets amid geopolitical tensions, with strong order growth (519% in Q1 2025, backlog €1.1B) and revenue increases (40% Q1 2026, 52% Q2 2025). Transition to profitability with positive EPS supports growth potential in high-tech defense niches like underwater drones and navigation. However, high valuation and cyclical defense spending pose risks, but momentum in orders suggests bull case for long-term growth.",
       "buy_now_signal": "Yes, with consensus target €155 (24% upside from €125) and strong buy ratings from multiple analysts. Recent revenue growth and massive order surges indicate positive momentum despite elevated P/E.",
@@ -311,7 +311,7 @@
       "price": "CHF 2,762.00",
       "price_num": 2762.0,
       "market_cap": "CHF 25.49B",
-      "pe_ratio": 23.9,
+      "pe_ratio": "23.90",
       "what_it_does": "Givaudan SA is a leading global manufacturer of flavors and fragrances for the consumer goods industry. It operates in two main divisions: Fragrance & Beauty (fine fragrances, consumer products, fragrance ingredients, active beauty) and Taste & Wellbeing (beverages, dairy, savory, sweet goods). The company serves customers in personal care, food, beverages, and wellbeing products worldwide.",
       "is_good_bet": "Givaudan holds a strong market position as the world's largest flavors and fragrances company with consistent growth, high margins (EBITDA ~23-24%), and solid free cash flow generation exceeding strategic targets. Its defensive business model benefits from essential demand in consumer staples and premiumization trends in fragrances and natural ingredients. However, recent sales growth has slowed to 5.1% LFL amid higher input costs and currency headwinds, with stock down significantly from 2024 peaks, trading at a below-historical average P/E.",
       "buy_now_signal": "Yes, now appears a good time to buy as the stock trades at ~2,820 CHF, below consensus target of ~4,150 CHF (47% upside), with P/E of 24.4 below 10-year average of 35 and 3-year average of 32. Recent price decline reflects market volatility but fundamentals remain strong with Q1 2026 sales guidance intact.",
@@ -354,7 +354,7 @@
       "price": "$19.94",
       "price_num": 19.94,
       "market_cap": "$12.07B",
-      "pe_ratio": 20.86,
+      "pe_ratio": "20.86",
       "what_it_does": "Actively managed mutual fund tracking global listed infrastructure equities, investing at least 80% in stocks of utilities, pipelines, toll roads, airports, railroads, ports, telecoms. Uses 'Preferred Infrastructure' approach focusing on revenue-certain, profitable assets like regulated utilities and monopolies. Expense ratio 0.97%; top holdings include National Grid (8%), Vinci SA (8%), Snam SpA (7%). Tracks no specific index but compared to MSCI World Core Infrastructure (hedged).",
       "is_good_bet": "Infrastructure offers inflation hedge via regulated revenues, diversification (low equity beta ~0.6-0.7), and income (yield ~3%). GLIFX has strong track record outperforming benchmark (1Y 24% vs 13%, 5Y 12% vs 8%) with lower volatility (std dev 9% vs 11%). Global spending projected at $150T+ to 2050 on energy transition, digital infra supports thematic tailwinds. Bear case: rising rates pressure yields, but low correlation to broad equities aids portfolios.",
       "buy_now_signal": "Yes - portfolio P/E ~15 low vs benchmark 22 and historical equity avg ~19; valuations reset post-2022, attractive entry per Macquarie. Strong YTD perf (7%), outperformance persists; infrastructure multiples below peaks and equities.",
@@ -440,7 +440,7 @@
       "price": "$510.77",
       "price_num": 510.77,
       "market_cap": "$27.15B",
-      "pe_ratio": 30.44,
+      "pe_ratio": "30.44",
       "what_it_does": "Hubbell Incorporated designs, manufactures, and sells electrical and utility products. Its Electrical Solutions segment sells wiring devices, rough-in products, lighting, and tools for industrial, commercial, and residential use. Utility Solutions provides transmission, distribution, and grid automation products to utilities.",
       "is_good_bet": "Bull thesis: Hubbell benefits from grid modernization, electrification megatrends, and AI/data center power demands, driving structural demand. High FCF conversion (90%), margin expansion, and vertical integration position it as a compounder. Bear thesis: High valuation at 27-33x earnings vulnerable to cyclical slowdowns in industrial capex; competition in commoditized products; execution risks in acquisitions.",
       "buy_now_signal": "Hold",
@@ -483,7 +483,7 @@
       "price": "$39.38",
       "price_num": 39.385,
       "market_cap": "$4.16B",
-      "pe_ratio": 39.78,
+      "pe_ratio": "39.78",
       "what_it_does": "Operates the only truly global LEO satellite constellation providing voice, data, IoT, and PNT services with pole-to-pole coverage [Iridium Investor](https://investor.iridium.com/). Serves governments (US DoD), maritime, aviation, land mobile, and emerging direct-to-device markets. Unique inter-satellite links enable reliable mission-critical comms anywhere.",
       "is_good_bet": "Unique moat in global satcom with recurring revenue from govt/IoT contracts; expanding via Project Stardust NTN D2D in 2026. Steady FCF supports dividends despite high debt. Bears note competition from Starlink, expensive valuation, debt burden [SimplyWallSt](https://simplywall.st/stocks/us/telecom/nasdaq-irdm/iridium-communications). Mixed analyst views reflect execution risks but durable network value.",
       "buy_now_signal": "No - trading ~30% above consensus target ($27-31); wait for pullback [TickerNerd](https://tickernerd.com/stock/irdm-forecast/), [QuiverQuant](https://www.quiverquant.com/news/New+Analyst+Forecast:+$IRDM+Given+$26+Price+Target).",
@@ -526,7 +526,7 @@
       "price": "CHF 78.17",
       "price_num": 78.17,
       "market_cap": "CHF 201.07B",
-      "pe_ratio": 22.27,
+      "pe_ratio": "22.27",
       "what_it_does": "Nestlé is the world's largest food and beverage company by sales, generating around CHF 90 billion annually. It offers a diverse portfolio including Nescafé, Maggi, Nespresso, KitKat, and Purina, with over 30 brands exceeding CHF 1 billion in sales each. The company operates in 185 countries with 270,000 employees. [Morningstar](https://www.morningstar.com/stocks/xswx/nesn/quote)",
       "is_good_bet": "Nestlé benefits from strong global brands, pricing power, and resilient demand for staples like coffee and pet food. Recent Q1 2026 results showed 3.5% organic growth beating expectations, with RIG at 1.2%, signaling volume recovery. Portfolio simplification and execution improvements under new CEO support long-term compounding, though growth is modest. Bear case includes persistent volume softness and margin pressure from costs. Overall, it's a defensive blue-chip with reliable dividends. [Food Ingredients First](https://www.foodingredientsfirst.com/news/nestle-coffee-confectionery-growth-momentum.html)",
       "buy_now_signal": "No, current price around 80 CHF trades above consensus target of ~87 CHF (8% upside), with P/E 22.7 elevated vs forward 18.5 and historical averages. Recent Q1 beat provides support but analysts mostly Hold/Neutral; wait for pullback or stronger volume proof. [Yahoo Finance](https://finance.yahoo.com/quote/NESN.SW)",
@@ -569,7 +569,7 @@
       "price": "$70.14",
       "price_num": 70.14,
       "market_cap": "$12.17B",
-      "pe_ratio": -97.42,
+      "pe_ratio": "-97.42",
       "what_it_does": "Oklo develops advanced fast-fission nuclear power plants like the Aurora (15-75 MW) for clean, reliable energy using recycled nuclear fuel. Targets data centers, industrial sites, defense. Pre-commercial stage aiming first power 2027-2028.",
       "is_good_bet": "Bull thesis: Positioned for AI/data center nuclear demand boom with innovative fast reactor tech, fuel recycling, early deals like Meta. Growing order book, regulatory progress. Bear: Pre-revenue with ongoing losses, high execution/regulatory risks, recent analyst target cuts signal slower near-term deployment. Speculative play on nuclear renaissance.",
       "buy_now_signal": "Yes, trading below consensus target (~$95) implying 35% upside despite risks. Recent deals validate demand but watch Q1 earnings/regs.",
@@ -612,7 +612,7 @@
       "price": "€126.30",
       "price_num": 126.3,
       "market_cap": "€36.22B",
-      "pe_ratio": 26.87,
+      "pe_ratio": "26.87",
       "what_it_does": "Prysmian SpA is an Italy-based company engaged in the development, design, production, supply, and installation of cables and systems for energy transmission, distribution, and telecommunications. Its Energy segment covers utilities, trade & installers, industrial applications, and other areas, while the Telecom segment provides optical fiber, cables, and connectivity products. It supports global infrastructure for power grids, renewables, and digital networks.",
       "is_good_bet": "Bull thesis: Leader in high-demand cables for energy transition, offshore wind, grid upgrades, and 5G/data centers; strong revenue growth (19.65B EUR TTM), profitability (1.27B net income), and order backlog from electrification megatrend. Bear thesis: Elevated valuation after 160%+ YTD surge, consensus targets below current price suggesting overvaluation; cyclical industrial exposure and competition pressure margins.",
       "buy_now_signal": "No, stock trades at €125 well above consensus target ~€110-114; analysts like Morgan Stanley Hold at €95 highlight downside risk post-rally.",
@@ -655,7 +655,7 @@
       "price": "$69.06",
       "price_num": 69.0642,
       "market_cap": "$1.59B",
-      "pe_ratio": 13.98,
+      "pe_ratio": "13.98",
       "what_it_does": "Power Solutions International, Inc. designs, engineers, manufactures, and sells emission-certified engines and power systems running on fuels like natural gas, propane, diesel, and biofuels. It provides integrated turnkey solutions to OEMs and end-users in energy, industrial (forklifts, construction equipment), and transportation (terminal tractors) markets, including standby power generation for data centers. The company is headquartered in Wood Dale, Illinois.[Robinhood](https://robinhood.com/us/en/stocks/PSIX/)[TradingView](https://www.tradingview.com/symbols/NASDAQ-PSIX/)",
       "is_good_bet": "PSIX has delivered strong growth fueled by data center power demand and shift to gaseous fuels, with robust profitability (ROE >80%, P/E 15.59 reasonable for growth stock). Bull thesis: positioned for AI/data center backup power boom with fuel-flexible engines; Weichai backing provides scale. Bear concerns: high beta (2.3+), small-mid cap volatility, competition from Cummins/Caterpillar, supply chain risks from China ties.[Yahoo Finance](https://finance.yahoo.com/quote/PSIX)[Ticker Nerd](https://tickernerd.com/stock/psix-forecast/)",
       "buy_now_signal": "Buy on Dip",
@@ -664,18 +664,16 @@
       "risk_score": 7,
       "houses": [
         {
-          "house": "Jefferies",
-          "target": "$92.90",
-          "target_num": 92.9,
+          "name": "Jefferies",
           "rating": "Buy",
-          "date": "2026-03-24"
+          "target": "$92.90",
+          "source": "2026-03-24"
         },
         {
-          "house": "Freedom Broker",
-          "target": "$107.00",
-          "target_num": 107,
+          "name": "Freedom Broker",
           "rating": "Buy",
-          "date": "2026-03-04"
+          "target": "$107.00",
+          "source": "2026-03-04"
         }
       ],
       "consensus_target": "$99.95",
@@ -737,7 +735,7 @@
       "price": "CHF 322.30",
       "price_num": 322.3,
       "market_cap": "CHF 256.55B",
-      "pe_ratio": 20.11,
+      "pe_ratio": "20.11",
       "what_it_does": "Roche Holding AG is a Swiss multinational healthcare company that develops, manufactures, and markets pharmaceutical and diagnostic products worldwide. It operates in two main divisions: Pharmaceuticals, focusing on oncology, immunology, infectious diseases, ophthalmology, and neuroscience; and Diagnostics, providing in vitro diagnostics for diseases like cancer, diabetes, and infectious diseases. The company serves customers globally with innovative medicines and digital health solutions.[Yahoo Finance](https://finance.yahoo.com/quote/RO.SW)",
       "is_good_bet": "Roche is a defensive blue-chip pharma leader with a diversified portfolio spanning pharma and diagnostics, strong cash generation, and a 39-year dividend growth streak. Its pipeline includes high-potential assets like CT-388 in obesity (Phase III starting Q1 2026), fenebrutinib in MS (positive Phase III), and giredestrant in oncology, positioning it to offset LOE and drive mid-single-digit growth. Bear case centers on biosimilar erosion from Perjeta/Kadcyla and execution risks in pipeline, but no major cliff like peers and robust growth drivers (Xolair, Ocrevus, Vabysmo) support a solid long-term hold.[Simply Wall St](https://finance.yahoo.com/news/roche-holding-swx-rog-still-130838752.html), [Roche News](https://www.roche.com/media/releases/med-cor-2026-04-23)",
       "buy_now_signal": "Yes, trading at P/E 20.4 below historical averages and fair value estimates (DCF ~CHF 358-430), with consensus target ~CHF 358 implying 10% upside. Recent price pullback offers entry amid positive pipeline momentum and undervaluation per multiple models.[Yahoo Finance](https://finance.yahoo.com/quote/RO.SW), [MarketScreener](https://www.marketscreener.com/quote/stock/ROCHE-HOLDING-AG-9364975/consensus/)",
@@ -780,7 +778,7 @@
       "price": "1,199.20p",
       "price_num": 1199.2,
       "market_cap": "£99.69B",
-      "pe_ratio": 17.38,
+      "pe_ratio": "17.38",
       "what_it_does": "Rolls-Royce Holdings plc develops mission-critical power systems for civil aerospace (engines and services for widebody aircraft, jets), defence, power systems, and new markets including small modular reactors. Headquartered in London, it operates internationally with strong aftermarket services. Founded in 1884.",
       "is_good_bet": "Bull thesis: Robust recovery in civil aerospace aftermarket flying hours, record defense orders, improving free cash flow enabling £2.5B+ buybacks and debt reduction. Analysts see sustained profitability post-turnaround. Bear: Valuation stretched after 80%+ 1-year rally, potential aviation cyclical downturn, supply chain bottlenecks on engines. Limited disagreement among houses, mostly positive.",
       "buy_now_signal": "Buy on Dip",
@@ -823,7 +821,7 @@
       "price": "$31.59",
       "price_num": 31.5873,
       "market_cap": "$84.12B",
-      "pe_ratio": 18.87,
+      "pe_ratio": "18.87",
       "what_it_does": "Tracks the Dow Jones U.S. Dividend 100 Index of high-quality, sustainable dividend-paying U.S. companies selected for financial strength. Top holdings include TXN (5.3%), UNH (5.1%), QCOM (4.2%), CVX (4.1%), KO (4.1%). Expense ratio 0.06%.[Schwab](https://www.schwabassetmanagement.com/products/schd)",
       "is_good_bet": "SCHD provides reliable income and growth from quality dividend payers, outperforming large value peers over 10 years with 12.4% annualized returns vs category 10.7%. Strong focus on dividend sustainability suits income-oriented portfolios in uncertain markets, with tax efficiency and low costs enhancing appeal.[Schwab](https://www.schwabassetmanagement.com/products/schd)[Morningstar](https://www.morningstar.com/etfs/arcx/schd/quote)",
       "buy_now_signal": "Yes, portfolio P/E of 17.6 is near 10-year median of ~17, below broader market ~22-25, indicating value relative to history and growth stocks. Recent YTD +12.7% but 1-month dip offers entry.[Robinhood](https://robinhood.com/us/en/stocks/SCHD/)[GuruFocus](https://www.gurufocus.com/etf/SCHD/summary)",
@@ -866,7 +864,7 @@
       "price": "$86.25",
       "price_num": 86.25,
       "market_cap": "$2.92B",
-      "pe_ratio": 23.19,
+      "pe_ratio": "23.19",
       "what_it_does": "Sezzle Inc. operates a technology-enabled payments platform primarily in the US and Canada. It allows consumers to split purchases into four interest-free installments over six weeks via Pay-in-Four, with additional options like virtual cards, Sezzle Anywhere subscription for use at any merchant, Premium access to large merchants, and credit-building tools like Sezzle Up. The company generates revenue from merchant fees, consumer subscriptions, late fees, and transaction income while maintaining low credit losses through transaction-level underwriting.",
       "is_good_bet": "Bull thesis: Sezzle has transitioned from pure BNPL to a profitable fintech ecosystem with high margins (ROE ~90%), rapid revenue growth (27%+ expected 2026), and sticky subscription revenue; unique underwriting keeps losses low at ~2% GMV, positioning it to capture underserved Gen Z/millennial market amid shift from credit cards. Bear thesis: Highly competitive BNPL space with Affirm, Klarna, Afterpay; regulatory risks on consumer lending, sensitivity to consumer spending/macro downturns, and elevated valuation leaves little margin for error on execution/growth.",
       "buy_now_signal": "Hold",
@@ -875,18 +873,16 @@
       "risk_score": 7,
       "houses": [
         {
-          "house": "Needham",
-          "target": "$94.00",
-          "target_num": 94,
+          "name": "Needham",
           "rating": "Buy",
-          "date": "2026-02-26"
+          "target": "$94.00",
+          "source": "2026-02-26"
         },
         {
-          "house": "TD Cowen",
-          "target": "$82.00",
-          "target_num": 82,
+          "name": "TD Cowen",
           "rating": "Hold",
-          "date": "2026-01-08"
+          "target": "$82.00",
+          "source": "2026-01-08"
         }
       ],
       "consensus_target": "$88.00",
@@ -905,7 +901,7 @@
       "price": "CHF 84.42",
       "price_num": 84.42,
       "market_cap": "CHF 16.70B",
-      "pe_ratio": 24.4,
+      "pe_ratio": "24.40",
       "what_it_does": "SGS SA is a Swiss multinational providing inspection, verification, testing, and certification (TIC) services worldwide. It ensures product quality, safety, and compliance across sectors like agriculture, mining, oil & gas, consumer goods, and transportation. Leader with 99,000 employees in 2,600 offices/labs. [Yahoo Finance](https://finance.yahoo.com/quote/SGSN.SW/), [Wikipedia](https://en.wikipedia.org/wiki/SGS_S.A.)",
       "is_good_bet": "Bull case: Global TIC demand grows with regulations, trade, sustainability; strong margins (15%+), M&A pipeline (ATS deal accretive), efficiency savings CHF150M. Bear case: High debt/equity 492%, FX headwinds (strong CHF), competition, cyclical commodity exposure. Quality compounder with defensive traits but premium valuation limits upside. [SGS H1](https://www.sgs.com), [Yahoo](https://finance.yahoo.com/quote/SGSN.SW/)",
       "buy_now_signal": "No, trading near 52w low (79-97) but P/E 24.5 above hist avg ~23, consensus target CHF94-98 implies 10-15% upside but recent downgrades/neutral ratings reflect balanced risk/reward post-M&A execution. Wait for dip or catalysts. [Investing Consensus](https://www.investing.com/equities/sgs-consensus-estimates), [Yahoo](https://finance.yahoo.com/quote/SGSN.SW/)",
@@ -948,7 +944,7 @@
       "price": "$12.10",
       "price_num": 12.095,
       "market_cap": "$3.61B",
-      "pe_ratio": -5.57,
+      "pe_ratio": "-5.57",
       "what_it_does": "NuScale Power Corporation designs and markets the world's first NRC-certified small modular reactors (SMRs). Their NuScale Power Module generates 77 MWe of carbon-free electricity per unit, scalable to 12-module plants delivering up to 924 MWe. The technology supports power generation, district heating, desalination, hydrogen production, and industrial process heat, powering the global energy transition through safe, factory-built reactors [NuScale](https://www.nuscalepower.com).",
       "is_good_bet": "Bull thesis: NuScale leads as the only NRC-approved SMR designer amid surging nuclear demand for AI data centers and clean baseload power; strategic partnerships like ENTRA1 Energy with TVA for up to 6 GW deployment position it for multi-GW scale-up; 2025 progress strengthened cash for commercialization. Bear thesis: Pre-revenue with no operational plants, past project cancellations (e.g., Idaho due to cost escalation), and recent analyst target cuts highlight execution risks and high cash burn. Overall mixed with first-mover edge but unproven at scale [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SMR/price-target/), [TipRanks](https://www.tipranks.com/stocks/smr/forecast).",
       "buy_now_signal": "No strong buy signal now; shares trade ~30% below consensus target but recent downgrades (Citi Sell $9, UBS/GS cuts) and 56% YTD drop reflect commercialization delays (e.g., Romania to 2033). Wait for deployment milestones amid high volatility [Google Finance](https://www.google.com/finance/quote/SMR:NYSE).",
@@ -991,7 +987,7 @@
       "price": "$1,250.14",
       "price_num": 1250.14,
       "market_cap": "$184.52B",
-      "pe_ratio": 42.64,
+      "pe_ratio": "42.64",
       "what_it_does": "SanDisk is one of the largest suppliers of NAND flash memory semiconductors globally. Vertically integrated, it produces flash chips via joint ventures and packages them into SSDs, memory cards, and USB drives for consumer, enterprise AI/data center, and cloud storage applications. Spun off from Western Digital in 2025 as a pure-play flash memory company.",
       "is_good_bet": "Bull thesis: NAND flash is in supercycle through 2028 due to AI data center demand outpacing supply growth (20-22% demand vs 15-17% supply); gross margins expanding to 65-67%; upcoming High Bandwidth Flash (HBF) tech with SK Hynix could open new markets. Stock up 30x in 12 months on these trends. Bear: Highly cyclical industry with history of boom-bust; vertically integrated but exposed to commodity pricing swings.",
       "buy_now_signal": "Avoid",
@@ -1000,53 +996,46 @@
       "risk_score": 8,
       "houses": [
         {
-          "house": "Citigroup",
+          "name": "Citigroup",
+          "rating": "Buy",
           "target": "$1,300.00",
-          "target_num": 1300,
-          "rating": "Buy",
-          "date": "2026-05-01"
+          "source": "2026-05-01"
         },
         {
-          "house": "RBC Capital",
-          "target": "$1,000.00",
-          "target_num": 1000,
+          "name": "RBC Capital",
           "rating": "Sector Perform",
-          "date": "2026-05-01"
+          "target": "$1,000.00",
+          "source": "2026-05-01"
         },
         {
-          "house": "Barclays",
-          "target": "$1,200.00",
-          "target_num": 1200,
+          "name": "Barclays",
           "rating": "Equal-Weight",
-          "date": "2026-05-01"
+          "target": "$1,200.00",
+          "source": "2026-05-01"
         },
         {
-          "house": "Bernstein",
+          "name": "Bernstein",
+          "rating": "Outperform",
           "target": "$580.00",
-          "target_num": 580,
-          "rating": "Outperform",
-          "date": "2026-01-14"
+          "source": "2026-01-14"
         },
         {
-          "house": "Mizuho",
+          "name": "Mizuho",
+          "rating": "Outperform",
           "target": "$410.00",
-          "target_num": 410,
-          "rating": "Outperform",
-          "date": "2026-01-09"
+          "source": "2026-01-09"
         },
         {
-          "house": "BofA Securities",
-          "target": "$390.00",
-          "target_num": 390,
+          "name": "BofA Securities",
           "rating": "Buy",
-          "date": "2026-01-07"
+          "target": "$390.00",
+          "source": "2026-01-07"
         },
         {
-          "house": "Morgan Stanley",
-          "target": "$96.00",
-          "target_num": 96,
+          "name": "Morgan Stanley",
           "rating": "Overweight",
-          "date": "2025-09-11"
+          "target": "$96.00",
+          "source": "2025-09-11"
         }
       ],
       "consensus_target": "$1,050.67",
@@ -1065,7 +1054,7 @@
       "price": "CHF 125.35",
       "price_num": 125.35,
       "market_cap": "CHF 36.97B",
-      "pe_ratio": 10.22,
+      "pe_ratio": "10.22",
       "what_it_does": "Swiss Re AG provides reinsurance, insurance, and insurance-based risk transfer services worldwide through Property & Casualty Reinsurance, Life & Health Reinsurance, and Corporate Solutions segments. It underwrites property, casualty, life, health, and customized corporate insurance solutions for insurers, corporations, and public entities. Founded in 1863 and headquartered in Zurich, Switzerland, it employs about 13,800 people. [Yahoo Finance](https://finance.yahoo.com/quote/SREN.SW/profile)",
       "is_good_bet": "Swiss Re delivered record 2025 net income of $4.8B, exceeding targets with strong P&C performance (combined ratio 79.5%) and robust ROI. Disciplined underwriting and low nat cat losses drove results; 2026 net income target $4.5B signals confidence amid steady economic growth and re/insurance demand. High dividend yield ~5% and share buybacks enhance shareholder returns, though cyclical risks remain. Overall bull case on resilient model and capital strength. [Reinsurance News](https://www.reinsurancene.ws/swiss-re-delivers-record-group-net-income-as-pc-re-profit-rises-to-2-8bn/)",
       "buy_now_signal": "Yes, trading near 52-week low (121-157 range) at low-teens P/E with consensus target ~125-130 CHF implying limited downside and 5-10% upside. Strong balance sheet (SST 250%) and dividend support entry; recent pullback offers value vs historical multiples. [Yahoo Finance](https://finance.yahoo.com/quote/SREN.SW/), [MarketScreener](https://www.marketscreener.com/quote/stock/SWISS-RE-LTD-9365870/consensus/)",
@@ -1108,7 +1097,7 @@
       "price": "$67.98",
       "price_num": 67.98,
       "market_cap": "$80.94B",
-      "pe_ratio": 19.15,
+      "pe_ratio": "19.15",
       "what_it_does": "Suncor Energy is a Canadian integrated energy company headquartered in Calgary, Alberta. It specializes in the development and production of synthetic crude oil from oil sands in the Athabasca region, along with conventional oil, natural gas, refining, and marketing under the Petro-Canada brand. The company operates major oil sands projects like Base Plant, Firebag, Fort Hills, and Syncrude, and has refining capacity across Canada and the US.",
       "is_good_bet": "Suncor is a leading oil sands producer with strong production growth potential from integrated operations and cost efficiencies post recent strategic updates. Bull thesis: High oil prices, operational improvements under new leadership, and Syncrude optimization support earnings growth and dividends. Bear thesis: Exposure to volatile WCS differentials, high breakeven costs in oil sands (~$45-50/bbl), and ESG pressures on heavy oil could cap upside if energy transition accelerates.",
       "buy_now_signal": "Buy on Dip",
@@ -1151,7 +1140,7 @@
       "price": "€38.68",
       "price_num": 38.68,
       "market_cap": "€6.79B",
-      "pe_ratio": 18.96,
+      "pe_ratio": "18.96",
       "what_it_does": "Technip Energies is a global engineering and technology company focused on energy transition and decarbonization. It provides technologies and services for LNG, hydrogen, sustainable chemistry, CO2 management, and renewables through Project Delivery and Technology, Products & Services segments. Headquartered in France with operations worldwide.",
       "is_good_bet": "Bull thesis: Leader in LNG and growing in hydrogen/CCUS with strong 2025 results (revenue €7.2B, EBITDA €638M), robust backlog €16B, and dividend growth/share buybacks signal confidence. Energy transition tailwinds support long-term growth. Bear thesis: Project-based revenue cyclical with oil/gas price volatility; limited analyst coverage suggests lower visibility. Recent acquisition integration risks.",
       "buy_now_signal": "Yes, trading at discount to €43 consensus target (~7% upside); forward P/E 14.6 attractive vs peers. Strong balance sheet (€3.7B cash) supports buybacks/dividends amid positive outlook.",
@@ -1194,7 +1183,7 @@
       "price": "A$5.47",
       "price_num": 5.47,
       "market_cap": "A$1.43B",
-      "pe_ratio": 28.79,
+      "pe_ratio": "28.79",
       "what_it_does": "Tasmea Limited provides essential maintenance, engineering, and specialized project services across electrical, mechanical, civil, and water & fluid segments to mining/resources, oil & gas, power/renewables, defense/infrastructure, and water sectors in Australia. It offers shutdown services, programmed maintenance, emergency breakdown response, and capital upgrades through 25+ subsidiaries. The company focuses on remote area specialist services with recurring demand from asset owners prioritizing uptime over cost.",
       "is_good_bet": "Bull thesis: Rapid revenue growth (72% FY23-25), improving margins, ROE 25-29%, serial acquirer leveraging scale in non-discretionary services to blue-chip clients. Bear thesis: Elevated valuation 29x P/E vs sector peers ~16x, rising debt post-acquisitions (net gearing ~65%), cyclical exposure to commodities. Recent acquisitions like WorkPac could drive synergies but carry execution risk. Overall, solid operator but priced for perfection.",
       "buy_now_signal": "No, trading above consensus target (~A$5.00) at premium 29x P/E; better entry on pullback to A$4.50-5.00 for margin of safety.",
@@ -1237,7 +1226,7 @@
       "price": "CHF 123.40",
       "price_num": 123.4,
       "market_cap": "CHF 1.56B",
-      "pe_ratio": -14.1,
+      "pe_ratio": "-14.10",
       "what_it_does": "Tecan Group AG provides laboratory instruments and automation solutions for biopharmaceuticals, forensics, clinical diagnostics, and medical technology. It specializes in liquid handling, robotics, microplate readers, and OEM components, serving pharma, biotech, universities, and clinics through its Life Sciences and Partnering Business divisions. Recent innovations include Veya™ multi-omics workstation and partnerships like with HP and Grifols for diagnostics.[Tecan website](https://www.tecan.com/history), [Wikipedia](https://en.wikipedia.org/wiki/Tecan), [Yahoo Finance](https://finance.yahoo.com/quote/TECN.SW/)",
       "is_good_bet": "Tecan is positioned in the growing lab automation market (~CHF25B TAM), with mid-high single-digit revenue growth potential from biopharma recovery and automation adoption. Despite recent biopharma weakness and China softness, channel checks suggest stabilization; trading at 11x 2026 EV/EBITDA, below historical premium. Strategic acquisitions (Paramit) and product launches (Veya, Duo) enhance capabilities in NGS, multi-omics, and diagnostics.[Berenberg](https://www.investing.com/news/analyst-ratings/berenberg-sets-tecan-stock-buy-rating-chf220-target-93CH-4088178), [ValueInvesting.io](https://valueinvesting.io/TECN.SW/estimates)",
       "buy_now_signal": "Buy on Dip",
@@ -1280,7 +1269,7 @@
       "price": "$6.93",
       "price_num": 6.935,
       "market_cap": "$2.16B",
-      "pe_ratio": -99.07,
+      "pe_ratio": "-99.07",
       "what_it_does": "Taseko Mines operates the Gibraltar copper-molybdenum mine in British Columbia, Canada, producing copper concentrate, cathode, and molybdenum. It is advancing the Florence Copper project in Arizona toward commercial cathode production using in-situ recovery. Additional exploration projects include Yellowhead copper, Aley niobium, and New Prosperity gold-copper in BC.",
       "is_good_bet": "Bull thesis: Florence Copper ramp-up could double output to ~150M lbs Cu/year by 2027, leveraging low-cost ISR method amid tight copper supply. Strong balance sheet post-financing, Gibraltar stable. Bear: History of project delays (Florence permitting), commodity volatility, current losses despite revenue growth, high debt/equity. Speculative; value if Cu &gt; $4.5/lb sustained.",
       "buy_now_signal": "Buy on Dip",
@@ -1289,11 +1278,10 @@
       "risk_score": 8,
       "houses": [
         {
-          "house": "Canaccord Genuity",
-          "target": "$14.00",
-          "target_num": 14,
+          "name": "Canaccord Genuity",
           "rating": "Buy",
-          "date": "2026-04-21"
+          "target": "$14.00",
+          "source": "2026-04-21"
         }
       ],
       "consensus_target": "$14.00",
@@ -1312,7 +1300,7 @@
       "price": "$80.75",
       "price_num": 80.75,
       "market_cap": "$2.79B",
-      "pe_ratio": 8.0,
+      "pe_ratio": "8.00",
       "what_it_does": "Teekay Tankers Ltd. provides international marine transportation services for crude oil using a fleet of mid-sized tankers including Suezmax, Aframax/LR2 vessels. It offers voyage and time charters, offshore ship-to-ship transfers of crude and refined products, and related marine services. Bermuda-based provider serving oil majors, traders, and governments.",
       "is_good_bet": "Bull thesis: Strong tanker rates from geopolitical disruptions (e.g. Red Sea), low fleet supply growth supports earnings; variable dividend yields excess cash to shareholders; low single-digit P/E attractive vs peers. Bear thesis: Highly cyclical sector vulnerable to oil demand slowdown, newbuild deliveries, rate normalization; parent Teekay control raises governance risks; limited Wall Street coverage signals lower conviction. Overall moderate bet for tactical trading rather than long-term hold.",
       "buy_now_signal": "Hold",
@@ -1321,18 +1309,16 @@
       "risk_score": 8,
       "houses": [
         {
-          "house": "Evercore ISI",
-          "target": "$90.00",
-          "target_num": 90,
+          "name": "Evercore ISI",
           "rating": "Outperform",
-          "date": "2026-04-22"
+          "target": "$90.00",
+          "source": "2026-04-22"
         },
         {
-          "house": "Jefferies",
-          "target": "$70.00",
-          "target_num": 70,
+          "name": "Jefferies",
           "rating": "Buy",
-          "date": "2025-10-30"
+          "target": "$70.00",
+          "source": "2025-10-30"
         }
       ],
       "consensus_target": "$80.00",
@@ -1351,7 +1337,7 @@
       "price": "$59.32",
       "price_num": 59.32,
       "market_cap": "$41.18B",
-      "pe_ratio": 22.87,
+      "pe_ratio": "22.87",
       "what_it_does": "Tracks the Energy Select Sector Index, a market-cap weighted benchmark representing the energy sector of the S&P 500. Focuses on oil, gas & consumable fuels (89%), and energy equipment & services (11%), with top holdings Exxon Mobil (~23%), Chevron (~17%), ConocoPhillips (~7%). Expense ratio 0.08%.",
       "is_good_bet": "XLE provides targeted exposure to U.S. energy majors, offering high dividend yields (~2.6-3.3%) and inflation hedging through commodity prices. Bull case: sustained oil demand, geopolitical tensions support prices above $70/bbl; strong cash flows fund buybacks/dividends. Bear case: energy transition accelerates, oversupply from non-OPEC production pressures margins; sector cyclicality amplifies volatility.",
       "buy_now_signal": "No, underlying P/E of 23.1 exceeds 5Y avg 12.4 and 10Y avg 17.7, indicating expensive relative to history despite recent YTD gains; wait for pullback to historical norms.",
@@ -1394,7 +1380,7 @@
       "price": "$153.38",
       "price_num": 153.38,
       "market_cap": "$637.53B",
-      "pe_ratio": 25.82,
+      "pe_ratio": "25.82",
       "what_it_does": "ExxonMobil is one of the world's largest integrated energy companies, engaged in the exploration, production, refining, and marketing of oil, natural gas, and petrochemical products. It operates globally across upstream (exploration and production), energy products (refining and fuels), chemical products, and specialty products including lubricants. The company also invests in low-carbon solutions like carbon capture and hydrogen.",
       "is_good_bet": "Bull thesis: Strong balance sheet, dominant position in key basins like Permian post-Pioneer acquisition, high-return projects, and resilient dividends make XOM a defensive energy play amid volatile oil prices. Bear thesis: Energy transition pressures, potential oil price declines if recession hits, regulatory risks on emissions, and high valuation relative to peers limit upside. Overall, solid but not exceptional given macro uncertainties.",
       "buy_now_signal": "No strong buy signal now; trading near consensus target with mixed ratings (buys from JPM/MS but holds from others). Wait for dip below $140 or oil price catalyst.",
@@ -1437,7 +1423,7 @@
       "price": "$2.46",
       "price_num": 2.46,
       "market_cap": "$123M",
-      "pe_ratio": -2.3,
+      "pe_ratio": "-2.30",
       "what_it_does": "NN manufactures ultra-precision components and assemblies for electric grid, data center, medical, and aerospace applications. It is pivoting away from legacy automotive exposure toward electric grid and AI infrastructure secular growth markets.",
       "is_good_bet": "Q1 2026 beat + $43M in new awards concentrated in Electric Grid and Data Center markets signals the portfolio pivot is gaining traction. Raised 2026 new-business-wins guidance to $80-90M, with net sales tracking toward top of $445-465M range. Single analyst coverage (B. Riley Buy/$3 target) vs current $2.46 — 22% upside with high execution risk.",
       "buy_now_signal": "Buy on Dip",
@@ -1446,26 +1432,17 @@
       "risk_score": 5,
       "houses": [
         {
-          "house": "B. Riley Securities",
-          "target": "$3.00",
-          "target_num": 3.0,
+          "name": "B. Riley Securities",
           "rating": "Buy",
-          "date": "2026-03-06"
+          "target": "$3.00",
+          "source": "2026-03-06"
         }
       ],
       "consensus_target": "$3.00",
       "consensus_target_num": 3.0,
       "upside_pct": 22.0,
-      "key_catalysts": [
-        "Electric Grid and Data Center market awards ($43M concentration in Q1 2026) validating portfolio pivot",
-        "60+ new program launches creating shippable backlog for H2 2026 and 2027 revenue",
-        "New business wins guidance raised to $80-90M for FY2026 — above original range"
-      ],
-      "key_risks": [
-        "GAAP net losses — still loss-making, financing from operations not yet self-sustaining",
-        "Heavy leverage with only one analyst following — minimal institutional support and thin liquidity",
-        "Transition risk: automotive exposure being reduced but replacement markets not yet fully offsetting"
-      ],
+      "key_catalysts": "Electric Grid and Data Center market awards ($43M concentration in Q1 2026) validating portfolio pivot; 60+ new program launches creating shippable backlog for H2 2026 and 2027 revenue; New business wins guidance raised to $80-90M for FY2026 — above original range",
+      "key_risks": "GAAP net losses — still loss-making, financing from operations not yet self-sustaining; Heavy leverage with only one analyst following — minimal institutional support and thin liquidity; Transition risk: automotive exposure being reduced but replacement markets not yet fully offsetting",
       "notes": "Only 1 analyst. Micro-cap ($127M market cap). High risk — loss-making, leveraged. Only appropriate as a small/option-like position. Newly Added — research populated 2026-05-04",
       "week_change_pct": 0.0
     },
@@ -1477,7 +1454,7 @@
       "price": "$6.27",
       "price_num": 6.27,
       "market_cap": "$4.82B",
-      "pe_ratio": 23.22,
+      "pe_ratio": "23.22",
       "what_it_does": "Algonquin is a North American regulated utility owning electricity, natural gas, and water distribution businesses across the US and Canada, following its strategic exit from renewable power generation assets in 2024-2025.",
       "is_good_bet": "Post-restructuring AQN is a simpler, regulated-only utility with 5-6% annual rate base CAGR through 2028 and 2026 EPS guidance of $0.35-0.37. The near-term catalyst is refinancing $1.15B in notes maturing June 2026. Current price $6.27 sits within the analyst consensus target range ($6.50-$7.25), offering modest upside plus a small dividend.",
       "buy_now_signal": "Watch",
@@ -1486,40 +1463,29 @@
       "risk_score": 3,
       "houses": [
         {
-          "house": "CIBC",
-          "target": "$6.50",
-          "target_num": 6.5,
+          "name": "CIBC",
           "rating": "Neutral",
-          "date": "2026-04-20"
+          "target": "$6.50",
+          "source": "2026-04-20"
         },
         {
-          "house": "Raymond James",
-          "target": "$7.25",
-          "target_num": 7.25,
+          "name": "Raymond James",
           "rating": "Outperform",
-          "date": "2026-03-09"
+          "target": "$7.25",
+          "source": "2026-03-09"
         },
         {
-          "house": "Janney Montgomery Scott",
-          "target": "$7.00",
-          "target_num": 7.0,
+          "name": "Janney Montgomery Scott",
           "rating": "Buy",
-          "date": "2025-11-10"
+          "target": "$7.00",
+          "source": "2025-11-10"
         }
       ],
       "consensus_target": "$6.92",
       "consensus_target_num": 6.92,
       "upside_pct": 10.4,
-      "key_catalysts": [
-        "Successful $1.15B debt refinancing expected mid-2026 removing balance sheet overhang",
-        "Rate case approvals in Missouri, New England, California, and Arizona driving earned return improvement",
-        "2027 EPS guidance of $0.38-0.42 implying 12-24% growth over 2025 baseline"
-      ],
-      "key_risks": [
-        "Higher-for-longer Fed rates keeping cost of debt elevated and compressing ROE",
-        "Execution risk on gas efficiency initiatives that were already delayed once",
-        "Weak consensus — only 3 analysts covering, 2 bullish / 1 neutral"
-      ],
+      "key_catalysts": "Successful $1.15B debt refinancing expected mid-2026 removing balance sheet overhang; Rate case approvals in Missouri, New England, California, and Arizona driving earned return improvement; 2027 EPS guidance of $0.38-0.42 implying 12-24% growth over 2025 baseline",
+      "key_risks": "Higher-for-longer Fed rates keeping cost of debt elevated and compressing ROE; Execution risk on gas efficiency initiatives that were already delayed once; Weak consensus — only 3 analysts covering, 2 bullish / 1 neutral",
       "notes": "Finance ticker: AQN. Newly Added — research populated 2026-05-04",
       "week_change_pct": -0.63
     },
@@ -1531,7 +1497,7 @@
       "price": "$17.55",
       "price_num": 17.55,
       "market_cap": "$23.12B",
-      "pe_ratio": 27.42,
+      "pe_ratio": "27.42",
       "what_it_does": "Kyocera is a Japanese conglomerate manufacturing advanced ceramics, semiconductor packages, electronic components (MLCCs, capacitors), smartphones (under KDDI JV), solar energy equipment, and industrial tools. Its core strength is engineered ceramics enabling precision electronics.",
       "is_good_bet": "Kyocera just hit a 52-week high (May 1, 2026) after a major earnings beat: Q4 FY2026 EPS of ¥102.70 vs ¥9 expected — structural reforms, semiconductor component demand, and reduced one-time costs drove the inflection. FY2027 guidance was set at EPS ¥660. Net cash-rich balance sheet (debt/equity 0.06), current ratio 3.08.",
       "buy_now_signal": "Watch",
@@ -1542,16 +1508,8 @@
       "consensus_target": "N/A",
       "consensus_target_num": null,
       "upside_pct": null,
-      "key_catalysts": [
-        "Semiconductor packaging and MLCC revenue acceleration with rising semiconductor capex globally",
-        "Structural reform benefits materializing in FY2027 — profit guidance implies ongoing margin recovery",
-        "USD weakness is mildly negative (JPY strengthening) but offset by strong domestic demand recovery"
-      ],
-      "key_risks": [
-        "Conglomerate discount — low ROE (3.15%) despite large cash holdings reduces shareholder value creation",
-        "BOJ rate hike cycle strengthening JPY, compressing overseas earnings in JPY terms",
-        "Smartphone and consumer electronics segments remain structurally challenged"
-      ],
+      "key_catalysts": "Semiconductor packaging and MLCC revenue acceleration with rising semiconductor capex globally; Structural reform benefits materializing in FY2027 — profit guidance implies ongoing margin recovery; USD weakness is mildly negative (JPY strengthening) but offset by strong domestic demand recovery",
+      "key_risks": "Conglomerate discount — low ROE (3.15%) despite large cash holdings reduces shareholder value creation; BOJ rate hike cycle strengthening JPY, compressing overseas earnings in JPY terms; Smartphone and consumer electronics segments remain structurally challenged",
       "notes": "Finance ticker: KYOCY (US OTC ADR). No analyst coverage found via finance connector. Current price $17.55 (US ADR). Major earnings beat May 1, 2026. Newly Added — research populated 2026-05-04",
       "week_change_pct": 0.46
     },
@@ -1563,7 +1521,7 @@
       "price": "¥5,150",
       "price_num": 5150.0,
       "market_cap": "¥487.53B",
-      "pe_ratio": 104.95,
+      "pe_ratio": "104.95",
       "what_it_does": "Harmonic Drive Systems manufactures strain wave gearing (harmonic drives) — compact, zero-backlash gearheads used in precision robotics, semiconductor equipment, and medical devices. It commands a dominant niche in high-precision torque transmission.",
       "is_good_bet": "Upwardly revised full-year FY2026 guidance (April 2026) confirms strong robot and chip-equipment demand. The secular growth in industrial automation and semiconductor capex makes this a structural compounder with pricing power, though valuations are already rich at a 78x P/E.",
       "buy_now_signal": "Watch",
@@ -1574,16 +1532,8 @@
       "consensus_target": "N/A",
       "consensus_target_num": null,
       "upside_pct": null,
-      "key_catalysts": [
-        "Full-year FY2026 earnings upgrade driven by semiconductor equipment demand",
-        "Humanoid robot commercialization expanding the addressable market beyond traditional industrial arms",
-        "Improved quarterly profitability trend (Q3 FY2026 net income ¥452M vs Q1 loss)"
-      ],
-      "key_risks": [
-        "Extreme valuation — stock trading at >2x DCF fair value (~¥1,499) vs current price ¥5,150",
-        "Earnings quality concerns from ¥4.8B one-time gain inflating trailing 12-month figures",
-        "BOJ tightening strengthening JPY and reducing overseas revenue value in yen terms"
-      ],
+      "key_catalysts": "Full-year FY2026 earnings upgrade driven by semiconductor equipment demand; Humanoid robot commercialization expanding the addressable market beyond traditional industrial arms; Improved quarterly profitability trend (Q3 FY2026 net income ¥452M vs Q1 loss)",
+      "key_risks": "Extreme valuation — stock trading at >2x DCF fair value (~¥1,499) vs current price ¥5,150; Earnings quality concerns from ¥4.8B one-time gain inflating trailing 12-month figures; BOJ tightening strengthening JPY and reducing overseas revenue value in yen terms",
       "notes": "No sell-side analyst coverage found via finance connector. Caution: stock appears materially overvalued on DCF basis — P/E ~78x with underlying quarterly earnings base far below trailing figures. Newly Added — research populated 2026-05-04",
       "week_change_pct": -1.34
     },
@@ -1595,7 +1545,7 @@
       "price": "¥5,041",
       "price_num": 5041.0,
       "market_cap": "¥590.73B",
-      "pe_ratio": 40.65,
+      "pe_ratio": "40.65",
       "what_it_does": "Nabtesco manufactures high-precision reduction gears (cycloidal drives) that are the standard joint actuator in industrial robots, holding ~60% global market share. It also makes automatic doors, marine vessel hydraulics, and railroad components.",
       "is_good_bet": "Q1 FY2026 results show +17% revenue growth and +68% operating profit growth YoY, driven by recovering robotics capex in China and Korea. The structural automation and humanoid-robot demand cycle provides a multi-year growth runway with margin expansion as the company exits its lower-margin hydraulic equipment business.",
       "buy_now_signal": "Watch",
@@ -1606,16 +1556,8 @@
       "consensus_target": "N/A",
       "consensus_target_num": null,
       "upside_pct": null,
-      "key_catalysts": [
-        "Continued recovery in industrial robot orders from Chinese/Korean auto manufacturers",
-        "Humanoid robot demand driving non-industrial precision gear growth",
-        "Margin expansion following the divestiture of the hydraulic equipment segment"
-      ],
-      "key_risks": [
-        "China manufacturing slowdown or overcapacity reducing robot CAPEX",
-        "BOJ rate hikes strengthening JPY and compressing USD-translated earnings",
-        "Competitive entry from Chinese gear manufacturers (Kinitics, Leaderdrive) eroding market share"
-      ],
+      "key_catalysts": "Continued recovery in industrial robot orders from Chinese/Korean auto manufacturers; Humanoid robot demand driving non-industrial precision gear growth; Margin expansion following the divestiture of the hydraulic equipment segment",
+      "key_risks": "China manufacturing slowdown or overcapacity reducing robot CAPEX; BOJ rate hikes strengthening JPY and compressing USD-translated earnings; Competitive entry from Chinese gear manufacturers (Kinitics, Leaderdrive) eroding market share",
       "notes": "No sell-side analyst coverage found via finance connector. Q1 FY2026 results released April 30, 2026 — strong beat. Newly Added — research populated 2026-05-04",
       "week_change_pct": -3.17
     },
@@ -1627,7 +1569,7 @@
       "price": "$2.80",
       "price_num": 2.8,
       "market_cap": "$886M",
-      "pe_ratio": -31.11,
+      "pe_ratio": "-31.11",
       "what_it_does": "Netlist is a micro-cap holding company that designs memory subsystems and holds patents on hybrid memory technologies used in enterprise servers. Its primary value driver is patent litigation against Samsung, Google, and now Micron — with an active ITC investigation instituted April 2026.",
       "is_good_bet": "A binary litigation play: Netlist holds patents the Federal Circuit has twice confirmed as valid (Dec 2025 CAFC ruling upholding the '608 patent). The ITC investigation against Samsung, Google, and Super Micro (instituted April 2026) is the key near-term event. Any license settlement or ITC exclusion order could trigger a multi-fold re-rating from current $2.80.",
       "buy_now_signal": "Watch",
@@ -1638,16 +1580,8 @@
       "consensus_target": "N/A",
       "consensus_target_num": null,
       "upside_pct": null,
-      "key_catalysts": [
-        "ITC investigation against Samsung/Google/Super Micro (instituted April 2026) — exclusion order potential",
-        "CAFC affirmed validity of US Patent No. 10,268,608 in December 2025 Samsung challenge",
-        "Potential Samsung or Micron license settlement as litigation costs mount for defendants"
-      ],
-      "key_risks": [
-        "No operating revenue — entirely dependent on litigation outcomes; financial health rated WEAK",
-        "District court trial outcomes remain uncertain despite PTAB/CAFC patent validity wins",
-        "Litigation can extend for years — binary risk with complete capital loss if patents invalidated"
-      ],
+      "key_catalysts": "ITC investigation against Samsung/Google/Super Micro (instituted April 2026) — exclusion order potential; CAFC affirmed validity of US Patent No. 10,268,608 in December 2025 Samsung challenge; Potential Samsung or Micron license settlement as litigation costs mount for defendants",
+      "key_risks": "No operating revenue — entirely dependent on litigation outcomes; financial health rated WEAK; District court trial outcomes remain uncertain despite PTAB/CAFC patent validity wins; Litigation can extend for years — binary risk with complete capital loss if patents invalidated",
       "notes": "No analyst coverage. Micro-cap litigation play (~$212M market cap). Suitable only as a small/option-like position. Newly Added — research populated 2026-05-04",
       "week_change_pct": 12.0
     },
@@ -1659,7 +1593,7 @@
       "price": "$36.45",
       "price_num": 36.445,
       "market_cap": "$64.76B",
-      "pe_ratio": 24.14,
+      "pe_ratio": "24.14",
       "what_it_does": "RELX owns LexisNexis (legal analytics), Elsevier (scientific publishing), Reed Exhibitions, and a large Risk & Business Analytics division serving financial crime compliance, fraud detection, and insurance markets. Its moat is proprietary datasets and deeply embedded workflow tools.",
       "is_good_bet": "RELX's April 2026 trading update confirmed strong underlying revenue and profit growth across all four segments, driven by AI-enabled decision tools that deepen rather than replace its product moat. The ADR (RELX) consensus average target of $50.44 vs current $36.45 implies 38% upside — the stock is down ~32% YTD in London from its 2025 peaks, creating an unusual entry point for a compounder of this quality.",
       "buy_now_signal": "Buy on Dip",
@@ -1668,26 +1602,17 @@
       "risk_score": 2,
       "houses": [
         {
-          "house": "MarketWatch Consensus (14 analysts)",
-          "target": "$50.44",
-          "target_num": 50.44,
+          "name": "MarketWatch Consensus (14 analysts)",
           "rating": "Buy",
-          "date": "2026-03"
+          "target": "$50.44",
+          "source": "2026-03"
         }
       ],
       "consensus_target": "$50.44",
       "consensus_target_num": 50.44,
       "upside_pct": 38.4,
-      "key_catalysts": [
-        "AI-enabled analytics tools (LexisNexis AI, ScienceDirect AI) driving accelerated product mix shift to high-value data tools",
-        "Risk segment: Financial Crime Compliance and Fraud & Identity solutions in strong new sales",
-        "USD weakness is directly positive — RELX reports in GBP/USD but earns significant USD revenue"
-      ],
-      "key_risks": [
-        "OpenAI and other LLM providers potentially disintermediating legal and scientific research workflows",
-        "Stock down 32% YTD in London — investor anxiety about AI disruption risk may persist",
-        "Currency exposure: EUR strength relative to GBP is a modest headwind for European operations"
-      ],
+      "key_catalysts": "AI-enabled analytics tools (LexisNexis AI, ScienceDirect AI) driving accelerated product mix shift to high-value data tools; Risk segment: Financial Crime Compliance and Fraud & Identity solutions in strong new sales; USD weakness is directly positive — RELX reports in GBP/USD but earns significant USD revenue",
+      "key_risks": "OpenAI and other LLM providers potentially disintermediating legal and scientific research workflows; Stock down 32% YTD in London — investor anxiety about AI disruption risk may persist; Currency exposure: EUR strength relative to GBP is a modest headwind for European operations",
       "notes": "Finance ticker: RELX (US ADR). UK-listed (REL.L) median target £3,462.50 pence = ~$44 USD at current rates. USD ADR consensus $50.44 (MarketWatch). Current price $36.45. Significant dislocation likely reflects 32% London YTD decline. Newly Added — research populated 2026-05-04",
       "week_change_pct": 0.26
     },
@@ -1699,7 +1624,7 @@
       "price": "$91.64",
       "price_num": 91.638,
       "market_cap": "$33.69B",
-      "pe_ratio": 41.09,
+      "pe_ratio": "41.09",
       "what_it_does": "Flex is one of the world's largest electronics contract manufacturers, providing end-to-end design, manufacturing, and supply chain services across data center (cloud & power), automotive, healthcare, and industrial markets with ~$27B in annual revenue.",
       "is_good_bet": "Flex's data center segment (~25% of revenue) is targeted to grow 35%+ in FY2026 to ~$6.5B — this is the largest structural driver. Q3 FY2026: revenue $7.1B (+8% YoY), adjusted EPS $0.87 (record), raised FY2026 EPS guidance to $3.21-3.27 (+22% growth). Current price $91.64 vs $69.71 consensus target suggests the stock has significantly outperformed targets — valuation now stretched.",
       "buy_now_signal": "Avoid",
@@ -1708,54 +1633,41 @@
       "risk_score": 3,
       "houses": [
         {
-          "house": "Stifel",
+          "name": "Stifel",
+          "rating": "Buy",
           "target": "$95",
-          "target_num": 95,
-          "rating": "Buy",
-          "date": "2026-04-20"
+          "source": "2026-04-20"
         },
         {
-          "house": "JP Morgan",
+          "name": "JP Morgan",
+          "rating": "Overweight",
           "target": "$84",
-          "target_num": 84,
-          "rating": "Overweight",
-          "date": "2026-04-16"
+          "source": "2026-04-16"
         },
         {
-          "house": "Barclays",
+          "name": "Barclays",
+          "rating": "Overweight",
           "target": "$72",
-          "target_num": 72,
-          "rating": "Overweight",
-          "date": "2026-02-05"
+          "source": "2026-02-05"
         },
         {
-          "house": "Goldman Sachs",
-          "target": "$74",
-          "target_num": 74,
+          "name": "Goldman Sachs",
           "rating": "Buy",
-          "date": "2025-12-09"
+          "target": "$74",
+          "source": "2025-12-09"
         },
         {
-          "house": "Jefferies",
-          "target": "$23",
-          "target_num": 23,
+          "name": "Jefferies",
           "rating": "Hold",
-          "date": "2025-11-12"
+          "target": "$23",
+          "source": "2025-11-12"
         }
       ],
       "consensus_target": "$69.71",
       "consensus_target_num": 69.71,
       "upside_pct": -23.9,
-      "key_catalysts": [
-        "Data center (cloud + power) segment targeting 35%+ growth driven by AI infrastructure buildout",
-        "New Poland power manufacturing site expanding European AI infrastructure capacity",
-        "Regionalization advantages allowing customers to navigate tariff complexity"
-      ],
-      "key_risks": [
-        "Stock has significantly outperformed — current price $91.64 is 31% above the $69.71 consensus average target",
-        "Tariff exposure on cross-border supply chains despite regionalization progress",
-        "Automotive and renewables segments remain soft, dragging on Reliability Solutions profitability"
-      ],
+      "key_catalysts": "Data center (cloud + power) segment targeting 35%+ growth driven by AI infrastructure buildout; New Poland power manufacturing site expanding European AI infrastructure capacity; Regionalization advantages allowing customers to navigate tariff complexity",
+      "key_risks": "Stock has significantly outperformed — current price $91.64 is 31% above the $69.71 consensus average target; Tariff exposure on cross-border supply chains despite regionalization progress; Automotive and renewables segments remain soft, dragging on Reliability Solutions profitability",
       "notes": "Newly Added — research populated 2026-05-04. Note: stock has moved well above most analyst targets — Stifel at $95 is the only target above current price. Valuation now stretched per consensus.",
       "week_change_pct": -0.07
     },
@@ -1767,7 +1679,7 @@
       "price": "$20.76",
       "price_num": 20.76,
       "market_cap": "$6.55B",
-      "pe_ratio": -23.59,
+      "pe_ratio": "-23.59",
       "what_it_does": "Core Scientific operates large-scale data center infrastructure originally built for bitcoin mining, now pivoting aggressively to AI/HPC co-location hosting. It has 1,300+ MW of contracted power and is building a 1.5GW campus in Pecos, Texas for AI workloads.",
       "is_good_bet": "CORZ has a 100% bullish analyst consensus (9/9) with a $24.58 average target. The Pecos 1.5GW campus announcement (April 2026), $3.3B senior secured notes for expansion, and CoreWeave multi-year contract create a credible path to AI-infrastructure scale at much lower cost than greenfield builds. Risk is execution and leverage.",
       "buy_now_signal": "Buy on Dip",
@@ -1776,61 +1688,47 @@
       "risk_score": 4,
       "houses": [
         {
-          "house": "Cantor Fitzgerald",
-          "target": "$29",
-          "target_num": 29,
+          "name": "Cantor Fitzgerald",
           "rating": "Overweight",
-          "date": "2026-04-09"
+          "target": "$29",
+          "source": "2026-04-09"
         },
         {
-          "house": "Macquarie",
+          "name": "Macquarie",
+          "rating": "Outperform",
           "target": "$28",
-          "target_num": 28,
-          "rating": "Outperform",
-          "date": "2026-03-04"
+          "source": "2026-03-04"
         },
         {
-          "house": "HC Wainwright & Co.",
-          "target": "$25",
-          "target_num": 25,
+          "name": "HC Wainwright & Co.",
           "rating": "Buy",
-          "date": "2026-03-03"
+          "target": "$25",
+          "source": "2026-03-03"
         },
         {
-          "house": "Canaccord Genuity",
+          "name": "Canaccord Genuity",
+          "rating": "Buy",
           "target": "$20",
-          "target_num": 20,
-          "rating": "Buy",
-          "date": "2026-03-04"
+          "source": "2026-03-04"
         },
         {
-          "house": "Keefe, Bruyette & Woods",
+          "name": "Keefe, Bruyette & Woods",
+          "rating": "Outperform",
           "target": "$25",
-          "target_num": 25,
-          "rating": "Outperform",
-          "date": "2026-01-27"
+          "source": "2026-01-27"
         },
         {
-          "house": "Bernstein",
-          "target": "$24",
-          "target_num": 24,
+          "name": "Bernstein",
           "rating": "Outperform",
-          "date": "2025-11-03"
+          "target": "$24",
+          "source": "2025-11-03"
         }
       ],
       "consensus_target": "$24.58",
       "consensus_target_num": 24.58,
       "upside_pct": 18.4,
-      "key_catalysts": [
-        "1.5GW Pecos Texas AI data center campus with first hall operational by early 2027",
-        "Multi-year HPC hosting contracts (CoreWeave) providing revenue visibility",
-        "$3.3B senior secured notes (2031) funding Georgia, North Carolina, and Oklahoma expansions"
-      ],
-      "key_risks": [
-        "$3.3B in senior secured debt creates fixed obligations — any AI contract delays stress cash flow",
-        "Bitcoin price decline reduces mining revenue stream during HPC ramp-up transition period",
-        "Competitive pressure from established hyperscaler-linked data center operators on pricing"
-      ],
+      "key_catalysts": "1.5GW Pecos Texas AI data center campus with first hall operational by early 2027; Multi-year HPC hosting contracts (CoreWeave) providing revenue visibility; $3.3B senior secured notes (2031) funding Georgia, North Carolina, and Oklahoma expansions",
+      "key_risks": "$3.3B in senior secured debt creates fixed obligations — any AI contract delays stress cash flow; Bitcoin price decline reduces mining revenue stream during HPC ramp-up transition period; Competitive pressure from established hyperscaler-linked data center operators on pricing",
       "notes": "Newly Added — research populated 2026-05-04",
       "week_change_pct": 2.01
     },
@@ -1842,7 +1740,7 @@
       "price": "$115.28",
       "price_num": 115.28,
       "market_cap": "$27.40B",
-      "pe_ratio": 28.68,
+      "pe_ratio": "28.68",
       "what_it_does": "Xylem designs and manufactures water technology solutions including pumps, sensors, treatment systems, smart metering, and digital analytics platforms for water utilities, industrial users, and municipalities globally.",
       "is_good_bet": "Q1 2026: revenue $2.13B (+2.7%), adjusted EPS $1.12 (+9%), narrow revenue miss offset by solid margin expansion. Full-year 2026 guidance reiterated at $9.2-9.3B revenue with 22.9-23.3% EBITDA margin. The structural water scarcity and infrastructure upgrade megatrend, combined with a $1.5B buyback authorization and an accretive optical sensing acquisition, support the 10/10 bullish analyst positioning. Consensus $150.90 target vs $115.28 implies 30.9% upside.",
       "buy_now_signal": "Buy on Dip",
@@ -1851,75 +1749,59 @@
       "risk_score": 2,
       "houses": [
         {
-          "house": "Citigroup",
+          "name": "Citigroup",
+          "rating": "Buy",
           "target": "$168",
-          "target_num": 168,
-          "rating": "Buy",
-          "date": "2026-04-29"
+          "source": "2026-04-29"
         },
         {
-          "house": "Oppenheimer",
+          "name": "Oppenheimer",
+          "rating": "Outperform",
           "target": "$158",
-          "target_num": 158,
-          "rating": "Outperform",
-          "date": "2026-04-29"
+          "source": "2026-04-29"
         },
         {
-          "house": "Barclays",
+          "name": "Barclays",
+          "rating": "Overweight",
           "target": "$154",
-          "target_num": 154,
-          "rating": "Overweight",
-          "date": "2026-04-29"
+          "source": "2026-04-29"
         },
         {
-          "house": "Stifel",
-          "target": "$159",
-          "target_num": 159,
+          "name": "Stifel",
           "rating": "Buy",
-          "date": "2026-04-29"
+          "target": "$159",
+          "source": "2026-04-29"
         },
         {
-          "house": "JP Morgan",
-          "target": "$160",
-          "target_num": 160,
+          "name": "JP Morgan",
           "rating": "Overweight",
-          "date": "2026-04-16"
+          "target": "$160",
+          "source": "2026-04-16"
         },
         {
-          "house": "RBC Capital",
-          "target": "$162",
-          "target_num": 162,
+          "name": "RBC Capital",
           "rating": "Outperform",
-          "date": "2026-02-11"
+          "target": "$162",
+          "source": "2026-02-11"
         },
         {
-          "house": "UBS",
-          "target": "$133",
-          "target_num": 133,
+          "name": "UBS",
           "rating": "Neutral",
-          "date": "2026-04-29"
+          "target": "$133",
+          "source": "2026-04-29"
         },
         {
-          "house": "Jefferies",
-          "target": "$130",
-          "target_num": 130,
+          "name": "Jefferies",
           "rating": "Hold",
-          "date": "2026-03-31"
+          "target": "$130",
+          "source": "2026-03-31"
         }
       ],
       "consensus_target": "$150.90",
       "consensus_target_num": 150.9,
       "upside_pct": 30.9,
-      "key_catalysts": [
-        "€190M acquisition of optical sensing/water quality monitoring company (closing 2026) expanding Measurement & Control segment",
-        "$1.5B share buyback program announcement alongside Q1 2026 results",
-        "Municipal infrastructure investment globally accelerating — US water and wastewater systems replacement cycle"
-      ],
-      "key_risks": [
-        "Organic revenue declined 0.4% in Q1 2026 — US capital project activity weakened by macro uncertainty",
-        "Q1 revenue slightly missed consensus estimates — execution risk in converting backlog to revenue",
-        "High leverage from Evoqua Water acquisition (2023) limits balance sheet flexibility"
-      ],
+      "key_catalysts": "€190M acquisition of optical sensing/water quality monitoring company (closing 2026) expanding Measurement & Control segment; $1.5B share buyback program announcement alongside Q1 2026 results; Municipal infrastructure investment globally accelerating — US water and wastewater systems replacement cycle",
+      "key_risks": "Organic revenue declined 0.4% in Q1 2026 — US capital project activity weakened by macro uncertainty; Q1 revenue slightly missed consensus estimates — execution risk in converting backlog to revenue; High leverage from Evoqua Water acquisition (2023) limits balance sheet flexibility",
       "notes": "Newly Added — research populated 2026-05-04",
       "week_change_pct": -0.08
     },
@@ -1931,7 +1813,7 @@
       "price": "$256.80",
       "price_num": 256.8,
       "market_cap": "$72.53B",
-      "pe_ratio": 34.7,
+      "pe_ratio": "34.70",
       "what_it_does": "Ecolab provides water treatment, hygiene, infection prevention, and pest elimination solutions to foodservice, hospitality, healthcare, industrial, and life sciences customers globally. Its platform combines proprietary chemistry, digital monitoring, and field service.",
       "is_good_bet": "Q1 2026: revenue +10%, adjusted EPS +13% to $1.70, reaffirmed FY2026 guidance of $8.43-8.63 (12-15% growth). Ecolab Digital growing 24% and Global High-Tech >20% organically. Strong pricing power despite oil-driven commodity cost headwinds, 10/12 analysts bullish with $322 consensus target vs $256.80 — 25.4% implied upside.",
       "buy_now_signal": "Buy on Dip",
@@ -1940,75 +1822,59 @@
       "risk_score": 2,
       "houses": [
         {
-          "house": "Citigroup",
+          "name": "Citigroup",
+          "rating": "Buy",
           "target": "$325",
-          "target_num": 325,
-          "rating": "Buy",
-          "date": "2026-04-30"
+          "source": "2026-04-30"
         },
         {
-          "house": "B of A Securities",
+          "name": "B of A Securities",
+          "rating": "Buy",
           "target": "$345",
-          "target_num": 345,
-          "rating": "Buy",
-          "date": "2026-04-21"
+          "source": "2026-04-21"
         },
         {
-          "house": "UBS",
-          "target": "$293",
-          "target_num": 293,
+          "name": "UBS",
           "rating": "Neutral",
-          "date": "2026-04-09"
+          "target": "$293",
+          "source": "2026-04-09"
         },
         {
-          "house": "JP Morgan",
-          "target": "$295",
-          "target_num": 295,
+          "name": "JP Morgan",
           "rating": "Overweight",
-          "date": "2026-03-24"
+          "target": "$295",
+          "source": "2026-03-24"
         },
         {
-          "house": "Baird",
+          "name": "Baird",
+          "rating": "Outperform",
           "target": "$296",
-          "target_num": 296,
-          "rating": "Outperform",
-          "date": "2026-03-24"
+          "source": "2026-03-24"
         },
         {
-          "house": "Jefferies",
-          "target": "$352",
-          "target_num": 352,
+          "name": "Jefferies",
           "rating": "Buy",
-          "date": "2026-02-11"
+          "target": "$352",
+          "source": "2026-02-11"
         },
         {
-          "house": "RBC Capital",
+          "name": "RBC Capital",
+          "rating": "Outperform",
           "target": "$337",
-          "target_num": 337,
-          "rating": "Outperform",
-          "date": "2026-02-11"
+          "source": "2026-02-11"
         },
         {
-          "house": "BMO Capital",
-          "target": "$345",
-          "target_num": 345,
+          "name": "BMO Capital",
           "rating": "Outperform",
-          "date": "2026-02-13"
+          "target": "$345",
+          "source": "2026-02-13"
         }
       ],
       "consensus_target": "$322.25",
       "consensus_target_num": 322.25,
       "upside_pct": 25.5,
-      "key_catalysts": [
-        "Ecolab Digital (SaaS-like recurring revenue) growing 24% with AI-powered water analytics",
-        "Global Life Sciences and High-Tech segments expanding into semiconductor and data center water treatment",
-        "Energy surcharge implementation offsetting oil-driven commodity cost inflation in H2 2026"
-      ],
-      "key_risks": [
-        "High-single-digit commodity cost inflation from energy-linked inputs pressuring margins in Q2 2026",
-        "Valuation premium (35x+ P/E) leaves limited buffer if growth disappoints",
-        "Currency headwinds from weaker USD reducing international earnings in USD terms (paradoxically, USD-weak cuts USD investor upside for a USD-reporting stock)"
-      ],
+      "key_catalysts": "Ecolab Digital (SaaS-like recurring revenue) growing 24% with AI-powered water analytics; Global Life Sciences and High-Tech segments expanding into semiconductor and data center water treatment; Energy surcharge implementation offsetting oil-driven commodity cost inflation in H2 2026",
+      "key_risks": "High-single-digit commodity cost inflation from energy-linked inputs pressuring margins in Q2 2026; Valuation premium (35x+ P/E) leaves limited buffer if growth disappoints; Currency headwinds from weaker USD reducing international earnings in USD terms (paradoxically, USD-weak cuts USD investor upside for a USD-reporting stock)",
       "notes": "Newly Added — research populated 2026-05-04",
       "week_change_pct": -1.04
     },
@@ -2020,7 +1886,7 @@
       "price": "$33.87",
       "price_num": 33.87,
       "market_cap": "$9.88B",
-      "pe_ratio": 39.85,
+      "pe_ratio": "39.85",
       "what_it_does": "Bentley Systems provides infrastructure engineering software used for designing, building, and operating roads, bridges, rail, utilities, industrial plants, and subsurface networks. Its products are deeply embedded in civil and plant engineering workflows globally.",
       "is_good_bet": "Bentley guided FY2026 revenues of $1.685-1.715B (11-13% constant currency growth), driven by strong subscription conversion and AI-enhanced asset analytics. The stock has pulled back meaningfully from its 2024 highs, making the current ~$33.87 price materially below the $48.33 consensus target — a 43% implied upside that makes BSY arguably the most mispriced quality software name on the list.",
       "buy_now_signal": "Buy on Dip",
@@ -2029,75 +1895,59 @@
       "risk_score": 3,
       "houses": [
         {
-          "house": "Barclays",
-          "target": "$49",
-          "target_num": 49,
+          "name": "Barclays",
           "rating": "Equal-Weight",
-          "date": "2026-03-06"
+          "target": "$49",
+          "source": "2026-03-06"
         },
         {
-          "house": "Piper Sandler",
+          "name": "Piper Sandler",
+          "rating": "Neutral",
           "target": "$42",
-          "target_num": 42,
-          "rating": "Neutral",
-          "date": "2026-03-02"
+          "source": "2026-03-02"
         },
         {
-          "house": "Mizuho",
-          "target": "$50",
-          "target_num": 50,
+          "name": "Mizuho",
           "rating": "Outperform",
-          "date": "2026-02-27"
+          "target": "$50",
+          "source": "2026-02-27"
         },
         {
-          "house": "Oppenheimer",
+          "name": "Oppenheimer",
+          "rating": "Outperform",
           "target": "$43",
-          "target_num": 43,
-          "rating": "Outperform",
-          "date": "2026-02-27"
+          "source": "2026-02-27"
         },
         {
-          "house": "Rosenblatt",
-          "target": "$50",
-          "target_num": 50,
+          "name": "Rosenblatt",
           "rating": "Buy",
-          "date": "2026-02-24"
+          "target": "$50",
+          "source": "2026-02-24"
         },
         {
-          "house": "UBS",
-          "target": "$40",
-          "target_num": 40,
+          "name": "UBS",
           "rating": "Neutral",
-          "date": "2026-02-23"
+          "target": "$40",
+          "source": "2026-02-23"
         },
         {
-          "house": "RBC Capital",
+          "name": "RBC Capital",
+          "rating": "Outperform",
           "target": "$48",
-          "target_num": 48,
-          "rating": "Outperform",
-          "date": "2026-01-05"
+          "source": "2026-01-05"
         },
         {
-          "house": "Baird",
-          "target": "$62",
-          "target_num": 62,
+          "name": "Baird",
           "rating": "Outperform",
-          "date": "2025-11-06"
+          "target": "$62",
+          "source": "2025-11-06"
         }
       ],
       "consensus_target": "$48.33",
       "consensus_target_num": 48.33,
       "upside_pct": 42.7,
-      "key_catalysts": [
-        "FY2026 subscription revenue growing 11-13% in constant currency with ARR expansion",
-        "AI-enhanced infrastructure analytics products (from Talon Aerolytics/Pointivo acquisition Jan 2026)",
-        "Global infrastructure spending acceleration including US IRA, EU green deal, Middle East mega-projects"
-      ],
-      "key_risks": [
-        "Valuation still elevated vs peers despite pullback — competitive threat from open-source and cloud-native civil engineering tools",
-        "Macro slowdown reducing private sector infrastructure investment",
-        "Leveraged balance sheet after $678M convertible note repayment in Jan 2026 drawn from credit facilities"
-      ],
+      "key_catalysts": "FY2026 subscription revenue growing 11-13% in constant currency with ARR expansion; AI-enhanced infrastructure analytics products (from Talon Aerolytics/Pointivo acquisition Jan 2026); Global infrastructure spending acceleration including US IRA, EU green deal, Middle East mega-projects",
+      "key_risks": "Valuation still elevated vs peers despite pullback — competitive threat from open-source and cloud-native civil engineering tools; Macro slowdown reducing private sector infrastructure investment; Leveraged balance sheet after $678M convertible note repayment in Jan 2026 drawn from credit facilities",
       "notes": "Newly Added — research populated 2026-05-04",
       "week_change_pct": 0.92
     },
@@ -2109,7 +1959,7 @@
       "price": "$120.84",
       "price_num": 120.84,
       "market_cap": "$3.53B",
-      "pe_ratio": 27.34,
+      "pe_ratio": "27.34",
       "what_it_does": "Badger Meter makes smart water meters and related analytics software used by utilities to measure, monitor, and manage water consumption. Its ORION and BEACON AMA systems provide end-to-end AMI (advanced metering infrastructure) solutions.",
       "is_good_bet": "Badger trades at a structural premium justified by its near-monopoly position in US municipal smart water metering, a government-mandated replacement cycle, and recurring SaaS revenue from BEACON. Q1 2026 was soft (-9% revenue vs estimates) but management maintained guidance; Stifel and JP Morgan see 20-33% upside.",
       "buy_now_signal": "Buy on Dip",
@@ -2118,61 +1968,47 @@
       "risk_score": 3,
       "houses": [
         {
-          "house": "RBC Capital",
+          "name": "RBC Capital",
+          "rating": "Outperform",
           "target": "$169",
-          "target_num": 169,
-          "rating": "Outperform",
-          "date": "2026-04-20"
+          "source": "2026-04-20"
         },
         {
-          "house": "Barclays",
-          "target": "$110",
-          "target_num": 110,
+          "name": "Barclays",
           "rating": "Underweight",
-          "date": "2026-04-20"
+          "target": "$110",
+          "source": "2026-04-20"
         },
         {
-          "house": "Stifel",
+          "name": "Stifel",
+          "rating": "Buy",
           "target": "$140",
-          "target_num": 140,
-          "rating": "Buy",
-          "date": "2026-04-20"
+          "source": "2026-04-20"
         },
         {
-          "house": "Baird",
-          "target": "$145",
-          "target_num": 145,
+          "name": "Baird",
           "rating": "Outperform",
-          "date": "2026-04-20"
+          "target": "$145",
+          "source": "2026-04-20"
         },
         {
-          "house": "JP Morgan",
-          "target": "$160",
-          "target_num": 160,
+          "name": "JP Morgan",
           "rating": "Overweight",
-          "date": "2026-04-17"
+          "target": "$160",
+          "source": "2026-04-17"
         },
         {
-          "house": "Jefferies",
-          "target": "$200",
-          "target_num": 200,
+          "name": "Jefferies",
           "rating": "Buy",
-          "date": "2026-01-29"
+          "target": "$200",
+          "source": "2026-01-29"
         }
       ],
       "consensus_target": "$154",
       "consensus_target_num": 154.0,
       "upside_pct": 27.4,
-      "key_catalysts": [
-        "Municipal utility AMI upgrade cycle driven by EPA lead service line replacement mandates",
-        "SaaS (BEACON AMA) recurring revenue expansion improving revenue quality and margins",
-        "International expansion into European and Asian water infrastructure markets"
-      ],
-      "key_risks": [
-        "Q1 2026 revenue missed estimates by 12.5% — near-term order softness in municipal projects",
-        "Barclays Underweight with $110 target implies 9% downside from current $120.84",
-        "Rich valuation — premium pricing leaves limited margin of safety if municipal budgets tighten"
-      ],
+      "key_catalysts": "Municipal utility AMI upgrade cycle driven by EPA lead service line replacement mandates; SaaS (BEACON AMA) recurring revenue expansion improving revenue quality and margins; International expansion into European and Asian water infrastructure markets",
+      "key_risks": "Q1 2026 revenue missed estimates by 12.5% — near-term order softness in municipal projects; Barclays Underweight with $110 target implies 9% downside from current $120.84; Rich valuation — premium pricing leaves limited margin of safety if municipal budgets tighten",
       "notes": "Newly Added — research populated 2026-05-04",
       "week_change_pct": -0.93
     },
@@ -2184,7 +2020,7 @@
       "price": "€242.40",
       "price_num": 242.4,
       "market_cap": "€13.21B",
-      "pe_ratio": 16.43,
+      "pe_ratio": "16.43",
       "what_it_does": "Acciona is a Spanish conglomerate operating renewable energy generation (Acciona Energía) and infrastructure construction/concessions. Its energy arm targets ~€1.2B EBITDA in 2026 and is rotating ~€2B of assets to reduce debt.",
       "is_good_bet": "Acciona's massive €10B+ infrastructure backlog and ongoing asset rotation program could drive a valuation recovery toward the €240+ range; at current €242 the thesis depends on execution of deleveraging (FFO leverage returning below 4.5x by end-2026) and improving Energía earnings trajectory.",
       "buy_now_signal": "Watch",
@@ -2195,16 +2031,8 @@
       "consensus_target": "N/A",
       "consensus_target_num": null,
       "upside_pct": null,
-      "key_catalysts": [
-        "€2B asset rotation proceeds scheduled for 2026 to reduce Net Debt below €3B",
-        "Infrastructure backlog execution driving revenue visibility",
-        "EUR/USD appreciation (~1.17) translating to higher EUR-denominated returns for non-EU investors"
-      ],
-      "key_risks": [
-        "Acciona Energía earnings declining ~11% per annum per consensus — elevated power price sensitivity",
-        "High leverage (FFO net leverage previously above 4.5x) constraining financial flexibility",
-        "Spanish regulatory risk on renewable tariffs; geopolitical exposure in construction markets"
-      ],
+      "key_catalysts": "€2B asset rotation proceeds scheduled for 2026 to reduce Net Debt below €3B; Infrastructure backlog execution driving revenue visibility; EUR/USD appreciation (~1.17) translating to higher EUR-denominated returns for non-EU investors",
+      "key_risks": "Acciona Energía earnings declining ~11% per annum per consensus — elevated power price sensitivity; High leverage (FFO net leverage previously above 4.5x) constraining financial flexibility; Spanish regulatory risk on renewable tariffs; geopolitical exposure in construction markets",
       "notes": "No analyst coverage found via finance connector for ANA.MC. Morningstar notes Acciona Energía earnings outlook is 'unappealing' (Mar 2026). Newly Added — research populated 2026-05-04",
       "week_change_pct": -2.02
     },
@@ -2216,7 +2044,7 @@
       "price": "€57.86",
       "price_num": 57.86,
       "market_cap": "€10.12B",
-      "pe_ratio": 22.69,
+      "pe_ratio": "22.69",
       "what_it_does": "Eurofins is the world's largest network of food, environmental, pharmaceutical testing, and clinical diagnostics laboratories with over 900 labs across 50+ countries. It serves food producers, pharma companies, governments, and hospital systems.",
       "is_good_bet": "Q1 2026 organic growth of 2.6% was dampened by severe weather impacts and planned clinical contract rationalizations — temporary headwinds that management expects to reverse through 2026. CEO cited 'significant opportunities still to come' from its hub-and-spoke lab network, digitalization, and EBITDA margin progression toward 24% by 2027. Active buyback (€110M in Q1) at historically low valuations.",
       "buy_now_signal": "Watch",
@@ -2227,16 +2055,8 @@
       "consensus_target": "N/A",
       "consensus_target_num": null,
       "upside_pct": null,
-      "key_catalysts": [
-        "Margin expansion toward 24% EBITDA target by 2027 from digitalization and hub-and-spoke lab efficiency",
-        "Biopharma Services recovery as new contract wins replace CDMO revenue lost in 2025",
-        "Share buyback program (up to 4.5% of share capital) supporting EPS at historically low valuations"
-      ],
-      "key_risks": [
-        "Persistent softness in biopharma ancillary and CDMO activities if pharma spend contracts",
-        "EUR strength creating FX headwind on non-European revenues (Q1: -4.8% FX drag)",
-        "Integration risk and SDI (separately disclosed items) charges from ongoing network investments and M&A"
-      ],
+      "key_catalysts": "Margin expansion toward 24% EBITDA target by 2027 from digitalization and hub-and-spoke lab efficiency; Biopharma Services recovery as new contract wins replace CDMO revenue lost in 2025; Share buyback program (up to 4.5% of share capital) supporting EPS at historically low valuations",
+      "key_risks": "Persistent softness in biopharma ancillary and CDMO activities if pharma spend contracts; EUR strength creating FX headwind on non-European revenues (Q1: -4.8% FX drag); Integration risk and SDI (separately disclosed items) charges from ongoing network investments and M&A",
       "notes": "No analyst coverage found via finance connector for ERF.PA (Paris-listed). Based on StockAnalysis data: revenue €7.14B TTM, net income €381M, EPS €1.98. Current price €57.86. Newly Added — research populated 2026-05-04",
       "week_change_pct": -1.97
     }
