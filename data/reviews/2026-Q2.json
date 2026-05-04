@@ -1,6 +1,6 @@
 {
   "quarter": "2026-Q2",
-  "review_date": "2026-04-29",
+  "review_date": "2026-05-04",
   "macro_context": {
     "summary": "April 2026 macro regime: stagflationary crosscurrents dominate. The Iran war has pushed Brent crude to ~$101-111/bbl (+$35-47 YoY), reigniting energy inflation and freezing the Fed at 3.50-3.75% despite growth softening. The 10Y UST sits at 4.35%, credit spreads are near 25-year tights (IG OAS ~80 bps, HY ~285 bps), and the DXY has corrected ~10% from its 2025 peak to ~98-99 — weakening against EUR (~1.17) and CHF — which is materially positive for Swiss and European assets in USD terms. AI hyperscaler capex is surging ($600-630B aggregate 2026E, +36-62% YoY), keeping the power/grid/semicap complex structurally bid, but the cycle is maturing and vulnerable to any demand digestion signal. Central bank divergence is acute: BOJ tightening to 0.75% (hawkish dissenters want 1.0%), ECB debating hikes from 2.00%, BOE frozen at 3.75%. Equity factor leadership has rotated toward value/quality in Europe and small-cap value showing early reversal after years of growth dominance; defensives have re-rated as rate-cut expectations were crushed.",
     "key_drivers": [
@@ -1143,6 +1143,472 @@
         "diversification": "The safe-harbor energy name. Hold as the core energy position; let SU provide the higher-upside complement. Avoid double-counting with XLE.",
         "sizing_tier": "satellite / medium"
       }
+    },
+    {
+      "ticker": "6268.T",
+      "bucket": "thematic_structural",
+      "portfolio_role": "High-quality Japanese precision motion control compounder; structural exposure to global robotics automation capex with dominant market share in industrial robot joints.",
+      "complement_or_compete": "Pairs thematically with 6324.T (Harmonic Drive) as a JPY-denominated robotics infrastructure pair — both benefit from the same automation megatrend but via distinct gear architectures (cycloidal vs. strain-wave). No overlap with current Swiss quality, nuclear, or energy clusters.",
+      "angle1_macro": {
+        "regime_fit": "The April 2026 stagflationary macro is mixed but net-positive for 6268.T. Industrial capex in automation is rising as manufacturers seek to reduce labor costs amid wage inflation — a structural positive. Oil at $101-111/bbl inflates energy costs for Nabtesco's manufacturing but is offset by strong pricing power. BOJ tightening to 0.75% strengthens JPY (~143), slightly headwind to USD-translated earnings for non-JPY investors. The weak DXY is mildly positive for a USD investor buying JPY-denominated assets.",
+        "drivers": [
+          "Industrial robot CAPEX recovery in China and Korea auto manufacturing",
+          "Humanoid robot commercialization creating entirely new non-industrial gear demand",
+          "JPY weakness vs USD (currently ~143) positively translating results for non-JPY investors"
+        ],
+        "sensitivity": "Low beta to oil/credit; high beta to global manufacturing PMI and automation capex cycles. Moderate JPY/USD currency sensitivity for non-JPY holders — BOJ tightening is a headwind."
+      },
+      "angle2_fundamental": {
+        "summary": "Q1 FY2026 revenue ¥83.0B (+17% YoY) and operating profit ¥8.2B (+68% YoY) represent a strong margin re-rating as the hydraulic equipment business is removed. FY2025 full-year sales ¥307.9B, net income ¥15.7B (EPS ¥131.56). Analysts expect ~15% EPS growth and ~5.5% revenue growth — both conservative given Q1 momentum.",
+        "drivers": "Q2/Q3 order recovery from automotive (China/Korea) plus recovery in machine tool and semiconductor equipment precision gear demand; ongoing margin gains from higher-value product mix and hydraulic divestiture benefit.",
+        "valuation": "No analyst price target via connector. Trading at ~38x trailing EPS (¥5,041 / ¥131.56). Reasonable for a dominant motion-control platform but not cheap. No consensus upside calculable.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate volatility typical of mid-cap Japanese industrials; less liquid than US-listed peers. No major drawdown signals in current data. Carries standard JGB rate and JPY FX risk.",
+        "factor_clusters": [
+          "Japanese robotics / precision components",
+          "Global industrial automation infrastructure"
+        ],
+        "diversification": "Genuinely diversifying from the portfolio's existing clusters — no existing Japanese industrial exposure. Adds JPY currency factor and Asian manufacturing cycle exposure that is absent from the predominantly US/European/Swiss watchlist.",
+        "sizing_tier": "satellite/medium"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "6324.T",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Pure-play precision robotics component exposure; the highest-purity play on humanoid robot and semiconductor equipment precision actuation globally.",
+      "complement_or_compete": "Directly pairs/competes with 6268.T — both are JPY-denominated Japanese robotics gear companies. Harmonic Drive is purer-play robotics (less industrial diversification), higher risk/reward but at a significantly more stretched valuation.",
+      "angle1_macro": {
+        "regime_fit": "Harmonic Drive benefits from the same automation megatrend as Nabtesco. Semi-equipment demand (driven by AI chip CAPEX) is a direct revenue driver as strain wave gears are embedded in wafer handling equipment. BOJ tightening is a headwind to JPY-translated results for USD investors. Oil at $101+ bbl adds manufacturing cost pressure but precision gear pricing power is high.",
+        "drivers": [
+          "Semiconductor processing equipment demand surge (AI chip capex cycle)",
+          "Industrial robot joint demand recovery in Asia",
+          "Humanoid robot commercialization as the long-term option value"
+        ],
+        "sensitivity": "Higher beta than 6268.T to semiconductor cycle; significant sensitivity to valuation de-rating risk given 78x P/E. BOJ rate trajectory is a direct FX headwind for USD investors."
+      },
+      "angle2_fundamental": {
+        "summary": "Revenue trending ¥57.5B TTM with modest but positive quarterly earnings (¥355-452M last two quarters) after a large one-time ¥4.8B gain distorted trailing profits. Full-year FY2026 forecast was revised upward in April 2026. Underlying recurring quarterly profit base is ~¥400M vs the ¥4.6B TTM net income — a significant gap investors must understand.",
+        "drivers": "H2 FY2026 earnings upgrade execution; robot and chip equipment order progression into FY2027; cost discipline improvement as operational leverage kicks in on recovering volumes.",
+        "valuation": "No analyst target. At ¥5,150 vs DCF fair value estimate of ~¥1,499 the stock is pricing in near-perfect multi-year growth execution. Trades at 78x reported P/E but underlying recurring earnings are far lower — effectively ~200x recurring earnings.",
+        "tag": "vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility; JGB/JPY sensitivity; thin liquidity relative to US large-caps. The valuation gap to DCF represents a significant downside scenario if growth expectations reset.",
+        "factor_clusters": [
+          "Japanese robotics / precision components",
+          "Semiconductor equipment supply chain"
+        ],
+        "diversification": "Diversifying from current portfolio clusters. Correlated with 6268.T — holding both creates concentration in the same Japanese robotics gear theme.",
+        "sizing_tier": "small/option-like"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "ALGID",
+      "bucket": "income_plays",
+      "portfolio_role": "Regulated utility income compounder; low-beta ballast providing utility-sector exposure and a predictable 2-3% dividend yield with 5-6% annual rate-base growth.",
+      "complement_or_compete": "Partially competes with GLIFX (infrastructure income ETF) for regulated utility income exposure, but ALGID provides direct equity upside from the rate-case cycle. Complements SCHD as a pure utility name with explicit growth guidance.",
+      "angle1_macro": {
+        "regime_fit": "AQN is a regulated utility — the April 2026 macro is challenging but manageable for a utility. Higher-for-longer Fed rates at 3.50-3.75% increase the cost of the $1.15B refinancing due June 2026, which is the most acute near-term risk. The stagflationary environment reduces rate-cut tailwinds that would otherwise boost utility valuations. Weak USD is neutral for a CAD/USD-listed name. AQN's post-renewable-exit pure regulated profile insulates it from oil price volatility.",
+        "drivers": [
+          "June 2026 debt refinancing at manageable rate — removes uncertainty overhang",
+          "Rate case approvals (Missouri, New England, California, Arizona) driving earned ROE improvement",
+          "2027 EPS growth of 12-24% providing multi-year visibility"
+        ],
+        "sensitivity": "High sensitivity to interest rates — every 25bps increase in 5-year bond yields compresses the utility premium multiple. Moderate CAD/USD FX sensitivity."
+      },
+      "angle2_fundamental": {
+        "summary": "2025 adjusted EPS $0.34/share (+13% YoY). 2026 guidance $0.35-0.37, 2027 guidance $0.38-0.42. Rate base CAGR 5-6% through 2028 on $3.2B capex. Dividend $0.065/quarter. Balance sheet substantially cleaner post renewable asset sales — debt/equity improving.",
+        "drivers": "Utility rate case cycle in 2026-2027 across 4+ jurisdictions; June 2026 debt refinancing execution; Q1-Q2 2026 regulatory settlement approvals.",
+        "valuation": "Consensus target $6.92 vs $6.27 current = 10.4% upside plus ~4% dividend yield. Modest but stable. Only 3 analyst coverage; CIBC neutral at $6.50 is the most cautious.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-medium volatility (regulated utility). Major drawdown risk is concentrated in the June 2026 refinancing event. Beta ~0.5-0.6 to equity markets. The debt refinancing is the single binary risk in the near-term.",
+        "factor_clusters": [
+          "North American regulated utilities",
+          "Income / dividend yield"
+        ],
+        "diversification": "Good diversifier — regulated utility profile is defensive relative to the cyclicals, tech, and thematic names dominating the watchlist. Adds stable income characteristics.",
+        "sizing_tier": "satellite/medium"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "ANA.MC",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "European renewables/infrastructure conglomerate turnaround play; structural exposure to EUR-denominated clean energy infrastructure at a distressed-adjacent valuation.",
+      "complement_or_compete": "Competes thematically with GLIFX (infrastructure income ETF) and overlaps with European defense/infra names on the watchlist. The EUR/USD tailwind (~1.17) is additive for USD-based investors. Complements the oil/energy cluster by providing a green infrastructure counterweight.",
+      "angle1_macro": {
+        "regime_fit": "Oil at $101-111/bbl and the Iran war are simultaneously positive (energy security premium for infrastructure investors) and negative (higher input/construction costs) for Acciona. EUR strength at ~1.17 is directly positive for a USD investor holding EUR-denominated assets. Stagflationary European macro slows infrastructure project wins but the construction backlog (€10B+) provides multi-year revenue visibility. Fed at 3.50-3.75% is relevant for USD investors' hurdle rate comparison.",
+        "drivers": [
+          "EUR/USD at ~1.17 providing direct currency tailwinds for USD-based investors",
+          "European energy security spending elevating demand for renewables infrastructure",
+          "Asset rotation (€2B proceeds 2026) to deleverage and fund shareholder returns"
+        ],
+        "sensitivity": "High sensitivity to European electricity prices (Acciona Energía EBITDA is power-price-levered). EUR/USD FX is a direct positive for non-EUR investors. Moderate sensitivity to Spanish sovereign risk."
+      },
+      "angle2_fundamental": {
+        "summary": "Acciona Energía targets ~€1.2B EBITDA in 2026 on ~€0.9B investment cash flow, with Net Debt targeted below €3B after €2B asset rotation. Consensus forecasts earnings declining ~11% annually — pressure from lower power prices and high leverage. The construction backlog provides a floor.",
+        "drivers": "€2B asset rotation closing in 2026 reducing leverage; infrastructure backlog execution; Acciona Energía EBITDA stabilization.",
+        "valuation": "No analyst target via connector. Current price €242.40. TIKR analysis suggests potential €240+ path by 2027 — essentially flat to current levels. Risk/reward is asymmetric — needs deleveraging execution for upside.",
+        "tag": "compensating"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Medium-high volatility; Spanish equity liquidity adequate but lower than US peers. EUR-listed = reduced liquidity for USD investors vs US-listed names. High leverage amplifies equity drawdown in stress scenarios.",
+        "factor_clusters": [
+          "European renewables / energy transition",
+          "Infrastructure construction concessions"
+        ],
+        "diversification": "Adds Spanish/European equity exposure absent elsewhere in the portfolio. EUR-denominated, which is additive given USD weakness. However, it overlaps with GLIFX's infrastructure theme.",
+        "sizing_tier": "small/option-like"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "BMI",
+      "bucket": "quality_growth",
+      "portfolio_role": "High-quality water infrastructure compounder with near-monopoly in US smart metering and recurring SaaS revenue growth; defensive growth exposure to the water scarcity megatrend.",
+      "complement_or_compete": "Directly complements XYL (Xylem) — both are US water technology companies, but BMI focuses on metering/data while XYL focuses on pumps/treatment/infrastructure. Together they provide comprehensive water technology exposure. ECL adds hygiene/water-treatment chemistry as a third leg.",
+      "angle1_macro": {
+        "regime_fit": "BMI is relatively insulated from oil/Iran geopolitics. Its municipal utility customer base is government-funded with long contract cycles — the stagflationary environment doesn't directly compress its market. The weak USD is neutral (USD-reporting, USD-earning). Higher rates increase BMI's municipal customers' financing costs, potentially slowing project timelines — the Q1 2026 miss (-12.5% vs estimates) may partly reflect this. Long-term, EPA lead service line replacement mandates are a mandated demand driver.",
+        "drivers": [
+          "EPA lead service line replacement rules creating non-discretionary AMI upgrade demand",
+          "BEACON AMA SaaS contract renewals expanding recurring revenue base",
+          "Municipal infrastructure bills (bipartisan water infrastructure spending) sustaining demand"
+        ],
+        "sensitivity": "Low energy/oil sensitivity; moderate sensitivity to municipal capital budget cycles; low beta to macro volatility — BMI is one of the portfolio's more defensive names."
+      },
+      "angle2_fundamental": {
+        "summary": "Q1 2026 revenue $202.3M (-9% YoY, 12.5% miss) and EPS $0.93 (-22% vs estimates) were disappointing but management maintained full-year guidance. Cash position strong at $205.5M. Share buybacks of $38.2M in Q1 signal management confidence.",
+        "drivers": "Recovery in Q2-Q4 municipal project activity; SaaS contract wins; new product introductions in cellular AMI.",
+        "valuation": "Consensus $154 target vs $120.84 current = 27.4% upside. Stock pulled back sharply on Q1 miss — creating the most favorable entry point in several years for a premium-quality franchise.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-medium volatility; recent Q1 miss created a ~25%+ drawdown from recent highs — the dip is now the buying opportunity per bulls. Risk score 3 reflects standard small-cap premium risk and execution on recovery.",
+        "factor_clusters": [
+          "Water tech / ESG infrastructure",
+          "US quality growth / small-cap"
+        ],
+        "diversification": "Adds US water infrastructure exposure. Paired with XYL creates a water technology cluster — the user should monitor combined water exposure sizing.",
+        "sizing_tier": "satellite/medium"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "BSY",
+      "bucket": "quality_growth",
+      "portfolio_role": "Infrastructure engineering software compounder with deep workflow moats; subscription-model recurring revenue provides visibility through infrastructure spending cycles.",
+      "complement_or_compete": "No direct competitor in the current portfolio. Complements the European defense/infra cluster indirectly — infrastructure built by defense/civil contractors is designed using Bentley products. Adds pure-play software infrastructure exposure absent from the existing watchlist.",
+      "angle1_macro": {
+        "regime_fit": "BSY benefits from both secular infrastructure spending (EU Green Deal, US infrastructure bills, Middle East mega-projects) and AI-driven engineering analytics adoption. Higher rates raise BSY's cost of financing but its capital-light, subscription-revenue model is relatively rate-insensitive on the revenue side. The stagflationary environment could reduce private infrastructure starts, but government-driven mandates (roads, utilities, rail) are non-discretionary. USD weakness is mildly negative (BSY earns internationally in non-USD currencies and translates back to USD).",
+        "drivers": [
+          "Global infrastructure investment cycle — EU, US IRA, Middle East mega-projects",
+          "AI-enhanced infrastructure analytics products driving ARPU expansion",
+          "Subscription model transition reducing revenue cyclicality"
+        ],
+        "sensitivity": "Moderate sensitivity to infrastructure investment cycles; low energy/oil sensitivity; mild USD headwind on revenue translation."
+      },
+      "angle2_fundamental": {
+        "summary": "FY2025: revenue $1.50B (+10.4% CC), free cash flow $520M, adjusted EPS $1.21. FY2026 guidance: $1.685-1.715B revenue (11-13% CC growth), ~$495-510M AOI. Solid cash generation (FCF/revenue ~34%) funds the subscription and AI investment cycle. Convertible note repayment in January 2026 slightly increases leverage via credit facility draws.",
+        "drivers": "Subscription ARR growth 10.5-12.5% in constant currency; AI asset analytics adoption (Talon Aerolytics acquisition); services revenue 15-20% growth.",
+        "valuation": "Consensus $48.33 vs $33.87 current = 42.7% upside. Stock down materially from 2024 highs due to broad software multiple compression. At 28x 2026E earnings for a ~12% grower — well below the 40x+ peak.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Medium volatility; recent sharp decline from highs has reset valuation. As a ~$11B mid-cap software company, subject to software sector rotation risk. The 42.7% upside to consensus is unusually large for a quality name.",
+        "factor_clusters": [
+          "Infrastructure engineering software",
+          "US quality growth / SaaS"
+        ],
+        "diversification": "Genuinely diversifying — no other infrastructure software exposure in the current watchlist. Adds a defensive-growth software component that is less correlated to energy, nuclear, or commodities.",
+        "sizing_tier": "satellite/medium"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "CORZ",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Asymmetric AI infrastructure option: leveraged play on the pivot of bitcoin mining infrastructure to HPC/AI data center hosting, at current prices still below analyst consensus.",
+      "complement_or_compete": "Thematically competes with FLEX (data center infrastructure exposure) but via a different mechanism — CORZ is pure-play digital infrastructure real estate while FLEX is contract manufacturing. CORZ adds crypto/AI infrastructure exposure absent elsewhere. Beware concentration with other AI-capex-levered names (AMSC, PSIX, HUBB in existing portfolio).",
+      "angle1_macro": {
+        "regime_fit": "AI hyperscaler capex at $600-630B aggregate 2026E (+36-62% YoY) is CORZ's core demand driver — directly positive. Bitcoin at elevated levels (~$90K+) supports remaining mining revenue during the HPC ramp-up. High energy costs (oil at $101-111) increase electricity costs at data centers — CORZ's Texas behind-the-meter power strategy partially offsets this. Higher rates at 3.50-3.75% increase the financing cost on CORZ's $3.3B in senior secured notes.",
+        "drivers": [
+          "AI hyperscaler capex surge driving HPC hosting demand",
+          "Behind-the-meter Texas power capacity giving cost and speed-to-market advantage",
+          "CoreWeave multi-year contract providing revenue visibility from early 2027"
+        ],
+        "sensitivity": "High beta to Bitcoin price (mining revenue baseline); high beta to AI capex cycle; high beta to interest rates (leveraged balance sheet); high beta to power costs."
+      },
+      "angle2_fundamental": {
+        "summary": "Emerged from Chapter 11 in January 2024, now executing a capital-heavy pivot to HPC. Revenue transitioning from bitcoin mining to HPC hosting contracts. $3.3B senior secured notes (2031) fund Pecos (1.5GW), Georgia, North Carolina, and Oklahoma expansions. Institutional investors (Oaktree) increasing stakes signals growing confidence.",
+        "drivers": "Pecos 1.5GW campus first hall operational by early 2027; CoreWeave and other HPC contract ramp; 300MW repurposed from mining at Pecos reducing build cost.",
+        "valuation": "Consensus $24.58 vs $20.76 current = 18.4% upside; all 9 analysts bullish. Cantor Fitzgerald at $29 is the most bullish. Risk is execution on a highly leveraged, capital-intensive pivot.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Very high volatility — stock up 44% YTD 2026 on AI pivot narrative. Bitcoin correlation adds another volatility layer. The $3.3B secured debt means equity is a leveraged call on successful HPC execution.",
+        "factor_clusters": [
+          "AI/HPC data center infrastructure",
+          "Bitcoin mining / crypto infrastructure"
+        ],
+        "diversification": "Genuinely diversifying factor exposure (crypto + AI infra combo). However, adds to existing AI-capex concentration in AMSC/PSIX/HUBB cluster — overall AI capex weighting should be monitored.",
+        "sizing_tier": "small/option-like"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "ECL",
+      "bucket": "core_compounders",
+      "portfolio_role": "Flagship quality compounder; water treatment and hygiene chemistry with pricing power, near-monopoly market positions, and structural growth in life sciences and data center cooling water management.",
+      "complement_or_compete": "Pairs with XYL and BMI as the third leg of water technology exposure. ECL is chemistry/services, XYL is hardware/infrastructure, BMI is metering/data. Together they form a coherent water sector cluster. Mild overlap with SGSN.SW (testing/certification) in industrial services.",
+      "angle1_macro": {
+        "regime_fit": "Ecolab is among the most macro-resilient names in the portfolio. Its customers — food production, hospitality, healthcare, semiconductor fabs — have non-discretionary hygiene and water treatment needs. Oil at $101-111/bbl is directly negative via energy-linked raw material costs, which is why ECL implemented a global energy surcharge in Q2 2026. USD weakness mildly dilutes international earnings. But the 10% revenue growth and 13% EPS growth in Q1 2026 demonstrate its pricing power overwhelms input cost headwinds.",
+        "drivers": [
+          "Ecolab Digital growing 24% YoY — AI-powered water management creating SaaS-like revenue",
+          "Global High-Tech (semiconductor, data center cooling water) growing >20% organically",
+          "Life Sciences growing 11% with 21% operating income growth"
+        ],
+        "sensitivity": "Low oil/energy sensitivity on revenue (demand is non-discretionary); direct cost sensitivity to energy-linked raw materials (managed via surcharges); low beta to financial markets; moderate USD/international FX sensitivity."
+      },
+      "angle2_fundamental": {
+        "summary": "Q1 2026: revenue $4.07B (+10%), adjusted EPS $1.70 (+13%), FY2026 EPS guidance $8.43-8.63 (12-15% growth). Adjusted operating income margin expanded 70bps to 16.7%. Broad-based segment strength across Water, Pest, Life Sciences, and High-Tech. Balance sheet solid; consistent FCF generation.",
+        "drivers": "Ecolab Digital expansion; Global High-Tech data center water management; Life Sciences biopharma facility hygiene growth; energy surcharge implementation protecting H2 margins.",
+        "valuation": "Consensus $322.25 vs $256.80 current = 25.5% upside. 10/12 analysts bullish. Trading at ~30x FY2026E EPS — a premium warranted by the quality franchise, recurring revenue model, and consistent double-digit EPS growth.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-medium volatility; consistent beta ~0.7-0.8 to S&P 500. Defensive growth profile means ECL typically drawdowns less than market in risk-off events. One of the highest quality names on the entire watchlist.",
+        "factor_clusters": [
+          "Water tech / ESG infrastructure",
+          "US quality growth / defensives"
+        ],
+        "diversification": "Excellent diversifier from the energy, nuclear, and cyclical clusters. ECL + XYL + BMI create a coherent, self-reinforcing water technology cluster that earns portfolio-level diversification credit.",
+        "sizing_tier": "core/large"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "ERF.PA",
+      "bucket": "quality_growth",
+      "portfolio_role": "European quality-growth compounder in life sciences testing; structural exposure to biopharma, food safety, and environmental testing with a margin expansion story through 2027.",
+      "complement_or_compete": "Competes modestly with the Swiss quality cluster (SGSN.SW is also a testing/inspection company) but Eurofins is more biopharma/life sciences-oriented vs SGSN's industrial TIC focus. Adds EUR-denominated defensive growth and EUR currency exposure absent from the non-Swiss European names.",
+      "angle1_macro": {
+        "regime_fit": "Eurofins' testing services are non-discretionary (food safety, environmental regulation, drug testing are all mandated). This makes ERF.PA highly defensive vs the stagflationary environment. EUR strength at ~1.17 is a direct positive for USD investors — Eurofins earns in EUR and reports in EUR. CEO Dr. Gilles Martin explicitly cited the 'historically low valuation' as justification for €110M Q1 buybacks — a rare admission of undervaluation.",
+        "drivers": [
+          "EUR/USD at ~1.17 directly boosting EUR-denominated returns for USD investors",
+          "Hub-and-spoke lab network completion in 2026-2027 driving €80-100M+ annual cost savings",
+          "Biopharma Services recovery as new Central Laboratory contracts replace lost CDMO revenue"
+        ],
+        "sensitivity": "Low oil/geopolitical sensitivity; moderate EUR/USD FX sensitivity (positive for USD investors); Biopharma spend sensitivity (lags pharmaceutical R&D cycles by ~6 months)."
+      },
+      "angle2_fundamental": {
+        "summary": "Q1 2026 organic growth 2.6% — below target due to severe weather and planned contract rationalizations in Spain/Italy. FY2025 revenue €6.95B (+6.7%), FY2026 target: mid-single-digit organic growth + €125M acquisition contribution. EBITDA margin target 24% by 2027 vs 22.5% in 2025 — ~150bps improvement with most gains in 2027 from digitalization and IT savings.",
+        "drivers": "Hub-and-spoke network completion; IT digitalization savings; Biopharma contract pipeline rebuild; Q1 weather impacts to partially reverse in Q2.",
+        "valuation": "No analyst consensus via connector. Market cap €12.6B on €7.1B TTM revenue (1.8x EV/S) and €381M net income — trading at historical lows. Management buying back shares aggressively.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Medium volatility; down materially from peaks. EUR-listed liquidity slightly lower than US peers. The EUR appreciation adds FX volatility for USD investors (currently positive). Risk score 3 reflects biopharma cycle uncertainty and integration complexity.",
+        "factor_clusters": [
+          "European life sciences / testing",
+          "EUR quality compounders"
+        ],
+        "diversification": "Strong diversifier — no existing life sciences testing exposure in the portfolio. EUR-denominated asset with USD-weak tailwind. Adds biopharma cycle exposure as a positive diversifier.",
+        "sizing_tier": "satellite/medium"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "FLEX",
+      "bucket": "cyclicals",
+      "portfolio_role": "Data center supply chain compounder; large-cap contract manufacturer with structural position in AI server assembly and power electronics for hyperscaler capex.",
+      "complement_or_compete": "Competes thematically with CORZ (both are AI infrastructure plays) but via a very different risk profile — FLEX is a $23B+ revenue manufacturer vs CORZ's real-estate/hosting model. Also competes with HUBB, AMSC, and PSIX in the AI infrastructure capex theme. At current price ($91.64 vs $69.71 consensus target), FLEX is the most overvalued name on this batch relative to analyst targets.",
+      "angle1_macro": {
+        "regime_fit": "Flex is the most direct beneficiary of the AI hyperscaler capex cycle ($600-630B aggregate 2026E). Data center power and cloud server manufacturing are its fastest-growing segments. However, tariff volatility and supply chain disruption in the April 2026 stagflationary environment are direct operational risks — Flex's CEO addressed tariff resilience explicitly on Q3 earnings calls. Oil at elevated levels raises logistics and energy input costs but the data center segment's pricing power offsets this.",
+        "drivers": [
+          "AI hyperscaler data center buildout driving 35%+ growth in Flex's $6.5B data center segment",
+          "Regionalized manufacturing footprint allowing customers to avoid tariff-driven supply chain disruption",
+          "Power capacity expansion (new Poland site) serving European AI infrastructure demand"
+        ],
+        "sensitivity": "High beta to AI capex cycle; moderate tariff/trade policy sensitivity; automotive and renewables segments remain soft and are headwinds offsetting data center strength."
+      },
+      "angle2_fundamental": {
+        "summary": "Q3 FY2026: revenue $7.1B (+8% YoY), record adjusted EPS $0.87, FY2026 guidance raised to $27.2-27.5B revenue and $3.21-3.27 adjusted EPS (+22% growth). FCF conversion >80%. Margins expanding (adj. OPM 6.5% in Q3 vs 6.1% prior year). Strong execution on data center and power segments.",
+        "drivers": "Data center segment ($6.5B target, 35% growth); power electronics expansion; Q4 FY2026 guidance implies EPS of $0.83-0.89 (+18% at midpoint) with continued data center strength.",
+        "valuation": "Consensus $69.71 vs $91.64 current = -23.9% downside. Stock has significantly outrun analyst targets — Stifel at $95 is the only target above current price. The stock has repriced to fully reflect the AI narrative, removing the upside buffer.",
+        "tag": "vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Medium volatility for its size (~$23B market cap). Up 40%+ YTD from lows before Q1 FY2026 results. Current price well above consensus — risk/reward asymmetry has shifted negative based on analyst targets.",
+        "factor_clusters": [
+          "AI/HPC data center infrastructure",
+          "US contract manufacturing"
+        ],
+        "diversification": "Adds contract manufacturing / supply chain exposure that is different from the portfolio's software and direct-infrastructure names. However, the AI capex concentration risk is elevated when combined with CORZ, AMSC, PSIX.",
+        "sizing_tier": "satellite/medium"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "KYNCY",
+      "bucket": "quality_growth",
+      "portfolio_role": "Deep-value Japanese diversified electronics conglomerate with inflection potential; cheap on book value with structural reforms materializing and semiconductor component cycle recovery.",
+      "complement_or_compete": "Adds Japanese large-cap electronics exposure as a complement to the smaller Japanese industrials (6268.T, 6324.T). No direct overlap with any current portfolio cluster. The conglomerate structure means KYNCY is a diversified Japanese industrial rather than a pure thematic play.",
+      "angle1_macro": {
+        "regime_fit": "Kyocera benefits directly from the global semiconductor CAPEX surge — its semiconductor packages and MLCC components are inputs to chip manufacturing. BOJ tightening (0.75%, hawkish dissent at 1.0%) is the primary macro headwind — every 25bps JPY appreciation reduces overseas earnings value in yen. The USD weakness (DXY ~98-99) is a direct headwind for Kyocera's non-yen overseas revenue translation. However, the massive earnings beat in FY2026 (¥102.70 actual EPS vs ¥9 expected) suggests management guidance was deliberately conservative.",
+        "drivers": [
+          "Semiconductor packaging and MLCC revenue acceleration on AI chip equipment demand",
+          "Structural reform benefits flowing through in FY2027 (EPS guidance ¥0.660 vs ¥0.103 in FY2026)",
+          "USD weakness is a JPY positive for domestic Japan investors, but a headwind for USD-denominated ADR holders"
+        ],
+        "sensitivity": "High BOJ/JPY rate sensitivity for USD ADR holders; moderate semiconductor cycle sensitivity; conglomerate discount and low ROE (3.15%) cap upside multiple."
+      },
+      "angle2_fundamental": {
+        "summary": "FY2026 results: major earnings inflection driven by structural reforms and semiconductor component demand. Sales ¥2.07T (+2.8%). Profit before tax significantly increased. FY2027 guidance: sales ¥1.94T (planned decrease from SouthernCarlson divestiture), PBT ¥170B. Balance sheet exceptionally clean: debt/equity 0.06, current ratio 3.08, quick ratio 1.91 — a fortress.",
+        "drivers": "Semiconductor components (MLCC, organic packages, tantalum capacitors) for AI equipment; structural reform completion; FY2027 capital allocation shift toward higher-value products.",
+        "valuation": "No analyst consensus via connector. Current $17.55 ADR. Large net cash balance provides floor. FY2026 P/E ~37.6x (distorted by one-time gains) — underlying recurring earnings make valuation more attractive.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low beta (0.34) — one of the lowest volatility names in the portfolio. Post-earnings new 52-week high may attract momentum, but ADR liquidity (67K shares/day) is thin. Main downside scenario: JPY strengthens significantly under BOJ tightening.",
+        "factor_clusters": [
+          "Japanese electronics / semiconductor supply chain",
+          "Low-beta quality / deep value"
+        ],
+        "diversification": "Strong diversifier — Japanese large-cap with beta 0.34, fortress balance sheet, and semiconductor exposure via a non-US, non-pure-play vehicle. The low beta adds genuine portfolio-level risk reduction.",
+        "sizing_tier": "satellite/medium"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "NLST",
+      "company": "Netlist, Inc.",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "Binary litigation option on memory IP portfolio; provides non-correlated return potential entirely dependent on patent litigation outcomes against Samsung, Google, and Super Micro.",
+      "complement_or_compete": "No competitive overlap with any current portfolio name. A genuinely uncorrelated, binary event-driven position whose return profile is orthogonal to macro, sector, and factor movements. Should be sized accordingly — tiny.",
+      "angle1_macro": {
+        "regime_fit": "NLST has zero macro sensitivity — its returns are driven entirely by patent litigation outcomes, not by oil prices, Fed rates, or geopolitical events. The April 2026 stagflationary macro is irrelevant to its thesis. The only macro-adjacent factor is that a high-rate environment raises the hurdle for holding non-income-generating positions, which argues for strict position sizing.",
+        "drivers": [
+          "ITC investigation against Samsung/Google/Super Micro (instituted April 2026) — exclusion order potential",
+          "CAFC twice affirmed patent validity in 2025 — legal momentum building",
+          "Samsung financial incentive to settle growing as litigation costs and ITC risks mount"
+        ],
+        "sensitivity": "Zero to macro; binary to litigation outcomes. Single event (ITC final determination or settlement) drives nearly all return."
+      },
+      "angle2_fundamental": {
+        "summary": "No meaningful operating revenue — entirely a patent holding company. Financial health rated WEAK (InvestingPro 1.64). Survives on minimal operating costs while pursuing litigation. Market cap ~$212M at time of last major data point (vs current ~$500M+ at $2.80). The only 'fundamental' that matters is the litigation pipeline.",
+        "drivers": "ITC investigation timeline (typically 12-18 months from institution); district court proceedings against Samsung and Micron; Federal Circuit appeal results.",
+        "valuation": "No analyst target, no P/E, no DCF applicable. A venture/lottery-ticket investment requiring maximum loss tolerance on the full position. Any settlement or ITC win could be transformational.",
+        "tag": "compensating"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Extreme volatility — OTC-listed, illiquid, binary payoff structure. Full loss of position value is a realistic scenario if patents are invalidated or ITC dismisses. Risk score 5 = maximum.",
+        "factor_clusters": [
+          "Patent litigation / event-driven",
+          "US memory / semiconductor IP"
+        ],
+        "diversification": "Genuinely uncorrelated to all other portfolio names — pure idiosyncratic event risk. Adds optionality but zero portfolio-level risk reduction. Should never exceed 0.5-1% of portfolio.",
+        "sizing_tier": "small/option-like"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "NNBR",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "Micro-cap precision components turnaround with emerging Electric Grid and Data Center exposure; high-risk/high-reward execution bet on portfolio pivot from legacy automotive.",
+      "complement_or_compete": "No direct overlap with current names. Adds US precision components / industrial manufacturing exposure at the turnaround/micro-cap end of the risk spectrum, complementing the large-cap quality industrials (ECL, XYL). The Electric Grid exposure partially overlaps with AMSC/PSIX/HUBB thematically.",
+      "angle1_macro": {
+        "regime_fit": "NNBR's pivot to Electric Grid and Data Center markets aligns directly with the AI infrastructure capex boom and power grid build-out theme. The stagflationary environment cuts both ways: higher industrial costs (oil-linked materials, labor) pressure margins on legacy automotive contracts, while the AI capex surge creates genuine demand for precision components in data center cooling and grid equipment. The weak USD is mildly positive (some international sales) but largely irrelevant at this micro-cap stage.",
+        "drivers": [
+          "$43M in new Electric Grid and Data Center awards in Q1 2026 — portfolio pivot gaining momentum",
+          "60+ new program launches creating shippable backlog for H2 2026",
+          "Raised 2026 new-business-wins guidance to $80-90M, top of $445-465M net sales range"
+        ],
+        "sensitivity": "High sensitivity to industrial execution; moderate to electric grid and data center capex cycles; very high idiosyncratic execution risk at micro-cap level."
+      },
+      "angle2_fundamental": {
+        "summary": "2025 net sales $422.2M with GAAP net loss. 2026 guidance $445-465M, tracking toward top half. Single analyst (B. Riley Buy/$3 target vs $2.46 current). The new business win rate is the key operational metric — Q1 was strong at $43M in awards. Heavy leverage constrains financial flexibility.",
+        "drivers": "New program launch velocity; Electric Grid contract ramps; margin recovery as automotive volume decline stabilizes and higher-margin data center parts scale.",
+        "valuation": "B. Riley $3 target vs $2.46 current = 22% upside with one analyst. Micro-cap with loss-making GAAP results — fundamentally speculative. Weiss Ratings maintain a sell rating, reflecting balance sheet concerns.",
+        "tag": "compensating"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Very high volatility; beta 2.21 vs S&P; thin institutional support. Near-zero analyst coverage amplifies price discovery inefficiency. The $127M market cap means even small position changes can move the stock.",
+        "factor_clusters": [
+          "US micro-cap industrials / turnaround",
+          "Electric grid / data center components"
+        ],
+        "diversification": "Adds micro-cap turnaround factor exposure that is genuinely distinct from quality names. However, correlations tend to spike toward 1 with the broad small-cap risk factor in stress events.",
+        "sizing_tier": "small/option-like"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "RELX",
+      "bucket": "core_compounders",
+      "portfolio_role": "Elite information analytics compounder; structural exposure to legal, scientific, and risk analytics with AI-embedded product moats and pristine financials.",
+      "complement_or_compete": "No direct competitor in the current watchlist. RELX is most similar in character to the Swiss quality defensives cluster (NESN, ROG, SGSN) — it's a European quality compounder with recurring revenue and pricing power. However, it is data/analytics rather than physical products, providing genuine diversification within the quality bucket.",
+      "angle1_macro": {
+        "regime_fit": "RELX is exceptionally macro-resilient. Legal databases, scientific publications, and financial crime compliance tools are non-discretionary for their customers — law firms, pharma companies, banks, and government agencies don't cancel subscriptions in a recession. USD weakness at DXY ~98-99 is directly positive — RELX earns significant USD revenue (US is its largest market) and translates to GBP/EUR reports. The EUR at 1.17 is a tailwind in GBP terms. RELX was down 32% in London YTD — the de-rating is an AI disruption fear, not a fundamental change.",
+        "drivers": [
+          "USD weakness directly positive — major USD revenue base translating favorably to GBP reporting",
+          "AI-enabled analytics tools (LexisNexis, Elsevier AI) winning new contracts and deepening moat",
+          "Financial Crime Compliance segment benefiting from rising regulatory scrutiny in banking"
+        ],
+        "sensitivity": "Very low to oil/geopolitics; high to USD/GBP FX (positive currently); moderate to AI disruption risk narrative (currently the primary bear case suppressing the stock)."
+      },
+      "angle2_fundamental": {
+        "summary": "FY2025: revenue £9.6B, adjusted operating profit £3.3B, EBITDA margin 40.1%, cash conversion 99%, net debt/EBITDA 2.0x. April 2026 trading update confirmed strong momentum across all four business areas. Analytics and decision tools growing double digits. A near-perfect fundamental profile — high recurring revenue, pricing power, and exceptional margins.",
+        "drivers": "Analytics and decision tools (double-digit growth) driving mix shift from content to high-value tools; Financial Crime Compliance strong new sales; Exhibitions strong underlying revenue growth.",
+        "valuation": "MarketWatch consensus $50.44 ADR target vs $36.45 current = 38.4% upside. UK-listed median target £3,462.50p. The significant discount to targets reflects AI disruption fear premium — the business fundamentals have not deteriorated.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "The 32% London YTD decline is the defining quantitative feature — it has created a valuation dislocation relative to fundamentals. Medium-to-low fundamental volatility, but elevated near-term price vol due to AI narrative. Long-term beta ~0.6-0.7.",
+        "factor_clusters": [
+          "UK/European quality compounders",
+          "Data analytics / information services"
+        ],
+        "diversification": "Excellent diversifier — adds UK-listed, GBP-exposed, data analytics factor exposure. Pairs well with the Swiss quality cluster as another European defensive compounder. No overlap with energy, nuclear, or cyclical clusters.",
+        "sizing_tier": "core/large"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "XYL",
+      "bucket": "quality_growth",
+      "portfolio_role": "Large-cap water technology platform compounder; global water infrastructure hardware, smart metering, treatment, and digital analytics solutions benefiting from water scarcity megatrend.",
+      "complement_or_compete": "Directly pairs with BMI (water metering/data) and ECL (water chemistry/services) as the infrastructure/hardware leg of the water technology cluster. The three together (XYL + BMI + ECL) form a coherent, mutually reinforcing water sector exposure that is a meaningful thematic allocation within the portfolio.",
+      "angle1_macro": {
+        "regime_fit": "Like ECL and BMI, Xylem's water infrastructure mandate makes its demand broadly non-discretionary. Government-funded municipal infrastructure is the primary customer — the stagflationary environment could delay some capital projects (Q1 2026 organic revenue was -0.4% due to lower US capital project activity) but the long-term replacement cycle is irreversible. Weak USD is neutral-positive — XYL has international revenue but reports in USD. Oil at elevated levels is a moderate input cost headwind (energy in water treatment operations).",
+        "drivers": [
+          "Municipal water and wastewater infrastructure replacement cycle globally accelerating",
+          "Optical sensing/water quality monitoring acquisition (€190M, closing 2026) adding new analytics capabilities",
+          "$1.5B share buyback program (announced April 2026) providing EPS support"
+        ],
+        "sensitivity": "Low oil/geopolitical sensitivity; moderate municipal budget and infrastructure spending sensitivity; low financial-market beta — a defensive-growth industrial."
+      },
+      "angle2_fundamental": {
+        "summary": "Q1 2026: revenue $2.13B (+2.7%), adjusted EPS $1.12 (+9%), EBITDA margin 20.6%. Full-year 2026 guidance: $9.2-9.3B revenue, 22.9-23.3% EBITDA margin, adjusted EPS $5.35-5.60. The Evoqua integration has been completed and margin expansion is on track. FCF margin 10.2-11.0% full year.",
+        "drivers": "Municipal infrastructure spending; optical sensing acquisition integration; $1.5B buyback reducing share count; international Water Infrastructure and Measurement & Control momentum.",
+        "valuation": "Consensus $150.90 vs $115.28 current = 30.9% upside. 6/10 bullish, 4/10 neutral. Trading at ~21x FY2026E EPS — moderate premium for a quality water infrastructure compounder with a $1.5B buyback backstop.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-medium volatility; typical of large-cap water industrials. UBS downgraded in April 2026 (Neutral, $133 target) citing execution concerns — a minor overhang but not a trend. The $1.5B buyback provides near-term price support.",
+        "factor_clusters": [
+          "Water tech / ESG infrastructure",
+          "US quality growth / large-cap industrials"
+        ],
+        "diversification": "With ECL and BMI, XYL creates a significant water technology cluster. Monitor combined water exposure — three names plus potential overlap with GLIFX. The cluster is internally diversified (hardware vs chemistry vs metering) and adds genuine ESG infrastructure diversification.",
+        "sizing_tier": "core/large"
+      },
+      "added_in_week": "2026-W19"
     }
   ],
   "factor_clusters": [
@@ -1392,5 +1858,6 @@
       "CCJ vs uranium spot: The input data shows CCJ trading at -1.8% upside to consensus BUT uranium spot has recovered to $86.80/lb from $63 lows. Has consensus fully updated for the spot recovery? Re-check current analyst targets vs the uranium spot recovery.",
       "TGB Florence Copper timeline verification: The input data is optimistic on Florence commissioning — need to verify that Arizona operating permit and commissioning timeline are on track, as previous delays have been significant."
     ]
-  }
+  },
+  "last_synced_week": "2026-W19"
 }
