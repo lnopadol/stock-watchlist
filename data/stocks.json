@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04",
+  "updated": "2026-05-05",
   "week_label": "2026-W19",
   "stocks": [
     {
@@ -258,7 +258,7 @@
       "key_catalysts": "H1/H2 2026 earnings showing sustained cash positivity and EBITDA growth; new contracts in mining/food sectors; successful NSF small filtration system launch; further acquisitions.",
       "key_risks": "Continued operating losses leading to dilution via equity raises; customer concentration in mining; competition from larger water tech firms; regulatory/commodity price impacts on end-markets.",
       "notes": "No, due to ongoing losses, recent price weakness to multi-year lows, and lack of analyst support signaling caution. Wait for confirmed profitability or major contracts.",
-      "week_change_pct": 0.0
+      "week_change_pct": 0
     },
     {
       "ticker": "EXA.PA",
@@ -309,7 +309,7 @@
       "sector": "Materials",
       "currency": "CHF",
       "price": "CHF 2,762.00",
-      "price_num": 2762.0,
+      "price_num": 2762,
       "market_cap": "CHF 25.49B",
       "pe_ratio": "23.90",
       "what_it_does": "Givaudan SA is a leading global manufacturer of flavors and fragrances for the consumer goods industry. It operates in two main divisions: Fragrance & Beauty (fine fragrances, consumer products, fragrance ingredients, active beauty) and Taste & Wellbeing (beverages, dairy, savory, sweet goods). The company serves customers in personal care, food, beverages, and wellbeing products worldwide.",
@@ -887,7 +887,7 @@
       ],
       "consensus_target": "$88.00",
       "consensus_target_num": 88,
-      "upside_pct": 2.0,
+      "upside_pct": 2,
       "key_catalysts": "Q1/Q2 2026 earnings beats (guidance 25-30% rev growth), subscription GMV expansion (Sezzle Anywhere/Premium), long-term lending partnerships rollout, consumer app monetization (Earnback, AI tools).",
       "key_risks": "Macro slowdown hitting discretionary spending/GMV, rising credit losses in recession, intensified competition from Affirm/Klarna/PayPal, regulatory scrutiny on BNPL lending practices, high beta/volatility (3.75).",
       "notes": "Good price but highly competitive",
@@ -1040,7 +1040,7 @@
       ],
       "consensus_target": "$1,050.67",
       "consensus_target_num": 1050.67,
-      "upside_pct": -16.0,
+      "upside_pct": -16,
       "key_catalysts": "Q3 FY2026 earnings (Apr 30, rev guide $4.4-4.8B); HBF engineering samples H2 2026; sustained NAND shortage/pricing into 2028; Nasdaq-100 inclusion.",
       "key_risks": "Memory cycle downturn/supply ramp; AI capex slowdown; competition from Samsung/Micron/SK Hynix; high valuation leaves no margin for error; geopolitical/China risks.",
       "notes": "No, not a good time; stock has rallied massively (+200-300% YTD 2026, 30x from lows) to elevated multiples (fwd P/S ~7x at peak margins); trading near/above recent analyst targets despite consensus ~$800-1000; Morningstar fair value $553 implies significant premium.",
@@ -1216,7 +1216,7 @@
       "key_catalysts": "M&A execution (e.g. WorkPac integration), FY26 earnings growth from revenue scale/margins, upcycle in mining/oil capex, dividend increases",
       "key_risks": "Commodity price weakness hurting client spend, acquisition integration/debt risks, interest rate sensitivity, services competition",
       "notes": "No, trading above consensus target (~A$5.00) at premium 29x P/E; better entry on pullback to A$4.50-5.00 for margin of safety.",
-      "week_change_pct": 0.0
+      "week_change_pct": 0
     },
     {
       "ticker": "TECN.SW",
@@ -1255,7 +1255,7 @@
       ],
       "consensus_target": "CHF 190-220",
       "consensus_target_num": 190,
-      "upside_pct": 54.0,
+      "upside_pct": 54,
       "key_catalysts": "Biopharma instrument demand recovery; China market stabilization; New product launches (Veya, Duo, LabNavigator); Q2/H2 2026 earnings beats on automation adoption.[Berenberg](https://www.investing.com/news/analyst-ratings/berenberg-sets-tecan-stock-buy-rating-chf220-target-93CH-4088178), [Tecan](https://www.tecan.com/history)",
       "key_risks": "Prolonged biopharma spending caution; China economic slowdown; Competition in lab automation; Integration risks from acquisitions like Paramit; Currency FX volatility (CHF exposure).[Berenberg](https://www.investing.com/news/analyst-ratings/berenberg-sets-tecan-stock-buy-rating-chf220-target-93CH-4088178), [Yahoo Finance](https://finance.yahoo.com/quote/TECN.SW/)",
       "notes": "Too risky. Wait for positive earning",
@@ -1439,12 +1439,12 @@
         }
       ],
       "consensus_target": "$3.00",
-      "consensus_target_num": 3.0,
-      "upside_pct": 22.0,
+      "consensus_target_num": 3,
+      "upside_pct": 22,
       "key_catalysts": "Electric Grid and Data Center market awards ($43M concentration in Q1 2026) validating portfolio pivot; 60+ new program launches creating shippable backlog for H2 2026 and 2027 revenue; New business wins guidance raised to $80-90M for FY2026 — above original range",
       "key_risks": "GAAP net losses — still loss-making, financing from operations not yet self-sustaining; Heavy leverage with only one analyst following — minimal institutional support and thin liquidity; Transition risk: automotive exposure being reduced but replacement markets not yet fully offsetting",
       "notes": "Only 1 analyst. Micro-cap ($127M market cap). High risk — loss-making, leveraged. Only appropriate as a small/option-like position. Newly Added — research populated 2026-05-04",
-      "week_change_pct": 0.0
+      "week_change_pct": 0
     },
     {
       "ticker": "ALGID",
@@ -1519,7 +1519,7 @@
       "sector": "Industrials / Robotics Components",
       "currency": "JPY",
       "price": "¥5,150",
-      "price_num": 5150.0,
+      "price_num": 5150,
       "market_cap": "¥487.53B",
       "pe_ratio": "104.95",
       "what_it_does": "Harmonic Drive Systems manufactures strain wave gearing (harmonic drives) — compact, zero-backlash gearheads used in precision robotics, semiconductor equipment, and medical devices. It commands a dominant niche in high-precision torque transmission.",
@@ -1543,7 +1543,7 @@
       "sector": "Industrials / Precision Motion Control",
       "currency": "JPY",
       "price": "¥5,041",
-      "price_num": 5041.0,
+      "price_num": 5041,
       "market_cap": "¥590.73B",
       "pe_ratio": "40.65",
       "what_it_does": "Nabtesco manufactures high-precision reduction gears (cycloidal drives) that are the standard joint actuator in industrial robots, holding ~60% global market share. It also makes automatic doors, marine vessel hydraulics, and railroad components.",
@@ -1583,7 +1583,7 @@
       "key_catalysts": "ITC investigation against Samsung/Google/Super Micro (instituted April 2026) — exclusion order potential; CAFC affirmed validity of US Patent No. 10,268,608 in December 2025 Samsung challenge; Potential Samsung or Micron license settlement as litigation costs mount for defendants",
       "key_risks": "No operating revenue — entirely dependent on litigation outcomes; financial health rated WEAK; District court trial outcomes remain uncertain despite PTAB/CAFC patent validity wins; Litigation can extend for years — binary risk with complete capital loss if patents invalidated",
       "notes": "No analyst coverage. Micro-cap litigation play (~$212M market cap). Suitable only as a small/option-like position. Newly Added — research populated 2026-05-04",
-      "week_change_pct": 12.0
+      "week_change_pct": 12
     },
     {
       "ticker": "RELX",
@@ -1891,7 +1891,7 @@
       "is_good_bet": "Bentley guided FY2026 revenues of $1.685-1.715B (11-13% constant currency growth), driven by strong subscription conversion and AI-enhanced asset analytics. The stock has pulled back meaningfully from its 2024 highs, making the current ~$33.87 price materially below the $48.33 consensus target — a 43% implied upside that makes BSY arguably the most mispriced quality software name on the list.",
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
-      "status": "Newly Added",
+      "status": "Under Review",
       "risk_score": 3,
       "houses": [
         {
@@ -2005,7 +2005,7 @@
         }
       ],
       "consensus_target": "$154",
-      "consensus_target_num": 154.0,
+      "consensus_target_num": 154,
       "upside_pct": 27.4,
       "key_catalysts": "Municipal utility AMI upgrade cycle driven by EPA lead service line replacement mandates; SaaS (BEACON AMA) recurring revenue expansion improving revenue quality and margins; International expansion into European and Asian water infrastructure markets",
       "key_risks": "Q1 2026 revenue missed estimates by 12.5% — near-term order softness in municipal projects; Barclays Underweight with $110 target implies 9% downside from current $120.84; Rich valuation — premium pricing leaves limited margin of safety if municipal budgets tighten",
