@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05",
+  "updated": "2026-05-07",
   "week_label": "2026-W19",
   "stocks": [
     {
@@ -1558,7 +1558,7 @@
       "upside_pct": null,
       "key_catalysts": "Continued recovery in industrial robot orders from Chinese/Korean auto manufacturers; Humanoid robot demand driving non-industrial precision gear growth; Margin expansion following the divestiture of the hydraulic equipment segment",
       "key_risks": "China manufacturing slowdown or overcapacity reducing robot CAPEX; BOJ rate hikes strengthening JPY and compressing USD-translated earnings; Competitive entry from Chinese gear manufacturers (Kinitics, Leaderdrive) eroding market share",
-      "notes": "No sell-side analyst coverage found via finance connector. Q1 FY2026 results released April 30, 2026 — strong beat. Newly Added — research populated 2026-05-04",
+      "notes": "MA checked",
       "week_change_pct": -3.17
     },
     {
