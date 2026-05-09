@@ -1949,30 +1949,6 @@
       "key_risks": "Acciona Energía earnings declining ~11% per annum per consensus — elevated power price sensitivity; High leverage (FFO net leverage previously above 4.5x) constraining financial flexibility; Spanish regulatory risk on renewable tariffs; geopolitical exposure in construction markets",
       "notes": "Impressive. Watch for earning. Wait and see",
       "week_change_pct": -2.02
-    },
-    {
-      "ticker": "ERF.PA",
-      "company": "Eurofins Scientific SE",
-      "sector": "Healthcare / Testing & Life Sciences",
-      "currency": "EUR",
-      "price": "€57.86",
-      "price_num": 57.86,
-      "market_cap": "€10.12B",
-      "pe_ratio": "22.69",
-      "what_it_does": "Eurofins is the world's largest network of food, environmental, pharmaceutical testing, and clinical diagnostics laboratories with over 900 labs across 50+ countries. It serves food producers, pharma companies, governments, and hospital systems.",
-      "is_good_bet": "Q1 2026 organic growth of 2.6% was dampened by severe weather impacts and planned clinical contract rationalizations — temporary headwinds that management expects to reverse through 2026. CEO cited 'significant opportunities still to come' from its hub-and-spoke lab network, digitalization, and EBITDA margin progression toward 24% by 2027. Active buyback (€110M in Q1) at historically low valuations.",
-      "buy_now_signal": "Watch",
-      "verdict": "N/A",
-      "status": "Newly Added",
-      "risk_score": 3,
-      "houses": [],
-      "consensus_target": "N/A",
-      "consensus_target_num": null,
-      "upside_pct": null,
-      "key_catalysts": "Margin expansion toward 24% EBITDA target by 2027 from digitalization and hub-and-spoke lab efficiency; Biopharma Services recovery as new contract wins replace CDMO revenue lost in 2025; Share buyback program (up to 4.5% of share capital) supporting EPS at historically low valuations",
-      "key_risks": "Persistent softness in biopharma ancillary and CDMO activities if pharma spend contracts; EUR strength creating FX headwind on non-European revenues (Q1: -4.8% FX drag); Integration risk and SDI (separately disclosed items) charges from ongoing network investments and M&A",
-      "notes": "MA checked",
-      "week_change_pct": -1.97
     }
   ]
 }
