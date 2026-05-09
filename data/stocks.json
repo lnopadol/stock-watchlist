@@ -851,49 +851,6 @@
       "week_change_pct": 0.92
     },
     {
-      "ticker": "SGSN.SW",
-      "company": "SGS SA",
-      "sector": "Industrials",
-      "currency": "CHF",
-      "price": "CHF 84.42",
-      "price_num": 84.42,
-      "market_cap": "CHF 16.70B",
-      "pe_ratio": "24.40",
-      "what_it_does": "SGS SA is a Swiss multinational providing inspection, verification, testing, and certification (TIC) services worldwide. It ensures product quality, safety, and compliance across sectors like agriculture, mining, oil & gas, consumer goods, and transportation. Leader with 99,000 employees in 2,600 offices/labs. [Yahoo Finance](https://finance.yahoo.com/quote/SGSN.SW/), [Wikipedia](https://en.wikipedia.org/wiki/SGS_S.A.)",
-      "is_good_bet": "Bull case: Global TIC demand grows with regulations, trade, sustainability; strong margins (15%+), M&A pipeline (ATS deal accretive), efficiency savings CHF150M. Bear case: High debt/equity 492%, FX headwinds (strong CHF), competition, cyclical commodity exposure. Quality compounder with defensive traits but premium valuation limits upside. [SGS H1](https://www.sgs.com), [Yahoo](https://finance.yahoo.com/quote/SGSN.SW/)",
-      "buy_now_signal": "No, trading near 52w low (79-97) but P/E 24.5 above hist avg ~23, consensus target CHF94-98 implies 10-15% upside but recent downgrades/neutral ratings reflect balanced risk/reward post-M&A execution. Wait for dip or catalysts. [Investing Consensus](https://www.investing.com/equities/sgs-consensus-estimates), [Yahoo](https://finance.yahoo.com/quote/SGSN.SW/)",
-      "verdict": "Reasonably Priced",
-      "status": "Monitoring",
-      "risk_score": 4,
-      "houses": [
-        {
-          "name": "Goldman Sachs",
-          "rating": "Neutral",
-          "target": "CHF 85",
-          "source": "[Investing.com](https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-sgs-stock-rating-to-neutral-on-balanced-riskreward-93CH-4279136)"
-        },
-        {
-          "name": "Morgan Stanley",
-          "rating": "Overweight",
-          "target": "CHF 97",
-          "source": "[Investing.com](https://www.investing.com/news/analyst-ratings/morgan-stanley-lifts-sgs-sa-stock-rating-to-overweight-93CH-4012079)"
-        },
-        {
-          "name": "UBS",
-          "rating": "Neutral",
-          "target": "CHF 95",
-          "source": "[Investing.com](https://www.investing.com/news/analyst-ratings/ubs-lifts-sgs-sa-stock-price-target-to-chf95-maintains-neutral-93CH-3866427)"
-        }
-      ],
-      "consensus_target": "CHF 95",
-      "consensus_target_num": 95,
-      "upside_pct": 11.8,
-      "key_catalysts": "ATS acquisition close (late 2025/early 2026, EPS accretive), Q2/H1 2026 results (exp 5-7% organic growth), continued bolt-ons, margin expansion to 16%+. [SGS News](https://www.sgs.com/en/news/2026/04/sgs-first-quarter-2026-sales-update)",
-      "key_risks": "FX volatility (strong CHF), high leverage post-M&A, commodity cycle slowdown, integration risks, regulatory changes. [Yahoo](https://finance.yahoo.com/quote/SGSN.SW/)",
-      "notes": "No, trading near 52w low (79-97) but P/E 24.5 above hist avg ~23, consensus target CHF94-98 implies 10-15% upside but recent downgrades/neutral ratings reflect balanced risk/reward post-M&A execution. Wait for dip or catalysts.",
-      "week_change_pct": -0.26
-    },
-    {
       "ticker": "SMR",
       "company": "NuScale Power Corporation",
       "sector": "Industrials",
