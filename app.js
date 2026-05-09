@@ -425,7 +425,7 @@ $("#confirmAdd").onclick = () => {
     upside_pct: null,
     key_catalysts: "",
     key_risks: "",
-    notes: "Newly added — needs research",
+    notes: "",
   });
   $("#addModal").hidden = true;
   // Find the just-added ticker so we can patch the FULL entry to remote
