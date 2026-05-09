@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08",
+  "updated": "2026-05-09",
   "week_label": "2026-W19",
   "stocks": [
     {
@@ -216,49 +216,6 @@
       "key_risks": "Uranium price declines, production disruptions (Kazakhstan geopolitics), high capex/inflation in mining, nuclear regulatory delays, market saturation from new supply.",
       "notes": "Neutral; trading near consensus targets (~$120-140), no strong discount or premium signal. Wait for uranium price dip or catalyst.",
       "week_change_pct": -0.8
-    },
-    {
-      "ticker": "DEM.AX",
-      "company": "De.mem Limited",
-      "sector": "Industrials",
-      "currency": "AUD",
-      "price": "A$0.08",
-      "price_num": 0.076,
-      "market_cap": "A$25M",
-      "pe_ratio": "-7.60",
-      "what_it_does": "De.mem Limited designs, builds, owns, and operates decentralized water and wastewater treatment systems using proprietary hollow fiber membrane technologies for industrial, municipal, and residential clients in Australia, Singapore, and Germany. It offers specialty chemicals, pumps, consumables, and BOOT services to sectors including mining, food & beverage, agriculture, and heavy industry. The company focuses on water recycling and regulatory compliance to reduce client costs.[Yahoo Finance](https://finance.yahoo.com/quote/DEM.AX), [Company site](https://demembranes.com)",
-      "is_good_bet": "De.mem shows progress toward profitability with positive operating cash flows in late 2024, recurring revenue growth (90% of sales), and accretive acquisitions boosting EBITDA to $1.6M pro-forma. However, it remains loss-making with negative EPS, faces dilution from capital raises, and trades at low multiples amid execution risks in a competitive water treatment market. Bull case rests on scaling membrane tech and new NSF-approved systems; bear case highlights persistent losses and microcap volatility. Limited coverage reflects high uncertainty.",
-      "buy_now_signal": "No, due to ongoing losses, recent price weakness to multi-year lows, and lack of analyst support signaling caution. Wait for confirmed profitability or major contracts.",
-      "verdict": "Reasonably Priced",
-      "status": "Monitoring",
-      "risk_score": 9,
-      "houses": [
-        {
-          "name": "Limited coverage",
-          "rating": "N/A",
-          "target": "N/A",
-          "source": "No recent ratings found [Yahoo Finance](https://finance.yahoo.com/quote/DEM.AX/analysis), [Market Index](https://www.marketindex.com.au/asx/dem)"
-        },
-        {
-          "name": "None",
-          "rating": "N/A",
-          "target": "N/A",
-          "source": "No recent ratings found [Yahoo Finance](https://finance.yahoo.com/quote/DEM.AX/analysis), [Market Index](https://www.marketindex.com.au/asx/dem)"
-        },
-        {
-          "name": "None",
-          "rating": "N/A",
-          "target": "N/A",
-          "source": "No recent ratings found [Yahoo Finance](https://finance.yahoo.com/quote/DEM.AX/analysis), [Market Index](https://www.marketindex.com.au/asx/dem)"
-        }
-      ],
-      "consensus_target": "N/A (Limited coverage)",
-      "consensus_target_num": null,
-      "upside_pct": null,
-      "key_catalysts": "H1/H2 2026 earnings showing sustained cash positivity and EBITDA growth; new contracts in mining/food sectors; successful NSF small filtration system launch; further acquisitions.",
-      "key_risks": "Continued operating losses leading to dilution via equity raises; customer concentration in mining; competition from larger water tech firms; regulatory/commodity price impacts on end-markets.",
-      "notes": "No, due to ongoing losses, recent price weakness to multi-year lows, and lack of analyst support signaling caution. Wait for confirmed profitability or major contracts.",
-      "week_change_pct": 0
     },
     {
       "ticker": "EXA.PA",
