@@ -1244,49 +1244,6 @@
       "week_change_pct": 2.16562
     },
     {
-      "ticker": "XLE",
-      "company": "Energy Select Sector SPDR ETF",
-      "sector": "Energy",
-      "currency": "USD",
-      "price": "$55.70",
-      "price_num": 55.7,
-      "market_cap": "$39.8B",
-      "pe_ratio": "20.25",
-      "what_it_does": "Tracks the Energy Select Sector Index, a market-cap weighted benchmark representing the energy sector of the S&P 500. Focuses on oil, gas & consumable fuels (89%), and energy equipment & services (11%), with top holdings Exxon Mobil (~23%), Chevron (~17%), ConocoPhillips (~7%). Expense ratio 0.08%.",
-      "is_good_bet": "XLE provides targeted exposure to U.S. energy majors, offering high dividend yields (~2.6-3.3%) and inflation hedging through commodity prices. Bull case: sustained oil demand, geopolitical tensions support prices above $70/bbl; strong cash flows fund buybacks/dividends. Bear case: energy transition accelerates, oversupply from non-OPEC production pressures margins; sector cyclicality amplifies volatility.",
-      "buy_now_signal": "No, underlying P/E of 23.1 exceeds 5Y avg 12.4 and 10Y avg 17.7, indicating expensive relative to history despite recent YTD gains; wait for pullback to historical norms.",
-      "verdict": "Premium Priced",
-      "status": "Monitoring",
-      "risk_score": 8,
-      "houses": [
-        {
-          "name": "Morningstar",
-          "rating": "Bronze Medalist / Neutral",
-          "target": "—",
-          "source": "[Morningstar](https://www.morningstar.com/etfs/arcx/xle/quote)"
-        },
-        {
-          "name": "State Street (Issuer)",
-          "rating": "Recommended (low cost, precise exposure)",
-          "target": "—",
-          "source": "[SSGA Fact Sheet](https://www.ssga.com/library-content/products/factsheets/etfs/us/factsheet-us-en-xle.pdf)"
-        },
-        {
-          "name": "ETFRC",
-          "rating": "Overweight",
-          "target": "—",
-          "source": "[ETFRC](https://www.etfrc.com/XLE)"
-        }
-      ],
-      "consensus_target": "ETF — N/A",
-      "consensus_target_num": null,
-      "upside_pct": null,
-      "key_catalysts": "Oil price movements amid geopolitics/Iran tensions; Q2 earnings from majors; OPEC+ decisions; US LNG export growth.",
-      "key_risks": "Oil price crash on demand slowdown/recession; accelerated shift to renewables; sector concentration in few names; high volatility (beta ~1, std dev ~22%).",
-      "notes": "No, underlying P/E of 23.1 exceeds 5Y avg 12.4 and 10Y avg 17.7, indicating expensive relative to history despite recent YTD gains; wait for pullback to historical norms.",
-      "week_change_pct": -0.44683
-    },
-    {
       "ticker": "XOM",
       "company": "ExxonMobil Corporation",
       "sector": "Energy",
