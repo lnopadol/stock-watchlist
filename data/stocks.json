@@ -1906,29 +1906,6 @@
       "key_risks": "Acciona Energía earnings declining ~11% per annum per consensus — elevated power price sensitivity; High leverage (FFO net leverage previously above 4.5x) constraining financial flexibility; Spanish regulatory risk on renewable tariffs; geopolitical exposure in construction markets",
       "notes": "Impressive. Watch for earning. Wait and see",
       "week_change_pct": 0.54945
-    },
-    {
-      "ticker": "SQN",
-      "company": "SQN",
-      "sector": "—",
-      "currency": "",
-      "price": "—",
-      "price_num": null,
-      "market_cap": "—",
-      "pe_ratio": "—",
-      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
-      "is_good_bet": "",
-      "buy_now_signal": "",
-      "verdict": "Reasonably Priced",
-      "status": "Newly Added",
-      "risk_score": 5,
-      "houses": [],
-      "consensus_target": "",
-      "consensus_target_num": null,
-      "upside_pct": null,
-      "key_catalysts": "",
-      "key_risks": "",
-      "notes": "Newly added — needs research"
     }
   ]
 }
