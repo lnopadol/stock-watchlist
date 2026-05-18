@@ -2086,49 +2086,6 @@
       "week_change_pct": 2.5
     },
     {
-      "ticker": "NESTE.HE",
-      "company": "NESTE.HE",
-      "sector": "—",
-      "currency": "EUR",
-      "price": "€28.56",
-      "price_num": 28.56,
-      "market_cap": "€21.94B",
-      "pe_ratio": "30.71",
-      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
-      "is_good_bet": "Neste is the world's largest producer of renewable diesel and sustainable aviation fuel; structurally positioned for the energy transition, but the stock has severely de-rated and now trades 56% above the analyst consensus target, pricing in a recovery that has not materialized.",
-      "buy_now_signal": "AVOID",
-      "verdict": "Overvalued",
-      "status": "Active",
-      "risk_score": 8,
-      "houses": [
-        {
-          "name": "Goldman Sachs",
-          "rating": "Buy",
-          "target": "EUR 24",
-          "source": "2026-01-26"
-        },
-        {
-          "name": "Multiple analysts",
-          "rating": "Hold",
-          "target": "EUR 12-14",
-          "source": "2026-Q1"
-        },
-        {
-          "name": "Sell-side bears",
-          "rating": "Sell",
-          "target": "EUR 6-8",
-          "source": "2026-Q1"
-        }
-      ],
-      "consensus_target": "EUR 12.67",
-      "consensus_target_num": 12.67,
-      "upside_pct": -55.6,
-      "key_catalysts": "• SAF mandate acceleration in EU — Neste is primary beneficiary as the only scaled producer • Singapore renewable capacity expansion doubling SAF output by 2027 • Regulatory tailwinds: EU RED III mandates and US IRA blender tax credits intact • Potential margin recovery if SAF premiums recover from 2025-2026 margin compression",
-      "key_risks": "• Analyst consensus €12.67 implies 56% downside from current €28.56 — severe overvaluation risk • Renewable diesel margin compression from US overcapacity (HVO market flooded) • US IRA blender credit uncertainty under political risk of repeal/modification • Singapore expansion capex diluting near-term FCF and ROE below historical levels",
-      "notes": "The only name in the article where the cyclical crisis and the structural transition align. Largest SAF producer globally, with EU/UK ReFuelEU and Asian SAF mandates ramping (2% in 2025 → 70% by 2050). Q1 RP margin came in at $856/tonne vs $710 consensus, Q2 tracking ~$1,100/tonne, FY26 revised to $911 from $750. The thesis here doesn't need crude to stay at $130 — it needs distillate scarcity to last 6-12 months for the equity to rerate into a multi-year SAF compounder. P/E  30.67  is optically rich, but that's EPS reflecting a fully-loaded transition capex base — the forward earnings power is materially higher.",
-      "week_change_pct": 0.14
-    },
-    {
       "ticker": "PSX",
       "company": "PSX",
       "sector": "—",
