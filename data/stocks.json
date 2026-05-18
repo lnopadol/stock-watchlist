@@ -266,7 +266,7 @@
       "sector": "Materials",
       "currency": "CHF",
       "price": "CHF 2,700.00",
-      "price_num": 2700.0,
+      "price_num": 2700,
       "market_cap": "CHF 24.92B",
       "pe_ratio": "23.36",
       "what_it_does": "Givaudan SA is a leading global manufacturer of flavors and fragrances for the consumer goods industry. It operates in two main divisions: Fragrance & Beauty (fine fragrances, consumer products, fragrance ingredients, active beauty) and Taste & Wellbeing (beverages, dairy, savory, sweet goods). The company serves customers in personal care, food, beverages, and wellbeing products worldwide.",
@@ -733,7 +733,7 @@
       "sector": "Industrials / Aerospace & Defense",
       "currency": "GBp",
       "price": "1,140.00p",
-      "price_num": 1140.0,
+      "price_num": 1140,
       "market_cap": "£94.71B",
       "pe_ratio": "16.52",
       "what_it_does": "Rolls-Royce Holdings plc develops mission-critical power systems for civil aerospace (engines and services for widebody aircraft, jets), defence, power systems, and new markets including small modular reactors. Headquartered in London, it operates internationally with strong aftermarket services. Founded in 1884.",
@@ -1095,7 +1095,7 @@
       "sector": "Industrials",
       "currency": "AUD",
       "price": "A$6.00",
-      "price_num": 6.0,
+      "price_num": 6,
       "market_cap": "A$1.57B",
       "pe_ratio": "31.58",
       "what_it_does": "Tasmea Limited provides essential maintenance, engineering, and specialized project services across electrical, mechanical, civil, and water & fluid segments to mining/resources, oil & gas, power/renewables, defense/infrastructure, and water sectors in Australia. It offers shutdown services, programmed maintenance, emergency breakdown response, and capital upgrades through 25+ subsidiaries. The company focuses on remote area specialist services with recurring demand from asset owners prioritizing uptime over cost.",
@@ -1200,7 +1200,7 @@
       ],
       "consensus_target": "$14.00",
       "consensus_target_num": 14,
-      "upside_pct": 105.0,
+      "upside_pct": 105,
       "key_catalysts": "Florence Copper commissioning and first full quarter production; copper price trajectory; Q1 2026 earnings beat on Gibraltar/Florence output.",
       "key_risks": "Delays/cost overruns at Florence, copper price decline below $4/lb, operational issues at Gibraltar, FX (CAD strength), permitting/environmental hurdles.",
       "notes": "",
@@ -1390,7 +1390,7 @@
       "sector": "Industrials / Robotics Components",
       "currency": "JPY",
       "price": "¥6,760",
-      "price_num": 6760.0,
+      "price_num": 6760,
       "market_cap": "¥639.95B",
       "pe_ratio": "396.71",
       "what_it_does": "Harmonic Drive Systems manufactures strain wave gearing (harmonic drives) — compact, zero-backlash gearheads used in precision robotics, semiconductor equipment, and medical devices. It commands a dominant niche in high-precision torque transmission.",
@@ -1414,7 +1414,7 @@
       "sector": "Industrials / Precision Motion Control",
       "currency": "JPY",
       "price": "¥5,421",
-      "price_num": 5421.0,
+      "price_num": 5421,
       "market_cap": "¥635.26B",
       "pe_ratio": "43.76",
       "what_it_does": "Nabtesco manufactures high-precision reduction gears (cycloidal drives) that are the standard joint actuator in industrial robots, holding ~60% global market share. It also makes automatic doors, marine vessel hydraulics, and railroad components.",
@@ -1540,7 +1540,7 @@
       "key_catalysts": "Data center (cloud + power) segment targeting 35%+ growth driven by AI infrastructure buildout; New Poland power manufacturing site expanding European AI infrastructure capacity; Regionalization advantages allowing customers to navigate tariff complexity",
       "key_risks": "Stock has significantly outperformed — current price $91.64 is 31% above the $69.71 consensus average target; Tariff exposure on cross-border supply chains despite regionalization progress; Automotive and renewables segments remain soft, dragging on Reliability Solutions profitability",
       "notes": "Wow",
-      "week_change_pct": -4.0
+      "week_change_pct": -4
     },
     {
       "ticker": "CORZ",
@@ -1913,7 +1913,7 @@
       "sector": "—",
       "currency": "CHF",
       "price": "CHF 384.00",
-      "price_num": 384.0,
+      "price_num": 384,
       "market_cap": "CHF 5.76B",
       "pe_ratio": "15.85",
       "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
@@ -1943,11 +1943,11 @@
         }
       ],
       "consensus_target": "CHF 510.00",
-      "consensus_target_num": 510.0,
+      "consensus_target_num": 510,
       "upside_pct": 32.8,
       "key_catalysts": "• European retail brokerage market underpenetrated — Swissquote gaining share as traditional banks lose digital-native clients • Crypto trading revenue remains a high-margin optionality layer (regulated, Swiss-domiciled advantage) • Deutsche Bank new Buy coverage Aug 2025 (CHF 620 target) reflects broadening institutional recognition • CHF strengthening vs USD adds FX translation tailwind for USD-based investors",
       "key_risks": "• UBS Sell rating (CHF 425 target) signals valuation risk — tech-premium multiple vulnerable in rate environment • Trading revenue volatility; a low-vol macro environment compresses crypto and equity volumes • Swiss regulatory risk — FINMA scrutiny of crypto/digital banking expanding • Concentration risk: single Swiss market exposure limits growth ceiling vs pan-European peers",
-      "notes": "Newly added — needs research",
+      "notes": "",
       "week_change_pct": -0.62
     },
     {
@@ -1985,7 +1985,7 @@
       "key_catalysts": "• Polish construction boom driven by EU structural funds absorption and housing shortage • European rearmament driving demand for industrial tools in defense manufacturing supply chain • Dividend yield ~5-6% attractive relative to Polish bond yields • Expansion into new European export markets beyond Poland and CEE",
       "key_risks": "• PLN 9.18 consensus (ValueInvesting.io, 7 analysts) implies only 4.2% upside — limited re-rating potential • Competition from Allegro/Amazon direct imports of Chinese tool brands at lower price points • Small-cap Polish equities illiquid; thin coverage (7 analysts) means limited institutional attention • PLN/USD exchange rate exposure on USD-denominated procurement of Asian-sourced goods",
       "notes": "Newly added — needs research",
-      "week_change_pct": 0.0
+      "week_change_pct": 0
     },
     {
       "ticker": "VLO",
@@ -2219,7 +2219,7 @@
         }
       ],
       "consensus_target": "€83.00",
-      "consensus_target_num": 83.0,
+      "consensus_target_num": 83,
       "upside_pct": -10.1,
       "key_catalysts": "• LNG portfolio benefits directly from Hormuz disruption scenario — TTE is the #1 global LNG trader • Deep-water growth projects (Mozambique LNG restart, Suriname) adding production into 2027 • 5%+ dividend yield with progressive policy; buyback capacity of $2B+ annually at oil $100+ • USD weakness vs EUR structurally beneficial for USD investors holding Euro-denominated assets",
       "key_risks": "• Consensus average $83 implies 10% downside — Freedom Broker Sell at $73 is a bear case anchor • Iran war de-escalation would compress Brent to $70s, materially reducing FCF • Mozambique LNG restart still uncertain post-insurgency delays; multi-billion capex at risk • European windfall profit tax risk if energy prices remain elevated through 2027",
@@ -2354,7 +2354,7 @@
         }
       ],
       "consensus_target": "NOK 72.00",
-      "consensus_target_num": 72.0,
+      "consensus_target_num": 72,
       "upside_pct": -31.9,
       "key_catalysts": "• European green aluminum premium expanding as automotive OEMs demand low-carbon credentials • Hydro REIN renewable energy business spin/monetization potential adding sum-of-parts value • Aluminium smelter cost advantage via Norwegian hydro power — sheltered from high energy costs • USD weakness vs NOK beneficial for Norwegian-listed stock in USD terms",
       "key_risks": "• Consensus NOK 72 target implies 32% downside from NOK 105.75 — price has significantly overrun fundamentals • Aluminum demand softening if China exports flood global markets amid weak domestic consumption • Norwegian power prices remain volatile; smelter cost advantage can erode in high-price years • High debt relative to historical norms if aluminum cycle turns",
