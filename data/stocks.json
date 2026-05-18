@@ -1927,43 +1927,6 @@
       "week_change_pct": -0.62
     },
     {
-      "ticker": "TOA.WA",
-      "company": "Toya SA",
-      "sector": "—",
-      "currency": "PLN",
-      "price": "zł8.81",
-      "price_num": 8.81,
-      "market_cap": "zł652M",
-      "pe_ratio": "7.73",
-      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
-      "is_good_bet": "Toya is Poland's leading distributor of hand and power tools with low leverage and exposure to Polish construction/renovation demand; at PLN 8.81 vs PLN 9.18 consensus, upside is modest but the dividend yield and balance sheet provide defensive income characteristics.",
-      "buy_now_signal": "HOLD",
-      "verdict": "Premium Priced",
-      "status": "Monitoring",
-      "risk_score": 5,
-      "houses": [
-        {
-          "name": "Analyst consensus (7 firms)",
-          "rating": "Hold",
-          "target": "PLN 9.18",
-          "source": "2025-2026"
-        },
-        {
-          "name": "Bull case",
-          "rating": "Buy",
-          "target": "PLN 9.45",
-          "source": "2026-Q1"
-        }
-      ],
-      "consensus_target": "PLN 9.18",
-      "consensus_target_num": 9.18,
-      "upside_pct": 4.2,
-      "key_catalysts": "• Polish construction boom driven by EU structural funds absorption and housing shortage • European rearmament driving demand for industrial tools in defense manufacturing supply chain • Dividend yield ~5-6% attractive relative to Polish bond yields • Expansion into new European export markets beyond Poland and CEE",
-      "key_risks": "• PLN 9.18 consensus (ValueInvesting.io, 7 analysts) implies only 4.2% upside — limited re-rating potential • Competition from Allegro/Amazon direct imports of Chinese tool brands at lower price points • Small-cap Polish equities illiquid; thin coverage (7 analysts) means limited institutional attention • PLN/USD exchange rate exposure on USD-denominated procurement of Asian-sourced goods",
-      "notes": "Newly added — needs research",
-      "week_change_pct": 0
-    },
-    {
       "ticker": "VLO",
       "company": "VLO",
       "sector": "—",
