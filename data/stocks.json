@@ -2317,6 +2317,29 @@
       "key_risks": "• US housing slowdown reducing construction steel demand amid high mortgage rates • Margin compression if scrap prices spike relative to finished steel prices • Import competition from Turkish/Ukrainian rebar if US tariff relief granted • China steel overcapacity overhang pressuring global benchmark prices",
       "notes": "The hidden gem.  $70.33 ,  -17.1%  off the high — the only name in the basket actually pulled back meaningfully. Cap  $7.8B , P/E  15.73  (cheapest US steel name). Pure-play long-steel/rebar levered to US infra supercycle. The micro-mill expansion in Arizona/West Virginia adds optionality. This is the buy-it-now name. ",
       "week_change_pct": -2.06
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "GOOGL",
+      "sector": "—",
+      "currency": "",
+      "price": "—",
+      "price_num": null,
+      "market_cap": "—",
+      "pe_ratio": "—",
+      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
+      "is_good_bet": "",
+      "buy_now_signal": "",
+      "verdict": "Reasonably Priced",
+      "status": "Newly Added",
+      "risk_score": 5,
+      "houses": [],
+      "consensus_target": "",
+      "consensus_target_num": null,
+      "upside_pct": null,
+      "key_catalysts": "",
+      "key_risks": "",
+      "notes": ""
     }
   ]
 }
