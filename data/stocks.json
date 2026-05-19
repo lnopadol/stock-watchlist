@@ -605,43 +605,6 @@
       "week_change_pct": -2.05
     },
     {
-      "ticker": "PSIX",
-      "company": "Power Solutions International, Inc.",
-      "sector": "Industrials",
-      "currency": "USD",
-      "price": "$38.75",
-      "price_num": 38.75,
-      "market_cap": "$893M",
-      "pe_ratio": "8.75",
-      "what_it_does": "Power Solutions International, Inc. designs, engineers, manufactures, and sells emission-certified engines and power systems running on fuels like natural gas, propane, diesel, and biofuels. It provides integrated turnkey solutions to OEMs and end-users in energy, industrial (forklifts, construction equipment), and transportation (terminal tractors) markets, including standby power generation for data centers. The company is headquartered in Wood Dale, Illinois.[Robinhood](https://robinhood.com/us/en/stocks/PSIX/)[TradingView](https://www.tradingview.com/symbols/NASDAQ-PSIX/)",
-      "is_good_bet": "PSIX has delivered strong growth fueled by data center power demand and shift to gaseous fuels, with robust profitability (ROE >80%, P/E 15.59 reasonable for growth stock). Bull thesis: positioned for AI/data center backup power boom with fuel-flexible engines; Weichai backing provides scale. Bear concerns: high beta (2.3+), small-mid cap volatility, competition from Cummins/Caterpillar, supply chain risks from China ties.[Yahoo Finance](https://finance.yahoo.com/quote/PSIX)[Ticker Nerd](https://tickernerd.com/stock/psix-forecast/)",
-      "buy_now_signal": "Buy on Dip",
-      "verdict": "Attractively Priced",
-      "status": "Under Review",
-      "risk_score": 7,
-      "houses": [
-        {
-          "name": "Jefferies",
-          "rating": "Buy",
-          "target": "$92.90",
-          "source": "2026-03-24"
-        },
-        {
-          "name": "Freedom Broker",
-          "rating": "Buy",
-          "target": "$107.00",
-          "source": "2026-03-04"
-        }
-      ],
-      "consensus_target": "$99.95",
-      "consensus_target_num": 99.95,
-      "upside_pct": 44.7,
-      "key_catalysts": "Q1 2026 earnings (May 2026), data center contracts, hydrogen engine commercialization, margin expansion to 12-15% EBITDA.[Yahoo Finance](https://finance.yahoo.com/quote/PSIX)",
-      "key_risks": "High volatility (beta 2.3), supply chain/geopolitical risks (Weichai China ties), competition in gaseous engines, slower data center growth, regulatory changes on emissions.[TradingView](https://www.tradingview.com/symbols/NASDAQ-PSIX/)",
-      "notes": "",
-      "week_change_pct": -6.17
-    },
-    {
       "ticker": "QDVW",
       "company": "iShares MSCI World Quality Dividend Advanced UCITS ETF USD (Dist)",
       "sector": "ETF (World Equity Dividend + Quality + ESG)",
