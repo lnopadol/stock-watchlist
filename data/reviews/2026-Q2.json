@@ -1,6 +1,6 @@
 {
   "quarter": "2026-Q2",
-  "review_date": "2026-05-18",
+  "review_date": "2026-05-25",
   "macro_context": {
     "summary": "April 2026 macro regime: stagflationary crosscurrents dominate. The Iran war has pushed Brent crude to ~$101-111/bbl (+$35-47 YoY), reigniting energy inflation and freezing the Fed at 3.50-3.75% despite growth softening. The 10Y UST sits at 4.35%, credit spreads are near 25-year tights (IG OAS ~80 bps, HY ~285 bps), and the DXY has corrected ~10% from its 2025 peak to ~98-99 — weakening against EUR (~1.17) and CHF — which is materially positive for Swiss and European assets in USD terms. AI hyperscaler capex is surging ($600-630B aggregate 2026E, +36-62% YoY), keeping the power/grid/semicap complex structurally bid, but the cycle is maturing and vulnerable to any demand digestion signal. Central bank divergence is acute: BOJ tightening to 0.75% (hawkish dissenters want 1.0%), ECB debating hikes from 2.00%, BOE frozen at 3.75%. Equity factor leadership has rotated toward value/quality in Europe and small-cap value showing early reversal after years of growth dominance; defensives have re-rated as rate-cut expectations were crushed.",
     "key_drivers": [
@@ -65,7 +65,8 @@
       "ROG.SW",
       "NESN.SW",
       "XOM",
-      "TTE"
+      "TTE",
+      "GOOGL"
     ],
     "cyclicals": [
       "TGB",
@@ -96,12 +97,10 @@
     "deep_value": [
       "SU",
       "TNK",
-      "SREN.SW",
-      "TOA.WA"
+      "SREN.SW"
     ],
     "quality_growth": [
       "ASM.AS",
-      "PSIX",
       "HUBB",
       "BWXT",
       "SEZL",
@@ -125,8 +124,7 @@
       "RR.L",
       "SMR",
       "TE.PA",
-      "TEA.AX",
-      "NESTE.HE"
+      "TEA.AX"
     ]
   },
   "by_ticker": [
@@ -562,37 +560,6 @@
         ],
         "diversification": "Provides specific European electrification infrastructure exposure not directly replicated. But current valuation suggests trim, not add.",
         "sizing_tier": "small / option-like"
-      }
-    },
-    {
-      "ticker": "PSIX",
-      "bucket": "quality_growth",
-      "portfolio_role": "Gaseous-fuel engine/power systems for AI data center backup power; natural gas and hydrogen engine differentiation; high-ROE, low-P/E AI power play",
-      "complement_or_compete": "The highest-conviction AI-power name on the list given the combination of buy signal active, 36% upside, low P/E (15.59x) vs AMSC (16.33x near-target) and HUBB (33x above target). Weichai China ownership (strategic shareholder) adds geopolitical risk but also supply chain advantage.",
-      "angle1_macro": {
-        "regime_fit": "AI hyperscaler capex at $630B drives demand for data center backup power — PSIX's engines run on natural gas (cheap, reliable) and are positioned for hydrogen transition. Oil at $101+ makes diesel backup alternatives more expensive, benefiting gaseous-fuel PSIX engines. Real rates at 1.5%+ are manageable at 15.59x P/E.",
-        "drivers": [
-          "AI/data center backup power demand (natural gas engines)",
-          "Hydrogen engine commercialization (next-generation positioning)",
-          "Weichai China distribution / supply chain access"
-        ],
-        "sensitivity": "High beta to AI capex cycle (beta 2.3 — highest on list); natural gas price sensitivity (input to customers); China tie (Weichai) adds geopolitical tail risk"
-      },
-      "angle2_fundamental": {
-        "summary": "ROE >80% — exceptional capital efficiency. P/E 15.59x is the cheapest valuation among the US AI-power-grid cluster (AMSC 16.33x near target, HUBB 33x above). Buy signal active with multiple analysts at Buy and $87-109 targets vs $73.75 current. Q1 2026 earnings May 2026.",
-        "drivers": "Q1 2026 earnings (May); data center contract announcements; hydrogen engine commercialization timeline",
-        "valuation": "Consensus $93 average (35.6% upside). Jefferies $92.90, Craig-Hallum $109, Freedom $87 — tight clustering on Buy. The cheapest way to play the AI power theme with the most upside.",
-        "tag": "fundamentals lead valuation"
-      },
-      "angle3_quant": {
-        "vol_drawdown": "High volatility (beta 2.3); risk score 7/10; small/mid-cap name with thin float; Weichai China tie creates binary geopolitical event risk; drawdowns can be severe on AI cycle pauses",
-        "factor_clusters": [
-          "AI-power theme",
-          "US small/mid-cap industrials",
-          "Natural gas infrastructure"
-        ],
-        "diversification": "Most differentiated of the three US AI-power names (AMSC, PSIX, HUBB) — different mechanism (gaseous engine vs grid resiliency vs electrical products). PSIX is the best-value entry into the theme.",
-        "sizing_tier": "satellite / medium"
       }
     },
     {
@@ -1371,38 +1338,6 @@
       "added_in_week": "2026-W19"
     },
     {
-      "ticker": "NLST",
-      "company": "Netlist, Inc.",
-      "bucket": "turnaround_special_situations",
-      "portfolio_role": "Binary litigation option on memory IP portfolio; provides non-correlated return potential entirely dependent on patent litigation outcomes against Samsung, Google, and Super Micro.",
-      "complement_or_compete": "No competitive overlap with any current portfolio name. A genuinely uncorrelated, binary event-driven position whose return profile is orthogonal to macro, sector, and factor movements. Should be sized accordingly — tiny.",
-      "angle1_macro": {
-        "regime_fit": "NLST has zero macro sensitivity — its returns are driven entirely by patent litigation outcomes, not by oil prices, Fed rates, or geopolitical events. The April 2026 stagflationary macro is irrelevant to its thesis. The only macro-adjacent factor is that a high-rate environment raises the hurdle for holding non-income-generating positions, which argues for strict position sizing.",
-        "drivers": [
-          "ITC investigation against Samsung/Google/Super Micro (instituted April 2026) — exclusion order potential",
-          "CAFC twice affirmed patent validity in 2025 — legal momentum building",
-          "Samsung financial incentive to settle growing as litigation costs and ITC risks mount"
-        ],
-        "sensitivity": "Zero to macro; binary to litigation outcomes. Single event (ITC final determination or settlement) drives nearly all return."
-      },
-      "angle2_fundamental": {
-        "summary": "No meaningful operating revenue — entirely a patent holding company. Financial health rated WEAK (InvestingPro 1.64). Survives on minimal operating costs while pursuing litigation. Market cap ~$212M at time of last major data point (vs current ~$500M+ at $2.80). The only 'fundamental' that matters is the litigation pipeline.",
-        "drivers": "ITC investigation timeline (typically 12-18 months from institution); district court proceedings against Samsung and Micron; Federal Circuit appeal results.",
-        "valuation": "No analyst target, no P/E, no DCF applicable. A venture/lottery-ticket investment requiring maximum loss tolerance on the full position. Any settlement or ITC win could be transformational.",
-        "tag": "compensating"
-      },
-      "angle3_quant": {
-        "vol_drawdown": "Extreme volatility — OTC-listed, illiquid, binary payoff structure. Full loss of position value is a realistic scenario if patents are invalidated or ITC dismisses. Risk score 5 = maximum.",
-        "factor_clusters": [
-          "Patent litigation / event-driven",
-          "US memory / semiconductor IP"
-        ],
-        "diversification": "Genuinely uncorrelated to all other portfolio names — pure idiosyncratic event risk. Adds optionality but zero portfolio-level risk reduction. Should never exceed 0.5-1% of portfolio.",
-        "sizing_tier": "small/option-like"
-      },
-      "added_in_week": "2026-W19"
-    },
-    {
       "ticker": "NNBR",
       "bucket": "turnaround_special_situations",
       "portfolio_role": "Micro-cap precision components turnaround with emerging Electric Grid and Data Center exposure; high-risk/high-reward execution bet on portfolio pivot from legacy automotive.",
@@ -1596,29 +1531,6 @@
       "added_in_week": "2026-W21"
     },
     {
-      "ticker": "NESTE.HE",
-      "bucket": "thematic_structural",
-      "portfolio_role": "Pure-play renewable diesel and SAF producer; energy transition structural winner but severely de-rated near-term",
-      "complement_or_compete": "Unique energy transition position with no direct peer on the watchlist — TTE has some renewable exposure but is dominated by oil. Neste offers energy transition thematic diversification vs the fossil fuel energy cluster (TTE, XOM, SU). Does NOT compete with refiners (MPC, VLO, PSX) which are fossil-fuel downstream.",
-      "angle1_macro": {
-        "regime_fit": "Neste's macro positioning in April 2026 is paradoxical. The oil macro ($101-111 Brent) creates a dual dynamic: high feedstock costs for renewable diesel (vegetable oils, waste fats remain elevated), while simultaneously incentivizing the energy transition as policymakers accelerate away from fossil fuels. The USD weakness vs EUR is positive for USD investors in EUR-denominated assets. European SAF mandates (2% by 2025, escalating to 6% by 2030 under ReFuelEU) are a structural demand driver. However, the US renewable diesel market is severely oversupplied — HVO capacity has outpaced demand in 2024-2026, compressing margins. The Goldman Sachs January 2026 upgrade to Buy (€24 target) reflects optimism on margin recovery, but 32 other analysts disagree at €8-14.",
-        "drivers": "",
-        "sensitivity": ""
-      },
-      "angle2_fundamental": {
-        "summary": "Neste's Singapore expansion (doubling capacity) was completed at cycle trough — significant capex deployed while margins were depressed. The SAF division generates structural premium pricing vs conventional jet fuel, but volumes are still modest (10-15% of total). Renewable diesel margins have collapsed from €400+/tonne (2022 peak) toward €100-150/tonne (2026 normalized), reflecting HVO oversupply and US policy uncertainty. The balance sheet has been stretched by the Singapore capex. At €28.56 vs consensus €12.67, the stock implies a full margin recovery that has not yet materialized and may take 2-3 years.",
-        "drivers": "",
-        "valuation": ""
-      },
-      "angle3_quant": {
-        "vol_drawdown": "The most negative quant setup among the 12 additions: -55.6% to analyst consensus, 33 analysts with HOLD consensus (19% bullish, 36% hold, 6% sell), and a compressed margin environment. Risk score 8/10. The Goldman Sachs €24 Buy is an outlier — median consensus is €13.26, suggesting the bulls are a minority. AVOID signal until margin recovery evidence is confirmed in earnings. Factor cluster: Energy transition / Renewable fuels.",
-        "factor_clusters": [],
-        "diversification": "",
-        "sizing_tier": ""
-      },
-      "added_in_week": "2026-W21"
-    },
-    {
       "ticker": "NHY.OL",
       "bucket": "cyclicals",
       "portfolio_role": "Most vertically integrated global aluminum producer with green credentials; energy transition materials play",
@@ -1688,29 +1600,6 @@
         "factor_clusters": [
           "Swiss quality defensives"
         ],
-        "diversification": "",
-        "sizing_tier": ""
-      },
-      "added_in_week": "2026-W21"
-    },
-    {
-      "ticker": "TOA.WA",
-      "bucket": "deep_value",
-      "portfolio_role": "Polish small-cap distributor with CEE construction tailwind and dividend income; micro-cap deep value",
-      "complement_or_compete": "No direct competitor or complement relationship on the watchlist — TOA.WA is the only Polish equity and only hand-tool distributor. Provides CEE geographic diversification and small-cap exposure not otherwise available. Low correlation to Swiss, US, or large-cap European positions. Standalone position.",
-      "angle1_macro": {
-        "regime_fit": "Poland is one of Europe's best-positioned economies in the April 2026 regime: NATO spending surge (Polish defense budget ~4% of GDP) is driving construction and industrial activity; EU cohesion funds absorption is supporting infrastructure build-out; and domestic consumption is healthy despite European inflation. The PLN has held relatively stable vs EUR. Toya's hand tools distribution business is directly tied to Polish construction, renovation, and light industrial sectors — all of which are receiving structural support from EU funds and defense supply chain reshoring. The Iran war and high energy prices are less direct drivers for Toya vs the energy/metals names, but general EU construction spending is the key macro driver.",
-        "drivers": "",
-        "sensitivity": ""
-      },
-      "angle2_fundamental": {
-        "summary": "Toya operates a capital-light distribution model with low leverage and consistent dividend payments. The business is essentially a toll road on Polish construction activity — as housing, renovation, and industrial capex grows, tool purchases grow proportionally. Revenue diversification across professional and consumer channels provides stability. At PLN 8.81 with a PLN 9.18 consensus (7 analysts), upside is modest at 4.2%, but the 5-6% dividend yield provides a total return cushion. The company's expansion into new European markets (Czech, Slovak, German) is a modest but real growth optionality layer. Coverage is thin (7 analysts) — an inefficiency that creates opportunity for careful investors.",
-        "drivers": "",
-        "valuation": ""
-      },
-      "angle3_quant": {
-        "vol_drawdown": "HOLD-grade quant signal: 4.2% upside to consensus, narrow analyst range (PLN 9.09-9.45), HOLD consensus from 7 analysts. Risk score 5/10 — the lowest-risk addition, reflecting capital-light model, low leverage, and non-cyclical distribution business. The value is primarily in the dividend yield and CEE exposure diversification. Not a high-conviction growth position but a low-risk income/diversification addition. No factor cluster — standalone Polish small-cap.",
-        "factor_clusters": [],
         "diversification": "",
         "sizing_tier": ""
       },
@@ -1790,6 +1679,31 @@
         "sizing_tier": ""
       },
       "added_in_week": "2026-W21"
+    },
+    {
+      "ticker": "GOOGL",
+      "bucket": "core_compounders",
+      "portfolio_role": "Mega-cap AI/cloud compounder with search cash flow ballast and rerated GenAI optionality.",
+      "complement_or_compete": "Complements quality_growth exposure (RELX, ECL) with mega-cap tech beta and AI capex monetization. Competes with no current holding directly; reduces underweight to US tech.",
+      "angle1_macro": {
+        "regime_fit": "April 2026 macro regime (stagflation-lite, real rates +1.5%, USD soft, Iran war keeping oil $101-111) is mixed for GOOGL: high real rates compress long-duration tech multiples, but Alphabet's $90B+ annual operating cash flow is among the most defensive in mega-cap. Ad spend has held up better than feared as Search holds share against AI-native challengers (Perplexity, OpenAI). Cloud (GCP) is the swing factor — capex cycle accelerating into 2026 with TPU v6 deployment.",
+        "drivers": "Search ad resilience; GCP growth re-acceleration; Waymo monetization optionality; antitrust overhang from DOJ remedy.",
+        "sensitivity": "Sensitive to rate cycle (long-duration); moderate USD sensitivity (50%+ international revenue); low oil price sensitivity."
+      },
+      "angle2_fundamental": {
+        "summary": "Strong fundamentals: ~$110B free cash flow run rate, 30%+ operating margin, 22 sell-side analysts at strong_buy consensus. Capex is the bear case — accelerated AI infra build is depressing near-term FCF, but management has guided to GCP backlog conversion and TPU efficiency wins as the offset. Buybacks and a modest dividend introduced in 2024 have been steady but small relative to cash generation.",
+        "drivers": "AI monetization in Search (AI Overviews, Gemini in Workspace); GCP enterprise wins; YouTube subscription growth; Waymo expansion.",
+        "valuation": "29x trailing P/E — above 5y average ~25x but below mega-cap AI peers (NVDA, MSFT); EV/FCF ~22x reasonable for 12-15% FCF growth."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "GOOGL has had a -20% drawdown from late-2025 peak ~$480 to current $383, reflecting AI-search disruption fears plus capex cycle concerns. 1-year realized vol ~28%. Recent action is constructive: holding 200d MA, RSI mid-40s. Consensus target $429.32 (median $425) implies +12.1% upside; high target $515 (Citizens) prices in Cloud re-acceleration scenario.",
+        "factor_clusters": [
+          "US Mega-cap Tech"
+        ],
+        "diversification": "Adds mega-cap tech beta; uncorrelated with current cyclicals/refiners/steel cluster.",
+        "sizing_tier": "Core (2-4% position size; user discretion)."
+      },
+      "added_in_week": "2026-W22"
     }
   ],
   "factor_clusters": [
@@ -1809,7 +1723,6 @@
       "cluster": "US AI-power / grid infrastructure",
       "members": [
         "AMSC",
-        "PSIX",
         "HUBB"
       ],
       "shared_risks": "AI hyperscaler capex digestion (any spend cut signals simultaneous sell across all three); grid electrification project delays; copper/steel input cost inflation; US tariff disruption to supply chains; small-cap factor risk (AMSC/PSIX more vulnerable than HUBB)",
@@ -1911,6 +1824,14 @@
       ],
       "shared_risks": "Chinese steel/aluminum overcapacity dumping globally; global industrial recession compressing demand; energy cost inflation squeezing margins (particularly European smelters); trade policy reversal (tariff reductions exposing US/EU producers to competition); EV transition reducing specialty ICE-steel demand (VOE.VI specifically)",
       "concentration_warning": "5 names across stainless (APAM.AS), rebar (CMC), carbon flat (MT), aluminum (NHY.OL), and specialty (VOE.VI). Internally diversified by product and geography but all share metals commodity cycle sensitivity. NHY.OL and MT are currently overvalued vs consensus — reduce exposure there before adding to CMC or APAM.AS."
+    },
+    {
+      "cluster": "US Mega-cap Tech",
+      "members": [
+        "GOOGL"
+      ],
+      "shared_risks": "Antitrust/regulatory action; AI capex underperformance; multiple compression if real rates stay elevated; concentrated index weight risk.",
+      "concentration_warning": "Single-name in cluster currently; consider sizing as core but not >5% of portfolio."
     }
   ],
   "high_priority_names": [
@@ -1942,21 +1863,6 @@
         "macro": "Iran de-escalation removing European defense urgency; jet fuel cost surge from oil-shock squeezing airline customers' maintenance spend",
         "fundamental": "Lingering leverage — though much improved; civil aviation demand shock (new COVID variant or recession reducing flying hours); engine supply chain delays",
         "quantitative": "80%+ 1-year rally creates mean-reversion risk; market may have pulled forward 3+ years of recovery earnings"
-      }
-    },
-    {
-      "ticker": "PSIX",
-      "type": "all_three_align",
-      "case": "The most actionable US name on the list: (1) Macro — AI hyperscaler capex $630B drives demand for data center natural gas backup power, precisely PSIX's market; (2) Fundamental — P/E 15.59x is the cheapest AI-power proxy on the list (AMSC 16.33x near target, HUBB 33x above target); 36% upside to consensus; three Buy ratings ($87-109) with buy signal active; ROE >80% exceptional capital efficiency; (3) Quantitative — high beta (2.3) is a risk but is appropriate for a satellite/medium position sized for upside.",
-      "entry_triggers": [
-        "Any near-term pullback toward $65-68 (prior consolidation zone) before Q1 earnings (May 2026)",
-        "Q1 2026 earnings beat — if data center contract order intake accelerates, price could re-rate toward $92-109 range",
-        "Hydrogen engine commercialization update — any commercial pilot announcement rerates the long-term story"
-      ],
-      "thesis_risks": {
-        "macro": "AI capex digestion (any hyperscaler spend reduction immediately compresses PSIX's order pipeline); beta 2.3 means a 10% equity market drawdown = 23% PSIX drawdown",
-        "fundamental": "Weichai China strategic shareholder adds US-China geopolitical binary risk; small float means institutional exits cause disproportionate price impact",
-        "quantitative": "Beta 2.3 — the highest realized vol on the list; Chinese supply chain exposure is tail risk in trade-war escalation scenario"
       }
     },
     {
@@ -2060,5 +1966,5 @@
       "TGB Florence Copper timeline verification: The input data is optimistic on Florence commissioning — need to verify that Arizona operating permit and commissioning timeline are on track, as previous delays have been significant."
     ]
   },
-  "last_synced_week": "2026-W21"
+  "last_synced_week": "2026-W22"
 }
