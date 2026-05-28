@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25",
+  "updated": "2026-05-28",
   "week_label": "2026-W22",
   "stocks": [
     {
@@ -266,7 +266,7 @@
       "sector": "Materials",
       "currency": "CHF",
       "price": "CHF 2,882.00",
-      "price_num": 2882.0,
+      "price_num": 2882,
       "market_cap": "CHF 26.60B",
       "pe_ratio": "24.96",
       "what_it_does": "Givaudan SA is a leading global manufacturer of flavors and fragrances for the consumer goods industry. It operates in two main divisions: Fragrance & Beauty (fine fragrances, consumer products, fragrance ingredients, active beauty) and Taste & Wellbeing (beverages, dairy, savory, sweet goods). The company serves customers in personal care, food, beverages, and wellbeing products worldwide.",
@@ -474,7 +474,7 @@
         }
       ],
       "consensus_target": "$26.00",
-      "consensus_target_num": 26.0,
+      "consensus_target_num": 26,
       "upside_pct": -46.76,
       "key_catalysts": "Project Stardust D2D launch (2026), DoD/govt contracts, IoT growth, Q2 2026 earnings [Iridium](https://investor.iridium.com/).",
       "key_risks": "High debt/equity (376%), Starlink competition, satellite capex/maintenance, execution on new services [SimplyWallSt](https://simplywall.st/stocks/us/telecom/nasdaq-irdm/iridium-communications).",
@@ -1279,7 +1279,7 @@
         }
       ],
       "consensus_target": "$3.00",
-      "consensus_target_num": 3.0,
+      "consensus_target_num": 3,
       "upside_pct": 22.45,
       "key_catalysts": "Electric Grid and Data Center market awards ($43M concentration in Q1 2026) validating portfolio pivot; 60+ new program launches creating shippable backlog for H2 2026 and 2027 revenue; New business wins guidance raised to $80-90M for FY2026 — above original range",
       "key_risks": "GAAP net losses — still loss-making, financing from operations not yet self-sustaining; Heavy leverage with only one analyst following — minimal institutional support and thin liquidity; Transition risk: automotive exposure being reduced but replacement markets not yet fully offsetting",
@@ -1359,7 +1359,7 @@
       "sector": "Industrials / Robotics Components",
       "currency": "JPY",
       "price": "¥7,590",
-      "price_num": 7590.0,
+      "price_num": 7590,
       "market_cap": "¥718.52B",
       "pe_ratio": "451.25",
       "what_it_does": "Harmonic Drive Systems manufactures strain wave gearing (harmonic drives) — compact, zero-backlash gearheads used in precision robotics, semiconductor equipment, and medical devices. It commands a dominant niche in high-precision torque transmission.",
@@ -1383,7 +1383,7 @@
       "sector": "Industrials / Precision Motion Control",
       "currency": "JPY",
       "price": "¥5,699",
-      "price_num": 5699.0,
+      "price_num": 5699,
       "market_cap": "¥667.83B",
       "pe_ratio": "45.89",
       "what_it_does": "Nabtesco manufactures high-precision reduction gears (cycloidal drives) that are the standard joint actuator in industrial robots, holding ~60% global market share. It also makes automatic doors, marine vessel hydraulics, and railroad components.",
@@ -1821,7 +1821,7 @@
         }
       ],
       "consensus_target": "$154.00",
-      "consensus_target_num": 154.0,
+      "consensus_target_num": 154,
       "upside_pct": 22.38,
       "key_catalysts": "Municipal utility AMI upgrade cycle driven by EPA lead service line replacement mandates; SaaS (BEACON AMA) recurring revenue expansion improving revenue quality and margins; International expansion into European and Asian water infrastructure markets",
       "key_risks": "Q1 2026 revenue missed estimates by 12.5% — near-term order softness in municipal projects; Barclays Underweight with $110 target implies 9% downside from current $120.84; Rich valuation — premium pricing leaves limited margin of safety if municipal budgets tighten",
@@ -2372,6 +2372,29 @@
       "key_risks": "",
       "notes": "Attractive. Wait for drop",
       "week_change_pct": -1.21
+    },
+    {
+      "ticker": "HMS",
+      "company": "HMS Networks",
+      "sector": "—",
+      "currency": "",
+      "price": "—",
+      "price_num": null,
+      "market_cap": "—",
+      "pe_ratio": "—",
+      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
+      "is_good_bet": "",
+      "buy_now_signal": "",
+      "verdict": "Reasonably Priced",
+      "status": "Newly Added",
+      "risk_score": 5,
+      "houses": [],
+      "consensus_target": "",
+      "consensus_target_num": null,
+      "upside_pct": null,
+      "key_catalysts": "",
+      "key_risks": "",
+      "notes": ""
     }
   ]
 }
