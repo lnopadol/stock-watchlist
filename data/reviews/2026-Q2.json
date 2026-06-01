@@ -1,6 +1,6 @@
 {
   "quarter": "2026-Q2",
-  "review_date": "2026-05-25",
+  "review_date": "2026-06-01",
   "macro_context": {
     "summary": "April 2026 macro regime: stagflationary crosscurrents dominate. The Iran war has pushed Brent crude to ~$101-111/bbl (+$35-47 YoY), reigniting energy inflation and freezing the Fed at 3.50-3.75% despite growth softening. The 10Y UST sits at 4.35%, credit spreads are near 25-year tights (IG OAS ~80 bps, HY ~285 bps), and the DXY has corrected ~10% from its 2025 peak to ~98-99 — weakening against EUR (~1.17) and CHF — which is materially positive for Swiss and European assets in USD terms. AI hyperscaler capex is surging ($600-630B aggregate 2026E, +36-62% YoY), keeping the power/grid/semicap complex structurally bid, but the cycle is maturing and vulnerable to any demand digestion signal. Central bank divergence is acute: BOJ tightening to 0.75% (hawkish dissenters want 1.0%), ECB debating hikes from 2.00%, BOE frozen at 3.75%. Equity factor leadership has rotated toward value/quality in Europe and small-cap value showing early reversal after years of growth dominance; defensives have re-rated as rate-cut expectations were crushed.",
     "key_drivers": [
@@ -66,7 +66,9 @@
       "NESN.SW",
       "XOM",
       "TTE",
-      "GOOGL"
+      "GOOGL",
+      "6861",
+      "SCHNEIDER"
     ],
     "cyclicals": [
       "TGB",
@@ -81,7 +83,8 @@
       "NHY.OL",
       "PSX",
       "VLO",
-      "VOE.VI"
+      "VOE.VI",
+      "NOKIA"
     ],
     "defensives": [
       "SREN.SW",
@@ -92,7 +95,8 @@
     "turnaround_special_situations": [
       "RR.L",
       "TECN.SW",
-      "SMR"
+      "SMR",
+      "ETH"
     ],
     "deep_value": [
       "SU",
@@ -104,7 +108,9 @@
       "HUBB",
       "BWXT",
       "SEZL",
-      "SQN.SW"
+      "SQN.SW",
+      "HMS",
+      "PANW"
     ],
     "income_plays": [
       "SCHD",
@@ -1704,6 +1710,144 @@
         "sizing_tier": "Core (2-4% position size; user discretion)."
       },
       "added_in_week": "2026-W22"
+    },
+    {
+      "ticker": "6861",
+      "bucket": "core_compounders",
+      "portfolio_role": "Fortress-balance-sheet Japanese automation leader providing high-margin, capital-light compounding in factory sensors and vision systems with multi-decade structural demand from manufacturing productivity imperatives.",
+      "complement_or_compete": "Complements Schneider in industrial automation capex revival but provides direct factory-floor sensor/measurement exposure rather than power infrastructure; no meaningful overlap with software-heavy PANW.",
+      "angle1_macro": {
+        "regime_fit": "Manufacturing reshoring and labour cost pressures globally accelerate sensor and vision-system adoption; capex revival in semiconductor, EV, and precision manufacturing directly drives Keyence order flow; energy efficiency imperatives boost demand for precision process control.",
+        "drivers": "AI-driven agentic manufacturing (machine vision as Agentic AI eyes), semiconductor capex cycle, and labour substitution automation spending in Asia, Europe, and North America.",
+        "sensitivity": "JPY/USD sensitivity: yen strengthening headwinds reported revenue; modest raw-material exposure given capital-light outsourced manufacturing model; correlated to global industrial PMI."
+      },
+      "angle2_fundamental": {
+        "summary": "Exceptional business quality: 83% gross margins, 50% operating margins, zero debt, >¥1T cash, and 30% of revenue from products released within the last year underpin durable competitive advantage.",
+        "drivers": "FY2026 full-year revenue ¥1,169B (+9.5% YoY) and net income ¥445B (+6.6%); rising dividend to ¥550/share signals accelerating capital return; direct-sales model preserves pricing power.",
+        "valuation": "Trades at ~33–38x trailing P/E vs. 15x industry peers; DCF fair value estimates range ¥36,000–73,000 vs. ~¥57,000 current price; premium justified by quality but limits upside at current entry."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-to-moderate volatility by Japanese tech standards; drawdowns typically driven by global risk-off or JPY appreciation episodes; recent share-price surge elevates mean-reversion risk.",
+        "factor_clusters": "Quality compounder with low-leverage and high-profitability factor scores; improving dividend growth factor signal following ¥550/share raise; slight momentum tailwind from FY2026 earnings beat.",
+        "diversification": "JPY-denominated Tokyo listing; provides Japanese large-cap industrial tech exposure distinct from all other EUR/USD-denominated names; genuine geographic and currency diversifier.",
+        "sizing_tier": "core (1-3%)"
+      },
+      "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "ETH",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "High-risk/high-reward turnaround in Edge AIoT infrastructure, offering levered exposure to EU industrial cybersecurity mandates and AI edge computing at a micro-cap entry point.",
+      "complement_or_compete": "Competes thematically with HMS in IoT connectivity but at smaller scale and higher risk; complements PANW in OT/IT security convergence narrative without the valuation premium.",
+      "angle1_macro": {
+        "regime_fit": "Eurotech's pivot to Edge AIoT and OT cybersecurity aligns with both the deglobalisation capex revival (industrial edge hardware) and energy security (smart grid edge compute); NIS2 and EU Cyber Resilience Act are direct demand catalysts.",
+        "drivers": "EU regulatory cybersecurity upgrade cycles, AI-at-the-edge demand from hyperscalers (AWS partnership), and defence/energy vertical spending.",
+        "sensitivity": "Highly sensitive to European industrial capex sentiment, EUR/USD FX on US subsidiary, and memory component availability and pricing."
+      },
+      "angle2_fundamental": {
+        "summary": "Turnaround-stage micro-cap with improving trajectory: H2 2025 EBITDA turned positive, cost base reduced EUR 6M YoY, and Edge AIoT now ~60% of revenues.",
+        "drivers": "Mix shift from legacy embedded to higher-margin Edge AIoT systems; NIS2-driven upgrade orders; EUR 17.5M capital increase provides runway through 2026–2027 transformation.",
+        "valuation": "Not yet earnings-positive on a full-year basis; trades on revenue multiple and strategic optionality; long-term 2028 target of EUR 80M revenue vs. current EUR 55M implies significant re-rating potential if executed."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High-volatility micro-cap; elevated drawdown risk tied to earnings delivery and balance sheet concerns; not suitable for large sizing.",
+        "factor_clusters": "Special situations / turnaround cluster; screens negatively on near-term profitability factors but positively on revenue-growth momentum and strategic M&A optionality.",
+        "diversification": "Italian-listed EUR-denominated exposure; unique geographic and sector profile within the portfolio; genuine diversifier from U.S. mega-cap tech.",
+        "sizing_tier": "starter (0-1%)"
+      },
+      "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "HMS",
+      "bucket": "quality_growth",
+      "portfolio_role": "Small/mid-cap industrial connectivity compounder providing pure-play IIoT networking exposure with above-market organic growth and premium margins.",
+      "complement_or_compete": "Complements Schneider Electric's automation ecosystem exposure with a more direct bet on industrial protocol conversion and edge connectivity; no direct overlap with existing telecom or cybersecurity names.",
+      "angle1_macro": {
+        "regime_fit": "Directly benefits from deglobalisation-driven factory reshoring and capex revival, as manufacturers upgrade brownfield assets to Industry 4.0 connectivity standards; energy security spending accelerates smart-grid integration demand.",
+        "drivers": "Industrial automation capex cycle recovery, OT/IT convergence mandates, and new cybersecurity regulations (NIS2) forcing connectivity upgrades across European factories.",
+        "sensitivity": "Moderate EUR/SEK and USD/SEK FX sensitivity (10% headwind in 2025); leveraged to European industrial cycle, which remains soft but recovering; limited commodity input exposure."
+      },
+      "angle2_fundamental": {
+        "summary": "High-quality niche industrial platform with 63% gross margins and 25%+ adjusted EBIT margins, backed by sticky OEM-embedded and field-installed base.",
+        "drivers": "Molex acquisition adds USD 10M+ revenue and U.S. manufacturing capacity; IDS division driving domestic European recovery; organic order growth expected to re-accelerate in H2 2026.",
+        "valuation": "Trades at a premium to industrial peers, reflecting quality profile; analyst consensus price target ~SEK 507–511, implying ~20% upside from early-2026 levels before the Q4 rally was absorbed."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Mid-cap Swedish industrial; moderate volatility with drawdowns typically correlated to European PMI cycles and EUR/USD swings; well below large-cap tech vol.",
+        "factor_clusters": "Quality-growth factor cluster: high ROIC, margin stability, and consistent EPS compounding; screens well on quality-momentum screens after order-book inflection.",
+        "diversification": "Provides SEK-denominated European industrial exposure distinct from USD-denominated tech and cybersecurity holdings; low correlation to PANW and NOKIA.",
+        "sizing_tier": "starter (0-1%)"
+      },
+      "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "NOKIA",
+      "bucket": "cyclicals",
+      "portfolio_role": "Recovery-to-growth telecom infrastructure name offering levered exposure to AI-RAN, 6G, and optical networking secular capex waves at a European large-cap price point.",
+      "complement_or_compete": "Competes thematically with Schneider for 'digital infrastructure capex' budget allocation but is more narrowly focused on telecom carrier and data-centre optical spending; complements PANW in network security layer.",
+      "angle1_macro": {
+        "regime_fit": "Telecom network densification, AI-native RAN, and sovereign 6G investment programmes are direct expressions of the deglobalisation and energy-security capex revival themes; Infinera optical acquisition expands data-centre networking exposure.",
+        "drivers": "Telecom operator 5G capex resumption, hyperscaler demand for optical interconnect, and NVIDIA AI-RAN partnership opening a USD 200B total addressable market by 2030.",
+        "sensitivity": "EUR/USD exposure on ~25% U.S. revenue; sensitive to telecom carrier capex budgets and interest rate environment (carrier debt costs); North America carrier swap-out headwind near term."
+      },
+      "angle2_fundamental": {
+        "summary": "Structurally improving telecom equipment franchise, transitioning from hardware commodity to AI-augmented networking platform with rising software and services mix.",
+        "drivers": "Optical networking segment raising 2026 growth guidance to 12–14%; 2026 operating profit target EUR 2.0–2.5B; EPS expected to grow ~24% annually over 3 years per consensus.",
+        "valuation": "Post-rally trailing P/E ~64x appears stretched; forward P/E ~23x more reasonable; stock trading above analyst consensus target of USD 7.56–8.00 as of Q1 2026, reducing near-term margin of safety."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate volatility large-cap; 76% YTD rally through May 2026 creates elevated mean-reversion risk; historically low-vol relative to growth tech but momentum-driven currently.",
+        "factor_clusters": "Momentum and quality-improvement cluster; recent upgrades from Argus, JPMorgan, and Morgan Stanley reflect improving fundamental factor scores; low-vol profile eroding as momentum builds.",
+        "diversification": "EUR-denominated Helsinki listing (NOK for U.S.); provides European large-cap telecom infrastructure diversification; low correlation to domestic U.S. tech names.",
+        "sizing_tier": "starter (0-1%)"
+      },
+      "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "PANW",
+      "bucket": "quality_growth",
+      "portfolio_role": "Large-cap U.S. cybersecurity platform providing high-growth NGS ARR compounding and AI-security optionality, anchoring the portfolio's digital security allocation.",
+      "complement_or_compete": "Complements Nokia in securing AI-native network infrastructure and complements Eurotech's OT security narrative at the enterprise layer; competes for 'technology growth' budget with the HMS and Keyence industrial names.",
+      "angle1_macro": {
+        "regime_fit": "Deglobalisation and critical infrastructure protection imperatives structurally expand enterprise and government security budgets; AI proliferation simultaneously creates new attack surfaces and enables PANW's AI-driven detection products; high-real-rate environment favours platform consolidators over point-solution startups.",
+        "drivers": "AI-augmented threat landscape expanding security TAM; enterprise vendor consolidation trend favoring platform-based cybersecurity; Agentic AI security as a new high-margin category.",
+        "sensitivity": "USD-denominated revenues with global customer base; beta ~0.77 (relatively defensive vs. broad tech); sensitive to enterprise IT budget freezes in recession scenarios."
+      },
+      "angle2_fundamental": {
+        "summary": "World's largest pure-play cybersecurity platform with accelerating NGS ARR (+33% YoY to USD 6.33B) and platformization driving wallet-share expansion, offset near-term by CyberArk integration costs.",
+        "drivers": "NGS ARR targeting USD 7.95B in Q3 FY2026 (+56% YoY); RPO of USD 16B provides 18+ months revenue visibility; 1,550+ platformized customers at ~35% YoY growth compounding the land-and-expand flywheel.",
+        "valuation": "Forward P/E ~45x and P/S ~12x above cybersecurity peer medians; DCF intrinsic range USD 104–256 with stock trading ~USD 260; consensus target ~USD 220, placing current price modestly above Street."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate volatility large-cap tech; beta 0.77 but acquisition-related EPS guidance cuts drove 7–8% single-session drops; CVaR -21% at 95th percentile over one month.",
+        "factor_clusters": "Growth-quality hybrid cluster: high NGS ARR momentum, improving operating margins (30%+ for three consecutive quarters), but GAAP profitability diluted by acquisitions; screens on growth and quality screens with momentum risk after post-CyberArk drawdown.",
+        "diversification": "U.S.-listed USD large-cap provides the portfolio's primary cybersecurity allocation; moderate positive correlation to S&P 500 tech but diversifies away from industrial/energy names.",
+        "sizing_tier": "core (1-3%)"
+      },
+      "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "SCHNEIDER",
+      "bucket": "core_compounders",
+      "portfolio_role": "High-conviction core holding providing diversified exposure to electrification, AI data-centre power, and grid digitalisation with consistent double-digit organic profit growth.",
+      "complement_or_compete": "Complements Nokia and Keyence in industrial capex revival theme but is the broadest and most defensive of the three; largest energy management addressable market with least cyclical earnings profile.",
+      "angle1_macro": {
+        "regime_fit": "Schneider is arguably the single best-positioned portfolio name for the Lost Decade macro regime: energy security drives grid investment, AI capex drives data-centre power demand, and deglobalisation drives localised manufacturing capex in all four geographies.",
+        "drivers": "Data-centre buildout as the primary near-term demand driver; grid modernisation and electrification as the medium-term secular driver; U.S. and India as the fastest-growing geographies.",
+        "sensitivity": "USD/EUR and INR/EUR FX headwind of EUR 750–850M in 2026; raw material and tariff cost pass-through being managed via net price-positive strategy; limited direct commodity input sensitivity."
+      },
+      "angle2_fundamental": {
+        "summary": "Best-in-class industrial platform combining hardware, software (EcoStruxure), and services with rising recurring revenue mix and structurally expanding adjusted EBITA margins.",
+        "drivers": "Energy Management organic growth of +12.8% in Q1 2026; 2026 adjusted EBITA guidance of +10–15% organic growth; Motivair acquisition adds liquid cooling for hyperscale data centres.",
+        "valuation": "Fair value consensus ~EUR 296–300; analyst targets range EUR 290–340; current price near upper-middle of range implies fair-to-modestly-stretched valuation for a compounder of this quality."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-to-moderate volatility large-cap; drawdowns typically limited to 15–20% in risk-off environments; consistent earnings delivery reduces event risk.",
+        "factor_clusters": "Quality compounder cluster: strong ROIC, rising margins, recurring revenue growth, and capital allocation discipline; screens well on quality, low-vol, and dividend-growth factors.",
+        "diversification": "EUR-denominated Paris listing; provides European industrial large-cap anchor with genuine global revenue diversification; lower beta than U.S. mega-cap tech.",
+        "sizing_tier": "core (1-3%)"
+      },
+      "added_in_week": "2026-W23"
     }
   ],
   "factor_clusters": [
@@ -1832,6 +1976,47 @@
       ],
       "shared_risks": "Antitrust/regulatory action; AI capex underperformance; multiple compression if real rates stay elevated; concentrated index weight risk.",
       "concentration_warning": "Single-name in cluster currently; consider sizing as core but not >5% of portfolio."
+    },
+    {
+      "cluster": "Industrial IoT / Edge connectivity",
+      "members": [
+        "HMS",
+        "ETH"
+      ],
+      "shared_risks": "TBD — newly added cluster",
+      "concentration_warning": "Single-name cluster currently."
+    },
+    {
+      "cluster": "AI networking / Telecom equipment",
+      "members": [
+        "NOKIA"
+      ],
+      "shared_risks": "TBD — newly added cluster",
+      "concentration_warning": "Single-name cluster currently."
+    },
+    {
+      "cluster": "Cybersecurity platform",
+      "members": [
+        "PANW"
+      ],
+      "shared_risks": "TBD — newly added cluster",
+      "concentration_warning": "Single-name cluster currently."
+    },
+    {
+      "cluster": "Energy management / Electrification",
+      "members": [
+        "SCHNEIDER"
+      ],
+      "shared_risks": "TBD — newly added cluster",
+      "concentration_warning": "Single-name cluster currently."
+    },
+    {
+      "cluster": "Factory automation / Quality industrials",
+      "members": [
+        "6861"
+      ],
+      "shared_risks": "TBD — newly added cluster",
+      "concentration_warning": "Single-name cluster currently."
     }
   ],
   "high_priority_names": [
@@ -1966,5 +2151,5 @@
       "TGB Florence Copper timeline verification: The input data is optimistic on Florence commissioning — need to verify that Arizona operating permit and commissioning timeline are on track, as previous delays have been significant."
     ]
   },
-  "last_synced_week": "2026-W22"
+  "last_synced_week": "2026-W23"
 }
