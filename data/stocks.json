@@ -986,43 +986,6 @@
       "week_change_pct": -12.84404
     },
     {
-      "ticker": "TNK",
-      "company": "Teekay Tankers Ltd.",
-      "sector": "Energy",
-      "currency": "USD",
-      "price": "$72.20",
-      "price_num": 72.2,
-      "market_cap": "$2.5B",
-      "pe_ratio": "5.87",
-      "what_it_does": "Teekay Tankers Ltd. provides international marine transportation services for crude oil using a fleet of mid-sized tankers including Suezmax, Aframax/LR2 vessels. It offers voyage and time charters, offshore ship-to-ship transfers of crude and refined products, and related marine services. Bermuda-based provider serving oil majors, traders, and governments.",
-      "is_good_bet": "Bull thesis: Strong tanker rates from geopolitical disruptions (e.g. Red Sea), low fleet supply growth supports earnings; variable dividend yields excess cash to shareholders; low single-digit P/E attractive vs peers. Bear thesis: Highly cyclical sector vulnerable to oil demand slowdown, newbuild deliveries, rate normalization; parent Teekay control raises governance risks; limited Wall Street coverage signals lower conviction. Overall moderate bet for tactical trading rather than long-term hold.",
-      "buy_now_signal": "Watch",
-      "verdict": "Reasonably Priced",
-      "status": "Under Review",
-      "risk_score": 8,
-      "houses": [
-        {
-          "name": "Evercore ISI",
-          "rating": "Outperform",
-          "target": "$90.00",
-          "source": "2026-04-22"
-        },
-        {
-          "name": "Jefferies",
-          "rating": "Buy",
-          "target": "$70.00",
-          "source": "2025-10-30"
-        }
-      ],
-      "consensus_target": "$80.00",
-      "consensus_target_num": 80,
-      "upside_pct": 13.7,
-      "key_catalysts": "Q1 2026 earnings (late Apr/May); tanker rate trajectory amid Red Sea/Middle East tensions; dividend declaration; fleet expansion/acquisitions.",
-      "key_risks": "Tanker rate collapse from resolved geopolitics or weak China oil demand; rising bunker fuel costs; new vessel deliveries increasing supply; regulatory changes on emissions/scrapping.",
-      "notes": "",
-      "week_change_pct": 2.95166
-    },
-    {
       "ticker": "XOM",
       "company": "ExxonMobil Corporation",
       "sector": "Energy",
