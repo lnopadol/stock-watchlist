@@ -16,7 +16,7 @@
       "buy_now_signal": "No - recent 25% surge on power demand hype pushed price above some targets; wait for pullback to low $40s for better entry amid volatility.",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 8.0,
+      "risk_score": 8,
       "houses": [
         {
           "name": "Clear Street",
@@ -51,7 +51,7 @@
       "sector": "Semiconductor Equipment",
       "currency": "EUR",
       "price": "€867.00",
-      "price_num": 867.0,
+      "price_num": 867,
       "market_cap": "€42.4B",
       "pe_ratio": "43.11",
       "what_it_does": "ASM International NV designs, manufactures, and services wafer processing equipment for semiconductor manufacturers, specializing in thin-film deposition technologies including atomic layer deposition (ALD), epitaxy, and chemical vapor deposition (CVD). The company supplies tools used to deposit precise layers of materials onto silicon wafers to produce advanced integrated circuits for AI, high-performance computing, and other applications. Headquartered in Almere, Netherlands, it serves leading chipmakers worldwide with manufacturing in Singapore and South Korea.",
@@ -59,7 +59,7 @@
       "buy_now_signal": "No, current price around €812 with P/E 40x reflects premium valuation vs historical averages (~24x); analysts' average target ~€950 implies modest 17% upside, but recent strength and high targets from bulls like Morgan Stanley (€1000) suggest potential if Q2 beats continue. Wait for pullback given rich multiples.",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "JPMorgan",
@@ -81,8 +81,8 @@
         }
       ],
       "consensus_target": "€950",
-      "consensus_target_num": 950.0,
-      "upside_pct": 17.0,
+      "consensus_target_num": 950,
+      "upside_pct": 17,
       "key_catalysts": "Q2 revenue €980M ±5%; H2 strength in advanced logic/foundry and 1.4nm pilots; AI infrastructure expansion; memory recovery with 4F² transition; China mature node rebound.",
       "key_risks": "Semiconductor cyclical downturn; China exposure/geopolitical risks/export controls; supply chain constraints; high valuation vulnerable to AI spending slowdown; competition in deposition tools.",
       "notes": "wait for pull back at 740",
@@ -102,7 +102,7 @@
       "buy_now_signal": "No strong buy signal; trading near consensus target (~€48) with high P/E; wait for dip below €42 or earnings catalyst.",
       "verdict": "Reasonably Priced",
       "status": "Monitoring",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "MarketScreener Consensus",
@@ -124,7 +124,7 @@
         }
       ],
       "consensus_target": "€48",
-      "consensus_target_num": 48.0,
+      "consensus_target_num": 48,
       "upside_pct": 8.8,
       "key_catalysts": "Q2 earnings (July 2026), nuclear project wins, European infrastructure spending updates, dividend announcement.",
       "key_risks": "Earnings miss on high expectations, cyclical slowdown in energy/infra capex, high valuation compression, limited coverage increases volatility.",
@@ -145,7 +145,7 @@
       "buy_now_signal": "No strong buy now signal; stock trades near or above several targets (e.g., consensus ~$235 close to $223, Seaport neutral post-target exceedance). Wait for pullback to $210 or Q1 2026 earnings catalyst on May 4.",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 4.0,
+      "risk_score": 4,
       "houses": [
         {
           "name": "BofA Securities",
@@ -167,7 +167,7 @@
         }
       ],
       "consensus_target": "$235",
-      "consensus_target_num": 235.0,
+      "consensus_target_num": 235,
       "upside_pct": 5.3,
       "key_catalysts": "Q1 2026 earnings May 4; naval contract awards; SMR commercialization progress; AI/data center nuclear fuel deals (3-6 mo).",
       "key_risks": "Commercial nuclear project delays; high valuation vulnerable to rotation out of nuclear hype; budget cuts to naval programs; competition in SMR space.",
@@ -188,7 +188,7 @@
       "buy_now_signal": "Neutral; trading near consensus targets (~$120-140), no strong discount or premium signal. Wait for uranium price dip or catalyst.",
       "verdict": "Reasonably Priced",
       "status": "Monitoring",
-      "risk_score": 7.0,
+      "risk_score": 7,
       "houses": [
         {
           "name": "RBC Capital",
@@ -210,7 +210,7 @@
         }
       ],
       "consensus_target": "$120 USD",
-      "consensus_target_num": 120.0,
+      "consensus_target_num": 120,
       "upside_pct": -1.8,
       "key_catalysts": "Westinghouse project distributions/milestones; long-term uranium contracting uptick; nuclear policy expansions (e.g., US, EU); Q1 2026 earnings May 2026.",
       "key_risks": "Uranium price declines, production disruptions (Kazakhstan geopolitics), high capex/inflation in mining, nuclear regulatory delays, market saturation from new supply.",
@@ -231,7 +231,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Under Review",
-      "risk_score": 7.0,
+      "risk_score": 7,
       "houses": [
         {
           "name": "Yahoo Finance Analysts",
@@ -253,7 +253,7 @@
         }
       ],
       "consensus_target": "€155",
-      "consensus_target_num": 155.0,
+      "consensus_target_num": 155,
       "upside_pct": 21.6,
       "key_catalysts": "Continued defense order intake growth, Q1 2026 revenue results, new contracts from navies, European rearmament programs (next 3-6 months).",
       "key_risks": "Geopolitical de-escalation reducing defense spending, execution risks on large backlog, high debt levels, supply chain issues in high-tech components.",
@@ -266,7 +266,7 @@
       "sector": "Materials",
       "currency": "CHF",
       "price": "CHF2,869.00",
-      "price_num": 2869.0,
+      "price_num": 2869,
       "market_cap": "CHF26.5B",
       "pe_ratio": "24.88",
       "what_it_does": "Givaudan SA is a leading global manufacturer of flavors and fragrances for the consumer goods industry. It operates in two main divisions: Fragrance & Beauty (fine fragrances, consumer products, fragrance ingredients, active beauty) and Taste & Wellbeing (beverages, dairy, savory, sweet goods). The company serves customers in personal care, food, beverages, and wellbeing products worldwide.",
@@ -274,7 +274,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Under Review",
-      "risk_score": 3.0,
+      "risk_score": 3,
       "houses": [
         {
           "name": "UBS",
@@ -296,55 +296,12 @@
         }
       ],
       "consensus_target": "4,158 CHF",
-      "consensus_target_num": 4158.0,
+      "consensus_target_num": 4158,
       "upside_pct": 44.3,
       "key_catalysts": "Q1 2026 sales results (April 2026); 2030 strategy update on 4-6% LFL growth and ESG progress; potential M&A in high-growth areas like active beauty or naturals; stabilization of input costs and pricing.",
       "key_risks": "Rising input costs/tariffs squeezing margins; FX volatility (strong CHF); competition probes in fragrance industry; slower consumer spending in premium fragrances; economic slowdown impacting volumes.",
       "notes": "Wait for July 23 2026 Q1 earnings. looks a little risky in terms of rising commodity prices ",
       "week_change_pct": 1.05671
-    },
-    {
-      "ticker": "GLIFX",
-      "company": "Lazard Global Listed Infrastructure Portfolio Institutional Shares",
-      "sector": "Infrastructure",
-      "currency": "USD",
-      "price": "$19.65",
-      "price_num": 19.65,
-      "market_cap": "$12.6B",
-      "pe_ratio": "20.56",
-      "what_it_does": "Actively managed mutual fund tracking global listed infrastructure equities, investing at least 80% in stocks of utilities, pipelines, toll roads, airports, railroads, ports, telecoms. Uses 'Preferred Infrastructure' approach focusing on revenue-certain, profitable assets like regulated utilities and monopolies. Expense ratio 0.97%; top holdings include National Grid (8%), Vinci SA (8%), Snam SpA (7%). Tracks no specific index but compared to MSCI World Core Infrastructure (hedged).",
-      "is_good_bet": "Infrastructure offers inflation hedge via regulated revenues, diversification (low equity beta ~0.6-0.7), and income (yield ~3%). GLIFX has strong track record outperforming benchmark (1Y 24% vs 13%, 5Y 12% vs 8%) with lower volatility (std dev 9% vs 11%). Global spending projected at $150T+ to 2050 on energy transition, digital infra supports thematic tailwinds. Bear case: rising rates pressure yields, but low correlation to broad equities aids portfolios.",
-      "buy_now_signal": "Yes - portfolio P/E ~15 low vs benchmark 22 and historical equity avg ~19; valuations reset post-2022, attractive entry per Macquarie. Strong YTD perf (7%), outperformance persists; infrastructure multiples below peaks and equities.",
-      "verdict": "Attractively Priced",
-      "status": "Buy Zone",
-      "risk_score": 4.0,
-      "houses": [
-        {
-          "name": "Morningstar",
-          "rating": "4-5 Stars (3Y/5Y/10Y)",
-          "target": "—",
-          "source": "[Morningstar](https://www.morningstar.com/funds/xnas/glifx/quote), [Lazard Fact Sheet](https://www.lazardassetmanagement.com/content/dam/lazard-asset-management/lmap-documents/10612/287220.pdf)"
-        },
-        {
-          "name": "Yahoo Finance / Morningstar",
-          "rating": "5 Stars, Below Average Risk",
-          "target": "—",
-          "source": "[Yahoo Finance](https://finance.yahoo.com/quote/GLIFX)"
-        },
-        {
-          "name": "Lazard Asset Management",
-          "rating": "Positive Outlook (outperforms benchmark)",
-          "target": "—",
-          "source": "[Lazard Fact Sheet](https://www.lazardassetmanagement.com/content/dam/lazard-asset-management/lmap-documents/10612/287220.pdf)"
-        }
-      ],
-      "consensus_target": "ETF N/A (Mutual Fund); Yield ~3%",
-      "consensus_target_num": 3.0,
-      "upside_pct": -84.9,
-      "key_catalysts": "Global infra spending $151T to 2050 (PwC); energy transition/digital demand; rate cuts boost yields [PwC](https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-global-infrastructure.html), [Macquarie](https://www.macquarie.com/au/en/about/company/macquarie-asset-management/individual-investor/insights/outlooks/2026/infrastructure.html)",
-      "key_risks": "Interest rate sensitivity (duration-like), regulatory changes, geopolitical supply chain issues for energy infra, currency FX for global holdings",
-      "notes": "DCA",
-      "week_change_pct": 0.56295
     },
     {
       "ticker": "HGER",
@@ -360,7 +317,7 @@
       "buy_now_signal": "No, near 52-week high ($32.03) after strong YTD gains; underlying commodities (esp. gold) elevated vs history amid recent inflation/debasement regime. Better entry on pullback to $28-29 range.",
       "verdict": "Premium Priced",
       "status": "Under Review",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "ETF Database",
@@ -403,7 +360,7 @@
       "buy_now_signal": "Hold",
       "verdict": "Reasonably Priced",
       "status": "Under Review",
-      "risk_score": 4.0,
+      "risk_score": 4,
       "houses": [
         {
           "name": "JPMorgan",
@@ -425,7 +382,7 @@
         }
       ],
       "consensus_target": "$535",
-      "consensus_target_num": 535.0,
+      "consensus_target_num": 535,
       "upside_pct": 4.7,
       "key_catalysts": "Q1 2026 earnings Apr 30 (exp EPS $3.87, rev $1.51B); grid modernization contracts; AI/data center electrification demand; margin expansion from vertical integration [Yahoo](https://finance.yahoo.com/quote/HUBB/).",
       "key_risks": "Industrial capex slowdown; high valuation multiple compression; supply chain disruptions; competition in wiring products [Insider Monkey](https://www.insidermonkey.com/blog/hubbell-incorporated-hubb-a-bull-case-theory-1403355/).",
@@ -446,7 +403,7 @@
       "buy_now_signal": "AVOID",
       "verdict": "Overvalued",
       "status": "Monitoring",
-      "risk_score": 7.0,
+      "risk_score": 7,
       "houses": [
         {
           "name": "BWS Financial",
@@ -474,7 +431,7 @@
         }
       ],
       "consensus_target": "$26.00",
-      "consensus_target_num": 26.0,
+      "consensus_target_num": 26,
       "upside_pct": -46.76,
       "key_catalysts": "Project Stardust D2D launch (2026), DoD/govt contracts, IoT growth, Q2 2026 earnings [Iridium](https://investor.iridium.com/).",
       "key_risks": "High debt/equity (376%), Starlink competition, satellite capex/maintenance, execution on new services [SimplyWallSt](https://simplywall.st/stocks/us/telecom/nasdaq-irdm/iridium-communications).",
@@ -495,7 +452,7 @@
       "buy_now_signal": "No, current price around 80 CHF trades above consensus target of ~87 CHF (8% upside), with P/E 22.7 elevated vs forward 18.5 and historical averages. Recent Q1 beat provides support but analysts mostly Hold/Neutral; wait for pullback or stronger volume proof. [Yahoo Finance](https://finance.yahoo.com/quote/NESN.SW)",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 2.0,
+      "risk_score": 2,
       "houses": [
         {
           "name": "Goldman Sachs",
@@ -517,7 +474,7 @@
         }
       ],
       "consensus_target": "CHF87-88",
-      "consensus_target_num": 87.0,
+      "consensus_target_num": 87,
       "upside_pct": 8.2,
       "key_catalysts": "Q2 earnings (Jul 2026); infant formula recall resolution and RIG acceleration to 4%+ medium-term; margin expansion to 17%+ UTOP; potential divestitures (ice cream, water). [MarketScreener](https://www.marketscreener.com/news/nestle-maintains-for-2026-organic-growth-of-3-4-rig-higher-than-2025-ce7f59d9da8df624)",
       "key_risks": "Commodity inflation (coffee/cocoa); persistent volume weakness/downtrading; infant formula recall fallout; FX headwinds; geopolitical disruptions (Middle East). [Food Ingredients First](https://www.foodingredientsfirst.com/news/nestle-coffee-confectionery-growth-momentum.html)",
@@ -538,7 +495,7 @@
       "buy_now_signal": "Yes, trading below consensus target (~$95) implying 35% upside despite risks. Recent deals validate demand but watch Q1 earnings/regs.",
       "verdict": "Attractively Priced",
       "status": "Under Review",
-      "risk_score": 9.0,
+      "risk_score": 9,
       "houses": [
         {
           "name": "Tigress Financial",
@@ -560,8 +517,8 @@
         }
       ],
       "consensus_target": "$91 USD",
-      "consensus_target_num": 91.0,
-      "upside_pct": 30.0,
+      "consensus_target_num": 91,
+      "upside_pct": 30,
       "key_catalysts": "Regulatory milestones (NRC approval Phase 1/2), first Aurora deployment progress, new data center PPAs (Meta expansion), Q1 2026 earnings.",
       "key_risks": "Regulatory delays/rejections, construction overruns, no revenue until 2027+, competition from SMR peers (NuScale), funding dilution.",
       "notes": "High risk. Price in range",
@@ -581,7 +538,7 @@
       "buy_now_signal": "No, stock trades at €125 well above consensus target ~€110-114; analysts like Morgan Stanley Hold at €95 highlight downside risk post-rally.",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "Goldman Sachs",
@@ -603,7 +560,7 @@
         }
       ],
       "consensus_target": "€113",
-      "consensus_target_num": 113.0,
+      "consensus_target_num": 113,
       "upside_pct": -9.9,
       "key_catalysts": "Q1 2026 earnings (late Apr), new submarine cable contracts for offshore wind, grid modernization deals in EU/US.",
       "key_risks": "Commodity price volatility (copper), project delays/cancellations, Chinese competition, economic slowdown reducing infrastructure spend.",
@@ -624,7 +581,7 @@
       "buy_now_signal": "No, near 52-week high (6.18-7.61 EUR range), recent performance strong but valuations elevated with tech concentration amid market highs; wait for pullback for better entry.",
       "verdict": "Premium Priced",
       "status": "Buy Zone",
-      "risk_score": 4.0,
+      "risk_score": 4,
       "houses": [
         {
           "name": "Morningstar",
@@ -667,7 +624,7 @@
       "buy_now_signal": "Yes, trading at P/E 20.4 below historical averages and fair value estimates (DCF ~CHF 358-430), with consensus target ~CHF 358 implying 10% upside. Recent price pullback offers entry amid positive pipeline momentum and undervaluation per multiple models.[Yahoo Finance](https://finance.yahoo.com/quote/RO.SW), [MarketScreener](https://www.marketscreener.com/quote/stock/ROCHE-HOLDING-AG-9364975/consensus/)",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 3.0,
+      "risk_score": 3,
       "houses": [
         {
           "name": "Goldman Sachs",
@@ -689,7 +646,7 @@
         }
       ],
       "consensus_target": "CHF 358",
-      "consensus_target_num": 358.0,
+      "consensus_target_num": 358,
       "upside_pct": 9.5,
       "key_catalysts": "Phase III starts for CT-388 obesity drug Q1 2026; fenebrutinib MS regulatory filings; giredestrant oncology readouts; 10+ Phase III data in 2026; Gazyva approvals in lupus/nephropathy.[Simply Wall St](https://simplywall.st/community/narratives/ch/pharmaceuticals-biotech/vtx-rog/roche-holding-shares/0uadpeuv-update-for-roche-holding), [Roche](https://www.roche.com/media/releases/med-cor-2026-04-23)",
       "key_risks": "Biosimilar competition on Perjeta (2025), Kadcyla (2026), Ocrevus (2029) eroding ~CHF 5-6B sales; pipeline failures (e.g., giredestrant setback); China pricing reforms; FX headwinds from strong CHF; safety concerns in trials (e.g., fenebrutinib deaths).[SyneticX](https://www.syneticx.com/blog/roche.html), [FuTu News](https://news.futunn.com/en/post/71918222/roche-is-at-a-crossroads-caught-between-the-patent-cliff)",
@@ -702,7 +659,7 @@
       "sector": "Industrials / Aerospace & Defense",
       "currency": "GBp",
       "price": "£1,260p",
-      "price_num": 1260.0,
+      "price_num": 1260,
       "market_cap": "£104.5B",
       "pe_ratio": "18.26",
       "what_it_does": "Rolls-Royce Holdings plc develops mission-critical power systems for civil aerospace (engines and services for widebody aircraft, jets), defence, power systems, and new markets including small modular reactors. Headquartered in London, it operates internationally with strong aftermarket services. Founded in 1884.",
@@ -710,7 +667,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "JPMorgan Chase",
@@ -732,7 +689,7 @@
         }
       ],
       "consensus_target": "GBX 1,386",
-      "consensus_target_num": 1386.0,
+      "consensus_target_num": 1386,
       "upside_pct": 15.6,
       "key_catalysts": "Q1 earnings, buyback execution, civil engine flying hours growth, new defense/power contracts.",
       "key_risks": "Aviation demand weakness, engine supply delays, FX volatility (USD/GBP), lingering high leverage.",
@@ -753,7 +710,7 @@
       "buy_now_signal": "Yes, portfolio P/E of 17.6 is near 10-year median of ~17, below broader market ~22-25, indicating value relative to history and growth stocks. Recent YTD +12.7% but 1-month dip offers entry.[Robinhood](https://robinhood.com/us/en/stocks/SCHD/)[GuruFocus](https://www.gurufocus.com/etf/SCHD/summary)",
       "verdict": "Reasonably Priced",
       "status": "Buy Zone",
-      "risk_score": 4.0,
+      "risk_score": 4,
       "houses": [
         {
           "name": "Morningstar",
@@ -796,7 +753,7 @@
       "buy_now_signal": "Hold",
       "verdict": "Reasonably Priced",
       "status": "Monitoring",
-      "risk_score": 7.0,
+      "risk_score": 7,
       "houses": [
         {
           "name": "Needham",
@@ -812,8 +769,8 @@
         }
       ],
       "consensus_target": "$88.00",
-      "consensus_target_num": 88.0,
-      "upside_pct": 2.0,
+      "consensus_target_num": 88,
+      "upside_pct": 2,
       "key_catalysts": "Q1/Q2 2026 earnings beats (guidance 25-30% rev growth), subscription GMV expansion (Sezzle Anywhere/Premium), long-term lending partnerships rollout, consumer app monetization (Earnback, AI tools).",
       "key_risks": "Macro slowdown hitting discretionary spending/GMV, rising credit losses in recession, intensified competition from Affirm/Klarna/PayPal, regulatory scrutiny on BNPL lending practices, high beta/volatility (3.75).",
       "notes": "",
@@ -833,7 +790,7 @@
       "buy_now_signal": "No strong buy signal now; shares trade ~30% below consensus target but recent downgrades (Citi Sell $9, UBS/GS cuts) and 56% YTD drop reflect commercialization delays (e.g., Romania to 2033). Wait for deployment milestones amid high volatility [Google Finance](https://www.google.com/finance/quote/SMR:NYSE).",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 9.0,
+      "risk_score": 9,
       "houses": [
         {
           "name": "B. Riley",
@@ -855,7 +812,7 @@
         }
       ],
       "consensus_target": "$19 USD",
-      "consensus_target_num": 19.0,
+      "consensus_target_num": 19,
       "upside_pct": 50.2,
       "key_catalysts": "TVA/ENTRA1 6 GW SMR program advancement; first NuScale Power Module manufacturing readiness; new data center/hydrogen contracts; Q1 2026 earnings beat [NuScale](https://www.nuscalepower.com/press-releases/2026/nuscale-power-reports-fourth-quarter-and-full-year-2025-results).",
       "key_risks": "Commercial deployment delays/cancellations; nuclear project cost overruns; regulatory hurdles in new markets; competition from OKLO/BWXT; equity dilution to fund burn [TipRanks](https://www.tipranks.com/stocks/smr/forecast).",
@@ -876,7 +833,7 @@
       "buy_now_signal": "Avoid",
       "verdict": "Overvalued",
       "status": "Monitoring",
-      "risk_score": 8.0,
+      "risk_score": 8,
       "houses": [
         {
           "name": "Susquehanna",
@@ -925,7 +882,7 @@
       "buy_now_signal": "Yes, trading near 52-week low (121-157 range) at low-teens P/E with consensus target ~125-130 CHF implying limited downside and 5-10% upside. Strong balance sheet (SST 250%) and dividend support entry; recent pullback offers value vs historical multiples. [Yahoo Finance](https://finance.yahoo.com/quote/SREN.SW/), [MarketScreener](https://www.marketscreener.com/quote/stock/SWISS-RE-LTD-9365870/consensus/)",
       "verdict": "Attractively Priced",
       "status": "Buy Zone",
-      "risk_score": 4.0,
+      "risk_score": 4,
       "houses": [
         {
           "name": "UBS",
@@ -947,7 +904,7 @@
         }
       ],
       "consensus_target": "~128 CHF",
-      "consensus_target_num": 128.0,
+      "consensus_target_num": 128,
       "upside_pct": 2.1,
       "key_catalysts": "Q1 2026 earnings (May), 2026 net income delivery vs $4.5B target, share buyback progress ($1.5B program), P&C combined ratio &lt;85%. [Swiss Re](https://www.reinsurancene.ws/swiss-re-delivers-record-group-net-income-as-pc-re-profit-rises-to-2-8bn/)",
       "key_risks": "Catastrophe losses (nat/man-made), US casualty reserving, L&H portfolio performance, economic slowdown impacting premiums, rising competition. [MarketScreener](https://www.marketscreener.com/quote/stock/SWISS-RE-LTD-9365870/consensus/)",
@@ -968,7 +925,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 4.0,
+      "risk_score": 4,
       "houses": [
         {
           "name": "JPMorgan",
@@ -990,7 +947,7 @@
         }
       ],
       "consensus_target": "C$92 (~$67 USD)",
-      "consensus_target_num": 92.0,
+      "consensus_target_num": 92,
       "upside_pct": 47.5,
       "key_catalysts": "Q1 2026 earnings (May 6), oil price trends, production updates from Fort Hills/Syncrude ramp-up, potential buybacks/dividend hikes.",
       "key_risks": "Oil price decline below $60/bbl, WCS discount widening, regulatory changes on oil sands emissions, geopolitical tensions affecting energy demand.",
@@ -1003,7 +960,7 @@
       "sector": "Energy",
       "currency": "EUR",
       "price": "€35.00",
-      "price_num": 35.0,
+      "price_num": 35,
       "market_cap": "€6.1B",
       "pe_ratio": "17.86",
       "what_it_does": "Technip Energies is a global engineering and technology company focused on energy transition and decarbonization. It provides technologies and services for LNG, hydrogen, sustainable chemistry, CO2 management, and renewables through Project Delivery and Technology, Products & Services segments. Headquartered in France with operations worldwide.",
@@ -1011,7 +968,7 @@
       "buy_now_signal": "Yes, trading at discount to €43 consensus target (~7% upside); forward P/E 14.6 attractive vs peers. Strong balance sheet (€3.7B cash) supports buybacks/dividends amid positive outlook.",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "Berenberg Bank",
@@ -1054,7 +1011,7 @@
       "buy_now_signal": "Avoid",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "Barrenjoey Markets",
@@ -1097,7 +1054,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [
         {
           "name": "Berenberg",
@@ -1119,8 +1076,8 @@
         }
       ],
       "consensus_target": "CHF 190-220",
-      "consensus_target_num": 190.0,
-      "upside_pct": 54.0,
+      "consensus_target_num": 190,
+      "upside_pct": 54,
       "key_catalysts": "Biopharma instrument demand recovery; China market stabilization; New product launches (Veya, Duo, LabNavigator); Q2/H2 2026 earnings beats on automation adoption.[Berenberg](https://www.investing.com/news/analyst-ratings/berenberg-sets-tecan-stock-buy-rating-chf220-target-93CH-4088178), [Tecan](https://www.tecan.com/history)",
       "key_risks": "Prolonged biopharma spending caution; China economic slowdown; Competition in lab automation; Integration risks from acquisitions like Paramit; Currency FX volatility (CHF exposure).[Berenberg](https://www.investing.com/news/analyst-ratings/berenberg-sets-tecan-stock-buy-rating-chf220-target-93CH-4088178), [Yahoo Finance](https://finance.yahoo.com/quote/TECN.SW/)",
       "notes": "",
@@ -1140,7 +1097,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 8.0,
+      "risk_score": 8,
       "houses": [
         {
           "name": "Canaccord Genuity",
@@ -1150,7 +1107,7 @@
         }
       ],
       "consensus_target": "$14.00",
-      "consensus_target_num": 14.0,
+      "consensus_target_num": 14,
       "upside_pct": 88.7,
       "key_catalysts": "Florence Copper commissioning and first full quarter production; copper price trajectory; Q1 2026 earnings beat on Gibraltar/Florence output.",
       "key_risks": "Delays/cost overruns at Florence, copper price decline below $4/lb, operational issues at Gibraltar, FX (CAD strength), permitting/environmental hurdles.",
@@ -1171,7 +1128,7 @@
       "buy_now_signal": "Watch",
       "verdict": "Reasonably Priced",
       "status": "Under Review",
-      "risk_score": 8.0,
+      "risk_score": 8,
       "houses": [
         {
           "name": "Evercore ISI",
@@ -1187,7 +1144,7 @@
         }
       ],
       "consensus_target": "$80.00",
-      "consensus_target_num": 80.0,
+      "consensus_target_num": 80,
       "upside_pct": 13.7,
       "key_catalysts": "Q1 2026 earnings (late Apr/May); tanker rate trajectory amid Red Sea/Middle East tensions; dividend declaration; fleet expansion/acquisitions.",
       "key_risks": "Tanker rate collapse from resolved geopolitics or weak China oil demand; rising bunker fuel costs; new vessel deliveries increasing supply; regulatory changes on emissions/scrapping.",
@@ -1208,7 +1165,7 @@
       "buy_now_signal": "No strong buy signal now; trading near consensus target with mixed ratings (buys from JPM/MS but holds from others). Wait for dip below $140 or oil price catalyst.",
       "verdict": "Reasonably Priced",
       "status": "Monitoring",
-      "risk_score": 2.0,
+      "risk_score": 2,
       "houses": [
         {
           "name": "JPMorgan",
@@ -1230,7 +1187,7 @@
         }
       ],
       "consensus_target": "$154 USD",
-      "consensus_target_num": 154.0,
+      "consensus_target_num": 154,
       "upside_pct": 3.9,
       "key_catalysts": "Q1 2026 earnings (soon), oil price movements above $80/bbl, progress on Permian production growth, M&A announcements, updates on low-carbon projects like Baytown hydrogen.",
       "key_risks": "Declining oil prices due to demand weakness or oversupply, intensified energy transition regulations/carbon taxes, geopolitical disruptions in supply chains, weaker refining margins.",
@@ -1251,7 +1208,7 @@
       "buy_now_signal": "Hold",
       "verdict": "Reasonably Priced",
       "status": "Monitoring",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [
         {
           "name": "B. Riley Securities",
@@ -1261,8 +1218,8 @@
         }
       ],
       "consensus_target": "$3.00",
-      "consensus_target_num": 3.0,
-      "upside_pct": 1.0,
+      "consensus_target_num": 3,
+      "upside_pct": 1,
       "key_catalysts": "Electric Grid and Data Center market awards ($43M concentration in Q1 2026) validating portfolio pivot; 60+ new program launches creating shippable backlog for H2 2026 and 2027 revenue; New business wins guidance raised to $80-90M for FY2026 — above original range",
       "key_risks": "GAAP net losses — still loss-making, financing from operations not yet self-sustaining; Heavy leverage with only one analyst following — minimal institutional support and thin liquidity; Transition risk: automotive exposure being reduced but replacement markets not yet fully offsetting",
       "notes": "",
@@ -1282,7 +1239,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 3.0,
+      "risk_score": 3,
       "houses": [
         {
           "name": "CIBC",
@@ -1325,7 +1282,7 @@
       "buy_now_signal": "Avoid",
       "verdict": "Overvalued",
       "status": "Monitoring",
-      "risk_score": 3.0,
+      "risk_score": 3,
       "houses": [
         {
           "name": "Investing.com consensus (2 analysts)",
@@ -1360,7 +1317,7 @@
       "sector": "Industrials / Robotics Components",
       "currency": "JPY",
       "price": "¥6,830",
-      "price_num": 6830.0,
+      "price_num": 6830,
       "market_cap": "¥646.6B",
       "pe_ratio": "401.29",
       "what_it_does": "Harmonic Drive Systems manufactures strain wave gearing (harmonic drives) — compact, zero-backlash gearheads used in precision robotics, semiconductor equipment, and medical devices. It commands a dominant niche in high-precision torque transmission.",
@@ -1368,7 +1325,7 @@
       "buy_now_signal": "Avoid",
       "verdict": "Overvalued",
       "status": "Monitoring",
-      "risk_score": 4.0,
+      "risk_score": 4,
       "houses": [
         {
           "name": "Investing.com consensus (10 analysts)",
@@ -1403,7 +1360,7 @@
       "sector": "Industrials / Precision Motion Control",
       "currency": "JPY",
       "price": "¥4,874",
-      "price_num": 4874.0,
+      "price_num": 4874,
       "market_cap": "¥571.2B",
       "pe_ratio": "39.26",
       "what_it_does": "Nabtesco manufactures high-precision reduction gears (cycloidal drives) that are the standard joint actuator in industrial robots, holding ~60% global market share. It also makes automatic doors, marine vessel hydraulics, and railroad components.",
@@ -1411,7 +1368,7 @@
       "buy_now_signal": "Avoid",
       "verdict": "Overvalued",
       "status": "Monitoring",
-      "risk_score": 3.0,
+      "risk_score": 3,
       "houses": [
         {
           "name": "Investing.com consensus (10 analysts)",
@@ -1433,7 +1390,7 @@
         }
       ],
       "consensus_target": "¥2,683",
-      "consensus_target_num": 2683.0,
+      "consensus_target_num": 2683,
       "upside_pct": -51.8,
       "key_catalysts": "Continued recovery in industrial robot orders from Chinese/Korean auto manufacturers; Humanoid robot demand driving non-industrial precision gear growth; Margin expansion following the divestiture of the hydraulic equipment segment",
       "key_risks": "China manufacturing slowdown or overcapacity reducing robot CAPEX; BOJ rate hikes strengthening JPY and compressing USD-translated earnings; Competitive entry from Chinese gear manufacturers (Kinitics, Leaderdrive) eroding market share",
@@ -1454,7 +1411,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 2.0,
+      "risk_score": 2,
       "houses": [
         {
           "name": "MarketWatch Consensus (14 analysts)",
@@ -1485,7 +1442,7 @@
       "buy_now_signal": "Avoid",
       "verdict": "Overvalued",
       "status": "Monitoring",
-      "risk_score": 3.0,
+      "risk_score": 3,
       "houses": [
         {
           "name": "Keybanc",
@@ -1513,7 +1470,7 @@
         }
       ],
       "consensus_target": "$114.00",
-      "consensus_target_num": 114.0,
+      "consensus_target_num": 114,
       "upside_pct": -24.4,
       "key_catalysts": "Data center (cloud + power) segment targeting 35%+ growth driven by AI infrastructure buildout; New Poland power manufacturing site expanding European AI infrastructure capacity; Regionalization advantages allowing customers to navigate tariff complexity",
       "key_risks": "Stock has significantly outperformed — current price $91.64 is 31% above the $69.71 consensus average target; Tariff exposure on cross-border supply chains despite regionalization progress; Automotive and renewables segments remain soft, dragging on Reliability Solutions profitability",
@@ -1534,7 +1491,7 @@
       "buy_now_signal": "Hold",
       "verdict": "Reasonably Priced",
       "status": "Monitoring",
-      "risk_score": 4.0,
+      "risk_score": 4,
       "houses": [
         {
           "name": "Jefferies",
@@ -1583,7 +1540,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 2.0,
+      "risk_score": 2,
       "houses": [
         {
           "name": "Citigroup",
@@ -1656,7 +1613,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 2.0,
+      "risk_score": 2,
       "houses": [
         {
           "name": "Citigroup",
@@ -1729,7 +1686,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 3.0,
+      "risk_score": 3,
       "houses": [
         {
           "name": "Barclays",
@@ -1802,7 +1759,7 @@
       "buy_now_signal": "BUY",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 3.0,
+      "risk_score": 3,
       "houses": [
         {
           "name": "RBC Capital",
@@ -1842,7 +1799,7 @@
         }
       ],
       "consensus_target": "$154.00",
-      "consensus_target_num": 154.0,
+      "consensus_target_num": 154,
       "upside_pct": 22.38,
       "key_catalysts": "Municipal utility AMI upgrade cycle driven by EPA lead service line replacement mandates; SaaS (BEACON AMA) recurring revenue expansion improving revenue quality and margins; International expansion into European and Asian water infrastructure markets",
       "key_risks": "Q1 2026 revenue missed estimates by 12.5% — near-term order softness in municipal projects; Barclays Underweight with $110 target implies 9% downside from current $120.84; Rich valuation — premium pricing leaves limited margin of safety if municipal budgets tighten",
@@ -1863,7 +1820,7 @@
       "buy_now_signal": "Avoid",
       "verdict": "Overvalued",
       "status": "Monitoring",
-      "risk_score": 4.0,
+      "risk_score": 4,
       "houses": [
         {
           "name": "valueinvesting.io consensus (17 analysts)",
@@ -1906,7 +1863,7 @@
       "buy_now_signal": "Buy on Dip",
       "verdict": "Attractively Priced",
       "status": "Monitoring",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "Deutsche Bank",
@@ -1928,7 +1885,7 @@
         }
       ],
       "consensus_target": "CHF 51.00",
-      "consensus_target_num": 51.0,
+      "consensus_target_num": 51,
       "upside_pct": 28.8,
       "key_catalysts": "• European retail brokerage market underpenetrated — Swissquote gaining share as traditional banks lose digital-native clients • Crypto trading revenue remains a high-margin optionality layer (regulated, Swiss-domiciled advantage) • Deutsche Bank new Buy coverage Aug 2025 (CHF 620 target) reflects broadening institutional recognition • CHF strengthening vs USD adds FX translation tailwind for USD-based investors",
       "key_risks": "• UBS Sell rating (CHF 425 target) signals valuation risk — tech-premium multiple vulnerable in rate environment • Trading revenue volatility; a low-vol macro environment compresses crypto and equity volumes • Swiss regulatory risk — FINMA scrutiny of crypto/digital banking expanding • Concentration risk: single Swiss market exposure limits growth ceiling vs pan-European peers",
@@ -1949,7 +1906,7 @@
       "buy_now_signal": "HOLD",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "Wells Fargo",
@@ -1998,7 +1955,7 @@
       "buy_now_signal": "HOLD",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "Wells Fargo",
@@ -2047,7 +2004,7 @@
       "buy_now_signal": "HOLD",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "UBS",
@@ -2096,7 +2053,7 @@
       "buy_now_signal": "WATCH",
       "verdict": "Overvalued",
       "status": "Monitoring",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [
         {
           "name": "Scotiabank",
@@ -2124,7 +2081,7 @@
         }
       ],
       "consensus_target": "€83.00",
-      "consensus_target_num": 83.0,
+      "consensus_target_num": 83,
       "upside_pct": -10.1,
       "key_catalysts": "• LNG portfolio benefits directly from Hormuz disruption scenario — TTE is the #1 global LNG trader • Deep-water growth projects (Mozambique LNG restart, Suriname) adding production into 2027 • 5%+ dividend yield with progressive policy; buyback capacity of $2B+ annually at oil $100+ • USD weakness vs EUR structurally beneficial for USD investors holding Euro-denominated assets",
       "key_risks": "• Consensus average $83 implies 10% downside — Freedom Broker Sell at $73 is a bear case anchor • Iran war de-escalation would compress Brent to $70s, materially reducing FCF • Mozambique LNG restart still uncertain post-insurgency delays; multi-billion capex at risk • European windfall profit tax risk if energy prices remain elevated through 2027",
@@ -2145,7 +2102,7 @@
       "buy_now_signal": "Hold",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 7.0,
+      "risk_score": 7,
       "houses": [
         {
           "name": "Jefferies",
@@ -2182,7 +2139,7 @@
       "buy_now_signal": "HOLD",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "Jefferies",
@@ -2231,7 +2188,7 @@
       "buy_now_signal": "AVOID",
       "verdict": "Overvalued",
       "status": "Monitoring",
-      "risk_score": 7.0,
+      "risk_score": 7,
       "houses": [
         {
           "name": "Deutsche Bank",
@@ -2259,7 +2216,7 @@
         }
       ],
       "consensus_target": "NOK 72.00",
-      "consensus_target_num": 72.0,
+      "consensus_target_num": 72,
       "upside_pct": -31.9,
       "key_catalysts": "• European green aluminum premium expanding as automotive OEMs demand low-carbon credentials • Hydro REIN renewable energy business spin/monetization potential adding sum-of-parts value • Aluminium smelter cost advantage via Norwegian hydro power — sheltered from high energy costs • USD weakness vs NOK beneficial for Norwegian-listed stock in USD terms",
       "key_risks": "• Consensus NOK 72 target implies 32% downside from NOK 105.75 — price has significantly overrun fundamentals • Aluminum demand softening if China exports flood global markets amid weak domestic consumption • Norwegian power prices remain volatile; smelter cost advantage can erode in high-price years • High debt relative to historical norms if aluminum cycle turns",
@@ -2280,7 +2237,7 @@
       "buy_now_signal": "Hold",
       "verdict": "Premium Priced",
       "status": "Monitoring",
-      "risk_score": 7.0,
+      "risk_score": 7,
       "houses": [
         {
           "name": "Bank of America",
@@ -2329,7 +2286,7 @@
       "buy_now_signal": "Hold",
       "verdict": "Reasonably Priced",
       "status": "Under Review",
-      "risk_score": 6.0,
+      "risk_score": 6,
       "houses": [
         {
           "name": "UBS",
@@ -2378,7 +2335,7 @@
       "buy_now_signal": "Watch",
       "verdict": "Reasonably Priced",
       "status": "Under Review",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [
         {
           "name": "Truist Securities",
@@ -2407,7 +2364,7 @@
       ],
       "consensus_target": "$410.74",
       "consensus_target_num": 410.74,
-      "upside_pct": 8.0,
+      "upside_pct": 8,
       "key_catalysts": "Google Cloud now ~18% of revenue and growing faster than peers; Gemini consumer monetization (Search ads + subscriptions) inflecting; Q1 2026 print confirmed accelerating profit growth; share buyback and rising dividend; Waymo commercial robotaxi expansion adds Other Bets optionality.",
       "key_risks": "US DOJ Search antitrust remedies (potential structural separation or default-deal restrictions) — overhang persists into 2026/27; EU Digital Markets Act and ad-tech antitrust enforcement; AI capex intensity (>$75B/yr) compressing FCF margins; generative-AI threat to traditional Search query economics; FX headwind from a weak USD on international revenue.",
       "notes": "Attractive. Wait for drop",
@@ -2427,7 +2384,7 @@
       "buy_now_signal": "Watch",
       "verdict": "Reasonably Priced",
       "status": "Newly Added",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [
         {
           "name": "valueinvesting.io consensus (9 analysts)",
@@ -2470,7 +2427,7 @@
       "buy_now_signal": "Hold",
       "verdict": "Premium Priced",
       "status": "Newly Added",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [
         {
           "name": "valueinvesting.io consensus (7 analysts)",
@@ -2513,7 +2470,7 @@
       "buy_now_signal": "Avoid",
       "verdict": "Overvalued",
       "status": "Newly Added",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [
         {
           "name": "JP Morgan",
@@ -2523,7 +2480,7 @@
         }
       ],
       "consensus_target": "$8.00",
-      "consensus_target_num": 8.0,
+      "consensus_target_num": 8,
       "upside_pct": -46.1,
       "key_catalysts": "NVIDIA AI-RAN partnership targets a USD 200B market by 2030; optical networking raised 2026 growth guidance to 12–14%; management reaffirmed EUR 2.0–2.5B operating profit for FY2026.",
       "key_risks": "A major U.S. carrier has removed ~50% of Nokia radios, pressuring North America revenue; Q1 2026 guided above-seasonal decline; trailing P/E ~64x leaves little room for misses.",
@@ -2544,7 +2501,7 @@
       "buy_now_signal": "Hold",
       "verdict": "Premium Priced",
       "status": "Newly Added",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [
         {
           "name": "MarketScreener consensus (21 analysts)",
@@ -2579,7 +2536,7 @@
       "sector": "Factory Automation / Industrial Sensors",
       "currency": "JPY",
       "price": "¥80,870",
-      "price_num": 80870.0,
+      "price_num": 80870,
       "market_cap": "¥19.61T",
       "pe_ratio": "44.08",
       "what_it_does": "Sells sensors, vision systems, and measurement instruments for factory automation; capital-light direct-sales model with fully outsourced manufacturing delivers ~50% operating margins.",
@@ -2587,7 +2544,7 @@
       "buy_now_signal": "Hold",
       "verdict": "Premium Priced",
       "status": "Newly Added",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [
         {
           "name": "Investing.com consensus (16 analysts)",
@@ -2609,7 +2566,7 @@
         }
       ],
       "consensus_target": "¥75,044",
-      "consensus_target_num": 75044.0,
+      "consensus_target_num": 75044,
       "upside_pct": -7.2,
       "key_catalysts": "FY2026 net income ¥445B (+6.6% YoY); dividend raised to ¥550/share; AI-driven manufacturing and labour-shortage automation underpin structural sensor demand globally.",
       "key_risks": "Operating margin contracted 130 bp to 49.9% on cost inflation; China and North America order cycles face geopolitical risk; premium ~33–38x P/E is sensitive to any guidance miss.",
@@ -2630,7 +2587,7 @@
       "buy_now_signal": "Avoid",
       "verdict": "Overvalued",
       "status": "Newly Added",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [
         {
           "name": "Jefferies",
@@ -2679,7 +2636,7 @@
       "buy_now_signal": "",
       "verdict": "Reasonably Priced",
       "status": "Newly Added",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [],
       "consensus_target": "$82.83",
       "consensus_target_num": 82.83,
@@ -2703,7 +2660,7 @@
       "buy_now_signal": "",
       "verdict": "Reasonably Priced",
       "status": "Newly Added",
-      "risk_score": 5.0,
+      "risk_score": 5,
       "houses": [],
       "consensus_target": "$344.50",
       "consensus_target_num": 344.5,
