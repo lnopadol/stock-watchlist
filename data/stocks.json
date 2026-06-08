@@ -304,49 +304,6 @@
       "week_change_pct": 1.05671
     },
     {
-      "ticker": "HGER",
-      "company": "Harbor Commodity All-Weather Strategy ETF",
-      "sector": "Commodities",
-      "currency": "USD",
-      "price": "$30.79",
-      "price_num": 30.79,
-      "market_cap": "$734.1M",
-      "pe_ratio": "N/A",
-      "what_it_does": "Tracks the Quantix Commodity Index (QCI) using excess return swaps on commodity futures contracts selected for inflation sensitivity and roll costs. Holds at least 15 commodities with dynamic allocation (gold up to 40%) based on scarcity/debasement indicators to adapt to inflation regimes. Expense ratio 0.68%; subadvised by Quantix Commodities; top holding recently gold ~41%.",
-      "is_good_bet": "HGER offers strong inflation hedging through adaptive commodity exposure, outperforming peers and S&P 500 with smoother returns since 2022 inception (YTD +28.65%, 1-yr +41%). Provides diversification from equities/bonds with 5.69% yield and low equity beta (~0.2-0.8). Bull case: persistent inflation/debasement favors gold tilt; institutional inflows past $2B AUM signal confidence. Bear case: concentration in gold exposes to dollar strength/rate hikes; futures roll costs in contango.",
-      "buy_now_signal": "No, near 52-week high ($32.03) after strong YTD gains; underlying commodities (esp. gold) elevated vs history amid recent inflation/debasement regime. Better entry on pullback to $28-29 range.",
-      "verdict": "Premium Priced",
-      "status": "Under Review",
-      "risk_score": 6,
-      "houses": [
-        {
-          "name": "ETF Database",
-          "rating": "Outperforms category (1-yr +41% vs peers)",
-          "target": "—",
-          "source": "[ETFdb](https://etfdb.com/etf/HGER/)"
-        },
-        {
-          "name": "Danelfin AI",
-          "rating": "Buy (7/10 score)",
-          "target": "—",
-          "source": "[Danelfin](https://danelfin.com/etf/HGER)"
-        },
-        {
-          "name": "Yahoo Finance / Harbor",
-          "rating": "Strong performance",
-          "target": "—",
-          "source": "[Yahoo Profile](https://finance.yahoo.com/quote/HGER/profile)"
-        }
-      ],
-      "consensus_target": "ETF — N/A",
-      "consensus_target_num": null,
-      "upside_pct": null,
-      "key_catalysts": "Commodity price rallies (gold/energy), inflation persistence, Fed policy shifts, AUM growth/institutional buying next 3-6 months.",
-      "key_risks": "Commodity volatility, gold concentration, futures roll yield drag, strong USD/higher rates, geopolitical supply disruptions.",
-      "notes": "Wait for pull back around 31",
-      "week_change_pct": -2.34697
-    },
-    {
       "ticker": "HUBB",
       "company": "Hubbell Incorporated",
       "sector": "Industrials",
