@@ -1825,55 +1825,6 @@
       "week_change_pct": -1.88729
     },
     {
-      "ticker": "PSX",
-      "company": "Phillips 66",
-      "sector": "Energy / Diversified Refining & Midstream",
-      "currency": "USD",
-      "price": "$183.08",
-      "price_num": 183.08,
-      "market_cap": "$73.4B",
-      "pe_ratio": "18.09",
-      "what_it_does": "Phillips 66 is a diversified downstream energy company with five segments: Midstream (pipelines, terminals, NGL fractionation), Chemicals (50% Chevron Phillips Chemical JV), Refining (13 refineries, 2.2 mb/d), Marketing & Specialties, and Renewable Fuels. The mix of refining, midstream, and petrochemicals provides counter-cyclical earnings versus pure refiners.",
-      "is_good_bet": "Phillips 66 is a diversified US refiner-midstream-chemicals complex with MLP dropdown optionality; its midstream and chemicals segments provide counter-cyclical income against pure refining margin volatility, though at 2.5% upside to consensus the stock is fairly priced.",
-      "buy_now_signal": "HOLD",
-      "verdict": "Premium Priced",
-      "status": "Monitoring",
-      "risk_score": 6,
-      "houses": [
-        {
-          "name": "UBS",
-          "rating": "Buy",
-          "target": "$212",
-          "source": "2026-04-02"
-        },
-        {
-          "name": "Wells Fargo",
-          "rating": "Overweight",
-          "target": "$201",
-          "source": "2026-03-31"
-        },
-        {
-          "name": "Raymond James",
-          "rating": "Outperform",
-          "target": "$205",
-          "source": "2026-03-25"
-        },
-        {
-          "name": "Morgan Stanley",
-          "rating": "Overweight",
-          "target": "$174",
-          "source": "2026-04-24"
-        }
-      ],
-      "consensus_target": "$180.64",
-      "consensus_target_num": 180.64,
-      "upside_pct": 2.5,
-      "key_catalysts": "• Morgan Stanley upgrade to Overweight April 2026 — signals improving consensus sentiment • Midstream/DCP Midstream integration synergies still materializing in 2026 earnings • UBS Buy $212 and Raymond James $205 represent meaningful upside scenario if refining margins improve • Chemicals segment recovery as petrochemical spreads normalize after 2025 trough",
-      "key_risks": "• Consensus mixed (45% bullish / 55% neutral) — weakest conviction of the three US refiners • Refining margin normalization if Brent drops post-Iran ceasefire • Chemicals segment (Chevron Phillips) is structurally challenged by Asian overcapacity • Balance sheet leverage from DCP Midstream acquisition limits buyback headroom vs MPC/VLO",
-      "notes": "Your defensive sleeve. Integrated refining + midstream + petrochemicals (CPChem JV) + marketing. The 7.26x 2026 EBITDA multiple and  3.0%  yield matter when (not if) the trade gets re-rated. Lowest torque of the US refiners but also the lowest drawdown profile if Iran de-escalates or IEA emergency releases keep landing. This is what you own instead of PBF if you don't want pure beta.",
-      "week_change_pct": -0.57565
-    },
-    {
       "ticker": "TTE",
       "company": "TotalEnergies",
       "sector": "Energy / Integrated Oil & Gas",
