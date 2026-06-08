@@ -568,49 +568,6 @@
       "week_change_pct": -3.48606
     },
     {
-      "ticker": "QDVW",
-      "company": "iShares MSCI World Quality Dividend Advanced UCITS ETF USD (Dist)",
-      "sector": "ETF (World Equity Dividend + Quality + ESG)",
-      "currency": "EUR",
-      "price": "€8.08",
-      "price_num": 8.08,
-      "market_cap": "€1.33B",
-      "pe_ratio": "N/A",
-      "what_it_does": "Tracks MSCI World High Dividend Yield Advanced Select index of developed market stocks with high sustainable dividend yields, quality factors, and ESG screens. Distributing ETF with quarterly payouts, TER 0.38%, full replication, 211 holdings, AUM 1.75B EUR. Top holdings: NVDA, AMAT, MRK, AAPL (tech/healthcare heavy).",
-      "is_good_bet": "Quality dividend global exposure offers income + growth with lower volatility than broad market, appealing in uncertain environments. ESG integration and focus on persistent payers provide resilience and alignment with sustainability trends. Strong historical out/underperformance minimal vs MSCI World, with ~2.6% yield and solid returns (1y 20%+, 5y 11%).",
-      "buy_now_signal": "No, near 52-week high (6.18-7.61 EUR range), recent performance strong but valuations elevated with tech concentration amid market highs; wait for pullback for better entry.",
-      "verdict": "Premium Priced",
-      "status": "Buy Zone",
-      "risk_score": 4,
-      "houses": [
-        {
-          "name": "Morningstar",
-          "rating": "Gold Medalist",
-          "target": "—",
-          "source": "[Morningstar WQDV](https://www.morningstar.com/etfs/xlon/wqdv/quote)"
-        },
-        {
-          "name": "justETF",
-          "rating": "Recommended (cheapest/largest on index)",
-          "target": "—",
-          "source": "[justETF](https://www.justetf.com/en/etf-profile.html?isin=IE00BYYHSQ67)"
-        },
-        {
-          "name": "BlackRock",
-          "rating": "AA MSCI ESG",
-          "target": "—",
-          "source": "[BlackRock](https://www.blackrock.com/dk/individual/products/288147/ishares-msci-world-quality-dividend-ucits-etf)"
-        }
-      ],
-      "consensus_target": "ETF — N/A",
-      "consensus_target_num": null,
-      "upside_pct": null,
-      "key_catalysts": "Q4 earnings from top holdings (NVDA, tech), dividend increases, potential rate cuts boosting dividend stocks, ESG fund inflows.",
-      "key_risks": "Currency risk (USD exposure in EUR trading), tech concentration volatility, dividend cuts in recession, geopolitical tensions affecting global developed markets.",
-      "notes": "DCA",
-      "week_change_pct": 0.35
-    },
-    {
       "ticker": "ROG.SW",
       "company": "Roche Holding AG",
       "sector": "Healthcare",
