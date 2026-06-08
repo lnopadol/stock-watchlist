@@ -1,6 +1,6 @@
 {
   "quarter": "2026-Q2",
-  "review_date": "2026-06-01",
+  "review_date": "2026-06-08",
   "macro_context": {
     "summary": "April 2026 macro regime: stagflationary crosscurrents dominate. The Iran war has pushed Brent crude to ~$101-111/bbl (+$35-47 YoY), reigniting energy inflation and freezing the Fed at 3.50-3.75% despite growth softening. The 10Y UST sits at 4.35%, credit spreads are near 25-year tights (IG OAS ~80 bps, HY ~285 bps), and the DXY has corrected ~10% from its 2025 peak to ~98-99 — weakening against EUR (~1.17) and CHF — which is materially positive for Swiss and European assets in USD terms. AI hyperscaler capex is surging ($600-630B aggregate 2026E, +36-62% YoY), keeping the power/grid/semicap complex structurally bid, but the cycle is maturing and vulnerable to any demand digestion signal. Central bank divergence is acute: BOJ tightening to 0.75% (hawkish dissenters want 1.0%), ECB debating hikes from 2.00%, BOE frozen at 3.75%. Equity factor leadership has rotated toward value/quality in Europe and small-cap value showing early reversal after years of growth dominance; defensives have re-rated as rate-cut expectations were crushed.",
     "key_drivers": [
@@ -68,7 +68,8 @@
       "TTE",
       "GOOGL",
       "6861",
-      "SCHNEIDER"
+      "SCHNEIDER",
+      "VRT"
     ],
     "cyclicals": [
       "TGB",
@@ -110,7 +111,8 @@
       "SEZL",
       "SQN.SW",
       "HMS",
-      "PANW"
+      "PANW",
+      "ESTC"
     ],
     "income_plays": [
       "SCHD",
@@ -1848,6 +1850,52 @@
         "sizing_tier": "core (1-3%)"
       },
       "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "ESTC",
+      "bucket": "quality_growth",
+      "portfolio_role": "",
+      "complement_or_compete": "",
+      "angle1_macro": {
+        "regime_fit": "Works best in stable-to-easing rates with improving enterprise risk appetite; sensitive to sharp risk-off / IT budget freezes.",
+        "drivers": "Enterprise capex/opex cycles, AI/datacenter buildout (VRT) or software consolidation/AI search demand (ESTC).",
+        "sensitivity": "High beta vs broad market; watch rates, tech sentiment, and capex indicators."
+      },
+      "angle2_fundamental": {
+        "summary": "Elastic provides a unified platform across search, observability, and security, increasingly positioned as AI-enabled enterprise data/search infrastructure.",
+        "drivers": "Cloud vs self-managed mix, sales-led subscription growth, and AI/search adoption in enterprise workloads.",
+        "valuation": "Targets imply modest upside; valuation sensitive to re-acceleration in cloud growth and margin expansion."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Higher volatility name; size accordingly and avoid crowding with similar beta exposures.",
+        "factor_clusters": "Quality growth / momentum sensitivity; can overlap with other mega-cap tech beta.",
+        "diversification": "Diversifies energy/materials cluster; overlaps with tech/AI infrastructure sleeve.",
+        "sizing_tier": "small"
+      },
+      "added_in_week": "2026-W24"
+    },
+    {
+      "ticker": "VRT",
+      "bucket": "core_compounders",
+      "portfolio_role": "",
+      "complement_or_compete": "",
+      "angle1_macro": {
+        "regime_fit": "Works best in stable-to-easing rates with improving enterprise risk appetite; sensitive to sharp risk-off / IT budget freezes.",
+        "drivers": "Enterprise capex/opex cycles, AI/datacenter buildout (VRT) or software consolidation/AI search demand (ESTC).",
+        "sensitivity": "High beta vs broad market; watch rates, tech sentiment, and capex indicators."
+      },
+      "angle2_fundamental": {
+        "summary": "Vertiv provides critical data-center power and thermal management, leveraged to AI/hyperscale buildout and high-density cooling demand.",
+        "drivers": "Backlog conversion, hyperscaler capex, and mix shift to higher-value integrated/liquid-cooling systems and services.",
+        "valuation": "Strong momentum and sentiment; risk is high expectations and capex cycle slowdown."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Higher volatility name; size accordingly and avoid crowding with similar beta exposures.",
+        "factor_clusters": "Quality growth / momentum sensitivity; can overlap with other mega-cap tech beta.",
+        "diversification": "Diversifies energy/materials cluster; overlaps with tech/AI infrastructure sleeve.",
+        "sizing_tier": "small"
+      },
+      "added_in_week": "2026-W24"
     }
   ],
   "factor_clusters": [
@@ -2017,6 +2065,22 @@
       ],
       "shared_risks": "TBD — newly added cluster",
       "concentration_warning": "Single-name cluster currently."
+    },
+    {
+      "cluster": "Enterprise software / Observability",
+      "members": [
+        "ESTC"
+      ],
+      "shared_risks": "",
+      "concentration_warning": ""
+    },
+    {
+      "cluster": "AI / Datacenter infrastructure",
+      "members": [
+        "VRT"
+      ],
+      "shared_risks": "",
+      "concentration_warning": ""
     }
   ],
   "high_priority_names": [
@@ -2151,5 +2215,5 @@
       "TGB Florence Copper timeline verification: The input data is optimistic on Florence commissioning — need to verify that Arizona operating permit and commissioning timeline are on track, as previous delays have been significant."
     ]
   },
-  "last_synced_week": "2026-W23"
+  "last_synced_week": "2026-W24"
 }
