@@ -654,49 +654,6 @@
       "week_change_pct": -0.25332
     },
     {
-      "ticker": "SCHD",
-      "company": "Schwab US Dividend Equity ETF",
-      "sector": "Large Value",
-      "currency": "USD",
-      "price": "$32.30",
-      "price_num": 32.3,
-      "market_cap": "$94.1B",
-      "pe_ratio": "19.04",
-      "what_it_does": "Tracks the Dow Jones U.S. Dividend 100 Index of high-quality, sustainable dividend-paying U.S. companies selected for financial strength. Top holdings include TXN (5.3%), UNH (5.1%), QCOM (4.2%), CVX (4.1%), KO (4.1%). Expense ratio 0.06%.[Schwab](https://www.schwabassetmanagement.com/products/schd)",
-      "is_good_bet": "SCHD provides reliable income and growth from quality dividend payers, outperforming large value peers over 10 years with 12.4% annualized returns vs category 10.7%. Strong focus on dividend sustainability suits income-oriented portfolios in uncertain markets, with tax efficiency and low costs enhancing appeal.[Schwab](https://www.schwabassetmanagement.com/products/schd)[Morningstar](https://www.morningstar.com/etfs/arcx/schd/quote)",
-      "buy_now_signal": "Yes, portfolio P/E of 17.6 is near 10-year median of ~17, below broader market ~22-25, indicating value relative to history and growth stocks. Recent YTD +12.7% but 1-month dip offers entry.[Robinhood](https://robinhood.com/us/en/stocks/SCHD/)[GuruFocus](https://www.gurufocus.com/etf/SCHD/summary)",
-      "verdict": "Reasonably Priced",
-      "status": "Buy Zone",
-      "risk_score": 4,
-      "houses": [
-        {
-          "name": "Morningstar",
-          "rating": "Positive (sensible, defensive approach)",
-          "target": "—",
-          "source": "[Morningstar](https://www.morningstar.com/etfs/arcx/schd/quote)"
-        },
-        {
-          "name": "Schwab Asset Management",
-          "rating": "Buy and Hold (issuer fact sheet)",
-          "target": "—",
-          "source": "[Schwab](https://www.schwabassetmanagement.com/products/schd)"
-        },
-        {
-          "name": "MarketBeat",
-          "rating": "Hold",
-          "target": "—",
-          "source": "[MarketBeat](https://www.marketbeat.com/stocks/NYSEARCA/SCHD/ratings/)"
-        }
-      ],
-      "consensus_target": "ETF — N/A",
-      "consensus_target_num": null,
-      "upside_pct": null,
-      "key_catalysts": "Q2 dividend announcement (June 2026), index rebalance, sustained dividend growth from holdings amid rate cuts.[Schwab](https://www.schwabassetmanagement.com/products/schd)",
-      "key_risks": "Sector concentration in energy (17%), consumer staples (19%); dividend cuts in holdings if recession; interest rate sensitivity for yield comparison.[Schwab](https://www.schwabassetmanagement.com/products/schd)",
-      "notes": "DCA ",
-      "week_change_pct": -0.88984
-    },
-    {
       "ticker": "SEZL",
       "company": "Sezzle Inc.",
       "sector": "Financial Services",
