@@ -1,6 +1,6 @@
 {
   "quarter": "2026-Q2",
-  "review_date": "2026-06-08",
+  "review_date": "2026-06-15",
   "macro_context": {
     "summary": "April 2026 macro regime: stagflationary crosscurrents dominate. The Iran war has pushed Brent crude to ~$101-111/bbl (+$35-47 YoY), reigniting energy inflation and freezing the Fed at 3.50-3.75% despite growth softening. The 10Y UST sits at 4.35%, credit spreads are near 25-year tights (IG OAS ~80 bps, HY ~285 bps), and the DXY has corrected ~10% from its 2025 peak to ~98-99 — weakening against EUR (~1.17) and CHF — which is materially positive for Swiss and European assets in USD terms. AI hyperscaler capex is surging ($600-630B aggregate 2026E, +36-62% YoY), keeping the power/grid/semicap complex structurally bid, but the cycle is maturing and vulnerable to any demand digestion signal. Central bank divergence is acute: BOJ tightening to 0.75% (hawkish dissenters want 1.0%), ECB debating hikes from 2.00%, BOE frozen at 3.75%. Equity factor leadership has rotated toward value/quality in Europe and small-cap value showing early reversal after years of growth dominance; defensives have re-rated as rate-cut expectations were crushed.",
     "key_drivers": [
@@ -73,7 +73,6 @@
     ],
     "cyclicals": [
       "TGB",
-      "TNK",
       "SU",
       "SNDK",
       "SEZL",
@@ -82,16 +81,12 @@
       "MPC",
       "MT",
       "NHY.OL",
-      "PSX",
       "VLO",
       "VOE.VI",
       "NOKIA"
     ],
     "defensives": [
-      "SREN.SW",
-      "SCHD",
-      "GLIFX",
-      "QDVW"
+      "SREN.SW"
     ],
     "turnaround_special_situations": [
       "RR.L",
@@ -101,7 +96,6 @@
     ],
     "deep_value": [
       "SU",
-      "TNK",
       "SREN.SW"
     ],
     "quality_growth": [
@@ -115,17 +109,13 @@
       "ESTC"
     ],
     "income_plays": [
-      "SCHD",
-      "GLIFX",
-      "SREN.SW",
-      "QDVW"
+      "SREN.SW"
     ],
     "thematic_structural": [
       "AMSC",
       "ASY.PA",
       "CCJ",
       "EXA.PA",
-      "HGER",
       "IRDM",
       "OKLO",
       "PRY.MI",
@@ -354,68 +344,6 @@
       }
     },
     {
-      "ticker": "GLIFX",
-      "bucket": "income_plays",
-      "portfolio_role": "Global listed infrastructure income fund; inflation-hedge dividend stream; diversifier across utilities, pipelines, toll roads, airports",
-      "complement_or_compete": "GLIFX, SCHD, QDVW, and XLE are the four income/ETF positions in the list — they partially overlap on dividend-yield factor. GLIFX's infrastructure tilt is distinctly different from SCHD's US dividend focus or QDVW's quality-screen equity. XLE competes for energy infrastructure exposure. Consider whether four separate income instruments are needed.",
-      "angle1_macro": {
-        "regime_fit": "Infrastructure is a long-duration asset sensitive to real rates — elevated real rates (~1.5-1.6%) are a mild headwind vs 2020-2021 levels. However, inflation-linked revenues (utility tariffs, toll road CPI escalators) provide partial hedge. Oil at $101+ is positive for pipeline/energy infra holdings. Global USD weakness reduces translation drag for non-USD infra assets.",
-        "drivers": [
-          "Inflation-linked revenues across regulated utilities/toll roads",
-          "Energy transition infra demand ($151T global need to 2050)",
-          "Rate cut optionality (any Fed pivot instantly re-rates)"
-        ],
-        "sensitivity": "Moderate duration sensitivity (negative to rate hikes); positive to inflation; low equity market beta (~0.6-0.7)"
-      },
-      "angle2_fundamental": {
-        "summary": "Actively managed global listed infra equity fund. Strong track record: 1Y 24% vs 13% benchmark, 5Y 12% vs 8%. Portfolio P/E ~15 vs benchmark 22. Outperforms in lower-vol, inflation environments.",
-        "drivers": "Global infrastructure spending; energy transition; Lazard active stock selection",
-        "valuation": "Portfolio P/E ~15 is genuinely low vs historical equity average of ~19; fund-level upside -84.9% is a NAV vs price calculation artifact — not meaningful as an upside metric for an open-end fund. Yield ~3% is competitive.",
-        "tag": "fundamentals lead valuation"
-      },
-      "angle3_quant": {
-        "vol_drawdown": "Low-moderate volatility; risk score 4/10; low equity beta; standard deviation ~9% vs equity market ~17%; designed as a smoother return stream",
-        "factor_clusters": [
-          "Global infrastructure / utilities",
-          "Inflation-linked income",
-          "Real asset equity"
-        ],
-        "diversification": "Low correlation to nuclear/AI/energy names — genuine portfolio ballast. The -84.9% upside_pct is a data artifact (fund NAV vs target price doesn't apply); treat as an income/diversification holding.",
-        "sizing_tier": "satellite / medium"
-      }
-    },
-    {
-      "ticker": "HGER",
-      "bucket": "income_plays",
-      "portfolio_role": "Commodity inflation hedge via futures; adaptive commodity allocation optimized for inflation environments; provides real asset exposure without single-commodity concentration",
-      "complement_or_compete": "HGER is the purest inflation hedge in the list — complements gold (not directly held elsewhere), energy, and base metals exposure. Partially overlaps with XLE on energy but through futures (roll yield) not equity. Complements SU/XOM on energy theme without equity risk.",
-      "angle1_macro": {
-        "regime_fit": "Peak regime for HGER: oil at $101-106/bbl (+$35-47 YoY), gold at $4,838/oz (near ATH), copper ~$12,100/t — all core HGER holdings elevated. The Iran-war inflationary shock is directly in HGER's wheelhouse. However, the fund has already rallied +28.65% YTD — much of the easy money has been made.",
-        "drivers": [
-          "Energy complex (Brent at $101+)",
-          "Gold at $4,838/oz (debasement + geopolitical premium)",
-          "Uranium/copper as industrial commodity diversifiers"
-        ],
-        "sensitivity": "High commodity price sensitivity; roll yield drag if futures curves stay in contango; gold concentration risk; USD weakness positive (most commodities dollar-denominated)"
-      },
-      "angle2_fundamental": {
-        "summary": "Tracks Quantix Commodity Index with adaptive weighting toward inflation-sensitive commodities. Uses excess-return swaps on commodity futures (not equity). 5.69% yield from T-bill collateral. ETF structure with daily liquidity.",
-        "drivers": "Commodity price trajectory; inflation regime persistence; roll yield efficiency",
-        "valuation": "No P/E applicable. Near 52-week high ($32.03) after +28.65% YTD — entry risk is elevated. The upside_pct is 'None' as ETFs don't have analyst targets.",
-        "tag": "valuation compensates for risk"
-      },
-      "angle3_quant": {
-        "vol_drawdown": "Moderate volatility; risk score 6/10; commodity vol can be sharp but dampened by diversification across 15+ commodities; low equity correlation = genuine diversifier during equity stress",
-        "factor_clusters": [
-          "Commodity inflation hedge",
-          "Real assets",
-          "Energy complex futures"
-        ],
-        "diversification": "One of the best diversifiers on the list — low equity beta, inflation-positive, benefits when equities suffer. Overlap with XLE on direction but different instrument/mechanism.",
-        "sizing_tier": "satellite / medium"
-      }
-    },
-    {
       "ticker": "HUBB",
       "bucket": "quality_growth",
       "portfolio_role": "US electrical grid infrastructure compounder; AI/data center electrification demand beneficiary; high FCF conversion",
@@ -571,37 +499,6 @@
       }
     },
     {
-      "ticker": "QDVW",
-      "bucket": "income_plays",
-      "portfolio_role": "Global developed-market quality dividend income; ESG-screened; EUR-denominated distributing ETF; defensive income diversifier",
-      "complement_or_compete": "Overlaps with SCHD on 'quality dividend' factor — QDVW is global/EUR-denominated while SCHD is US-only/USD. The two together provide good geographic income diversification. GLIFX is distinctly different (real assets/infra). The four income names (SCHD, QDVW, GLIFX, SREN) each provide a differentiated income angle.",
-      "angle1_macro": {
-        "regime_fit": "USD weakness vs EUR is a structural positive for QDVW's EUR-denominated NAV from a USD investor's perspective. Quality/dividend factor outperformance noted in Europe/UK per LSEG Q4 2025 data — continuing into 2026. Global AI tech concentration adds volatility (NVDA in top holdings increases tech sensitivity vs purely defensive).",
-        "drivers": [
-          "EUR translation benefit (USD weakness)",
-          "Quality/value factor leadership in Europe",
-          "Dividend sustainability in profitable tech+industrial holdings"
-        ],
-        "sensitivity": "EUR/USD currency sensitivity; tech-sector weight adds AI-cycle correlation; ESG screens reduce some concentrated single-stock risks"
-      },
-      "angle2_fundamental": {
-        "summary": "Distributing ETF with globally diversified quality dividend payers. ESG screens. Low TER. Strong historical performance. Some tech concentration (NVDA, QCOM). Trading near 52-week high — no immediate value signal.",
-        "drivers": "Q4 earnings from top holdings; dividend increase announcements; potential rate cuts boosting dividend stocks globally",
-        "valuation": "ETF — no target price applicable. P/E not shown. Verdict 'Premium Priced' reflects elevated market overall. Upside 'None' is appropriate for an ETF tracking mechanism.",
-        "tag": "valuation compensates for risk"
-      },
-      "angle3_quant": {
-        "vol_drawdown": "Low-moderate volatility; risk score 4/10; globally diversified; ESG screens reduce tail risk from governance events; tech concentration is mild downside risk",
-        "factor_clusters": [
-          "ETFs and funds",
-          "Global quality dividend",
-          "EUR-denominated income"
-        ],
-        "diversification": "QDVW + SCHD together give the watchlist global dividend coverage. QDVW is the EUR/international leg; SCHD is the USD/domestic leg. Both are income ballast.",
-        "sizing_tier": "satellite / medium"
-      }
-    },
-    {
       "ticker": "ROG.SW",
       "bucket": "core_compounders",
       "portfolio_role": "Swiss pharma/diagnostics blue-chip; 39-year dividend streak; obesity drug pipeline (CT-388) as optionality; defensive healthcare anchor",
@@ -660,37 +557,6 @@
           "Civil aviation recovery"
         ],
         "diversification": "Unique civil aviation aftermarket exposure (power-by-the-hour — essentially recurring revenue from flying hours). Low correlation to Swiss defensives, nuclear, or commodity names. Genuine diversifier.",
-        "sizing_tier": "satellite / medium"
-      }
-    },
-    {
-      "ticker": "SCHD",
-      "bucket": "income_plays",
-      "portfolio_role": "US large-value dividend income ETF; defensive factor exposure; portfolio income anchor in a still-elevated real-rate environment",
-      "complement_or_compete": "US counterpart to QDVW (global). SCHD's energy (17%) and consumer staples (19%) sector concentrations provide natural overlap with XOM/XLE and NESN/GIVN themes on the list — this is cluster redundancy to monitor. At 17.6x P/E, it is cheaper than the broad market (22-25x) and fairly priced.",
-      "angle1_macro": {
-        "regime_fit": "In an environment of 4.35% 10Y UST, dividend stocks face competition from bonds but SCHD's 3.5%+ yield plus capital appreciation has historically delivered. Value/dividend factor outperformance began in late 2025. US-only exposure means no USD/FX tailwind for a domestic USD investor — a relative disadvantage vs Swiss/European names in current USD-weak environment.",
-        "drivers": [
-          "US dividend sustainability from quality payers (TXN, UNH, QCOM, CVX)",
-          "Energy sector weight (17%) — benefits from oil at $101+",
-          "Consumer staples weight — defensive in slowdown"
-        ],
-        "sensitivity": "Moderate sensitivity to dividend cut cycle (recession trigger); energy concentration adds oil price sensitivity; interest rate sensitivity (yield comparison to bonds)"
-      },
-      "angle2_fundamental": {
-        "summary": "Tracks Dow Jones US Dividend 100 Index. 12.4% annualized 10-year returns vs 10.7% category. YTD +12.7%. P/E 17.6x near 10-year median, below broad market. Tax-efficient structure. Strong issuer track record.",
-        "drivers": "Q2 dividend (June 2026); index rebalance; sustained dividend growth from holdings",
-        "valuation": "Portfolio P/E 17.6x — near 10-year median of 17x. Reasonably priced. Buy signal active per input data.",
-        "tag": "fundamentals lead valuation"
-      },
-      "angle3_quant": {
-        "vol_drawdown": "Low volatility; risk score 4/10; diversified 100-stock portfolio; energy/consumer staples weight provides commodity inflation hedge; standard ETF tracking",
-        "factor_clusters": [
-          "ETFs and funds",
-          "US large-cap value/dividend",
-          "Income/yield"
-        ],
-        "diversification": "Core income anchor. The US-domestic version of the 'quality dividend' factor. Low correlation to nuclear/semicap/Swiss names.",
         "sizing_tier": "satellite / medium"
       }
     },
@@ -970,37 +836,6 @@
           "Canadian junior miners"
         ],
         "diversification": "Adds the only direct mining equity exposure to the list. Low correlation to nuclear, AI, Swiss defensives. Copper is structurally tied to energy transition — a genuine thematic position.",
-        "sizing_tier": "small / option-like"
-      }
-    },
-    {
-      "ticker": "TNK",
-      "bucket": "cyclicals",
-      "portfolio_role": "Mid-size crude tanker operator; geopolitical rate premium from Red Sea/Hormuz disruptions; variable dividend from excess cash",
-      "complement_or_compete": "Clusters with SU/XOM/XLE as energy names but a different mechanism (shipping rates vs production economics). The Iran-war shipping disruption is TNK's key catalyst. But it's a pure rate cycle play with very limited upside to consensus (1.4%) and high risk (8/10).",
-      "angle1_macro": {
-        "regime_fit": "Geopolitical disruptions (Red Sea, Hormuz risk) support tanker spot rates — directly positive for TNK revenue. Oil at $101+ increases the value of cargo transported. However, any resolution of Iran conflict would immediately compress tanker rates. High cyclicality with rate cycles.",
-        "drivers": [
-          "Tanker spot rates (Red Sea/Hormuz geopolitical premium)",
-          "Oil trade volume growth",
-          "Variable dividend excess cash distribution"
-        ],
-        "sensitivity": "Extremely high geopolitical sensitivity; tanker rate cycle can turn instantly; oil demand weakness from recession = rate compression; new vessel deliveries increase supply"
-      },
-      "angle2_fundamental": {
-        "summary": "Variable dividend structure passes excess cash to shareholders. P/E 7.69x — cheapest P/E on the list. But consensus $77-80 vs current ~$76 = only 1.4% upside. Evercore Buy $90 is the bull case; BofA Underperform $69 is the bear case. The easy money was made in the geopolitical premium run-up.",
-        "drivers": "Q1 2026 earnings (late April/May); tanker rate data; dividend declaration; Red Sea resolution or escalation",
-        "valuation": "P/E 7.69x is cheap by any measure but the tanker cycle is already elevated. BofA Underperform $69 at a current ~$76 price means one major house is actively negative. Very limited consensus upside.",
-        "tag": "valuation compensates for risk"
-      },
-      "angle3_quant": {
-        "vol_drawdown": "High volatility; risk score 8/10; tanker rates are among the most volatile asset classes; binary geopolitical event risk; small fleet concentration means a single vessel incident matters",
-        "factor_clusters": [
-          "Integrated oil / energy services",
-          "Tanker/shipping",
-          "Geopolitical premium plays"
-        ],
-        "diversification": "The only shipping name — genuinely diversifying within the energy complex. But the risk/reward (1.4% upside, 8/10 risk) makes it a hold-don't-add position currently.",
         "sizing_tier": "small / option-like"
       }
     },
@@ -1564,31 +1399,6 @@
       "added_in_week": "2026-W21"
     },
     {
-      "ticker": "PSX",
-      "bucket": "cyclicals",
-      "portfolio_role": "Diversified US refiner-midstream-chemicals complex with MLP income stabilizing earnings through refining cycles",
-      "complement_or_compete": "Weakest conviction of the three US refiners cluster (PSX, MPC, VLO). PSX differentiates via chemicals (CPChem JV) and midstream (DCP Midstream). Less pure-play refining than VLO, less midstream quality than MPC. If choosing one refiner, PSX is the least clear winner — MPC has better midstream, VLO has better pure refining complexity.",
-      "angle1_macro": {
-        "regime_fit": "Same macro regime as MPC and VLO — oil $101-111 directly benefits all three refiners. PSX's additional exposure through CPChem (chemicals JV) gives it some sensitivity to petrochemical margins, which remain challenged by Asian overcapacity. The DCP Midstream acquisition adds leverage at a time when real rates (+1.5%) make leveraged balance sheets more expensive. Morgan Stanley's April 2026 upgrade to Overweight is a constructive signal. The USD weakness is modestly positive for PSX's international operations. High gasoline demand (US driving season Q2 2026) supports mid-distillate and gasoline crack spreads — the main earnings lever.",
-        "drivers": "",
-        "sensitivity": ""
-      },
-      "angle2_fundamental": {
-        "summary": "PSX's 2023 DCP Midstream acquisition created a larger, more integrated midstream business but added leverage. The CPChem chemicals JV generates cyclical earnings that are currently near trough — petrochemical margins should recover by 2027. Refining operations (12 refineries, ~2.1M bpd) are well-distributed globally. At $176.20 vs $180.64 consensus (2.5% upside), PSX is essentially at fair value. The 45.5% bullish consensus (11 analysts) is the weakest of the three US refiners, reflecting the balance sheet leverage and chemicals headwind concerns. UBS Buy $212 and Wells Fargo Overweight $201 represent meaningful upside if margins improve.",
-        "drivers": "",
-        "valuation": ""
-      },
-      "angle3_quant": {
-        "vol_drawdown": "At 2.5% upside and 54.5% neutral/hold consensus, PSX is the least compelling buy among the three US refiners on a quantitative basis. Risk score 6/10 — slightly higher leverage than VLO. In a portfolio holding all three US refiners, PSX would be the trim candidate if consolidation is needed. Factor cluster: US Refiners.",
-        "factor_clusters": [
-          "US Refiners"
-        ],
-        "diversification": "",
-        "sizing_tier": ""
-      },
-      "added_in_week": "2026-W21"
-    },
-    {
       "ticker": "SQN.SW",
       "bucket": "quality_growth",
       "portfolio_role": "Swiss digital bank and broker capturing European retail investment growth; fintech quality with CHF fortress balance sheet",
@@ -1938,7 +1748,6 @@
       "members": [
         "XOM",
         "SU",
-        "TNK",
         "TTE"
       ],
       "shared_risks": "Iran conflict de-escalation crashing Brent to $70s; global oil demand destruction from recession; OPEC+ production increase; energy transition accelerating beyond consensus; tanker rate normalization (TNK specifically); WCS discount widening (SU specifically)",
@@ -1967,12 +1776,7 @@
     },
     {
       "cluster": "ETFs and funds",
-      "members": [
-        "SCHD",
-        "GLIFX",
-        "HGER",
-        "QDVW"
-      ],
+      "members": [],
       "shared_risks": "ETFs provide beta not alpha — any systematic sell-off hits all ETFs equally; GLIFX actively managed but still broadly correlated to equity markets; HGER commodity exposure can be volatile; XLE overlaps with XOM direct position; SCHD sector concentrations (energy 17%, consumer staples 19%) overlap with other list holdings",
       "concentration_warning": "5 ETFs/funds = 15% of list. They serve different purposes: GLIFX (infra income + inflation hedge), HGER (commodity inflation), SCHD (US dividend income), QDVW (global quality dividend), XLE (US energy). XLE is the most redundant given XOM direct holding. Consider whether 5 fund positions is optimal or whether consolidating to 3 (GLIFX + HGER + SCHD) sharpens the portfolio."
     },
@@ -1980,8 +1784,7 @@
       "cluster": "Commodity / critical materials",
       "members": [
         "TGB",
-        "CCJ",
-        "HGER"
+        "CCJ"
       ],
       "shared_risks": "Global growth slowdown reducing commodity demand; Chinese property market recovery stalling (copper demand); uranium spot price retracement; USD strength (commodity inverse); Chinese copper over-production",
       "concentration_warning": "3 names across copper, uranium, and broad commodities. Internally diversified but all share commodity-cycle risk. Manageable cluster size."
@@ -1998,7 +1801,6 @@
     {
       "cluster": "US Refiners",
       "members": [
-        "PSX",
         "MPC",
         "VLO"
       ],
@@ -2215,5 +2017,5 @@
       "TGB Florence Copper timeline verification: The input data is optimistic on Florence commissioning — need to verify that Arizona operating permit and commissioning timeline are on track, as previous delays have been significant."
     ]
   },
-  "last_synced_week": "2026-W24"
+  "last_synced_week": "2026-W25"
 }
