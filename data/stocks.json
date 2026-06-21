@@ -770,49 +770,6 @@
       "week_change_pct": 5.24
     },
     {
-      "ticker": "SREN.SW",
-      "company": "Swiss Re AG",
-      "sector": "Financial Services",
-      "currency": "CHF",
-      "price": "CHF 120.75",
-      "price_num": 120.75,
-      "market_cap": "CHF 35.61B",
-      "pe_ratio": "9.71",
-      "what_it_does": "Swiss Re AG provides reinsurance, insurance, and insurance-based risk transfer services worldwide through Property & Casualty Reinsurance, Life & Health Reinsurance, and Corporate Solutions segments. It underwrites property, casualty, life, health, and customized corporate insurance solutions for insurers, corporations, and public entities. Founded in 1863 and headquartered in Zurich, Switzerland, it employs about 13,800 people. [Yahoo Finance](https://finance.yahoo.com/quote/SREN.SW/profile)",
-      "is_good_bet": "Swiss Re delivered record 2025 net income of $4.8B, exceeding targets with strong P&C performance (combined ratio 79.5%) and robust ROI. Disciplined underwriting and low nat cat losses drove results; 2026 net income target $4.5B signals confidence amid steady economic growth and re/insurance demand. High dividend yield ~5% and share buybacks enhance shareholder returns, though cyclical risks remain. Overall bull case on resilient model and capital strength. [Reinsurance News](https://www.reinsurancene.ws/swiss-re-delivers-record-group-net-income-as-pc-re-profit-rises-to-2-8bn/)",
-      "buy_now_signal": "Yes, trading near 52-week low (121-157 range) at low-teens P/E with consensus target ~125-130 CHF implying limited downside and 5-10% upside. Strong balance sheet (SST 250%) and dividend support entry; recent pullback offers value vs historical multiples. [Yahoo Finance](https://finance.yahoo.com/quote/SREN.SW/), [MarketScreener](https://www.marketscreener.com/quote/stock/SWISS-RE-LTD-9365870/consensus/)",
-      "verdict": "Attractively Priced",
-      "status": "Hold",
-      "risk_score": 4,
-      "houses": [
-        {
-          "name": "UBS",
-          "rating": "Buy",
-          "target": "188 CHF",
-          "source": "[TipRanks](https://www.tipranks.com/stocks/ssref/forecast)"
-        },
-        {
-          "name": "Berenberg",
-          "rating": "Buy",
-          "target": "202 CHF",
-          "source": "[TipRanks](https://www.tipranks.com/stocks/ssref/forecast)"
-        },
-        {
-          "name": "JPMorgan",
-          "rating": "Neutral",
-          "target": "200 CHF",
-          "source": "[TipRanks](https://www.tipranks.com/stocks/ssref/forecast)"
-        }
-      ],
-      "consensus_target": "~128 CHF",
-      "consensus_target_num": 128,
-      "upside_pct": 2.1,
-      "key_catalysts": "Q1 2026 earnings (May), 2026 net income delivery vs $4.5B target, share buyback progress ($1.5B program), P&C combined ratio &lt;85%. [Swiss Re](https://www.reinsurancene.ws/swiss-re-delivers-record-group-net-income-as-pc-re-profit-rises-to-2-8bn/)",
-      "key_risks": "Catastrophe losses (nat/man-made), US casualty reserving, L&H portfolio performance, economic slowdown impacting premiums, rising competition. [MarketScreener](https://www.marketscreener.com/quote/stock/SWISS-RE-LTD-9365870/consensus/)",
-      "notes": "add now, if need to increase",
-      "week_change_pct": 0.12
-    },
-    {
       "ticker": "SU",
       "company": "Suncor Energy Inc.",
       "sector": "Energy",
