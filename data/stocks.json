@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15",
+  "updated": "2026-06-21",
   "week_label": "2026-W25",
   "stocks": [
     {
@@ -32,7 +32,7 @@
         }
       ],
       "consensus_target": "$52.00",
-      "consensus_target_num": 52.0,
+      "consensus_target_num": 52,
       "upside_pct": 29.9,
       "key_catalysts": "Q1 CY2026 earnings (late May): rev >$80M expected; Comtrafo integration adding $85M backlog; grid contracts from AI power demand; Canadian/US Navy ship protection deliveries starting 2026.",
       "key_risks": "High stock volatility (recent 25% swings), supply chain/margin pressures, execution on acquisitions/international expansion, competition in power/resiliency tech, potential slowdown in renewables/defense spending.",
@@ -45,7 +45,7 @@
       "sector": "Semiconductor Equipment",
       "currency": "EUR",
       "price": "€1,015.00",
-      "price_num": 1015.0,
+      "price_num": 1015,
       "market_cap": "€49.62B",
       "pe_ratio": "50.25",
       "what_it_does": "ASM International NV designs, manufactures, and services wafer processing equipment for semiconductor manufacturers, specializing in thin-film deposition technologies including atomic layer deposition (ALD), epitaxy, and chemical vapor deposition (CVD). The company supplies tools used to deposit precise layers of materials onto silicon wafers to produce advanced integrated circuits for AI, high-performance computing, and other applications. Headquartered in Almere, Netherlands, it serves leading chipmakers worldwide with manufacturing in Singapore and South Korea.",
@@ -260,7 +260,7 @@
       "sector": "Materials",
       "currency": "CHF",
       "price": "CHF 3,182.00",
-      "price_num": 3182.0,
+      "price_num": 3182,
       "market_cap": "CHF 29.37B",
       "pe_ratio": "27.55",
       "what_it_does": "Givaudan SA is a leading global manufacturer of flavors and fragrances for the consumer goods industry. It operates in two main divisions: Fragrance & Beauty (fine fragrances, consumer products, fragrance ingredients, active beauty) and Taste & Wellbeing (beverages, dairy, savory, sweet goods). The company serves customers in personal care, food, beverages, and wellbeing products worldwide.",
@@ -567,7 +567,7 @@
       "sector": "Industrials / Aerospace & Defense",
       "currency": "GBp",
       "price": "1,308.00p",
-      "price_num": 1308.0,
+      "price_num": 1308,
       "market_cap": "£108.44B",
       "pe_ratio": "18.96",
       "what_it_does": "Rolls-Royce Holdings plc develops mission-critical power systems for civil aerospace (engines and services for widebody aircraft, jets), defence, power systems, and new markets including small modular reactors. Headquartered in London, it operates internationally with strong aftermarket services. Founded in 1884.",
@@ -652,12 +652,12 @@
         }
       ],
       "consensus_target": "$115.00",
-      "consensus_target_num": 115.0,
+      "consensus_target_num": 115,
       "upside_pct": -13.3,
       "key_catalysts": "Q1/Q2 2026 earnings beats (guidance 25-30% rev growth), subscription GMV expansion (Sezzle Anywhere/Premium), long-term lending partnerships rollout, consumer app monetization (Earnback, AI tools).",
       "key_risks": "Macro slowdown hitting discretionary spending/GMV, rising credit losses in recession, intensified competition from Affirm/Klarna/PayPal, regulatory scrutiny on BNPL lending practices, high beta/volatility (3.75).",
       "notes": "",
-      "week_change_pct": 3.0
+      "week_change_pct": 3
     },
     {
       "ticker": "SMR",
@@ -1008,7 +1008,7 @@
         }
       ],
       "consensus_target": "$14.00",
-      "consensus_target_num": 14.0,
+      "consensus_target_num": 14,
       "upside_pct": 86.7,
       "key_catalysts": "Florence Copper commissioning and first full quarter production; copper price trajectory; Q1 2026 earnings beat on Gibraltar/Florence output.",
       "key_risks": "Delays/cost overruns at Florence, copper price decline below $4/lb, operational issues at Gibraltar, FX (CAD strength), permitting/environmental hurdles.",
@@ -1021,7 +1021,7 @@
       "sector": "Energy",
       "currency": "USD",
       "price": "$147.00",
-      "price_num": 147.0,
+      "price_num": 147,
       "market_cap": "$609.33B",
       "pe_ratio": "24.75",
       "what_it_does": "ExxonMobil is one of the world's largest integrated energy companies, engaged in the exploration, production, refining, and marketing of oil, natural gas, and petrochemical products. It operates globally across upstream (exploration and production), energy products (refining and fuels), chemical products, and specialty products including lubricants. The company also invests in low-carbon solutions like carbon capture and hydrogen.",
@@ -1064,7 +1064,7 @@
       "sector": "Industrials / Precision Components (Micro-Cap Turnaround)",
       "currency": "USD",
       "price": "$3.00",
-      "price_num": 3.0,
+      "price_num": 3,
       "market_cap": "$158M",
       "pe_ratio": "-2.75",
       "what_it_does": "NN manufactures ultra-precision components and assemblies for electric grid, data center, medical, and aerospace applications. It is pivoting away from legacy automotive exposure toward electric grid and AI infrastructure secular growth markets.",
@@ -1082,8 +1082,8 @@
         }
       ],
       "consensus_target": "$3.00",
-      "consensus_target_num": 3.0,
-      "upside_pct": 0.0,
+      "consensus_target_num": 3,
+      "upside_pct": 0,
       "key_catalysts": "Electric Grid and Data Center market awards ($43M concentration in Q1 2026) validating portfolio pivot; 60+ new program launches creating shippable backlog for H2 2026 and 2027 revenue; New business wins guidance raised to $80-90M for FY2026 — above original range",
       "key_risks": "GAAP net losses — still loss-making, financing from operations not yet self-sustaining; Heavy leverage with only one analyst following — minimal institutional support and thin liquidity; Transition risk: automotive exposure being reduced but replacement markets not yet fully offsetting",
       "notes": "",
@@ -1181,7 +1181,7 @@
       "sector": "Industrials / Robotics Components",
       "currency": "JPY",
       "price": "¥6,800",
-      "price_num": 6800.0,
+      "price_num": 6800,
       "market_cap": "¥643.73B",
       "pe_ratio": "399.30",
       "what_it_does": "Harmonic Drive Systems manufactures strain wave gearing (harmonic drives) — compact, zero-backlash gearheads used in precision robotics, semiconductor equipment, and medical devices. It commands a dominant niche in high-precision torque transmission.",
@@ -1224,7 +1224,7 @@
       "sector": "Industrials / Precision Motion Control",
       "currency": "JPY",
       "price": "¥5,076",
-      "price_num": 5076.0,
+      "price_num": 5076,
       "market_cap": "¥594.83B",
       "pe_ratio": "40.94",
       "what_it_does": "Nabtesco manufactures high-precision reduction gears (cycloidal drives) that are the standard joint actuator in industrial robots, holding ~60% global market share. It also makes automatic doors, marine vessel hydraulics, and railroad components.",
@@ -2197,7 +2197,7 @@
       "sector": "Industrial Technology / IIoT Connectivity",
       "currency": "SEK",
       "price": "$514.00",
-      "price_num": 514.0,
+      "price_num": 514,
       "market_cap": "$25.80B",
       "pe_ratio": "53.60",
       "what_it_does": "Provides industrial communication hardware and software enabling factory equipment to share data across networks; serves >70 countries with Anybus, Ewon, and IXXAT product families.",
@@ -2271,7 +2271,7 @@
       ],
       "consensus_target": "€0.97",
       "consensus_target_num": 0.97,
-      "upside_pct": -23.0,
+      "upside_pct": -23,
       "key_catalysts": "Edge AIoT revenues now ~60% of mix and growing; EU cybersecurity mandates (NIS2, CRA) drive upgrade cycles; 2028 revenue target of EUR 80M implies >40% CAGR from current EUR 55M base.",
       "key_risks": "FY 2025 EBIT still negative at EUR -8.5M; memory component disruptions weigh on margins; European industrial slowdown and macro volatility could delay recovery.",
       "notes": "",
@@ -2306,7 +2306,7 @@
       "key_catalysts": "NVIDIA AI-RAN partnership targets a USD 200B market by 2030; optical networking raised 2026 growth guidance to 12–14%; management reaffirmed EUR 2.0–2.5B operating profit for FY2026.",
       "key_risks": "A major U.S. carrier has removed ~50% of Nokia radios, pressuring North America revenue; Q1 2026 guided above-seasonal decline; trailing P/E ~64x leaves little room for misses.",
       "notes": "",
-      "week_change_pct": 5.0
+      "week_change_pct": 5
     },
     {
       "ticker": "SCHNEIDER",
@@ -2357,7 +2357,7 @@
       "sector": "Factory Automation / Industrial Sensors",
       "currency": "JPY",
       "price": "¥76,670",
-      "price_num": 76670.0,
+      "price_num": 76670,
       "market_cap": "¥18.59T",
       "pe_ratio": "41.73",
       "what_it_does": "Sells sensors, vision systems, and measurement instruments for factory automation; capital-light direct-sales model with fully outsourced manufacturing delivers ~50% operating margins.",
@@ -2490,6 +2490,29 @@
       "key_risks": "Capex cycle slowdown; execution/supply-chain; high expectations/valuation; competitive pricing.",
       "notes": "",
       "week_change_pct": 1.68
+    },
+    {
+      "ticker": "IBM",
+      "company": "IBM",
+      "sector": "—",
+      "currency": "",
+      "price": "—",
+      "price_num": null,
+      "market_cap": "—",
+      "pe_ratio": "—",
+      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
+      "is_good_bet": "",
+      "buy_now_signal": "",
+      "verdict": "Reasonably Priced",
+      "status": "Newly Added",
+      "risk_score": 5,
+      "houses": [],
+      "consensus_target": "",
+      "consensus_target_num": null,
+      "upside_pct": null,
+      "key_catalysts": "",
+      "key_risks": "",
+      "notes": ""
     }
   ]
 }
