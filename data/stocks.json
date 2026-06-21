@@ -1219,49 +1219,6 @@
       "week_change_pct": 3.82
     },
     {
-      "ticker": "6268.T",
-      "company": "Nabtesco Corporation",
-      "sector": "Industrials / Precision Motion Control",
-      "currency": "JPY",
-      "price": "¥5,076",
-      "price_num": 5076,
-      "market_cap": "¥594.83B",
-      "pe_ratio": "40.94",
-      "what_it_does": "Nabtesco manufactures high-precision reduction gears (cycloidal drives) that are the standard joint actuator in industrial robots, holding ~60% global market share. It also makes automatic doors, marine vessel hydraulics, and railroad components.",
-      "is_good_bet": "Q1 FY2026 results show +17% revenue growth and +68% operating profit growth YoY, driven by recovering robotics capex in China and Korea. The structural automation and humanoid-robot demand cycle provides a multi-year growth runway with margin expansion as the company exits its lower-margin hydraulic equipment business.",
-      "buy_now_signal": "Avoid",
-      "verdict": "Overvalued",
-      "status": "Monitoring",
-      "risk_score": 3,
-      "houses": [
-        {
-          "name": "Investing.com consensus (10 analysts)",
-          "rating": "Hold",
-          "target": "¥2,683",
-          "source": "[Investing.com](https://ng.investing.com/equities/nabtesco-corp-consensus-estimates)"
-        },
-        {
-          "name": "MarketScreener consensus",
-          "rating": "Hold",
-          "target": "¥2,922",
-          "source": "[MarketScreener](https://www.marketscreener.com/quote/stock/NABTESCO-CORPORATION-6496668/consensus/)"
-        },
-        {
-          "name": "Stockopedia",
-          "rating": "Sell (above target)",
-          "target": "¥3,969",
-          "source": "[Stockopedia](https://www.stockopedia.com/share-prices/nabtesco-TYO:6268/)"
-        }
-      ],
-      "consensus_target": "¥2,683",
-      "consensus_target_num": 2683,
-      "upside_pct": -51.8,
-      "key_catalysts": "Continued recovery in industrial robot orders from Chinese/Korean auto manufacturers; Humanoid robot demand driving non-industrial precision gear growth; Margin expansion following the divestiture of the hydraulic equipment segment",
-      "key_risks": "China manufacturing slowdown or overcapacity reducing robot CAPEX; BOJ rate hikes strengthening JPY and compressing USD-translated earnings; Competitive entry from Chinese gear manufacturers (Kinitics, Leaderdrive) eroding market share",
-      "notes": "",
-      "week_change_pct": 6.44
-    },
-    {
       "ticker": "RELX",
       "company": "RELX plc",
       "sector": "Technology / Information Analytics & Decision Tools",
