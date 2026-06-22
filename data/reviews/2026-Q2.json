@@ -1,6 +1,6 @@
 {
   "quarter": "2026-Q2",
-  "review_date": "2026-06-15",
+  "review_date": "2026-06-22",
   "macro_context": {
     "summary": "April 2026 macro regime: stagflationary crosscurrents dominate. The Iran war has pushed Brent crude to ~$101-111/bbl (+$35-47 YoY), reigniting energy inflation and freezing the Fed at 3.50-3.75% despite growth softening. The 10Y UST sits at 4.35%, credit spreads are near 25-year tights (IG OAS ~80 bps, HY ~285 bps), and the DXY has corrected ~10% from its 2025 peak to ~98-99 — weakening against EUR (~1.17) and CHF — which is materially positive for Swiss and European assets in USD terms. AI hyperscaler capex is surging ($600-630B aggregate 2026E, +36-62% YoY), keeping the power/grid/semicap complex structurally bid, but the cycle is maturing and vulnerable to any demand digestion signal. Central bank divergence is acute: BOJ tightening to 0.75% (hawkish dissenters want 1.0%), ECB debating hikes from 2.00%, BOE frozen at 3.75%. Equity factor leadership has rotated toward value/quality in Europe and small-cap value showing early reversal after years of growth dominance; defensives have re-rated as rate-cut expectations were crushed.",
     "key_drivers": [
@@ -69,7 +69,8 @@
       "GOOGL",
       "6861",
       "SCHNEIDER",
-      "VRT"
+      "VRT",
+      "IBM"
     ],
     "cyclicals": [
       "TGB",
@@ -83,20 +84,20 @@
       "NHY.OL",
       "VLO",
       "VOE.VI",
-      "NOKIA"
+      "NOKIA",
+      "BIDU"
     ],
-    "defensives": [
-      "SREN.SW"
-    ],
+    "defensives": [],
     "turnaround_special_situations": [
       "RR.L",
       "TECN.SW",
       "SMR",
-      "ETH"
+      "ETH",
+      "LMND",
+      "PYPL"
     ],
     "deep_value": [
-      "SU",
-      "SREN.SW"
+      "SU"
     ],
     "quality_growth": [
       "ASM.AS",
@@ -106,11 +107,12 @@
       "SQN.SW",
       "HMS",
       "PANW",
-      "ESTC"
+      "ESTC",
+      "AXON",
+      "FIG",
+      "SYM"
     ],
-    "income_plays": [
-      "SREN.SW"
-    ],
+    "income_plays": [],
     "thematic_structural": [
       "AMSC",
       "ASY.PA",
@@ -122,7 +124,9 @@
       "RR.L",
       "SMR",
       "TE.PA",
-      "TEA.AX"
+      "TEA.AX",
+      "MRAM",
+      "PNG.CVE"
     ]
   },
   "by_ticker": [
@@ -654,37 +658,6 @@
       }
     },
     {
-      "ticker": "SREN.SW",
-      "bucket": "defensives",
-      "portfolio_role": "Swiss P&C reinsurance income play; record 2025 earnings foundation; disciplined underwriting compounder; CHF safe-haven income",
-      "complement_or_compete": "Sits in both the Swiss defensive cluster AND the income cluster. SREN complements SCHD/QDVW/GLIFX with a distinctly different instrument type (reinsurance equity). Low correlation to all other names — no reinsurance elsewhere on list.",
-      "angle1_macro": {
-        "regime_fit": "Record 2025 net income $4.8B. Reinsurance pricing cycle remains strong (Iran war, climate events keep nat cat loss memory fresh). Real rates at 4.35% are supportive — Swiss Re earns investment income on float. CHF translation positive. Iran war amplifies insurance/reinsurance demand (political risk, energy infrastructure coverage).",
-        "drivers": [
-          "P&C reinsurance pricing strength (post-cat loss cycle)",
-          "Investment income on float (4.35% 10Y UST environment)",
-          "CHF appreciation (USD investor translation benefit)"
-        ],
-        "sensitivity": "High sensitivity to catastrophe events (nat cat tail risk); US casualty reserve adequacy (the key uncertainty for 2026); moderate credit spread sensitivity (investment portfolio)"
-      },
-      "angle2_fundamental": {
-        "summary": "Record $4.8B net income 2025. Combined ratio 79.5% — exceptional underwriting profitability. 2026 target $4.5B = slightly lower but still strong. $1.5B buyback program. SST ratio 250% (very strong solvency). Low-teens P/E at 10.3x.",
-        "drivers": "Q1 2026 earnings (May); P&C combined ratio delivery; buyback pace; US casualty reserving update",
-        "valuation": "P/E 10.3x at only 2.1% upside to consensus CHF 125-130. Trading near 52-week low (CHF 121-157 range). Low P/E offset by near-term stock weakness. UBS Buy CHF 188, Berenberg Buy CHF 202 — substantial upside if those targets are right, but JPM Neutral CHF 200 creates uncertainty.",
-        "tag": "fundamentals lead valuation"
-      },
-      "angle3_quant": {
-        "vol_drawdown": "Low volatility; risk score 4/10; large-cap Swiss insurer; nat cat events create sharp but usually short-lived drawdowns; long-term compounder characteristics",
-        "factor_clusters": [
-          "Swiss quality defensives",
-          "Reinsurance / insurance",
-          "Financial services income"
-        ],
-        "diversification": "Unique reinsurance exposure — no correlation to AI/nuclear/commodity themes. Pure financial services + Swiss defensive + income play. Maximum diversification from cyclical cluster.",
-        "sizing_tier": "satellite / medium"
-      }
-    },
-    {
       "ticker": "SU",
       "bucket": "deep_value",
       "portfolio_role": "Canadian integrated oil sands value play; oil at $101+ = significant free cash flow generation; buybacks + dividend policy; Syncrude optimization upside",
@@ -869,37 +842,6 @@
         "diversification": "The safe-harbor energy name. Hold as the core energy position; let SU provide the higher-upside complement. Avoid double-counting with XLE.",
         "sizing_tier": "satellite / medium"
       }
-    },
-    {
-      "ticker": "6268.T",
-      "bucket": "thematic_structural",
-      "portfolio_role": "High-quality Japanese precision motion control compounder; structural exposure to global robotics automation capex with dominant market share in industrial robot joints.",
-      "complement_or_compete": "Pairs thematically with 6324.T (Harmonic Drive) as a JPY-denominated robotics infrastructure pair — both benefit from the same automation megatrend but via distinct gear architectures (cycloidal vs. strain-wave). No overlap with current Swiss quality, nuclear, or energy clusters.",
-      "angle1_macro": {
-        "regime_fit": "The April 2026 stagflationary macro is mixed but net-positive for 6268.T. Industrial capex in automation is rising as manufacturers seek to reduce labor costs amid wage inflation — a structural positive. Oil at $101-111/bbl inflates energy costs for Nabtesco's manufacturing but is offset by strong pricing power. BOJ tightening to 0.75% strengthens JPY (~143), slightly headwind to USD-translated earnings for non-JPY investors. The weak DXY is mildly positive for a USD investor buying JPY-denominated assets.",
-        "drivers": [
-          "Industrial robot CAPEX recovery in China and Korea auto manufacturing",
-          "Humanoid robot commercialization creating entirely new non-industrial gear demand",
-          "JPY weakness vs USD (currently ~143) positively translating results for non-JPY investors"
-        ],
-        "sensitivity": "Low beta to oil/credit; high beta to global manufacturing PMI and automation capex cycles. Moderate JPY/USD currency sensitivity for non-JPY holders — BOJ tightening is a headwind."
-      },
-      "angle2_fundamental": {
-        "summary": "Q1 FY2026 revenue ¥83.0B (+17% YoY) and operating profit ¥8.2B (+68% YoY) represent a strong margin re-rating as the hydraulic equipment business is removed. FY2025 full-year sales ¥307.9B, net income ¥15.7B (EPS ¥131.56). Analysts expect ~15% EPS growth and ~5.5% revenue growth — both conservative given Q1 momentum.",
-        "drivers": "Q2/Q3 order recovery from automotive (China/Korea) plus recovery in machine tool and semiconductor equipment precision gear demand; ongoing margin gains from higher-value product mix and hydraulic divestiture benefit.",
-        "valuation": "No analyst price target via connector. Trading at ~38x trailing EPS (¥5,041 / ¥131.56). Reasonable for a dominant motion-control platform but not cheap. No consensus upside calculable.",
-        "tag": "leading"
-      },
-      "angle3_quant": {
-        "vol_drawdown": "Moderate volatility typical of mid-cap Japanese industrials; less liquid than US-listed peers. No major drawdown signals in current data. Carries standard JGB rate and JPY FX risk.",
-        "factor_clusters": [
-          "Japanese robotics / precision components",
-          "Global industrial automation infrastructure"
-        ],
-        "diversification": "Genuinely diversifying from the portfolio's existing clusters — no existing Japanese industrial exposure. Adds JPY currency factor and Asian manufacturing cycle exposure that is absent from the predominantly US/European/Swiss watchlist.",
-        "sizing_tier": "satellite/medium"
-      },
-      "added_in_week": "2026-W19"
     },
     {
       "ticker": "6324.T",
@@ -1706,6 +1648,295 @@
         "sizing_tier": "small"
       },
       "added_in_week": "2026-W24"
+    },
+    {
+      "ticker": "AXON",
+      "added_in_week": "2026-W26",
+      "bucket": "quality_growth",
+      "portfolio_role": "Public-safety SaaS compounder with AI-native moat; high-multiple growth alpha",
+      "complement_or_compete": "Competes with ESTC/PANW for the same software-growth factor exposure; very high multiple. Diversifies from cyclicals (energy/materials) by adding software durability.",
+      "angle1_macro": {
+        "regime_fit": "Tailwind from federal/state public-safety budgets and AI adoption; modest headwind from elevated rates compressing high-multiple software.",
+        "drivers": [
+          "Federal/state law enforcement budgets",
+          "AI policing (Draft One)",
+          "International expansion (UK, AU)"
+        ],
+        "sensitivity": "High beta to software factor and growth-stock re-rating; low macro cyclicality of underlying demand."
+      },
+      "angle2_fundamental": {
+        "summary": "ARR growing 35%+, gross margin 60%+, recurring SaaS mix expanding, dominant US law enforcement share.",
+        "drivers": "Draft One adoption, federal AI contracts, Skydio drone integration, international wins",
+        "valuation": "Trading at $423.40 vs consensus $670.64 — 58.4% upside; multiple stretched vs growth deceleration risk",
+        "tag": "attractive but high-multiple"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Elevated volatility (>30% single-quarter swings observed); risk score 7/10; software-factor drawdowns can be sharp",
+        "factor_clusters": [
+          "US software growth",
+          "AI-native enterprise",
+          "Public-safety/defense-adjacent"
+        ],
+        "diversification": "Cluster-heavy with ESTC/PANW (software-growth factor); minimal correlation with Swiss defensives or energy",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "BIDU",
+      "added_in_week": "2026-W26",
+      "bucket": "cyclicals",
+      "portfolio_role": "Cheap China AI/internet exposure with robotaxi optionality; emerging-market value tilt",
+      "complement_or_compete": "Unique China exposure — diversifies from US-centric portfolio. Complements rather than competes with developed-market software/AI plays (GOOGL).",
+      "angle1_macro": {
+        "regime_fit": "Tailwind from China stimulus and AI capex; significant headwinds from US-China geopolitical tension, ADR delisting risk, and weak Chinese consumer.",
+        "drivers": [
+          "Apollo Go robotaxi scaling",
+          "ERNIE enterprise AI",
+          "AI Cloud revenue",
+          "China consumer recovery"
+        ],
+        "sensitivity": "Very high to US-China geopolitics; high to RMB/USD; correlated with KWEB and China internet basket"
+      },
+      "angle2_fundamental": {
+        "summary": "P/E <10x, large net cash position, search ads declining but cloud/AI/Apollo growth offsetting; capital returns increasing.",
+        "drivers": "Apollo Go ride volumes, AI Cloud acceleration, ERNIE enterprise wins, capital returns",
+        "valuation": "Trading at $111.76 vs consensus $162.18 — 45.1% upside; cheapest large-cap AI exposure globally",
+        "tag": "deep value with geopolitical risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility (35%+ on geopolitical news); risk score 8/10; ADR delisting tail risk",
+        "factor_clusters": [
+          "China internet / ADR",
+          "Global AI capex theme",
+          "EM value"
+        ],
+        "diversification": "Strongly diversifying from US-centric exposure; uncorrelated with Swiss defensives and energy",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "FIG",
+      "added_in_week": "2026-W26",
+      "bucket": "quality_growth",
+      "portfolio_role": "Category-leading AI-native design SaaS; post-IPO re-rating opportunity",
+      "complement_or_compete": "Competes with AXON/SYM on software-growth factor exposure. Modestly diversifying from infrastructure software (PANW, ESTC) via different end-market.",
+      "angle1_macro": {
+        "regime_fit": "Tailwind from AI design adoption; headwind from enterprise software spending caution and software-multiple compression.",
+        "drivers": [
+          "AI features (Code to Canvas with Anthropic)",
+          "Enterprise seat expansion",
+          "New product attach (Slides/Buzz/Sites)"
+        ],
+        "sensitivity": "High beta to software-factor re-rating; modest macro cyclicality (creative budgets cyclical in deep recession)"
+      },
+      "angle2_fundamental": {
+        "summary": "$1B+ revenue with 35% growth guide, FCF positive, $1.6B cash zero debt, expanding TAM via Slides/Buzz/Sites.",
+        "drivers": "AI feature adoption, enterprise net retention, new product attach",
+        "valuation": "Trading at $18.88 vs consensus $37.71 — 99.7% upside; market repricing growth post-IPO",
+        "tag": "deeply attractive post-IPO reset"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Very high volatility (post-IPO; 50%+ drawdowns possible); risk score 7/10",
+        "factor_clusters": [
+          "US software growth",
+          "AI-native SaaS",
+          "Recent-IPO basket"
+        ],
+        "diversification": "Overlaps with AXON/SYM on growth factor; uncorrelated with hardware and energy",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "IBM",
+      "added_in_week": "2026-W26",
+      "bucket": "core_compounders",
+      "portfolio_role": "Mega-cap hybrid-cloud + AI re-rating story; income via 3%+ dividend",
+      "complement_or_compete": "Complements quality-growth (ASM.AS, HUBB) with mature cash flows and AI optionality. Does NOT compete with Swiss defensives. Diversifies from pure-AI hyperscalers (GOOGL).",
+      "angle1_macro": {
+        "regime_fit": "Tailwind from enterprise AI capex; modest headwind from USD weakness on international services revenue; stable demand in recession (mainframe/services backlog).",
+        "drivers": [
+          "Enterprise AI/watsonx adoption",
+          "Hybrid cloud (Red Hat)",
+          "Mainframe z17 refresh cycle"
+        ],
+        "sensitivity": "Low beta vs S&P; correlation with USD via 50%+ ex-US revenue; rate-sensitive on dividend-yield mix."
+      },
+      "angle2_fundamental": {
+        "summary": "Stable double-digit Software growth, mid-single-digit total revenue, FCF mid-teens billion, capital returns via 33+ year dividend growth and buybacks.",
+        "drivers": "watsonx bookings, HashiCorp synergies, Red Hat growth, z17 mainframe cycle",
+        "valuation": "Trading at $249.10 vs consensus $293.46 — 17.8% upside; P/E mid-20s reasonable for AI re-rated quality compounder",
+        "tag": "reasonable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Low-to-moderate volatility (mega-cap); risk score 5/10; modest drawdown profile",
+        "factor_clusters": [
+          "US mega-cap quality",
+          "Enterprise AI infrastructure",
+          "Dividend aristocrat"
+        ],
+        "diversification": "Diversifies from pure-AI hyperscalers and small-cap growth; correlated with GOOGL on AI theme but lower beta",
+        "sizing_tier": "core"
+      }
+    },
+    {
+      "ticker": "LMND",
+      "added_in_week": "2026-W26",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "AI-native insurance disruptor inflecting toward profitability; small-cap optionality",
+      "complement_or_compete": "Unique exposure — no comparable insurance name on the list. Modestly complements special situations (RR.L, ETH, TECN.SW) on turnaround theme.",
+      "angle1_macro": {
+        "regime_fit": "Mixed: rising premium pricing tailwind; cat losses from climate/weather a recurring drag; rate cuts would aid float yield negatively but ease equity multiples.",
+        "drivers": [
+          "Loss-ratio improvement",
+          "Auto (Lemonade Car) state expansion",
+          "AI claims automation efficiency"
+        ],
+        "sensitivity": "High exposure to catastrophe losses, reinsurance pricing, growth-stock factor"
+      },
+      "angle2_fundamental": {
+        "summary": "Loss ratio trending below 75%, premium growth 25%+, EBITDA inflecting toward positive in 2026; still cash-burning but improving.",
+        "drivers": "Lemonade Car expansion, loss-ratio compression, in-force premium scaling",
+        "valuation": "Trading at $58.84 vs consensus $70.50 — 19.8% upside; valuation as growth-insurer rather than P&C carrier",
+        "tag": "attractive with execution risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility (40%+ swings on earnings, cat events); risk score 8/10; deep drawdowns historically",
+        "factor_clusters": [
+          "US small-cap growth",
+          "Insurtech / fintech",
+          "AI-driven SaaS efficiency"
+        ],
+        "diversification": "Diversifying — only insurance exposure on list; uncorrelated with energy/nuclear/defense clusters",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "MRAM",
+      "added_in_week": "2026-W26",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Micro-cap memory-technology niche play with AI/defense optionality",
+      "complement_or_compete": "Thematically complements semiconductor/AI plays (SNDK, ASM.AS) but at much higher idiosyncratic risk. Does NOT compete directly — different memory category.",
+      "angle1_macro": {
+        "regime_fit": "Tailwind from AI memory demand and defense/aerospace electronics; headwind from semi-cycle volatility and micro-cap risk-off sensitivity.",
+        "drivers": [
+          "STT-MRAM design wins",
+          "Defense aerospace orders",
+          "Licensing deals"
+        ],
+        "sensitivity": "Very high to semi cycle, AI capex, micro-cap factor"
+      },
+      "angle2_fundamental": {
+        "summary": "Small revenue base (<$60M), unique MRAM niche with defense/aerospace customers, royalty/licensing optionality but limited analyst coverage.",
+        "drivers": "STT-MRAM AI/data-center wins, defense backlog, licensing expansion",
+        "valuation": "Trading at $27.11 vs single-analyst target $18.50 — -31.7% downside on thin coverage; verdict caution warranted",
+        "tag": "thinly-covered; price above lone target"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Extremely high volatility (40%+ single-day moves possible); risk score 9/10; micro-cap liquidity risk",
+        "factor_clusters": [
+          "Micro-cap semis",
+          "Non-volatile memory niche",
+          "Defense/aerospace electronics"
+        ],
+        "diversification": "Diversifying — unique MRAM exposure; modest correlation with SNDK on memory cycle",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "PNG.CVE",
+      "added_in_week": "2026-W26",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Small-cap subsea defense + offshore-energy pure-play; geopolitical risk-premium exposure",
+      "complement_or_compete": "Complements aerospace/defense (RR.L, BWXT) and cyclicals (CMC, MT) via different end-market exposure (subsea, naval). Diversifies from pure energy producers.",
+      "angle1_macro": {
+        "regime_fit": "Tailwind from NATO/defense budget expansion, geopolitical tension elevating naval/subsea spend; modest headwind from CAD strength reducing USD investor returns.",
+        "drivers": [
+          "NATO navy contracts",
+          "Offshore energy capex",
+          "Covelya acquisition synergies"
+        ],
+        "sensitivity": "Moderate to defense budget cycles; FX (CAD/USD); small-cap liquidity"
+      },
+      "angle2_fundamental": {
+        "summary": "$165-175M 2026 revenue guide (~65% growth), backlog C$250-350M, EBITDA margin expanding to 20-25%, Covelya acquisition closing end-Q2.",
+        "drivers": "Covelya close, KATFISH SEFINE contract, additional NATO wins",
+        "valuation": "Trading at CA$7.60; consensus target not yet refreshed via finance feed — see web research (Investing.com 2026-06-19)",
+        "tag": "growth-tilt small-cap"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Very high volatility (small-cap, TSX Venture liquidity); risk score 8/10; 30%+ drawdowns historical",
+        "factor_clusters": [
+          "Subsea / naval defense",
+          "Marine technology",
+          "Canadian small-cap"
+        ],
+        "diversification": "Diversifying — unique subsea exposure; modest correlation with RR.L (defense) and BWXT (naval propulsion)",
+        "sizing_tier": "small / option-like"
+      }
+    },
+    {
+      "ticker": "PYPL",
+      "added_in_week": "2026-W26",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "Large-cap payments turnaround with capital-return optionality and agentic-commerce upside",
+      "complement_or_compete": "Unique payments exposure — complements rather than competes with software (PANW, ESTC) or hardware (HUBB). Diversifies from energy/materials cyclicals.",
+      "angle1_macro": {
+        "regime_fit": "Consumer-spending sensitive; benefits from e-commerce growth; modest headwind from rate-cut expectations compressing float yield.",
+        "drivers": [
+          "Branded checkout reacceleration (Fastlane)",
+          "Venmo monetization",
+          "AI agent-commerce integrations"
+        ],
+        "sensitivity": "Cyclical exposure to global consumer spending; FX translation impact (40%+ ex-US TPV); inflation impact on take-rate disclosure"
+      },
+      "angle2_fundamental": {
+        "summary": "Stable double-digit FCF, aggressive buybacks shrinking share count, branded TPV stabilizing, Venmo merchant adoption inflecting.",
+        "drivers": "Fastlane adoption, Venmo TPV growth, AI commerce wins, capital returns",
+        "valuation": "Trading at $42.51 vs consensus $48.88 — 15.0% upside; FCF yield 9%+ at current price",
+        "tag": "attractive on FCF yield"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Moderate volatility (20%+ on earnings); risk score 6/10; large-cap liquidity dampens worst drawdowns",
+        "factor_clusters": [
+          "US large-cap value",
+          "Payments / fintech",
+          "AI-commerce theme"
+        ],
+        "diversification": "Diversifies from pure-AI software and Swiss defensives; modest correlation with consumer discretionary",
+        "sizing_tier": "core"
+      }
+    },
+    {
+      "ticker": "SYM",
+      "added_in_week": "2026-W26",
+      "bucket": "quality_growth",
+      "portfolio_role": "Warehouse automation pure-play; high-multiple growth with massive backlog conversion runway",
+      "complement_or_compete": "Competes with AXON for the same high-multiple software-growth factor; thematically adjacent to AI-power-grid names (AMSC, HUBB) via automation theme. NOT diversifying vs other software-growth names.",
+      "angle1_macro": {
+        "regime_fit": "Tailwind from retail labor inflation and automation capex; modest headwind from retail customer capex slowdowns in recession scenarios.",
+        "drivers": [
+          "Walmart system deployments",
+          "GreenBox / SoftBank JV scale-up",
+          "Margin conversion on software/services"
+        ],
+        "sensitivity": "High to retail capex cycles and growth-stock re-rating"
+      },
+      "angle2_fundamental": {
+        "summary": "$22.7B backlog, software/services attach building recurring revenue stream, gross margins constrained by project-based hardware mix.",
+        "drivers": "GreenBox site openings, gross-margin expansion, new anchor customer wins",
+        "valuation": "Trading at $41.68 vs consensus $61.00 — 46.4% upside; lumpy revenue and margin variance remain the swing factors",
+        "tag": "attractive with execution risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High volatility (30%+ swings on quarterly margin surprises); risk score 8/10",
+        "factor_clusters": [
+          "US software/automation growth",
+          "AI-robotics theme",
+          "Retail capex cycle"
+        ],
+        "diversification": "Overlaps with AXON on software-growth factor; uncorrelated to energy/materials",
+        "sizing_tier": "small / option-like"
+      }
     }
   ],
   "factor_clusters": [
@@ -1736,7 +1967,6 @@
         "NESN.SW",
         "ROG.SW",
         "GIVN.SW",
-        "SREN.SW",
         "TECN.SW",
         "SQN.SW"
       ],
@@ -1883,6 +2113,78 @@
       ],
       "shared_risks": "",
       "concentration_warning": ""
+    },
+    {
+      "cluster": "Enterprise AI infrastructure",
+      "members": [
+        "IBM"
+      ],
+      "shared_risks": "Cluster created on incremental sync; populate at next quarterly re-synthesis.",
+      "concentration_warning": "Single member — no concentration concern yet."
+    },
+    {
+      "cluster": "AI-native enterprise software",
+      "members": [
+        "AXON"
+      ],
+      "shared_risks": "Cluster created on incremental sync; populate at next quarterly re-synthesis.",
+      "concentration_warning": "Single member — no concentration concern yet."
+    },
+    {
+      "cluster": "Insurtech / AI insurance",
+      "members": [
+        "LMND"
+      ],
+      "shared_risks": "Cluster created on incremental sync; populate at next quarterly re-synthesis.",
+      "concentration_warning": "Single member — no concentration concern yet."
+    },
+    {
+      "cluster": "Payments / fintech",
+      "members": [
+        "PYPL"
+      ],
+      "shared_risks": "Cluster created on incremental sync; populate at next quarterly re-synthesis.",
+      "concentration_warning": "Single member — no concentration concern yet."
+    },
+    {
+      "cluster": "AI-robotics warehouse automation",
+      "members": [
+        "SYM"
+      ],
+      "shared_risks": "Cluster created on incremental sync; populate at next quarterly re-synthesis.",
+      "concentration_warning": "Single member — no concentration concern yet."
+    },
+    {
+      "cluster": "AI-native design SaaS",
+      "members": [
+        "FIG"
+      ],
+      "shared_risks": "Cluster created on incremental sync; populate at next quarterly re-synthesis.",
+      "concentration_warning": "Single member — no concentration concern yet."
+    },
+    {
+      "cluster": "Subsea / naval defense",
+      "members": [
+        "PNG.CVE"
+      ],
+      "shared_risks": "Cluster created on incremental sync; populate at next quarterly re-synthesis.",
+      "concentration_warning": "Single member — no concentration concern yet."
+    },
+    {
+      "cluster": "China internet / EM AI",
+      "members": [
+        "BIDU"
+      ],
+      "shared_risks": "Cluster created on incremental sync; populate at next quarterly re-synthesis.",
+      "concentration_warning": "Single member — no concentration concern yet."
+    },
+    {
+      "cluster": "Non-volatile memory niche",
+      "members": [
+        "MRAM"
+      ],
+      "shared_risks": "Cluster created on incremental sync; populate at next quarterly re-synthesis.",
+      "concentration_warning": "Single member — no concentration concern yet."
     }
   ],
   "high_priority_names": [
@@ -2017,5 +2319,5 @@
       "TGB Florence Copper timeline verification: The input data is optimistic on Florence commissioning — need to verify that Arizona operating permit and commissioning timeline are on track, as previous delays have been significant."
     ]
   },
-  "last_synced_week": "2026-W25"
+  "last_synced_week": "2026-W26"
 }
