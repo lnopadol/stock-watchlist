@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "week_label": "2026-W26",
   "stocks": [
     {
@@ -32,7 +32,7 @@
         }
       ],
       "consensus_target": "$52.00",
-      "consensus_target_num": 52.0,
+      "consensus_target_num": 52,
       "upside_pct": 19.82,
       "key_catalysts": "Q1 CY2026 earnings (late May): rev >$80M expected; Comtrafo integration adding $85M backlog; grid contracts from AI power demand; Canadian/US Navy ship protection deliveries starting 2026.",
       "key_risks": "High stock volatility (recent 25% swings), supply chain/margin pressures, execution on acquisitions/international expansion, competition in power/resiliency tech, potential slowdown in renewables/defense spending.",
@@ -173,7 +173,7 @@
         }
       ],
       "consensus_target": "$238.00",
-      "consensus_target_num": 238.0,
+      "consensus_target_num": 238,
       "upside_pct": 15.87,
       "key_catalysts": "Q1 2026 earnings May 4; naval contract awards; SMR commercialization progress; AI/data center nuclear fuel deals (3-6 mo).",
       "key_risks": "Commercial nuclear project delays; high valuation vulnerable to rotation out of nuclear hype; budget cuts to naval programs; competition in SMR space.",
@@ -284,7 +284,7 @@
       "sector": "Materials",
       "currency": "CHF",
       "price": "CHF 3,252.00",
-      "price_num": 3252.0,
+      "price_num": 3252,
       "market_cap": "CHF 30.01B",
       "pe_ratio": "28.17",
       "what_it_does": "Givaudan SA is a leading global manufacturer of flavors and fragrances for the consumer goods industry. It operates in two main divisions: Fragrance & Beauty (fine fragrances, consumer products, fragrance ingredients, active beauty) and Taste & Wellbeing (beverages, dairy, savory, sweet goods). The company serves customers in personal care, food, beverages, and wellbeing products worldwide.",
@@ -527,7 +527,7 @@
       "key_catalysts": "Regulatory milestones (NRC approval Phase 1/2), first Aurora deployment progress, new data center PPAs (Meta expansion), Q1 2026 earnings.",
       "key_risks": "Regulatory delays/rejections, construction overruns, no revenue until 2027+, competition from SMR peers (NuScale), funding dilution.",
       "notes": "High risk. Price in range",
-      "week_change_pct": 4.0
+      "week_change_pct": 4
     },
     {
       "ticker": "PRY.MI",
@@ -871,7 +871,7 @@
         }
       ],
       "consensus_target": "$81.00",
-      "consensus_target_num": 81.0,
+      "consensus_target_num": 81,
       "upside_pct": 46.39,
       "key_catalysts": "Q1 2026 earnings (May 6), oil price trends, production updates from Fort Hills/Syncrude ramp-up, potential buybacks/dividend hikes.",
       "key_risks": "Oil price decline below $60/bbl, WCS discount widening, regulatory changes on oil sands emissions, geopolitical tensions affecting energy demand.",
@@ -1117,7 +1117,7 @@
         }
       ],
       "consensus_target": "$3.00",
-      "consensus_target_num": 3.0,
+      "consensus_target_num": 3,
       "upside_pct": 7.53,
       "key_catalysts": "Electric Grid and Data Center market awards ($43M concentration in Q1 2026) validating portfolio pivot; 60+ new program launches creating shippable backlog for H2 2026 and 2027 revenue; New business wins guidance raised to $80-90M for FY2026 — above original range",
       "key_risks": "GAAP net losses — still loss-making, financing from operations not yet self-sustaining; Heavy leverage with only one analyst following — minimal institutional support and thin liquidity; Transition risk: automotive exposure being reduced but replacement markets not yet fully offsetting",
@@ -1216,7 +1216,7 @@
       "sector": "Industrials / Robotics Components",
       "currency": "JPY",
       "price": "¥8,680",
-      "price_num": 8680.0,
+      "price_num": 8680,
       "market_cap": "¥821.71B",
       "pe_ratio": "516.67",
       "what_it_does": "Harmonic Drive Systems manufactures strain wave gearing (harmonic drives) — compact, zero-backlash gearheads used in precision robotics, semiconductor equipment, and medical devices. It commands a dominant niche in high-precision torque transmission.",
@@ -1894,7 +1894,7 @@
         }
       ],
       "consensus_target": "$83.00",
-      "consensus_target_num": 83.0,
+      "consensus_target_num": 83,
       "upside_pct": 3.2,
       "key_catalysts": "• LNG portfolio benefits directly from Hormuz disruption scenario — TTE is the #1 global LNG trader • Deep-water growth projects (Mozambique LNG restart, Suriname) adding production into 2027 • 5%+ dividend yield with progressive policy; buyback capacity of $2B+ annually at oil $100+ • USD weakness vs EUR structurally beneficial for USD investors holding Euro-denominated assets",
       "key_risks": "• Consensus average $83 implies 10% downside — Freedom Broker Sell at $73 is a bear case anchor • Iran war de-escalation would compress Brent to $70s, materially reducing FCF • Mozambique LNG restart still uncertain post-insurgency delays; multi-billion capex at risk • European windfall profit tax risk if energy prices remain elevated through 2027",
@@ -2003,7 +2003,7 @@
       "key_catalysts": "• Q2 2026 EBITDA guidance upgrade — management guided significantly higher vs Q1 2026 best start in 3 years • Alloy surcharge pass-through in tightening European stainless market • Continued buyback/dividend program under fortress balance sheet • EUR appreciation vs USD adds translation premium for global investors",
       "key_risks": "• Stainless steel demand contraction in European industrials under stagflation • Chinese stainless dumping via rerouted exports post-tariffs • Energy cost inflation (oil $101-111) compresses margins as major cost input • Raw material (nickel, scrap) price spikes unpredictable; ferrochrome spot volatility",
       "notes": "Buy zone: €42–45. Cleanest CBAM beneficiary, trading at € 48.04 , cap € 3.48B , only  -5.7%  off the high after running + 98%  from the low. Dividend yield  4.0%  is real cash. The vertical integration (Bioenergia biomass + ELG scrap) is genuinely a structural moat in stainless that none of the trio can replicate quickly. Of the three European stainless names, this is the one I'd actually own.",
-      "week_change_pct": 0.0
+      "week_change_pct": 0
     },
     {
       "ticker": "NHY.OL",
@@ -2213,7 +2213,7 @@
       "sector": "Industrial Technology / IIoT Connectivity",
       "currency": "SEK",
       "price": "$515.00",
-      "price_num": 515.0,
+      "price_num": 515,
       "market_cap": "$25.85B",
       "pe_ratio": "53.76",
       "what_it_does": "Provides industrial communication hardware and software enabling factory equipment to share data across networks; serves >70 countries with Anybus, Ewon, and IXXAT product families.",
@@ -2373,7 +2373,7 @@
       "sector": "Factory Automation / Industrial Sensors",
       "currency": "JPY",
       "price": "¥78,360",
-      "price_num": 78360.0,
+      "price_num": 78360,
       "market_cap": "¥19.00T",
       "pe_ratio": "42.73",
       "what_it_does": "Sells sensors, vision systems, and measurement instruments for factory automation; capital-light direct-sales model with fully outsourced manufacturing delivers ~50% operating margins.",
@@ -2457,7 +2457,7 @@
       "key_catalysts": "Q3 FY2026 NGS ARR target USD 7.95B (+56% YoY); CyberArk cross-sell adds identity security share; Cortex AgentiX AI remediation expands TAM; May 2026 earnings are the key near-term trigger.",
       "key_risks": "~USD 28.75B total M&A creates integration risk and ~15% share dilution; FY2026 EPS guidance cut to USD 3.65–3.70; Microsoft bundling and CrowdStrike competition pose displacement risk.",
       "notes": "",
-      "week_change_pct": 2.0
+      "week_change_pct": 2
     },
     {
       "ticker": "ESTC",
@@ -2806,7 +2806,7 @@
         }
       ],
       "consensus_target": "$61.00",
-      "consensus_target_num": 61.0,
+      "consensus_target_num": 61,
       "upside_pct": 46.35,
       "key_catalysts": "Backlog conversion, GreenBox site openings, gross-margin expansion as software/services ramp, new anchor customer wins.",
       "key_risks": "Walmart concentration, margin disappointments, capex slowdown by retailers, execution risk on next-gen storage rollout, share unlock dynamics.",
@@ -2989,6 +2989,29 @@
       "key_risks": "Small-cap volatility, single-product dependence, design-cycle delays, competition from alternative non-volatile memories, semi cycle.",
       "notes": "",
       "week_change_pct": 5.57
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "sector": "—",
+      "currency": "",
+      "price": "—",
+      "price_num": null,
+      "market_cap": "—",
+      "pe_ratio": "—",
+      "what_it_does": "Pending research. Run weekly refresh prompt to populate.",
+      "is_good_bet": "",
+      "buy_now_signal": "",
+      "verdict": "Reasonably Priced",
+      "status": "Newly Added",
+      "risk_score": 5,
+      "houses": [],
+      "consensus_target": "",
+      "consensus_target_num": null,
+      "upside_pct": null,
+      "key_catalysts": "",
+      "key_risks": "",
+      "notes": ""
     }
   ]
 }
