@@ -1,6 +1,6 @@
 {
   "quarter": "2026-Q2",
-  "review_date": "2026-06-22",
+  "review_date": "2026-08-03",
   "macro_context": {
     "summary": "April 2026 macro regime: stagflationary crosscurrents dominate. The Iran war has pushed Brent crude to ~$101-111/bbl (+$35-47 YoY), reigniting energy inflation and freezing the Fed at 3.50-3.75% despite growth softening. The 10Y UST sits at 4.35%, credit spreads are near 25-year tights (IG OAS ~80 bps, HY ~285 bps), and the DXY has corrected ~10% from its 2025 peak to ~98-99 — weakening against EUR (~1.17) and CHF — which is materially positive for Swiss and European assets in USD terms. AI hyperscaler capex is surging ($600-630B aggregate 2026E, +36-62% YoY), keeping the power/grid/semicap complex structurally bid, but the cycle is maturing and vulnerable to any demand digestion signal. Central bank divergence is acute: BOJ tightening to 0.75% (hawkish dissenters want 1.0%), ECB debating hikes from 2.00%, BOE frozen at 3.75%. Equity factor leadership has rotated toward value/quality in Europe and small-cap value showing early reversal after years of growth dominance; defensives have re-rated as rate-cut expectations were crushed.",
     "key_drivers": [
@@ -110,7 +110,11 @@
       "ESTC",
       "AXON",
       "FIG",
-      "SYM"
+      "SYM",
+      "AMD",
+      "ARM",
+      "INTC",
+      "NVDA"
     ],
     "income_plays": [],
     "thematic_structural": [
@@ -1937,6 +1941,126 @@
         "diversification": "Overlaps with AXON on software-growth factor; uncorrelated to energy/materials",
         "sizing_tier": "small / option-like"
       }
+    },
+    {
+      "ticker": "AMD",
+      "bucket": "quality_growth",
+      "portfolio_role": "AI/semiconductor growth satellite",
+      "complement_or_compete": "Complements defensives and energy, but competes with existing AI hardware and data-center infrastructure exposures.",
+      "angle1_macro": {
+        "regime_fit": "Secular AI and digital-infrastructure demand is supportive, but real-rate sensitivity and a semiconductor capex slowdown remain material headwinds.",
+        "drivers": [
+          "AI/data-center investment",
+          "advanced-node and accelerator demand",
+          "geopolitical and export-control regime"
+        ],
+        "sensitivity": "High sensitivity to AI capex, semiconductor cycle and long-duration growth multiples."
+      },
+      "angle2_fundamental": {
+        "summary": "Large semiconductor platform with substantial secular demand exposure; the central debate is whether growth and execution justify the current valuation.",
+        "drivers": "Product-cycle execution, data-center demand, gross-margin trajectory and foundry/architecture adoption.",
+        "valuation": "Current price $476.15 versus consensus $556.47 (16.9% upside)"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High-beta semiconductor exposure with potentially deep drawdowns in a capex or multiple-compression shock.",
+        "factor_clusters": [
+          "Semicap / AI hardware",
+          "US growth / technology"
+        ],
+        "diversification": "Adds AI/semiconductor exposure and competes with existing semicap and AI-infrastructure names; avoid over-concentration.",
+        "sizing_tier": "satellite / medium"
+      },
+      "added_in_week": "2026-W32"
+    },
+    {
+      "ticker": "ARM",
+      "bucket": "quality_growth",
+      "portfolio_role": "AI/semiconductor growth satellite",
+      "complement_or_compete": "Complements defensives and energy, but competes with existing AI hardware and data-center infrastructure exposures.",
+      "angle1_macro": {
+        "regime_fit": "Secular AI and digital-infrastructure demand is supportive, but real-rate sensitivity and a semiconductor capex slowdown remain material headwinds.",
+        "drivers": [
+          "AI/data-center investment",
+          "advanced-node and accelerator demand",
+          "geopolitical and export-control regime"
+        ],
+        "sensitivity": "High sensitivity to AI capex, semiconductor cycle and long-duration growth multiples."
+      },
+      "angle2_fundamental": {
+        "summary": "Large semiconductor platform with substantial secular demand exposure; the central debate is whether growth and execution justify the current valuation.",
+        "drivers": "Product-cycle execution, data-center demand, gross-margin trajectory and foundry/architecture adoption.",
+        "valuation": "Current price $239.69 versus consensus $294.11 (22.7% upside)"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High-beta semiconductor exposure with potentially deep drawdowns in a capex or multiple-compression shock.",
+        "factor_clusters": [
+          "Semicap / AI hardware",
+          "US growth / technology"
+        ],
+        "diversification": "Adds AI/semiconductor exposure and competes with existing semicap and AI-infrastructure names; avoid over-concentration.",
+        "sizing_tier": "satellite / medium"
+      },
+      "added_in_week": "2026-W32"
+    },
+    {
+      "ticker": "INTC",
+      "bucket": "quality_growth",
+      "portfolio_role": "AI/semiconductor growth satellite",
+      "complement_or_compete": "Complements defensives and energy, but competes with existing AI hardware and data-center infrastructure exposures.",
+      "angle1_macro": {
+        "regime_fit": "Secular AI and digital-infrastructure demand is supportive, but real-rate sensitivity and a semiconductor capex slowdown remain material headwinds.",
+        "drivers": [
+          "AI/data-center investment",
+          "advanced-node and accelerator demand",
+          "geopolitical and export-control regime"
+        ],
+        "sensitivity": "High sensitivity to AI capex, semiconductor cycle and long-duration growth multiples."
+      },
+      "angle2_fundamental": {
+        "summary": "Large semiconductor platform with substantial secular demand exposure; the central debate is whether growth and execution justify the current valuation.",
+        "drivers": "Product-cycle execution, data-center demand, gross-margin trajectory and foundry/architecture adoption.",
+        "valuation": "Current price $90.20 versus consensus $106.85 (18.5% upside)"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High-beta semiconductor exposure with potentially deep drawdowns in a capex or multiple-compression shock.",
+        "factor_clusters": [
+          "Semicap / AI hardware",
+          "US growth / technology"
+        ],
+        "diversification": "Adds AI/semiconductor exposure and competes with existing semicap and AI-infrastructure names; avoid over-concentration.",
+        "sizing_tier": "satellite / medium"
+      },
+      "added_in_week": "2026-W32"
+    },
+    {
+      "ticker": "NVDA",
+      "bucket": "quality_growth",
+      "portfolio_role": "AI/semiconductor growth satellite",
+      "complement_or_compete": "Complements defensives and energy, but competes with existing AI hardware and data-center infrastructure exposures.",
+      "angle1_macro": {
+        "regime_fit": "Secular AI and digital-infrastructure demand is supportive, but real-rate sensitivity and a semiconductor capex slowdown remain material headwinds.",
+        "drivers": [
+          "AI/data-center investment",
+          "advanced-node and accelerator demand",
+          "geopolitical and export-control regime"
+        ],
+        "sensitivity": "High sensitivity to AI capex, semiconductor cycle and long-duration growth multiples."
+      },
+      "angle2_fundamental": {
+        "summary": "Large semiconductor platform with substantial secular demand exposure; the central debate is whether growth and execution justify the current valuation.",
+        "drivers": "Product-cycle execution, data-center demand, gross-margin trajectory and foundry/architecture adoption.",
+        "valuation": "Current price $200.75 versus consensus $309.45 (54.1% upside)"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "High-beta semiconductor exposure with potentially deep drawdowns in a capex or multiple-compression shock.",
+        "factor_clusters": [
+          "Semicap / AI hardware",
+          "US growth / technology"
+        ],
+        "diversification": "Adds AI/semiconductor exposure and competes with existing semicap and AI-infrastructure names; avoid over-concentration.",
+        "sizing_tier": "satellite / medium"
+      },
+      "added_in_week": "2026-W32"
     }
   ],
   "factor_clusters": [
@@ -1999,7 +2123,11 @@
       "cluster": "Semicap / AI hardware",
       "members": [
         "ASM.AS",
-        "SNDK"
+        "SNDK",
+        "AMD",
+        "ARM",
+        "INTC",
+        "NVDA"
       ],
       "shared_risks": "Memory and equipment cycles are correlated to the same AI capex driver; China export controls (ASM has China revenue exposure); NAND cycle downturn; Samsung/Micron supply ramp cutting SNDK's pricing advantage",
       "concentration_warning": "2 names. ASM.AS (equipment, 17% upside, 6/10 risk) is higher quality than SNDK (memory, 2% upside, 8/10 risk). SNDK has already made its move (30x from lows, trading above targets). Trim/avoid SNDK; maintain ASM.AS as the semiconductor proxy."
@@ -2319,5 +2447,5 @@
       "TGB Florence Copper timeline verification: The input data is optimistic on Florence commissioning — need to verify that Arizona operating permit and commissioning timeline are on track, as previous delays have been significant."
     ]
   },
-  "last_synced_week": "2026-W26"
+  "last_synced_week": "2026-W32"
 }
