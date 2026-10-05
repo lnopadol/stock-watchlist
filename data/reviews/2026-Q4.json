@@ -1,0 +1,2313 @@
+{
+  "quarter": "2026-Q4",
+  "review_date": "2026-10-05",
+  "macro_context": {
+    "summary": "Q4 2026 U.S. backdrop is mixed rather than a simple disinflation or risk-on regime. The latest available readings in this refresh show core inflation at 2.4% and energy inflation at 16.3% for August, the policy rate at 4.0% as of September 16, unemployment at 4.2% for September, and five-year inflation expectations at 3.4% for September. Rising energy costs complicate the inflation path, while a softer labor market raises demand risk. For the watchlist, this supports distinguishing commodity producers from refiners, viewing capital-intensive AI/grid/nuclear names through financing and execution risk, and keeping defensive quality exposures as potential complements. This is a U.S.-focused regime read, not a full global macro forecast.",
+    "key_drivers": [
+      {
+        "driver": "Policy and inflation",
+        "level": "Policy rate 4.0% (2026-09-16); core inflation 2.4% and core inflation MoM 0.3% (2026-08-31).",
+        "implication": "Financing costs and discount rates remain relevant for long-duration and capital-intensive names; inflation relief is not broad-based."
+      },
+      {
+        "driver": "Energy prices and costs",
+        "level": "Energy inflation 16.3% (2026-08-31).",
+        "implication": "Potential nominal support for some energy producers can coexist with cost pressure for industrials, consumers and energy-intensive manufacturers; refining margins remain a separate variable."
+      },
+      {
+        "driver": "Labor and demand",
+        "level": "Unemployment 4.2% (2026-09-30), versus 4.1% previously; five-year inflation expectations 3.4% (2026-09-30).",
+        "implication": "The combination raises the risk of weaker demand while inflation expectations remain a watch item; consumer-credit, software-budget and cyclical-industrial exposures merit monitoring."
+      },
+      {
+        "driver": "Technology and infrastructure investment",
+        "level": "The watchlist remains exposed to AI compute, grid upgrades, industrial automation and nuclear power; this refresh did not update company-level capex or order data.",
+        "implication": "Treat the secular themes as potential demand drivers, not as proof of near-term growth; customer budget, backlog conversion, margins and funding must confirm the thesis."
+      }
+    ],
+    "sources": [
+      "https://www.bls.gov",
+      "http://www.federalreserve.gov/",
+      "http://www.sca.isr.umich.edu/",
+      "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html"
+    ]
+  },
+  "executive_summary": [
+    "The refreshed watchlist contains 66 tickers. Fresh quotes were available for 63; three entries were not refreshed because the connector either returned a stale quote or could not validate the requested company mapping.",
+    "The Q4 macro screen is mixed: policy remains restrictive, energy inflation is elevated, and unemployment has edged up. This favors scenario-aware sizing over assuming a uniform risk-on or risk-off regime.",
+    "Capital-intensive nuclear, semiconductor, grid and data-center themes remain structurally linked; group membership is not portfolio weight, but correlated exposures should be checked before adding names.",
+    "Energy producers and refiners may respond differently to energy-price shocks: integrated production exposure is not equivalent to refining-margin exposure.",
+    "The largest validated weekly moves were NNBR +22.89%, ASY.PA -14.57%, ASM.AS +11.86%. A one-week move is not a measure of historical volatility or drawdown.",
+    "The highest-priority review candidates were selected from positive consensus-target upside and recorded risk scores; consensus targets are not intrinsic values and the watchlist does not show position weights.",
+    "No company-specific earnings or filing refresh was performed for this quarterly run; the prior fundamental theses are carried forward and clearly labeled pending a separate operating-data review."
+  ],
+  "buckets": {
+    "thematic_structural": [
+      "AMSC",
+      "ASY.PA",
+      "CCJ",
+      "EXA.PA",
+      "IRDM",
+      "PRY.MI",
+      "TE.PA",
+      "TEA.AX",
+      "6324.T",
+      "CORZ",
+      "PNG.CVE",
+      "MRAM"
+    ],
+    "quality_growth": [
+      "ASM.AS",
+      "BWXT",
+      "HUBB",
+      "KYNCY",
+      "XYL",
+      "BSY",
+      "BMI",
+      "SQN.SW",
+      "HMS",
+      "PANW",
+      "ESTC",
+      "AXON",
+      "SYM",
+      "FIG",
+      "AMD",
+      "ARM",
+      "NVDA",
+      "INTC"
+    ],
+    "core_compounders": [
+      "GIVN.SW",
+      "NESN.SW",
+      "ROG.SW",
+      "XOM",
+      "RELX",
+      "ECL",
+      "TTE",
+      "GOOGL",
+      "SCHNEIDER",
+      "6861",
+      "VRT",
+      "IBM"
+    ],
+    "turnaround_special_situations": [
+      "OKLO",
+      "RR.L",
+      "SMR",
+      "TECN.SW",
+      "NNBR",
+      "ANA.MC",
+      "ETH",
+      "LMND",
+      "PYPL"
+    ],
+    "cyclicals": [
+      "SEZL",
+      "SNDK",
+      "TGB",
+      "FLEX",
+      "VLO",
+      "MPC",
+      "MT",
+      "APAM.AS",
+      "NHY.OL",
+      "VOE.VI",
+      "CMC",
+      "NOKIA",
+      "BIDU"
+    ],
+    "deep_value": [
+      "SU"
+    ],
+    "income_plays": [
+      "ALGID"
+    ],
+    "defensives": []
+  },
+  "by_ticker": [
+    {
+      "ticker": "AMSC",
+      "bucket": "thematic_structural",
+      "portfolio_role": "US grid-power resiliency / AI data center optionality; naval propulsion niche",
+      "complement_or_compete": "Factor overlap to monitor: HUBB, PRY.MI, SCHNEIDER, VRT. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Electrification, grid reliability and data-center buildout are structural demand drivers, while 4.0% rates, elevated energy inflation and industrial customer budgets create financing and project-timing risk.",
+        "drivers": [
+          "Grid and data-center capex",
+          "Project backlog conversion",
+          "Copper, steel and labor costs"
+        ],
+        "sensitivity": "Sensitive to capital spending and project execution; secular demand is not a guarantee of near-term orders or margin conversion."
+      },
+      "angle2_fundamental": {
+        "summary": "Revenue +43% annual, debt-free, FCF positive, recent $85M backlog from Comtrafo. Naval contracts provide government-backed revenue floor. Margins tied to project mix, not recurring subscriptions.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Grid/marine revenue ramp; Q1 2026 earnings (>$80M rev expected); Comtrafo integration margin contribution",
+        "valuation": "Latest quote $30.01 versus current analyst consensus target $53.50; implied upside is 78.27%. Dashboard verdict: Attractively Priced. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +0.00%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 8/10 (carried forward).",
+        "factor_clusters": [
+          "Grid / electrification / data-center power"
+        ],
+        "diversification": "Shared watchlist factor exposure with HUBB, PRY.MI, SCHNEIDER, VRT; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "small / option-like; cap single-name risk"
+      }
+    },
+    {
+      "ticker": "ASM.AS",
+      "bucket": "quality_growth",
+      "portfolio_role": "Pure-play on AI semiconductor equipment cycle (ALD/epitaxy for 2nm/GAA nodes); highest-quality semicap name in list",
+      "complement_or_compete": "Factor overlap to monitor: AMD, ARM, FLEX, INTC, KYNCY, MRAM, NVDA, SNDK. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Compute, memory and equipment remain exposed to AI and digital-infrastructure demand, but a 4.0% policy rate raises the valuation hurdle and the semiconductor cycle can amplify changes in customer capex.",
+        "drivers": [
+          "AI/data-center investment",
+          "Semiconductor inventory and pricing cycle",
+          "Rates and export restrictions"
+        ],
+        "sensitivity": "High factor sensitivity to technology capex and valuation multiples; memory, equipment, IP and diversified electronics have distinct end-market risks."
+      },
+      "angle2_fundamental": {
+        "summary": "Leader in ALD, the most critical deposition technology for sub-3nm nodes. Dominant customer relationships with TSMC, Samsung, Intel. Strong order book into H2 2026. Premium P/E reflects quality of moat.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q2 revenue guide €980M ±5%; memory recovery H2 2026; 1.4nm node pilot ramp; AI infrastructure expansion",
+        "valuation": "Latest quote €944.80 versus stored dashboard target €950; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +11.86%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 6/10 (carried forward).",
+        "factor_clusters": [
+          "Semiconductors / AI hardware"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMD, ARM, FLEX, INTC, KYNCY, MRAM, NVDA, SNDK; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "ASY.PA",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Nuclear engineering services; European defense infrastructure play; concentrated exposure to French nuclear program",
+      "complement_or_compete": "Factor overlap to monitor: BWXT, CCJ, EXA.PA, OKLO, PNG.CVE, RR.L, SMR. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Engineering and infrastructure demand may benefit from energy-security and nuclear investment, but a 4.0% policy rate and elevated energy inflation raise project-financing, input-cost and execution risks.",
+        "drivers": [
+          "Energy-system investment",
+          "Project financing and execution",
+          "Elevated energy input costs"
+        ],
+        "sensitivity": "Sensitive to customer capex timing and fixed-price delivery; defense and energy projects may diversify but do not eliminate cyclicality."
+      },
+      "angle2_fundamental": {
+        "summary": "Stable long-term engineering contracts with nuclear utilities and government bodies. Q1 2026 revenue growth confirmed. Dividend declared. Limited analyst coverage creates price discovery inefficiency.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q2 2026 earnings (July); nuclear project wins; European infrastructure spending updates",
+        "valuation": "Latest quote €34.00 versus stored dashboard target €48; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -14.57%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 6/10 (carried forward).",
+        "factor_clusters": [
+          "Nuclear / uranium",
+          "Defense / aerospace / maritime"
+        ],
+        "diversification": "Shared watchlist factor exposure with BWXT, CCJ, EXA.PA, OKLO, PNG.CVE, RR.L, SMR; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "BWXT",
+      "bucket": "quality_growth",
+      "portfolio_role": "Highest-quality nuclear name in list; US government-backed naval nuclear and SMR exposure; pricing power via sole-source contracts",
+      "complement_or_compete": "Factor overlap to monitor: ASY.PA, CCJ, OKLO, SMR. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Capital-intensive nuclear and uranium exposure combines an energy-security tailwind with a funding and delivery hurdle: the policy rate is 4.0%, while the latest reported energy inflation remains elevated. The timing of customer commitments, fuel availability and licensing matters more than theme enthusiasm.",
+        "drivers": [
+          "4.0% policy rate and capital cost",
+          "Energy-price volatility",
+          "Project, permit and fuel-cycle timelines"
+        ],
+        "sensitivity": "High sensitivity to long-duration valuations, financing conditions and project execution; established contractors and uranium producers have different risk than pre-revenue developers."
+      },
+      "angle2_fundamental": {
+        "summary": "Backlog visibility through 2026+. Sole-source manufacturer for US naval nuclear components — genuine moat. SMR commercialization adds long-term optionality but is not near-term revenue. Q1 2026 earnings May 4.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Naval contract awards; SMR commercial progress; AI/data center nuclear fuel deals",
+        "valuation": "Latest quote $134.86 versus stored dashboard target $212.83; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -2.61%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 4/10 (carried forward).",
+        "factor_clusters": [
+          "Nuclear / uranium"
+        ],
+        "diversification": "Shared watchlist factor exposure with ASY.PA, CCJ, OKLO, SMR; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      }
+    },
+    {
+      "ticker": "CCJ",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Uranium supply bellwether; Westinghouse stake adds fuel cycle diversification; nuclear renaissance pure-play",
+      "complement_or_compete": "Factor overlap to monitor: ASY.PA, BWXT, OKLO, SMR. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Capital-intensive nuclear and uranium exposure combines an energy-security tailwind with a funding and delivery hurdle: the policy rate is 4.0%, while the latest reported energy inflation remains elevated. The timing of customer commitments, fuel availability and licensing matters more than theme enthusiasm.",
+        "drivers": [
+          "4.0% policy rate and capital cost",
+          "Energy-price volatility",
+          "Project, permit and fuel-cycle timelines"
+        ],
+        "sensitivity": "High sensitivity to long-duration valuations, financing conditions and project execution; established contractors and uranium producers have different risk than pre-revenue developers."
+      },
+      "angle2_fundamental": {
+        "summary": "World's largest public uranium company. Tier-1 assets (McArthur River, Cigar Lake). Westinghouse stake generating stable EBITDA. Long-term contract book provides revenue visibility. Strong balance sheet.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Westinghouse distributions; long-term contracting momentum; uranium spot recovery; Q1 2026 earnings May 20",
+        "valuation": "Latest quote $85.18 versus current analyst consensus target $137.03; implied upside is 60.87%. Dashboard verdict: Attractively Priced. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -3.28%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 7/10 (carried forward).",
+        "factor_clusters": [
+          "Nuclear / uranium"
+        ],
+        "diversification": "Shared watchlist factor exposure with ASY.PA, BWXT, OKLO, SMR; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "EXA.PA",
+      "bucket": "thematic_structural",
+      "portfolio_role": "European defense robotics and maritime drone play; quantum/photonics optionality; direct beneficiary of European rearmament",
+      "complement_or_compete": "Factor overlap to monitor: ASY.PA, PNG.CVE, RR.L. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Defense, aerospace and maritime infrastructure can be supported by multi-year procurement and security priorities; the macro counterweight is financing pressure, budget constraints and uneven commercial demand.",
+        "drivers": [
+          "Government procurement and backlog",
+          "Commercial aerospace/industrial demand",
+          "Project execution and budgets"
+        ],
+        "sensitivity": "Moderate sensitivity to industrial conditions but high exposure to program timing, contract execution and customer concentration."
+      },
+      "angle2_fundamental": {
+        "summary": "Transition to profitability with positive EPS now established. Revenue up 40% Q1 2026, 52% Q2 2025. Massive order surge (519% Q1 2025) validates future revenue pipeline. €1.1B backlog is ~5x recent annual revenue. Defense orders have long tails.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Continued defense order intake; Q1 2026 revenue results; new navy contracts; European rearmament program acceleration",
+        "valuation": "Latest quote €124.20 versus stored dashboard target €155; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -0.24%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 7/10 (carried forward).",
+        "factor_clusters": [
+          "Defense / aerospace / maritime"
+        ],
+        "diversification": "Shared watchlist factor exposure with ASY.PA, PNG.CVE, RR.L; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "GIVN.SW",
+      "bucket": "core_compounders",
+      "portfolio_role": "Swiss quality compounder; world's largest flavors and fragrances company; defensive growth with pricing power and CHF tailwind",
+      "complement_or_compete": "Factor overlap to monitor: NESN.SW, ROG.SW, SQN.SW, TECN.SW. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Quality, healthcare and consumer franchises can stabilize a cyclical watchlist as U.S. employment softens; energy-driven input inflation and cross-border currency translation remain relevant.",
+        "drivers": [
+          "Defensive demand and pricing power",
+          "Energy and input costs",
+          "Foreign-exchange translation"
+        ],
+        "sensitivity": "Generally lower macro cyclicality than small-cap or capex themes, with company-specific product, regulatory and currency risks still material."
+      },
+      "angle2_fundamental": {
+        "summary": "World's largest flavors and fragrances company. EBITDA margins ~23-24%. Consistent free cash flow. Defensive demand (ingredients in everyday consumer products — cannot be disrupted). Q1 2026 sales results expected April 2026.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q1 2026 sales (April 2026 — catalyst near-term); 2030 strategy LFL 4-6% growth; potential M&A in active beauty",
+        "valuation": "Latest quote CHF 3,360.00 versus stored dashboard target 4,158 CHF; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -2.52%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 3/10 (carried forward).",
+        "factor_clusters": [
+          "Swiss quality / healthcare / defensives"
+        ],
+        "diversification": "Shared watchlist factor exposure with NESN.SW, ROG.SW, SQN.SW, TECN.SW; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      }
+    },
+    {
+      "ticker": "HUBB",
+      "bucket": "quality_growth",
+      "portfolio_role": "US electrical grid infrastructure compounder; AI/data center electrification demand beneficiary; high FCF conversion",
+      "complement_or_compete": "Factor overlap to monitor: AMSC, PRY.MI, SCHNEIDER, VRT. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Electrification, grid reliability and data-center buildout are structural demand drivers, while 4.0% rates, elevated energy inflation and industrial customer budgets create financing and project-timing risk.",
+        "drivers": [
+          "Grid and data-center capex",
+          "Project backlog conversion",
+          "Copper, steel and labor costs"
+        ],
+        "sensitivity": "Sensitive to capital spending and project execution; secular demand is not a guarantee of near-term orders or margin conversion."
+      },
+      "angle2_fundamental": {
+        "summary": "High-quality industrials compounder. 90% FCF conversion, consistent margin expansion, vertical integration in wiring products. Q1 2026 earnings April 30 (EPS $3.87 expected, rev $1.51B). Multi-year structural demand from grid modernization.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q1 2026 results (April 30 — imminent); grid modernization contracts; AI/data center demand",
+        "valuation": "Latest quote $475.52 versus current analyst consensus target $550.71; implied upside is 15.81%. Dashboard verdict: Reasonably Priced. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +1.91%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 4/10 (carried forward).",
+        "factor_clusters": [
+          "Grid / electrification / data-center power"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMSC, PRY.MI, SCHNEIDER, VRT; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      }
+    },
+    {
+      "ticker": "IRDM",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Global satellite communications monopoly (pole-to-pole LEO coverage); DoD/government recurring revenue base; Project Stardust NTN D2D optionality",
+      "complement_or_compete": "Factor overlap to monitor: BIDU, CORZ, NNBR. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Satellite communications demand is strategically durable, but government procurement, commercial subscriber growth and the 4.0% discount-rate backdrop affect long-duration valuation.",
+        "drivers": [
+          "Government and commercial contracts",
+          "Subscriber and service growth",
+          "Capital intensity and rates"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to contract concentration and capital intensity; valuation and execution remain important despite recurring service revenue."
+      },
+      "angle2_fundamental": {
+        "summary": "Unique global coverage moat — only LEO constellation covering poles. DoD dependence provides revenue floor. FCF supports dividend despite high leverage. Project Stardust is the key optionality event. Bears: Starlink threat is real on IoT/consumer; debt load limits financial flexibility.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Project Stardust launch (2026); DoD contract renewals; IoT subscriber growth; Q2 2026 earnings",
+        "valuation": "Latest quote $48.96 versus current analyst consensus target $38.40; implied upside is -21.57%. Dashboard verdict: Overvalued. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +0.43%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 7/10 (carried forward).",
+        "factor_clusters": [
+          "High-beta / special situations"
+        ],
+        "diversification": "Shared watchlist factor exposure with BIDU, CORZ, NNBR; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "NESN.SW",
+      "bucket": "core_compounders",
+      "portfolio_role": "Defensive Swiss blue-chip staples; coffee/pet food pricing power; multi-decade dividend grower; CHF safe-haven exposure",
+      "complement_or_compete": "Factor overlap to monitor: GIVN.SW, ROG.SW, SQN.SW, TECN.SW. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Quality, healthcare and consumer franchises can stabilize a cyclical watchlist as U.S. employment softens; energy-driven input inflation and cross-border currency translation remain relevant.",
+        "drivers": [
+          "Defensive demand and pricing power",
+          "Energy and input costs",
+          "Foreign-exchange translation"
+        ],
+        "sensitivity": "Generally lower macro cyclicality than small-cap or capex themes, with company-specific product, regulatory and currency risks still material."
+      },
+      "angle2_fundamental": {
+        "summary": "Q1 2026 organic growth +3.5% beats expectations. Volume (RIG +1.2%) recovering. Portfolio simplification under new management. 39-year dividend growth streak. CHF 90B annual revenue — impossible to replicate.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q2 2026 earnings (July); infant formula recall resolution; margin expansion to 17%+ UTOP; potential divestiture of underperforming units",
+        "valuation": "Latest quote CHF 74.78 versus stored dashboard target CHF87-88; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -3.10%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 2/10 (carried forward).",
+        "factor_clusters": [
+          "Swiss quality / healthcare / defensives"
+        ],
+        "diversification": "Shared watchlist factor exposure with GIVN.SW, ROG.SW, SQN.SW, TECN.SW; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      }
+    },
+    {
+      "ticker": "OKLO",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "High-optionality pre-revenue nuclear startup; Aurora fast-fission reactor for AI data centers; fuel recycling technology differentiation",
+      "complement_or_compete": "Factor overlap to monitor: ASY.PA, BWXT, CCJ, SMR. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Capital-intensive nuclear and uranium exposure combines an energy-security tailwind with a funding and delivery hurdle: the policy rate is 4.0%, while the latest reported energy inflation remains elevated. The timing of customer commitments, fuel availability and licensing matters more than theme enthusiasm.",
+        "drivers": [
+          "4.0% policy rate and capital cost",
+          "Energy-price volatility",
+          "Project, permit and fuel-cycle timelines"
+        ],
+        "sensitivity": "High sensitivity to long-duration valuations, financing conditions and project execution; established contractors and uranium producers have different risk than pre-revenue developers."
+      },
+      "angle2_fundamental": {
+        "summary": "Pre-revenue. Aurora SMR design (15-75 MW). Fuel recycling using DoE-held used fuel is the key technological differentiation and potential cost advantage. No revenue until 2027+. Meta PPA validates commercial interest. Q1 2026 earnings may provide timeline updates.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "NRC approval Phase 1/2 timing; first Aurora deployment milestones; new data center PPAs",
+        "valuation": "Latest quote $35.87 versus current analyst consensus target $83.71; implied upside is 133.37%. Dashboard verdict: Attractively Priced. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -5.70%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 9/10 (carried forward).",
+        "factor_clusters": [
+          "Nuclear / uranium"
+        ],
+        "diversification": "Shared watchlist factor exposure with ASY.PA, BWXT, CCJ, SMR; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "small / option-like; cap single-name risk"
+      }
+    },
+    {
+      "ticker": "PRY.MI",
+      "bucket": "thematic_structural",
+      "portfolio_role": "European cable leader; offshore wind and grid-upgrade beneficiary; 5G infrastructure exposure",
+      "complement_or_compete": "Factor overlap to monitor: AMSC, HUBB, SCHNEIDER, VRT. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Electrification, grid reliability and data-center buildout are structural demand drivers, while 4.0% rates, elevated energy inflation and industrial customer budgets create financing and project-timing risk.",
+        "drivers": [
+          "Grid and data-center capex",
+          "Project backlog conversion",
+          "Copper, steel and labor costs"
+        ],
+        "sensitivity": "Sensitive to capital spending and project execution; secular demand is not a guarantee of near-term orders or margin conversion."
+      },
+      "angle2_fundamental": {
+        "summary": "Leader in high-demand cables for energy transition. Revenue €19.65B TTM, net income €1.27B. Strong order backlog from electrification megatrend. But stock is trading 10% ABOVE consensus target — markets have already priced in the thesis.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q1 2026 earnings (late April — imminent); new submarine cable contracts; copper price trajectory",
+        "valuation": "Latest quote €129.80 versus stored dashboard target €113; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +6.05%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 6/10 (carried forward).",
+        "factor_clusters": [
+          "Grid / electrification / data-center power"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMSC, HUBB, SCHNEIDER, VRT; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "ROG.SW",
+      "bucket": "core_compounders",
+      "portfolio_role": "Swiss pharma/diagnostics blue-chip; 39-year dividend streak; obesity drug pipeline (CT-388) as optionality; defensive healthcare anchor",
+      "complement_or_compete": "Factor overlap to monitor: GIVN.SW, NESN.SW, SQN.SW, TECN.SW. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Quality, healthcare and consumer franchises can stabilize a cyclical watchlist as U.S. employment softens; energy-driven input inflation and cross-border currency translation remain relevant.",
+        "drivers": [
+          "Defensive demand and pricing power",
+          "Energy and input costs",
+          "Foreign-exchange translation"
+        ],
+        "sensitivity": "Generally lower macro cyclicality than small-cap or capex themes, with company-specific product, regulatory and currency risks still material."
+      },
+      "angle2_fundamental": {
+        "summary": "Swiss pharma leader with dual pharma + diagnostics platform. DCF fair value estimates CHF 358-430 with current at CHF 327 — 10%+ upside. 39-year dividend growth streak unbroken. Pipeline: 10+ Phase III datasets in 2026. CT-388 obesity is the transformative optionality.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "CT-388 Phase III initiation; fenebrutinib regulatory filings; Gazyva expansions; Q2 2026 earnings",
+        "valuation": "No validated fresh quote was available for this ticker in the Q4 refresh; the displayed price and target comparison are carried forward and should not be treated as a current valuation signal.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "No validated fresh weekly quote was available; historical volatility and maximum drawdown were not recalculated. Recorded dashboard risk score: 3/10 (carried forward).",
+        "factor_clusters": [
+          "Swiss quality / healthcare / defensives"
+        ],
+        "diversification": "Shared watchlist factor exposure with GIVN.SW, NESN.SW, SQN.SW, TECN.SW; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      }
+    },
+    {
+      "ticker": "RR.L",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "UK aerospace and defense turnaround; civil aviation aftermarket recovery; SMR exposure in New Markets division; European defense budget tailwind",
+      "complement_or_compete": "Factor overlap to monitor: ASY.PA, EXA.PA, PNG.CVE. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Defense, aerospace and maritime infrastructure can be supported by multi-year procurement and security priorities; the macro counterweight is financing pressure, budget constraints and uneven commercial demand.",
+        "drivers": [
+          "Government procurement and backlog",
+          "Commercial aerospace/industrial demand",
+          "Project execution and budgets"
+        ],
+        "sensitivity": "Moderate sensitivity to industrial conditions but high exposure to program timing, contract execution and customer concentration."
+      },
+      "angle2_fundamental": {
+        "summary": "Post-turnaround with record FCF, £2.5B+ buyback program, and debt reduction underway. Civil aerospace aftermarket driving revenue recovery. Q1 earnings, buyback execution, and flying-hours data are near-term catalysts. Three Buys (JPM GBX1,500, DB GBX1,550, Jefferies GBX1,530) with 22.7% upside.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q1 earnings; civil flying hours data; buyback execution; new defense/power contracts",
+        "valuation": "Latest quote £14.77 versus stored dashboard target GBX 1,386; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -0.28%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 6/10 (carried forward).",
+        "factor_clusters": [
+          "Defense / aerospace / maritime"
+        ],
+        "diversification": "Shared watchlist factor exposure with ASY.PA, EXA.PA, PNG.CVE; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "SEZL",
+      "bucket": "cyclicals",
+      "portfolio_role": "High-ROE fintech BNPL-to-ecosystem play; US consumer spending proxy; subscription-based revenue transition differentiates from pure BNPL peers",
+      "complement_or_compete": "Factor overlap to monitor: LMND, PYPL. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Consumer and digital-finance businesses face a mixed regime: rates can support some financial spreads, while rising unemployment expectations and 4.2% reported unemployment increase credit, customer-retention and risk-appetite concerns.",
+        "drivers": [
+          "Employment and consumer health",
+          "Funding costs and credit quality",
+          "Risk appetite and equity multiples"
+        ],
+        "sensitivity": "High sensitivity to customer acquisition, losses and funding conditions; regulatory and underwriting execution dominate broad macro tailwinds."
+      },
+      "angle2_fundamental": {
+        "summary": "ROE ~90% — exceptional capital efficiency. Transition from pure BNPL to subscription fintech ecosystem. Q4 2025 beat with upward guidance revisions. Revenue growth 25-30% expected 2026. P/E 21.49x reasonable for growth fintech. Credit losses kept low at ~2% GMV via unique underwriting.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q1/Q2 2026 earnings; subscription GMV expansion; long-term lending partnerships rollout",
+        "valuation": "Latest quote $107.41 versus current analyst consensus target $158.60; implied upside is 47.66%. Dashboard verdict: Attractively Priced. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -3.56%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 7/10 (carried forward).",
+        "factor_clusters": [
+          "Consumer finance / insurtech"
+        ],
+        "diversification": "Shared watchlist factor exposure with LMND, PYPL; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "SMR",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "Only NRC-certified SMR designer; first-mover advantage in modular nuclear; ENTRA1/TVA 6 GW program is the commercial anchor",
+      "complement_or_compete": "Factor overlap to monitor: ASY.PA, BWXT, CCJ, OKLO. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Capital-intensive nuclear and uranium exposure combines an energy-security tailwind with a funding and delivery hurdle: the policy rate is 4.0%, while the latest reported energy inflation remains elevated. The timing of customer commitments, fuel availability and licensing matters more than theme enthusiasm.",
+        "drivers": [
+          "4.0% policy rate and capital cost",
+          "Energy-price volatility",
+          "Project, permit and fuel-cycle timelines"
+        ],
+        "sensitivity": "High sensitivity to long-duration valuations, financing conditions and project execution; established contractors and uranium producers have different risk than pre-revenue developers."
+      },
+      "angle2_fundamental": {
+        "summary": "NRC-certified — the only SMR with regulatory approval in the US. ENTRA1/TVA 6 GW program is the commercial anchor. Pre-revenue with ongoing losses and equity dilution risk. 50.2% upside to consensus but Citi at Sell $9, Goldman Neutral $14 are strong contrarian voices.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "TVA/ENTRA1 program advancement; first manufacturing readiness; new data center/hydrogen contracts",
+        "valuation": "Latest quote $7.75 versus current analyst consensus target $14.61; implied upside is 88.52%. Dashboard verdict: Attractively Priced. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -7.90%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 9/10 (carried forward).",
+        "factor_clusters": [
+          "Nuclear / uranium"
+        ],
+        "diversification": "Shared watchlist factor exposure with ASY.PA, BWXT, CCJ, OKLO; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "small / option-like; cap single-name risk"
+      }
+    },
+    {
+      "ticker": "SNDK",
+      "bucket": "cyclicals",
+      "portfolio_role": "NAND flash memory supercycle play; AI data center storage demand; High Bandwidth Flash (HBF) next-gen differentiation",
+      "complement_or_compete": "Factor overlap to monitor: AMD, ARM, ASM.AS, FLEX, INTC, KYNCY, MRAM, NVDA. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Compute, memory and equipment remain exposed to AI and digital-infrastructure demand, but a 4.0% policy rate raises the valuation hurdle and the semiconductor cycle can amplify changes in customer capex.",
+        "drivers": [
+          "AI/data-center investment",
+          "Semiconductor inventory and pricing cycle",
+          "Rates and export restrictions"
+        ],
+        "sensitivity": "High factor sensitivity to technology capex and valuation multiples; memory, equipment, IP and diversified electronics have distinct end-market risks."
+      },
+      "angle2_fundamental": {
+        "summary": "Largest public NAND flash company. Gross margins expanding toward 65-67%. Upcoming HBF technology with SK Hynix could open new markets. Stock up 30x from lows — multiple compression now the key risk. Q3 FY2026 earnings April 30 (rev guide $4.4-4.8B is the key data point).\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q3 FY2026 earnings (April 30 — imminently important); HBF engineering samples; Nasdaq-100 inclusion momentum",
+        "valuation": "Latest quote $1,719.99 versus stored dashboard target $1,952; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -3.25%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 8/10 (carried forward).",
+        "factor_clusters": [
+          "Semiconductors / AI hardware"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMD, ARM, ASM.AS, FLEX, INTC, KYNCY, MRAM, NVDA; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "small / option-like; cap single-name risk"
+      }
+    },
+    {
+      "ticker": "SU",
+      "bucket": "deep_value",
+      "portfolio_role": "Canadian integrated oil sands value play; oil at $101+ = significant free cash flow generation; buybacks + dividend policy; Syncrude optimization upside",
+      "complement_or_compete": "Factor overlap to monitor: TTE, XOM. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Integrated and upstream energy exposure can hedge renewed energy inflation, but weaker employment or slower growth can reduce demand and an energy-price reversal can quickly remove the tailwind.",
+        "drivers": [
+          "Energy inflation",
+          "Global demand and margins",
+          "Policy and transition risk"
+        ],
+        "sensitivity": "High sensitivity to commodity prices and the growth/inflation mix; diversification across refining, production and low-carbon activities varies by issuer."
+      },
+      "angle2_fundamental": {
+        "summary": "Canadian integrated oil leader. Multiple analysts at Buy (JPM C$105, Goldman $73, RBC C$100) with 42.7% upside — the second-largest upside among non-pre-revenue names after TECN. Operational improvements under new leadership. Syncrude optimization adding production. Buyback program active.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q1 2026 earnings (May 6 — specific near-term catalyst); oil price trajectory; Syncrude production data",
+        "valuation": "Latest quote $69.56 versus current analyst consensus target $81.00; implied upside is 16.45%. Dashboard verdict: Reasonably Priced. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +2.01%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 4/10 (carried forward).",
+        "factor_clusters": [
+          "Energy producers"
+        ],
+        "diversification": "Shared watchlist factor exposure with TTE, XOM; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      }
+    },
+    {
+      "ticker": "TE.PA",
+      "bucket": "thematic_structural",
+      "portfolio_role": "LNG/hydrogen/CCUS engineering and technology leader; energy transition services; strong backlog and cash generation",
+      "complement_or_compete": "Factor overlap to monitor: 6324.T, 6861, BMI, ECL, ETH, HMS, SYM, TEA.AX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Industrial automation, water, connectivity and engineering benefit from long-run productivity and infrastructure investment, but the 4.0% policy rate and elevated energy inflation can delay customer capex and pressure project margins.",
+        "drivers": [
+          "Customer capex and order conversion",
+          "Energy/input costs",
+          "Labor availability and productivity"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company."
+      },
+      "angle2_fundamental": {
+        "summary": "Revenue €7.2B, EBITDA €638M, backlog €16B. Forward P/E 14.6 attractive vs sector peers. €3.7B cash = fortress balance sheet. Q1 2026 earnings April 30 (imminent). Buy signal active per input data.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q1 2026 earnings (April 30 — today/imminent); LNG contract awards; hydrogen/CCUS projects",
+        "valuation": "Latest quote €28.04 versus stored dashboard target €43.21; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -2.50%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 6/10 (carried forward).",
+        "factor_clusters": [
+          "Industrial automation / water / connectivity"
+        ],
+        "diversification": "Shared watchlist factor exposure with 6324.T, 6861, BMI, ECL, ETH, HMS, SYM, TEA.AX and others; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "TEA.AX",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Australian maintenance/engineering services to mining and oil & gas; serial acquirer; operational leverage to commodity cycle",
+      "complement_or_compete": "Factor overlap to monitor: 6324.T, 6861, BMI, ECL, ETH, HMS, SYM, TE.PA. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Industrial automation, water, connectivity and engineering benefit from long-run productivity and infrastructure investment, but the 4.0% policy rate and elevated energy inflation can delay customer capex and pressure project margins.",
+        "drivers": [
+          "Customer capex and order conversion",
+          "Energy/input costs",
+          "Labor availability and productivity"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company."
+      },
+      "angle2_fundamental": {
+        "summary": "Revenue growth 72% FY23-25. ROE 25-29%. Serial acquirer in non-discretionary maintenance services. Bear: 29x P/E vs sector ~16x, elevated post-acquisition debt (gearing ~65%). Trading ABOVE consensus target (−11.9% downside to mean).\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "M&A execution; FY26 earnings growth from revenue scaling; mining/oil upcycle",
+        "valuation": "Latest quote A$11.10 versus stored dashboard target A$4.96; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "valuation vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +4.72%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 6/10 (carried forward).",
+        "factor_clusters": [
+          "Industrial automation / water / connectivity"
+        ],
+        "diversification": "Shared watchlist factor exposure with 6324.T, 6861, BMI, ECL, ETH, HMS, SYM, TE.PA and others; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "TECN.SW",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "Swiss lab automation compounder in recovery; biopharma instrument demand rebound play; CHF defensive growth",
+      "complement_or_compete": "Factor overlap to monitor: GIVN.SW, NESN.SW, ROG.SW, SQN.SW. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Quality, healthcare and consumer franchises can stabilize a cyclical watchlist as U.S. employment softens; energy-driven input inflation and cross-border currency translation remain relevant.",
+        "drivers": [
+          "Defensive demand and pricing power",
+          "Energy and input costs",
+          "Foreign-exchange translation"
+        ],
+        "sensitivity": "Generally lower macro cyclicality than small-cap or capex themes, with company-specific product, regulatory and currency risks still material."
+      },
+      "angle2_fundamental": {
+        "summary": "Lab automation leader with ~CHF 25B TAM. Revenue in recovery phase — channel checks suggest stabilization. 11x EV/EBITDA when measured against biopharma sector peers (typically 18-25x). Multiple Buy initiations at CHF 166-221 vs current CHF 117. The gap is extraordinary for a profitable Swiss compounder.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Biopharma instrument recovery; China stabilization; new product ramp; Q2/H2 2026 earnings beats",
+        "valuation": "Latest quote CHF 231.20 versus stored dashboard target CHF 190-220; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +3.58%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Swiss quality / healthcare / defensives"
+        ],
+        "diversification": "Shared watchlist factor exposure with GIVN.SW, NESN.SW, ROG.SW, SQN.SW; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "TGB",
+      "bucket": "cyclicals",
+      "portfolio_role": "Pure-play copper miner with Florence ISR project doubling output potential; leveraged to green energy transition copper demand; speculative upside on project delivery",
+      "complement_or_compete": "Factor overlap to monitor: APAM.AS, CMC, MT, NHY.OL, VOE.VI. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Metals and mining exposure is a partial inflation hedge, but energy costs and softer industrial activity can offset nominal commodity support; trade policy and end-market supply/demand remain pivotal.",
+        "drivers": [
+          "Commodity prices and industrial demand",
+          "Energy and smelting costs",
+          "Trade and capacity cycles"
+        ],
+        "sensitivity": "High sensitivity to the industrial cycle and product-specific prices; elevated energy inflation can squeeze producers even when nominal commodity prices rise."
+      },
+      "angle2_fundamental": {
+        "summary": "Florence Copper could double output to ~150M lbs Cu/year by 2027 at low cost (ISR method — minimal capital, low operating cost). Gibraltar is the cash-flow base. 60.6% upside to consensus. No P/E (mining EV/EBITDA framework). Q1 production results are the key near-term catalyst.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Florence Copper commissioning timeline; Q1 2026 Gibraltar/Florence production output; copper price trajectory",
+        "valuation": "No validated fresh quote was available for this ticker in the Q4 refresh; the displayed price and target comparison are carried forward and should not be treated as a current valuation signal.",
+        "tag": "valuation compensates for risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "No validated fresh weekly quote was available; historical volatility and maximum drawdown were not recalculated. Recorded dashboard risk score: 8/10 (carried forward).",
+        "factor_clusters": [
+          "Metals / materials"
+        ],
+        "diversification": "Shared watchlist factor exposure with APAM.AS, CMC, MT, NHY.OL, VOE.VI; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "small / option-like; cap single-name risk"
+      }
+    },
+    {
+      "ticker": "XOM",
+      "bucket": "core_compounders",
+      "portfolio_role": "Integrated energy blue-chip; Permian growth engine; 40+ year dividend streak; defensive energy anchor",
+      "complement_or_compete": "Factor overlap to monitor: SU, TTE. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Integrated and upstream energy exposure can hedge renewed energy inflation, but weaker employment or slower growth can reduce demand and an energy-price reversal can quickly remove the tailwind.",
+        "drivers": [
+          "Energy inflation",
+          "Global demand and margins",
+          "Policy and transition risk"
+        ],
+        "sensitivity": "High sensitivity to commodity prices and the growth/inflation mix; diversification across refining, production and low-carbon activities varies by issuer."
+      },
+      "angle2_fundamental": {
+        "summary": "One of the world's largest companies. Risk score 2/10. Pioneer acquisition now producing free cash flow. 40+ year dividend streak. JPM/MS Buy at $170-171 vs current ~$163-165 = modest upside but that understates the quality premium. No urgent catalyst near-term.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Q1 2026 earnings; oil price trajectory; Permian production update; low-carbon project milestones",
+        "valuation": "Latest quote $164.01 versus current analyst consensus target $171.00; implied upside is 4.26%. Dashboard verdict: Reasonably Priced. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "fundamentals lead valuation"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +2.15%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 2/10 (carried forward).",
+        "factor_clusters": [
+          "Energy producers"
+        ],
+        "diversification": "Shared watchlist factor exposure with SU, TTE; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      }
+    },
+    {
+      "ticker": "NNBR",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "Micro-cap precision components turnaround with emerging Electric Grid and Data Center exposure; high-risk/high-reward execution bet on portfolio pivot from legacy automotive.",
+      "complement_or_compete": "Factor overlap to monitor: BIDU, CORZ, IRDM. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "The latest U.S. mix of a 4.0% policy rate, elevated energy inflation and 4.2% unemployment makes the macro backdrop mixed rather than uniformly risk-on. Company-specific demand and execution should dominate broad regime assumptions.",
+        "drivers": [
+          "Policy rates and funding costs",
+          "Energy/input costs",
+          "Employment and customer demand"
+        ],
+        "sensitivity": "Sensitivity depends on end markets, pricing power and balance-sheet capacity; current macro data are not a substitute for company-level operating updates."
+      },
+      "angle2_fundamental": {
+        "summary": "2025 net sales $422.2M with GAAP net loss. 2026 guidance $445-465M, tracking toward top half. Single analyst (B. Riley Buy/$3 target vs $2.46 current). The new business win rate is the key operational metric — Q1 was strong at $43M in awards. Heavy leverage constrains financial flexibility.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "New program launch velocity; Electric Grid contract ramps; margin recovery as automotive volume decline stabilizes and higher-margin data center parts scale.",
+        "valuation": "Latest quote $4.51 versus current analyst consensus target $3.00; implied upside is -33.48%. Dashboard verdict: Overvalued. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "compensating"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +22.89%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "High-beta / special situations"
+        ],
+        "diversification": "Shared watchlist factor exposure with BIDU, CORZ, IRDM; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "ALGID",
+      "bucket": "income_plays",
+      "portfolio_role": "Regulated utility income compounder; low-beta ballast providing utility-sector exposure and a predictable 2-3% dividend yield with 5-6% annual rate-base growth.",
+      "complement_or_compete": "Factor overlap to monitor: no close name identified. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "The latest U.S. mix of a 4.0% policy rate, elevated energy inflation and 4.2% unemployment makes the macro backdrop mixed rather than uniformly risk-on. Company-specific demand and execution should dominate broad regime assumptions.",
+        "drivers": [
+          "Policy rates and funding costs",
+          "Energy/input costs",
+          "Employment and customer demand"
+        ],
+        "sensitivity": "Sensitivity depends on end markets, pricing power and balance-sheet capacity; current macro data are not a substitute for company-level operating updates."
+      },
+      "angle2_fundamental": {
+        "summary": "2025 adjusted EPS $0.34/share (+13% YoY). 2026 guidance $0.35-0.37, 2027 guidance $0.38-0.42. Rate base CAGR 5-6% through 2028 on $3.2B capex. Dividend $0.065/quarter. Balance sheet substantially cleaner post renewable asset sales — debt/equity improving.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Utility rate case cycle in 2026-2027 across 4+ jurisdictions; June 2026 debt refinancing execution; Q1-Q2 2026 regulatory settlement approvals.",
+        "valuation": "Latest quote $5.10 versus stored dashboard target $6.92; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +2.00%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 3/10 (carried forward).",
+        "factor_clusters": [],
+        "diversification": "No direct peer in the refreshed factor clusters; portfolio diversification still depends on actual holdings and weights.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "KYNCY",
+      "bucket": "quality_growth",
+      "portfolio_role": "Deep-value Japanese diversified electronics conglomerate with inflection potential; cheap on book value with structural reforms materializing and semiconductor component cycle recovery.",
+      "complement_or_compete": "Factor overlap to monitor: AMD, ARM, ASM.AS, FLEX, INTC, MRAM, NVDA, SNDK. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Compute, memory and equipment remain exposed to AI and digital-infrastructure demand, but a 4.0% policy rate raises the valuation hurdle and the semiconductor cycle can amplify changes in customer capex.",
+        "drivers": [
+          "AI/data-center investment",
+          "Semiconductor inventory and pricing cycle",
+          "Rates and export restrictions"
+        ],
+        "sensitivity": "High factor sensitivity to technology capex and valuation multiples; memory, equipment, IP and diversified electronics have distinct end-market risks."
+      },
+      "angle2_fundamental": {
+        "summary": "FY2026 results: major earnings inflection driven by structural reforms and semiconductor component demand. Sales ¥2.07T (+2.8%). Profit before tax significantly increased. FY2027 guidance: sales ¥1.94T (planned decrease from SouthernCarlson divestiture), PBT ¥170B. Balance sheet exceptionally clean: debt/equity 0.06, current ratio 3.08, quick ratio 1.91 — a fortress.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Semiconductor components (MLCC, organic packages, tantalum capacitors) for AI equipment; structural reform completion; FY2027 capital allocation shift toward higher-value products.",
+        "valuation": "No validated fresh quote was available for this ticker in the Q4 refresh; the displayed price and target comparison are carried forward and should not be treated as a current valuation signal.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "No validated fresh weekly quote was available; historical volatility and maximum drawdown were not recalculated. Recorded dashboard risk score: 3/10 (carried forward).",
+        "factor_clusters": [
+          "Semiconductors / AI hardware"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMD, ARM, ASM.AS, FLEX, INTC, MRAM, NVDA, SNDK; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "6324.T",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Pure-play precision robotics component exposure; the highest-purity play on humanoid robot and semiconductor equipment precision actuation globally.",
+      "complement_or_compete": "Factor overlap to monitor: 6861, BMI, ECL, ETH, HMS, SYM, TE.PA, TEA.AX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Industrial automation, water, connectivity and engineering benefit from long-run productivity and infrastructure investment, but the 4.0% policy rate and elevated energy inflation can delay customer capex and pressure project margins.",
+        "drivers": [
+          "Customer capex and order conversion",
+          "Energy/input costs",
+          "Labor availability and productivity"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company."
+      },
+      "angle2_fundamental": {
+        "summary": "Revenue trending ¥57.5B TTM with modest but positive quarterly earnings (¥355-452M last two quarters) after a large one-time ¥4.8B gain distorted trailing profits. Full-year FY2026 forecast was revised upward in April 2026. Underlying recurring quarterly profit base is ~¥400M vs the ¥4.6B TTM net income — a significant gap investors must understand.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "H2 FY2026 earnings upgrade execution; robot and chip equipment order progression into FY2027; cost discipline improvement as operational leverage kicks in on recovering volumes.",
+        "valuation": "Latest quote ¥6,690 versus stored dashboard target ¥4,028; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +2.14%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 4/10 (carried forward).",
+        "factor_clusters": [
+          "Industrial automation / water / connectivity"
+        ],
+        "diversification": "Shared watchlist factor exposure with 6861, BMI, ECL, ETH, HMS, SYM, TE.PA, TEA.AX and others; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "RELX",
+      "bucket": "core_compounders",
+      "portfolio_role": "Elite information analytics compounder; structural exposure to legal, scientific, and risk analytics with AI-embedded product moats and pristine financials.",
+      "complement_or_compete": "Factor overlap to monitor: BSY, ESTC, FIG, GOOGL, IBM, PANW. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Recurring software, information and security demand may be resilient, but the 4.0% policy rate and uncertain employment outlook keep long-duration growth valuations sensitive to discount rates and enterprise budget scrutiny.",
+        "drivers": [
+          "Enterprise spending and renewals",
+          "Discount rates and valuation",
+          "AI/product substitution and regulation"
+        ],
+        "sensitivity": "Moderate-to-high duration sensitivity; recurring revenue may damp demand volatility but does not protect against multiple compression or execution risk."
+      },
+      "angle2_fundamental": {
+        "summary": "FY2025: revenue £9.6B, adjusted operating profit £3.3B, EBITDA margin 40.1%, cash conversion 99%, net debt/EBITDA 2.0x. April 2026 trading update confirmed strong momentum across all four business areas. Analytics and decision tools growing double digits. A near-perfect fundamental profile — high recurring revenue, pricing power, and exceptional margins.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Analytics and decision tools (double-digit growth) driving mix shift from content to high-value tools; Financial Crime Compliance strong new sales; Exhibitions strong underlying revenue growth.",
+        "valuation": "Latest quote $33.42 versus stored dashboard target $50.44; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -0.30%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 2/10 (carried forward).",
+        "factor_clusters": [
+          "Software / information / cybersecurity"
+        ],
+        "diversification": "Shared watchlist factor exposure with BSY, ESTC, FIG, GOOGL, IBM, PANW; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "FLEX",
+      "bucket": "cyclicals",
+      "portfolio_role": "Data center supply chain compounder; large-cap contract manufacturer with structural position in AI server assembly and power electronics for hyperscaler capex.",
+      "complement_or_compete": "Factor overlap to monitor: AMD, ARM, ASM.AS, INTC, KYNCY, MRAM, NVDA, SNDK. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Industrial automation, water, connectivity and engineering benefit from long-run productivity and infrastructure investment, but the 4.0% policy rate and elevated energy inflation can delay customer capex and pressure project margins.",
+        "drivers": [
+          "Customer capex and order conversion",
+          "Energy/input costs",
+          "Labor availability and productivity"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company."
+      },
+      "angle2_fundamental": {
+        "summary": "Q3 FY2026: revenue $7.1B (+8% YoY), record adjusted EPS $0.87, FY2026 guidance raised to $27.2-27.5B revenue and $3.21-3.27 adjusted EPS (+22% growth). FCF conversion >80%. Margins expanding (adj. OPM 6.5% in Q3 vs 6.1% prior year). Strong execution on data center and power segments.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Data center segment ($6.5B target, 35% growth); power electronics expansion; Q4 FY2026 guidance implies EPS of $0.83-0.89 (+18% at midpoint) with continued data center strength.",
+        "valuation": "Latest quote $116.61 versus stored dashboard target $111.88; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "vulnerable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +1.68%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 3/10 (carried forward).",
+        "factor_clusters": [
+          "Semiconductors / AI hardware"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMD, ARM, ASM.AS, INTC, KYNCY, MRAM, NVDA, SNDK; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "CORZ",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Asymmetric AI infrastructure option: leveraged play on the pivot of bitcoin mining infrastructure to HPC/AI data center hosting, at current prices still below analyst consensus.",
+      "complement_or_compete": "Factor overlap to monitor: BIDU, IRDM, NNBR. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "The latest U.S. mix of a 4.0% policy rate, elevated energy inflation and 4.2% unemployment makes the macro backdrop mixed rather than uniformly risk-on. Company-specific demand and execution should dominate broad regime assumptions.",
+        "drivers": [
+          "Policy rates and funding costs",
+          "Energy/input costs",
+          "Employment and customer demand"
+        ],
+        "sensitivity": "Sensitivity depends on end markets, pricing power and balance-sheet capacity; current macro data are not a substitute for company-level operating updates."
+      },
+      "angle2_fundamental": {
+        "summary": "Emerged from Chapter 11 in January 2024, now executing a capital-heavy pivot to HPC. Revenue transitioning from bitcoin mining to HPC hosting contracts. $3.3B senior secured notes (2031) fund Pecos (1.5GW), Georgia, North Carolina, and Oklahoma expansions. Institutional investors (Oaktree) increasing stakes signals growing confidence.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Pecos 1.5GW campus first hall operational by early 2027; CoreWeave and other HPC contract ramp; 300MW repurposed from mining at Pecos reducing build cost.",
+        "valuation": "Latest quote $16.45 versus current analyst consensus target $30.94; implied upside is 88.09%. Dashboard verdict: Attractively Priced. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -5.13%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 4/10 (carried forward).",
+        "factor_clusters": [
+          "High-beta / special situations"
+        ],
+        "diversification": "Shared watchlist factor exposure with BIDU, IRDM, NNBR; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "XYL",
+      "bucket": "quality_growth",
+      "portfolio_role": "Large-cap water technology platform compounder; global water infrastructure hardware, smart metering, treatment, and digital analytics solutions benefiting from water scarcity megatrend.",
+      "complement_or_compete": "Factor overlap to monitor: 6324.T, 6861, BMI, ECL, ETH, HMS, SYM, TE.PA. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Industrial automation, water, connectivity and engineering benefit from long-run productivity and infrastructure investment, but the 4.0% policy rate and elevated energy inflation can delay customer capex and pressure project margins.",
+        "drivers": [
+          "Customer capex and order conversion",
+          "Energy/input costs",
+          "Labor availability and productivity"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company."
+      },
+      "angle2_fundamental": {
+        "summary": "Q1 2026: revenue $2.13B (+2.7%), adjusted EPS $1.12 (+9%), EBITDA margin 20.6%. Full-year 2026 guidance: $9.2-9.3B revenue, 22.9-23.3% EBITDA margin, adjusted EPS $5.35-5.60. The Evoqua integration has been completed and margin expansion is on track. FCF margin 10.2-11.0% full year.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Municipal infrastructure spending; optical sensing acquisition integration; $1.5B buyback reducing share count; international Water Infrastructure and Measurement & Control momentum.",
+        "valuation": "Latest quote $101.84 versus stored dashboard target $153.36; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -0.77%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 2/10 (carried forward).",
+        "factor_clusters": [
+          "Industrial automation / water / connectivity"
+        ],
+        "diversification": "Shared watchlist factor exposure with 6324.T, 6861, BMI, ECL, ETH, HMS, SYM, TE.PA and others; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "ECL",
+      "bucket": "core_compounders",
+      "portfolio_role": "Flagship quality compounder; water treatment and hygiene chemistry with pricing power, near-monopoly market positions, and structural growth in life sciences and data center cooling water management.",
+      "complement_or_compete": "Factor overlap to monitor: 6324.T, 6861, BMI, ETH, HMS, SYM, TE.PA, TEA.AX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Industrial automation, water, connectivity and engineering benefit from long-run productivity and infrastructure investment, but the 4.0% policy rate and elevated energy inflation can delay customer capex and pressure project margins.",
+        "drivers": [
+          "Customer capex and order conversion",
+          "Energy/input costs",
+          "Labor availability and productivity"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company."
+      },
+      "angle2_fundamental": {
+        "summary": "Q1 2026: revenue $4.07B (+10%), adjusted EPS $1.70 (+13%), FY2026 EPS guidance $8.43-8.63 (12-15% growth). Adjusted operating income margin expanded 70bps to 16.7%. Broad-based segment strength across Water, Pest, Life Sciences, and High-Tech. Balance sheet solid; consistent FCF generation.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Ecolab Digital expansion; Global High-Tech data center water management; Life Sciences biopharma facility hygiene growth; energy surcharge implementation protecting H2 margins.",
+        "valuation": "Latest quote $273.70 versus current analyst consensus target $326.27; implied upside is 19.21%. Dashboard verdict: Reasonably Priced. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -2.07%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 2/10 (carried forward).",
+        "factor_clusters": [
+          "Industrial automation / water / connectivity"
+        ],
+        "diversification": "Shared watchlist factor exposure with 6324.T, 6861, BMI, ETH, HMS, SYM, TE.PA, TEA.AX and others; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "BSY",
+      "bucket": "quality_growth",
+      "portfolio_role": "Infrastructure engineering software compounder with deep workflow moats; subscription-model recurring revenue provides visibility through infrastructure spending cycles.",
+      "complement_or_compete": "Factor overlap to monitor: ESTC, FIG, GOOGL, IBM, PANW, RELX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Recurring software, information and security demand may be resilient, but the 4.0% policy rate and uncertain employment outlook keep long-duration growth valuations sensitive to discount rates and enterprise budget scrutiny.",
+        "drivers": [
+          "Enterprise spending and renewals",
+          "Discount rates and valuation",
+          "AI/product substitution and regulation"
+        ],
+        "sensitivity": "Moderate-to-high duration sensitivity; recurring revenue may damp demand volatility but does not protect against multiple compression or execution risk."
+      },
+      "angle2_fundamental": {
+        "summary": "FY2025: revenue $1.50B (+10.4% CC), free cash flow $520M, adjusted EPS $1.21. FY2026 guidance: $1.685-1.715B revenue (11-13% CC growth), ~$495-510M AOI. Solid cash generation (FCF/revenue ~34%) funds the subscription and AI investment cycle. Convertible note repayment in January 2026 slightly increases leverage via credit facility draws.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Subscription ARR growth 10.5-12.5% in constant currency; AI asset analytics adoption (Talon Aerolytics acquisition); services revenue 15-20% growth.",
+        "valuation": "Latest quote $32.23 versus stored dashboard target $47.11; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +2.51%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 3/10 (carried forward).",
+        "factor_clusters": [
+          "Software / information / cybersecurity"
+        ],
+        "diversification": "Shared watchlist factor exposure with ESTC, FIG, GOOGL, IBM, PANW, RELX; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "BMI",
+      "bucket": "quality_growth",
+      "portfolio_role": "High-quality water infrastructure compounder with near-monopoly in US smart metering and recurring SaaS revenue growth; defensive growth exposure to the water scarcity megatrend.",
+      "complement_or_compete": "Factor overlap to monitor: 6324.T, 6861, ECL, ETH, HMS, SYM, TE.PA, TEA.AX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Industrial automation, water, connectivity and engineering benefit from long-run productivity and infrastructure investment, but the 4.0% policy rate and elevated energy inflation can delay customer capex and pressure project margins.",
+        "drivers": [
+          "Customer capex and order conversion",
+          "Energy/input costs",
+          "Labor availability and productivity"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company."
+      },
+      "angle2_fundamental": {
+        "summary": "Q1 2026 revenue $202.3M (-9% YoY, 12.5% miss) and EPS $0.93 (-22% vs estimates) were disappointing but management maintained full-year guidance. Cash position strong at $205.5M. Share buybacks of $38.2M in Q1 signal management confidence.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Recovery in Q2-Q4 municipal project activity; SaaS contract wins; new product introductions in cellular AMI.",
+        "valuation": "Latest quote $127.77 versus stored dashboard target $162.67; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "leading"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -1.32%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 3/10 (carried forward).",
+        "factor_clusters": [
+          "Industrial automation / water / connectivity"
+        ],
+        "diversification": "Shared watchlist factor exposure with 6324.T, 6861, ECL, ETH, HMS, SYM, TE.PA, TEA.AX and others; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "ANA.MC",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "European renewables/infrastructure conglomerate turnaround play; structural exposure to EUR-denominated clean energy infrastructure at a distressed-adjacent valuation.",
+      "complement_or_compete": "Factor overlap to monitor: no close name identified. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "The latest U.S. mix of a 4.0% policy rate, elevated energy inflation and 4.2% unemployment makes the macro backdrop mixed rather than uniformly risk-on. Company-specific demand and execution should dominate broad regime assumptions.",
+        "drivers": [
+          "Policy rates and funding costs",
+          "Energy/input costs",
+          "Employment and customer demand"
+        ],
+        "sensitivity": "Sensitivity depends on end markets, pricing power and balance-sheet capacity; current macro data are not a substitute for company-level operating updates."
+      },
+      "angle2_fundamental": {
+        "summary": "Acciona Energía targets ~€1.2B EBITDA in 2026 on ~€0.9B investment cash flow, with Net Debt targeted below €3B after €2B asset rotation. Consensus forecasts earnings declining ~11% annually — pressure from lower power prices and high leverage. The construction backlog provides a floor.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "€2B asset rotation closing in 2026 reducing leverage; infrastructure backlog execution; Acciona Energía EBITDA stabilization.",
+        "valuation": "Latest quote €213.60 versus stored dashboard target €152.48; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "compensating"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -0.09%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 4/10 (carried forward).",
+        "factor_clusters": [],
+        "diversification": "No direct peer in the refreshed factor clusters; portfolio diversification still depends on actual holdings and weights.",
+        "sizing_tier": "core candidate; validate valuation and thesis"
+      },
+      "added_in_week": "2026-W19"
+    },
+    {
+      "ticker": "SQN.SW",
+      "bucket": "quality_growth",
+      "portfolio_role": "Swiss digital bank and broker capturing European retail investment growth; fintech quality with CHF fortress balance sheet",
+      "complement_or_compete": "Factor overlap to monitor: GIVN.SW, NESN.SW, ROG.SW, TECN.SW. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Quality, healthcare and consumer franchises can stabilize a cyclical watchlist as U.S. employment softens; energy-driven input inflation and cross-border currency translation remain relevant.",
+        "drivers": [
+          "Defensive demand and pricing power",
+          "Energy and input costs",
+          "Foreign-exchange translation"
+        ],
+        "sensitivity": "Generally lower macro cyclicality than small-cap or capex themes, with company-specific product, regulatory and currency risks still material."
+      },
+      "angle2_fundamental": {
+        "summary": "Swissquote has consistently exceeded earnings estimates, driven by assets under management growth and trading revenue diversification (equities, crypto, FX, bonds). The 2025 results showed record revenues and profits. Deutsche Bank's August 2025 coverage initiation at Buy (CHF 620 target) provides significant upside validation. The balance sheet is fortress-quality — Swiss regulated bank, FINMA supervision, well-capitalized. Crypto trading (regulated Swiss framework) gives an optionality layer that peers like Interactive Brokers lack in Europe. At CHF 384 vs ~CHF 510 consensus, 32.8% upside makes SQN the most attractively priced addition on a fundamental upside basis.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "• European retail brokerage market underpenetrated — Swissquote gaining share as traditional banks lose digital-native clients • Crypto trading revenue remains a high-margin optionality layer (regulated, Swiss-domiciled advantage) • Deutsche Bank new Buy coverage Aug 2025 (CHF 620 target) reflects broadening institutional recognition • CHF strengthening vs USD adds FX translation tailwind for USD-based investors",
+        "valuation": "Latest quote CHF 36.16 versus stored dashboard target CHF 51.00; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -2.85%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 6/10 (carried forward).",
+        "factor_clusters": [
+          "Swiss quality / healthcare / defensives"
+        ],
+        "diversification": "Shared watchlist factor exposure with GIVN.SW, NESN.SW, ROG.SW, TECN.SW; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W21"
+    },
+    {
+      "ticker": "VLO",
+      "bucket": "cyclicals",
+      "portfolio_role": "Pure-play US independent refiner with maximum crack spread leverage; Diamond Green Diesel renewable optionality",
+      "complement_or_compete": "Factor overlap to monitor: MPC. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Refiners may benefit when product cracks and utilization stay strong, yet elevated energy inflation can also amplify crude, logistics and operating-cost volatility; weaker employment raises demand risk.",
+        "drivers": [
+          "Crack spreads and utilization",
+          "Crude/product price volatility",
+          "Fuel demand and regulatory policy"
+        ],
+        "sensitivity": "Very high sensitivity to refining margins and supply disruptions; crude-price direction alone is not a sufficient earnings signal."
+      },
+      "angle2_fundamental": {
+        "summary": "VLO's complex refinery system ($4-5/bbl complexity advantage vs simple peers) generates structural margins above the benchmark. The Diamond Green Diesel JV (50/50 with Darling Ingredients) makes VLO the world's largest renewable diesel producer — adding a forward-looking earnings stream. FCF generation at $100 oil is exceptional: $3-4B annually, supporting the $750M+ Q1 buyback and $1.5B+ annual dividend. At $250.74 vs $249.77 consensus (-0.4% upside), VLO is trading at exact fair value. Wells Fargo $292 and Raymond James $290 (Strong Buy) represent a 15-16% upside scenario if refining margins stay elevated. Morgan Stanley Equal-Weight $222 (-11%) is the credible bear case.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "• Raymond James Strong Buy $290 / Wells Fargo Overweight $292 — most bullish on Street signal conviction at refining recovery • Diamond Green Diesel Phase 3 expansion making Valero the world's largest renewable diesel producer • Gulf Coast refinery advantaged crude diet (heavy sour) generates structural margins above benchmark • Buyback program — $750M+ Q1 2026 as FCF generation accelerated at $100+ oil",
+        "valuation": "Latest quote $406.30 versus stored dashboard target $328.25; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +4.94%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 6/10 (carried forward).",
+        "factor_clusters": [
+          "Oil refining"
+        ],
+        "diversification": "Shared watchlist factor exposure with MPC; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W21"
+    },
+    {
+      "ticker": "MPC",
+      "bucket": "cyclicals",
+      "portfolio_role": "Largest US refiner with MPLX midstream fee income providing earnings quality above pure-refining peers",
+      "complement_or_compete": "Factor overlap to monitor: VLO. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Refiners may benefit when product cracks and utilization stay strong, yet elevated energy inflation can also amplify crude, logistics and operating-cost volatility; weaker employment raises demand risk.",
+        "drivers": [
+          "Crack spreads and utilization",
+          "Crude/product price volatility",
+          "Fuel demand and regulatory policy"
+        ],
+        "sensitivity": "Very high sensitivity to refining margins and supply disruptions; crude-price direction alone is not a sufficient earnings signal."
+      },
+      "angle2_fundamental": {
+        "summary": "MPC's Galveston Bay refinery is one of the world's most complex, capable of processing heavy sour crude at lower feedstock cost. The MPLX dropdown model — MPC drops assets to its MLP for fee income — is a structural earnings quality driver. Q1 2026 results were strong enough for Goldman Sachs to raise its target from $264 to $291. Wells Fargo's $335 target (Overweight) is the highest on the Street and reflects a bull case where crack spreads remain elevated and MPLX continues to compound. At 75% bullish consensus (12 analysts), institutional conviction is high. The stock at $255.03 vs $261.92 consensus is essentially at fair value with modest 2.7% upside.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "• Wells Fargo $335 target (Overweight) — highest on Street; crack spread expansion under tight distillate inventories • MPLX dropdown optionality — high-quality fee income de-risks earnings in volatile oil markets • Galveston Bay refinery optimization generating above-peer throughput • Buyback acceleration as FCF yield exceeds 10% at current oil",
+        "valuation": "Latest quote $422.33 versus current analyst consensus target $370.79; implied upside is -12.2%. Dashboard verdict: Premium Priced. This is a target comparison, not an intrinsic-value estimate."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +7.32%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 6/10 (carried forward).",
+        "factor_clusters": [
+          "Oil refining"
+        ],
+        "diversification": "Shared watchlist factor exposure with VLO; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W21"
+    },
+    {
+      "ticker": "TTE",
+      "bucket": "core_compounders",
+      "portfolio_role": "European integrated oil major with leading LNG portfolio and credible energy transition strategy; quality income at scale",
+      "complement_or_compete": "Factor overlap to monitor: SU, XOM. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Integrated and upstream energy exposure can hedge renewed energy inflation, but weaker employment or slower growth can reduce demand and an energy-price reversal can quickly remove the tailwind.",
+        "drivers": [
+          "Energy inflation",
+          "Global demand and margins",
+          "Policy and transition risk"
+        ],
+        "sensitivity": "High sensitivity to commodity prices and the growth/inflation mix; diversification across refining, production and low-carbon activities varies by issuer."
+      },
+      "angle2_fundamental": {
+        "summary": "TotalEnergies consistently generates among the highest FCF yield of any major. The 5%+ dividend yield with progressive policy is a quality income anchor. LNG portfolio (Qatar, Mozambique, Russia exit managed) provides pricing power in constrained markets. Deep-water projects (Suriname TBO, Namibia, Block 58) are high-return barrels coming online 2026-2028. However, at $92.28 vs $83 consensus (4 US-coverage analysts — thin), the stock has run above targets. The high Scotiabank target ($97) is a bull case; TD Cowen $70 and Freedom Broker Sell $73 represent bear scenarios. Thin US analyst coverage means TTE's real consensus is better tracked via European brokers (Exane, Bernstein, HSBC) who largely maintain €58-65 EUR-denominated targets (equivalent to $90-100+ at 1.17 EUR/USD).\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "• LNG portfolio benefits directly from Hormuz disruption scenario — TTE is the #1 global LNG trader • Deep-water growth projects (Mozambique LNG restart, Suriname) adding production into 2027 • 5%+ dividend yield with progressive policy; buyback capacity of $2B+ annually at oil $100+ • USD weakness vs EUR structurally beneficial for USD investors holding Euro-denominated assets",
+        "valuation": "Latest quote $84.40 versus current analyst consensus target $83.25; implied upside is -1.36%. Dashboard verdict: Premium Priced. This is a target comparison, not an intrinsic-value estimate."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -7.19%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Energy producers"
+        ],
+        "diversification": "Shared watchlist factor exposure with SU, XOM; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W21"
+    },
+    {
+      "ticker": "MT",
+      "bucket": "cyclicals",
+      "portfolio_role": "Global steel bellwether providing diversified exposure to flat-rolled, long products, and mining operations",
+      "complement_or_compete": "Factor overlap to monitor: APAM.AS, CMC, NHY.OL, TGB, VOE.VI. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Metals and mining exposure is a partial inflation hedge, but energy costs and softer industrial activity can offset nominal commodity support; trade policy and end-market supply/demand remain pivotal.",
+        "drivers": [
+          "Commodity prices and industrial demand",
+          "Energy and smelting costs",
+          "Trade and capacity cycles"
+        ],
+        "sensitivity": "High sensitivity to the industrial cycle and product-specific prices; elevated energy inflation can squeeze producers even when nominal commodity prices rise."
+      },
+      "angle2_fundamental": {
+        "summary": "ArcelorMittal has significantly improved its balance sheet over 2020-2025, reducing net debt and building buyback capacity. The Jefferies February 2026 Buy upgrade to $73.20 reflects improved earnings quality and the mining assets' value (Liberia iron ore). Thin US coverage (only 2 sell-side houses) is a risk factor — signals limited institutional attention and potential for sharp sentiment swings. The PE ratio is modest relative to the cycle. Q4 2025/Q1 2026 earnings reflected European weakness but North American strength. The dividend yield provides income support. At $60.15 vs $67.10 consensus, 11.6% upside is the second-highest among our steel additions.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "• Jefferies February 2026 upgrade to Buy ($73.20 target) reflecting European steel demand recovery • US infrastructure and defense-driven demand cycle supporting flat-rolled premiums • Balance sheet improvement — net debt reduction ongoing, buyback capacity building • USD weakness vs EUR supportive for European revenue translation for US-listed ADR",
+        "valuation": "Latest quote $64.51 versus current analyst consensus target $71.10; implied upside is 10.22%. Dashboard verdict: Reasonably Priced. This is a target comparison, not an intrinsic-value estimate."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -8.76%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 7/10 (carried forward).",
+        "factor_clusters": [
+          "Metals / materials"
+        ],
+        "diversification": "Shared watchlist factor exposure with APAM.AS, CMC, NHY.OL, TGB, VOE.VI; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W21"
+    },
+    {
+      "ticker": "APAM.AS",
+      "bucket": "cyclicals",
+      "portfolio_role": "European stainless steel pure-play with recycling/alloys diversification and EUR-USD tailwind",
+      "complement_or_compete": "Factor overlap to monitor: CMC, MT, NHY.OL, TGB, VOE.VI. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Metals and mining exposure is a partial inflation hedge, but energy costs and softer industrial activity can offset nominal commodity support; trade policy and end-market supply/demand remain pivotal.",
+        "drivers": [
+          "Commodity prices and industrial demand",
+          "Energy and smelting costs",
+          "Trade and capacity cycles"
+        ],
+        "sensitivity": "High sensitivity to the industrial cycle and product-specific prices; elevated energy inflation can squeeze producers even when nominal commodity prices rise."
+      },
+      "angle2_fundamental": {
+        "summary": "Q1 2026 was Aperam's best quarterly start in three years, with management guiding for significantly higher Q2 2026 EBITDA despite working capital seasonality. The diversified value chain strategy — integrating recycling, alloys, and services — is generating more stable margins than pure stainless peers. Balance sheet is solid with net debt reduction ongoing. The €150M EBITDA improvement target for 2026-2028 is on track per Q1 results. At €47.50, the stock trades slightly above the SWS consensus of €45.53 and materially above the older Investing.com consensus of €31.56 — the divergence reflects rapid price appreciation post-Q1. 11 analysts cover the stock with a mixed Buy/Hold/Sell distribution. The stock's valuation is not stretched given its premium positioning, but the 2025-2026 re-rating has absorbed much of the upside.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "• Q2 2026 EBITDA guidance upgrade — management guided significantly higher vs Q1 2026 best start in 3 years • Alloy surcharge pass-through in tightening European stainless market • Continued buyback/dividend program under fortress balance sheet • EUR appreciation vs USD adds translation premium for global investors",
+        "valuation": "Latest quote €41.96 versus stored dashboard target €45.53; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -5.71%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 6/10 (carried forward).",
+        "factor_clusters": [
+          "Metals / materials"
+        ],
+        "diversification": "Shared watchlist factor exposure with CMC, MT, NHY.OL, TGB, VOE.VI; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W21"
+    },
+    {
+      "ticker": "NHY.OL",
+      "bucket": "cyclicals",
+      "portfolio_role": "Most vertically integrated global aluminum producer with green credentials; energy transition materials play",
+      "complement_or_compete": "Factor overlap to monitor: APAM.AS, CMC, MT, TGB, VOE.VI. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Metals and mining exposure is a partial inflation hedge, but energy costs and softer industrial activity can offset nominal commodity support; trade policy and end-market supply/demand remain pivotal.",
+        "drivers": [
+          "Commodity prices and industrial demand",
+          "Energy and smelting costs",
+          "Trade and capacity cycles"
+        ],
+        "sensitivity": "High sensitivity to the industrial cycle and product-specific prices; elevated energy inflation can squeeze producers even when nominal commodity prices rise."
+      },
+      "angle2_fundamental": {
+        "summary": "NHY's vertically integrated model (bauxite → alumina → aluminum → extrusions → recycling) provides margin stability across the cycle. Hydro REIN (renewable energy business) adds a sum-of-parts optionality layer. The 2025-2026 premium for certified low-carbon aluminum ('Hydro CIRCAL') is a real margin driver as automotive OEMs pay up for sustainability credentials. However, the Q1 2026 consensus estimates (Deutsche Bank, Barclays, Morgan Stanley, 12 analysts per hydro.com) show an average target of NOK 72 — implying the recent rally to NOK 105.75 is disconnected from consensus fundamentals. Earnings are improving but not enough to justify a 47% premium to target.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "• European green aluminum premium expanding as automotive OEMs demand low-carbon credentials • Hydro REIN renewable energy business spin/monetization potential adding sum-of-parts value • Aluminium smelter cost advantage via Norwegian hydro power — sheltered from high energy costs • USD weakness vs NOK beneficial for Norwegian-listed stock in USD terms",
+        "valuation": "Latest quote NOK 80.10 versus stored dashboard target NOK 72.00; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -2.77%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 7/10 (carried forward).",
+        "factor_clusters": [
+          "Metals / materials"
+        ],
+        "diversification": "Shared watchlist factor exposure with APAM.AS, CMC, MT, TGB, VOE.VI; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W21"
+    },
+    {
+      "ticker": "VOE.VI",
+      "bucket": "cyclicals",
+      "portfolio_role": "Austrian specialty steel leader serving aerospace, automotive, and rail infrastructure; premium-grade European industrial",
+      "complement_or_compete": "Factor overlap to monitor: APAM.AS, CMC, MT, NHY.OL, TGB. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Metals and mining exposure is a partial inflation hedge, but energy costs and softer industrial activity can offset nominal commodity support; trade policy and end-market supply/demand remain pivotal.",
+        "drivers": [
+          "Commodity prices and industrial demand",
+          "Energy and smelting costs",
+          "Trade and capacity cycles"
+        ],
+        "sensitivity": "High sensitivity to the industrial cycle and product-specific prices; elevated energy inflation can squeeze producers even when nominal commodity prices rise."
+      },
+      "angle2_fundamental": {
+        "summary": "Deep analyst disagreement: BofA and Deutsche Bank Buy €57 (27% upside) vs JP Morgan Underweight €36.20 (19% downside) — nearly a 60% spread between bull and bear. Morgan Stanley Overweight €49 and Barclays Overweight €50 split the difference. The bull case (BofA/DB) is premised on auto sector normalization and Airbus ramp lifting specialty precision components margins. The bear case (JP Morgan) reflects structural concerns about auto EV transition reducing ICE-component demand and Austrian energy costs. At €44.78 vs €44.23 consensus (-1.2%), the stock is exactly at consensus. The 12-analyst base is solid — not thin like MT.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "• BofA and Deutsche Bank Buy ratings with €57 targets (27% upside) signal deep-value thesis from quality names • European rearmament and rail infrastructure programs driving specialty steel demand • Aerospace recovery cycle (Airbus ramp) benefiting precision components division • EUR/USD tailwind provides translation premium for USD-based investors",
+        "valuation": "Latest quote €44.32 versus stored dashboard target EUR 44.23; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -3.23%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 7/10 (carried forward).",
+        "factor_clusters": [
+          "Metals / materials"
+        ],
+        "diversification": "Shared watchlist factor exposure with APAM.AS, CMC, MT, NHY.OL, TGB; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W21"
+    },
+    {
+      "ticker": "CMC",
+      "bucket": "cyclicals",
+      "portfolio_role": "Lowest-cost US rebar producer with micro-mill advantage; infrastructure cycle and US reshoring beneficiary",
+      "complement_or_compete": "Factor overlap to monitor: APAM.AS, MT, NHY.OL, TGB, VOE.VI. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Metals and mining exposure is a partial inflation hedge, but energy costs and softer industrial activity can offset nominal commodity support; trade policy and end-market supply/demand remain pivotal.",
+        "drivers": [
+          "Commodity prices and industrial demand",
+          "Energy and smelting costs",
+          "Trade and capacity cycles"
+        ],
+        "sensitivity": "High sensitivity to the industrial cycle and product-specific prices; elevated energy inflation can squeeze producers even when nominal commodity prices rise."
+      },
+      "angle2_fundamental": {
+        "summary": "CMC's micro-mill network is a structural cost and environmental advantage — lower capex per ton, shorter supply chains, and proximity to end markets. The Arizona Micro Mill 2 ramp adds capacity at better unit economics than legacy plants. CMC is 100% bullish (8/8 Buy consensus) reflecting confidence in its competitive moat. Revenue visibility is high via order books tied to infrastructure projects. Return on invested capital has been consistently above 15% through the cycle. Balance sheet is conservatively managed. The stock's $79.75 consensus represents 11.9% upside from $71.25, making it the most attractively priced US name among our steel additions on a fundamental/valuation basis.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "• Infrastructure Act funded projects driving rebar/structural steel demand into 2027 • Arizona micro-mill 2 ramp adding low-cost capacity with superior margins • UBS upgrade to Buy (May 2026) signals broadening institutional recognition • US reshoring trend increasing domestic steel intensity in manufacturing capex",
+        "valuation": "Latest quote $63.58 versus current analyst consensus target $80.70; implied upside is 26.93%. Dashboard verdict: Attractively Priced. This is a target comparison, not an intrinsic-value estimate."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -3.27%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 6/10 (carried forward).",
+        "factor_clusters": [
+          "Metals / materials"
+        ],
+        "diversification": "Shared watchlist factor exposure with APAM.AS, MT, NHY.OL, TGB, VOE.VI; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W21"
+    },
+    {
+      "ticker": "GOOGL",
+      "bucket": "core_compounders",
+      "portfolio_role": "Mega-cap AI/cloud compounder with search cash flow ballast and rerated GenAI optionality.",
+      "complement_or_compete": "Factor overlap to monitor: BSY, ESTC, FIG, IBM, PANW, RELX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Recurring software, information and security demand may be resilient, but the 4.0% policy rate and uncertain employment outlook keep long-duration growth valuations sensitive to discount rates and enterprise budget scrutiny.",
+        "drivers": [
+          "Enterprise spending and renewals",
+          "Discount rates and valuation",
+          "AI/product substitution and regulation"
+        ],
+        "sensitivity": "Moderate-to-high duration sensitivity; recurring revenue may damp demand volatility but does not protect against multiple compression or execution risk."
+      },
+      "angle2_fundamental": {
+        "summary": "Strong fundamentals: ~$110B free cash flow run rate, 30%+ operating margin, 22 sell-side analysts at strong_buy consensus. Capex is the bear case — accelerated AI infra build is depressing near-term FCF, but management has guided to GCP backlog conversion and TPU efficiency wins as the offset. Buybacks and a modest dividend introduced in 2024 have been steady but small relative to cash generation.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "AI monetization in Search (AI Overviews, Gemini in Workspace); GCP enterprise wins; YouTube subscription growth; Waymo expansion.",
+        "valuation": "Latest quote $343.50 versus current analyst consensus target $428.61; implied upside is 24.78%. Dashboard verdict: Attractively Priced. This is a target comparison, not an intrinsic-value estimate."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -0.12%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Software / information / cybersecurity"
+        ],
+        "diversification": "Shared watchlist factor exposure with BSY, ESTC, FIG, IBM, PANW, RELX; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W22"
+    },
+    {
+      "ticker": "HMS",
+      "bucket": "quality_growth",
+      "portfolio_role": "Small/mid-cap industrial connectivity compounder providing pure-play IIoT networking exposure with above-market organic growth and premium margins.",
+      "complement_or_compete": "Factor overlap to monitor: 6324.T, 6861, BMI, ECL, ETH, SYM, TE.PA, TEA.AX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Industrial automation, water, connectivity and engineering benefit from long-run productivity and infrastructure investment, but the 4.0% policy rate and elevated energy inflation can delay customer capex and pressure project margins.",
+        "drivers": [
+          "Customer capex and order conversion",
+          "Energy/input costs",
+          "Labor availability and productivity"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company."
+      },
+      "angle2_fundamental": {
+        "summary": "High-quality niche industrial platform with 63% gross margins and 25%+ adjusted EBIT margins, backed by sticky OEM-embedded and field-installed base.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Molex acquisition adds USD 10M+ revenue and U.S. manufacturing capacity; IDS division driving domestic European recovery; organic order growth expected to re-accelerate in H2 2026.",
+        "valuation": "Latest quote kr 560.00 versus stored dashboard target SEK 546.38; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +2.00%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Industrial automation / water / connectivity"
+        ],
+        "diversification": "Shared watchlist factor exposure with 6324.T, 6861, BMI, ECL, ETH, SYM, TE.PA, TEA.AX and others; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "ETH",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "High-risk/high-reward turnaround in Edge AIoT infrastructure, offering levered exposure to EU industrial cybersecurity mandates and AI edge computing at a micro-cap entry point.",
+      "complement_or_compete": "Factor overlap to monitor: 6324.T, 6861, BMI, ECL, HMS, SYM, TE.PA, TEA.AX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Industrial automation, water, connectivity and engineering benefit from long-run productivity and infrastructure investment, but the 4.0% policy rate and elevated energy inflation can delay customer capex and pressure project margins.",
+        "drivers": [
+          "Customer capex and order conversion",
+          "Energy/input costs",
+          "Labor availability and productivity"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company."
+      },
+      "angle2_fundamental": {
+        "summary": "Turnaround-stage micro-cap with improving trajectory: H2 2025 EBITDA turned positive, cost base reduced EUR 6M YoY, and Edge AIoT now ~60% of revenues.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Mix shift from legacy embedded to higher-margin Edge AIoT systems; NIS2-driven upgrade orders; EUR 17.5M capital increase provides runway through 2026–2027 transformation.",
+        "valuation": "Latest quote €1.30 versus stored dashboard target €0.97; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +3.67%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Industrial automation / water / connectivity"
+        ],
+        "diversification": "Shared watchlist factor exposure with 6324.T, 6861, BMI, ECL, HMS, SYM, TE.PA, TEA.AX and others; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "NOKIA",
+      "bucket": "cyclicals",
+      "portfolio_role": "Recovery-to-growth telecom infrastructure name offering levered exposure to AI-RAN, 6G, and optical networking secular capex waves at a European large-cap price point.",
+      "complement_or_compete": "Factor overlap to monitor: no close name identified. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Telecom equipment demand is tied to operator capex and network investment; a higher-for-longer rate backdrop and softer employment can restrain customer budgets.",
+        "drivers": [
+          "Operator capex and 5G/6G cycles",
+          "Network competition",
+          "Currency and trade policy"
+        ],
+        "sensitivity": "Moderate cyclical sensitivity with execution and competitive risks; contract mix is more important than headline telecom demand."
+      },
+      "angle2_fundamental": {
+        "summary": "Structurally improving telecom equipment franchise, transitioning from hardware commodity to AI-augmented networking platform with rising software and services mix.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Optical networking segment raising 2026 growth guidance to 12–14%; 2026 operating profit target EUR 2.0–2.5B; EPS expected to grow ~24% annually over 3 years per consensus.",
+        "valuation": "Latest quote $10.60 versus stored dashboard target $21.00; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +2.12%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [],
+        "diversification": "No direct peer in the refreshed factor clusters; portfolio diversification still depends on actual holdings and weights.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "SCHNEIDER",
+      "bucket": "core_compounders",
+      "portfolio_role": "High-conviction core holding providing diversified exposure to electrification, AI data-centre power, and grid digitalisation with consistent double-digit organic profit growth.",
+      "complement_or_compete": "Factor overlap to monitor: AMSC, HUBB, PRY.MI, VRT. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Electrification, grid reliability and data-center buildout are structural demand drivers, while 4.0% rates, elevated energy inflation and industrial customer budgets create financing and project-timing risk.",
+        "drivers": [
+          "Grid and data-center capex",
+          "Project backlog conversion",
+          "Copper, steel and labor costs"
+        ],
+        "sensitivity": "Sensitive to capital spending and project execution; secular demand is not a guarantee of near-term orders or margin conversion."
+      },
+      "angle2_fundamental": {
+        "summary": "Best-in-class industrial platform combining hardware, software (EcoStruxure), and services with rising recurring revenue mix and structurally expanding adjusted EBITA margins.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Energy Management organic growth of +12.8% in Q1 2026; 2026 adjusted EBITA guidance of +10–15% organic growth; Motivair acquisition adds liquid cooling for hyperscale data centres.",
+        "valuation": "Latest quote €303.00 versus stored dashboard target €253.46; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +4.12%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Grid / electrification / data-center power"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMSC, HUBB, PRY.MI, VRT; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "6861",
+      "bucket": "core_compounders",
+      "portfolio_role": "Fortress-balance-sheet Japanese automation leader providing high-margin, capital-light compounding in factory sensors and vision systems with multi-decade structural demand from manufacturing productivity imperatives.",
+      "complement_or_compete": "Factor overlap to monitor: 6324.T, BMI, ECL, ETH, HMS, SYM, TE.PA, TEA.AX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Industrial automation, water, connectivity and engineering benefit from long-run productivity and infrastructure investment, but the 4.0% policy rate and elevated energy inflation can delay customer capex and pressure project margins.",
+        "drivers": [
+          "Customer capex and order conversion",
+          "Energy/input costs",
+          "Labor availability and productivity"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company."
+      },
+      "angle2_fundamental": {
+        "summary": "Exceptional business quality: 83% gross margins, 50% operating margins, zero debt, >¥1T cash, and 30% of revenue from products released within the last year underpin durable competitive advantage.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "FY2026 full-year revenue ¥1,169B (+9.5% YoY) and net income ¥445B (+6.6%); rising dividend to ¥550/share signals accelerating capital return; direct-sales model preserves pricing power.",
+        "valuation": "Latest quote ¥81,680 versus stored dashboard target ¥75,044; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +2.06%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Industrial automation / water / connectivity"
+        ],
+        "diversification": "Shared watchlist factor exposure with 6324.T, BMI, ECL, ETH, HMS, SYM, TE.PA, TEA.AX and others; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "PANW",
+      "bucket": "quality_growth",
+      "portfolio_role": "Large-cap U.S. cybersecurity platform providing high-growth NGS ARR compounding and AI-security optionality, anchoring the portfolio's digital security allocation.",
+      "complement_or_compete": "Factor overlap to monitor: BSY, ESTC, FIG, GOOGL, IBM, RELX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Recurring software, information and security demand may be resilient, but the 4.0% policy rate and uncertain employment outlook keep long-duration growth valuations sensitive to discount rates and enterprise budget scrutiny.",
+        "drivers": [
+          "Enterprise spending and renewals",
+          "Discount rates and valuation",
+          "AI/product substitution and regulation"
+        ],
+        "sensitivity": "Moderate-to-high duration sensitivity; recurring revenue may damp demand volatility but does not protect against multiple compression or execution risk."
+      },
+      "angle2_fundamental": {
+        "summary": "World's largest pure-play cybersecurity platform with accelerating NGS ARR (+33% YoY to USD 6.33B) and platformization driving wallet-share expansion, offset near-term by CyberArk integration costs.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "NGS ARR targeting USD 7.95B in Q3 FY2026 (+56% YoY); RPO of USD 16B provides 18+ months revenue visibility; 1,550+ platformized customers at ~35% YoY growth compounding the land-and-expand flywheel.",
+        "valuation": "Latest quote $403.24 versus current analyst consensus target $391.86; implied upside is -2.82%. Dashboard verdict: Premium Priced. This is a target comparison, not an intrinsic-value estimate."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +7.61%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Software / information / cybersecurity"
+        ],
+        "diversification": "Shared watchlist factor exposure with BSY, ESTC, FIG, GOOGL, IBM, RELX; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W23"
+    },
+    {
+      "ticker": "ESTC",
+      "bucket": "quality_growth",
+      "portfolio_role": "",
+      "complement_or_compete": "Factor overlap to monitor: BSY, FIG, GOOGL, IBM, PANW, RELX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Recurring software, information and security demand may be resilient, but the 4.0% policy rate and uncertain employment outlook keep long-duration growth valuations sensitive to discount rates and enterprise budget scrutiny.",
+        "drivers": [
+          "Enterprise spending and renewals",
+          "Discount rates and valuation",
+          "AI/product substitution and regulation"
+        ],
+        "sensitivity": "Moderate-to-high duration sensitivity; recurring revenue may damp demand volatility but does not protect against multiple compression or execution risk."
+      },
+      "angle2_fundamental": {
+        "summary": "Elastic provides a unified platform across search, observability, and security, increasingly positioned as AI-enabled enterprise data/search infrastructure.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Cloud vs self-managed mix, sales-led subscription growth, and AI/search adoption in enterprise workloads.",
+        "valuation": "Latest quote $93.94 versus current analyst consensus target $106.04; implied upside is 12.88%. Dashboard verdict: Reasonably Priced. This is a target comparison, not an intrinsic-value estimate."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +6.60%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Software / information / cybersecurity"
+        ],
+        "diversification": "Shared watchlist factor exposure with BSY, FIG, GOOGL, IBM, PANW, RELX; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W24"
+    },
+    {
+      "ticker": "VRT",
+      "bucket": "core_compounders",
+      "portfolio_role": "",
+      "complement_or_compete": "Factor overlap to monitor: AMSC, HUBB, PRY.MI, SCHNEIDER. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Electrification, grid reliability and data-center buildout are structural demand drivers, while 4.0% rates, elevated energy inflation and industrial customer budgets create financing and project-timing risk.",
+        "drivers": [
+          "Grid and data-center capex",
+          "Project backlog conversion",
+          "Copper, steel and labor costs"
+        ],
+        "sensitivity": "Sensitive to capital spending and project execution; secular demand is not a guarantee of near-term orders or margin conversion."
+      },
+      "angle2_fundamental": {
+        "summary": "Vertiv provides critical data-center power and thermal management, leveraged to AI/hyperscale buildout and high-density cooling demand.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Backlog conversion, hyperscaler capex, and mix shift to higher-value integrated/liquid-cooling systems and services.",
+        "valuation": "Latest quote $252.18 versus stored dashboard target $332.93; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -0.43%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Grid / electrification / data-center power"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMSC, HUBB, PRY.MI, SCHNEIDER; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W24"
+    },
+    {
+      "ticker": "IBM",
+      "added_in_week": "2026-W26",
+      "bucket": "core_compounders",
+      "portfolio_role": "Mega-cap hybrid-cloud + AI re-rating story; income via 3%+ dividend",
+      "complement_or_compete": "Factor overlap to monitor: BSY, ESTC, FIG, GOOGL, PANW, RELX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Recurring software, information and security demand may be resilient, but the 4.0% policy rate and uncertain employment outlook keep long-duration growth valuations sensitive to discount rates and enterprise budget scrutiny.",
+        "drivers": [
+          "Enterprise spending and renewals",
+          "Discount rates and valuation",
+          "AI/product substitution and regulation"
+        ],
+        "sensitivity": "Moderate-to-high duration sensitivity; recurring revenue may damp demand volatility but does not protect against multiple compression or execution risk."
+      },
+      "angle2_fundamental": {
+        "summary": "Stable double-digit Software growth, mid-single-digit total revenue, FCF mid-teens billion, capital returns via 33+ year dividend growth and buybacks.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "watsonx bookings, HashiCorp synergies, Red Hat growth, z17 mainframe cycle",
+        "valuation": "Latest quote $222.64 versus current analyst consensus target $258.38; implied upside is 16.05%. Dashboard verdict: Reasonably Priced. This is a target comparison, not an intrinsic-value estimate.",
+        "tag": "reasonable"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -1.27%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Software / information / cybersecurity"
+        ],
+        "diversification": "Shared watchlist factor exposure with BSY, ESTC, FIG, GOOGL, PANW, RELX; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "AXON",
+      "added_in_week": "2026-W26",
+      "bucket": "quality_growth",
+      "portfolio_role": "Public-safety SaaS compounder with AI-native moat; high-multiple growth alpha",
+      "complement_or_compete": "Factor overlap to monitor: no close name identified. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "The latest U.S. mix of a 4.0% policy rate, elevated energy inflation and 4.2% unemployment makes the macro backdrop mixed rather than uniformly risk-on. Company-specific demand and execution should dominate broad regime assumptions.",
+        "drivers": [
+          "Policy rates and funding costs",
+          "Energy/input costs",
+          "Employment and customer demand"
+        ],
+        "sensitivity": "Sensitivity depends on end markets, pricing power and balance-sheet capacity; current macro data are not a substitute for company-level operating updates."
+      },
+      "angle2_fundamental": {
+        "summary": "ARR growing 35%+, gross margin 60%+, recurring SaaS mix expanding, dominant US law enforcement share.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Draft One adoption, federal AI contracts, Skydio drone integration, international wins",
+        "valuation": "Latest quote $413.35 versus stored dashboard target $706.25; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "attractive but high-multiple"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -3.90%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [],
+        "diversification": "No direct peer in the refreshed factor clusters; portfolio diversification still depends on actual holdings and weights.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "LMND",
+      "added_in_week": "2026-W26",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "AI-native insurance disruptor inflecting toward profitability; small-cap optionality",
+      "complement_or_compete": "Factor overlap to monitor: PYPL, SEZL. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Consumer and digital-finance businesses face a mixed regime: rates can support some financial spreads, while rising unemployment expectations and 4.2% reported unemployment increase credit, customer-retention and risk-appetite concerns.",
+        "drivers": [
+          "Employment and consumer health",
+          "Funding costs and credit quality",
+          "Risk appetite and equity multiples"
+        ],
+        "sensitivity": "High sensitivity to customer acquisition, losses and funding conditions; regulatory and underwriting execution dominate broad macro tailwinds."
+      },
+      "angle2_fundamental": {
+        "summary": "Loss ratio trending below 75%, premium growth 25%+, EBITDA inflecting toward positive in 2026; still cash-burning but improving.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Lemonade Car expansion, loss-ratio compression, in-force premium scaling",
+        "valuation": "Latest quote $46.49 versus stored dashboard target $66.17; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "attractive with execution risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +3.47%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Consumer finance / insurtech"
+        ],
+        "diversification": "Shared watchlist factor exposure with PYPL, SEZL; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "PYPL",
+      "added_in_week": "2026-W26",
+      "bucket": "turnaround_special_situations",
+      "portfolio_role": "Large-cap payments turnaround with capital-return optionality and agentic-commerce upside",
+      "complement_or_compete": "Factor overlap to monitor: LMND, SEZL. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Consumer and digital-finance businesses face a mixed regime: rates can support some financial spreads, while rising unemployment expectations and 4.2% reported unemployment increase credit, customer-retention and risk-appetite concerns.",
+        "drivers": [
+          "Employment and consumer health",
+          "Funding costs and credit quality",
+          "Risk appetite and equity multiples"
+        ],
+        "sensitivity": "High sensitivity to customer acquisition, losses and funding conditions; regulatory and underwriting execution dominate broad macro tailwinds."
+      },
+      "angle2_fundamental": {
+        "summary": "Stable double-digit FCF, aggressive buybacks shrinking share count, branded TPV stabilizing, Venmo merchant adoption inflecting.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Fastlane adoption, Venmo TPV growth, AI commerce wins, capital returns",
+        "valuation": "Latest quote $52.80 versus stored dashboard target $57.92; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "attractive on FCF yield"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -4.07%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Consumer finance / insurtech"
+        ],
+        "diversification": "Shared watchlist factor exposure with LMND, SEZL; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "SYM",
+      "added_in_week": "2026-W26",
+      "bucket": "quality_growth",
+      "portfolio_role": "Warehouse automation pure-play; high-multiple growth with massive backlog conversion runway",
+      "complement_or_compete": "Factor overlap to monitor: 6324.T, 6861, BMI, ECL, ETH, HMS, TE.PA, TEA.AX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Industrial automation, water, connectivity and engineering benefit from long-run productivity and infrastructure investment, but the 4.0% policy rate and elevated energy inflation can delay customer capex and pressure project margins.",
+        "drivers": [
+          "Customer capex and order conversion",
+          "Energy/input costs",
+          "Labor availability and productivity"
+        ],
+        "sensitivity": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company."
+      },
+      "angle2_fundamental": {
+        "summary": "$22.7B backlog, software/services attach building recurring revenue stream, gross margins constrained by project-based hardware mix.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "GreenBox site openings, gross-margin expansion, new anchor customer wins",
+        "valuation": "Latest quote $43.28 versus stored dashboard target $61.00; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "attractive with execution risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -0.44%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Industrial automation / water / connectivity"
+        ],
+        "diversification": "Shared watchlist factor exposure with 6324.T, 6861, BMI, ECL, ETH, HMS, TE.PA, TEA.AX and others; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "FIG",
+      "added_in_week": "2026-W26",
+      "bucket": "quality_growth",
+      "portfolio_role": "Category-leading AI-native design SaaS; post-IPO re-rating opportunity",
+      "complement_or_compete": "Factor overlap to monitor: BSY, ESTC, GOOGL, IBM, PANW, RELX. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Recurring software, information and security demand may be resilient, but the 4.0% policy rate and uncertain employment outlook keep long-duration growth valuations sensitive to discount rates and enterprise budget scrutiny.",
+        "drivers": [
+          "Enterprise spending and renewals",
+          "Discount rates and valuation",
+          "AI/product substitution and regulation"
+        ],
+        "sensitivity": "Moderate-to-high duration sensitivity; recurring revenue may damp demand volatility but does not protect against multiple compression or execution risk."
+      },
+      "angle2_fundamental": {
+        "summary": "$1B+ revenue with 35% growth guide, FCF positive, $1.6B cash zero debt, expanding TAM via Slides/Buzz/Sites.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "AI feature adoption, enterprise net retention, new product attach",
+        "valuation": "Latest quote $21.36 versus stored dashboard target $35.78; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "deeply attractive post-IPO reset"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +2.45%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Software / information / cybersecurity"
+        ],
+        "diversification": "Shared watchlist factor exposure with BSY, ESTC, GOOGL, IBM, PANW, RELX; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "PNG.CVE",
+      "added_in_week": "2026-W26",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Small-cap subsea defense + offshore-energy pure-play; geopolitical risk-premium exposure",
+      "complement_or_compete": "Factor overlap to monitor: ASY.PA, EXA.PA, RR.L. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Defense, aerospace and maritime infrastructure can be supported by multi-year procurement and security priorities; the macro counterweight is financing pressure, budget constraints and uneven commercial demand.",
+        "drivers": [
+          "Government procurement and backlog",
+          "Commercial aerospace/industrial demand",
+          "Project execution and budgets"
+        ],
+        "sensitivity": "Moderate sensitivity to industrial conditions but high exposure to program timing, contract execution and customer concentration."
+      },
+      "angle2_fundamental": {
+        "summary": "$165-175M 2026 revenue guide (~65% growth), backlog C$250-350M, EBITDA margin expanding to 20-25%, Covelya acquisition closing end-Q2.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Covelya close, KATFISH SEFINE contract, additional NATO wins",
+        "valuation": "Latest quote $2.91; no consensus target was refreshed in this cycle to calculate a current upside estimate.",
+        "tag": "growth-tilt small-cap"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -9.91%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Defense / aerospace / maritime"
+        ],
+        "diversification": "Shared watchlist factor exposure with ASY.PA, EXA.PA, RR.L; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "BIDU",
+      "added_in_week": "2026-W26",
+      "bucket": "cyclicals",
+      "portfolio_role": "Cheap China AI/internet exposure with robotaxi optionality; emerging-market value tilt",
+      "complement_or_compete": "Factor overlap to monitor: CORZ, IRDM, NNBR. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "China internet and AI exposure depends on domestic advertising, cloud demand, regulation and market-access sentiment; current U.S. macro readings are only a partial guide to these drivers.",
+        "drivers": [
+          "Chinese consumer/advertising demand",
+          "AI monetization and cloud capex",
+          "Regulatory and geopolitical risk"
+        ],
+        "sensitivity": "High sensitivity to China-specific growth, regulation and cross-border risk; do not treat U.S. disinflation as a direct catalyst."
+      },
+      "angle2_fundamental": {
+        "summary": "P/E <10x, large net cash position, search ads declining but cloud/AI/Apollo growth offsetting; capital returns increasing.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Apollo Go ride volumes, AI Cloud acceleration, ERNIE enterprise wins, capital returns",
+        "valuation": "Latest quote $84.32 versus stored dashboard target $148.45; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "deep value with geopolitical risk"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -3.45%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "High-beta / special situations"
+        ],
+        "diversification": "Shared watchlist factor exposure with CORZ, IRDM, NNBR; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "MRAM",
+      "added_in_week": "2026-W26",
+      "bucket": "thematic_structural",
+      "portfolio_role": "Micro-cap memory-technology niche play with AI/defense optionality",
+      "complement_or_compete": "Factor overlap to monitor: AMD, ARM, ASM.AS, FLEX, INTC, KYNCY, NVDA, SNDK. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Compute, memory and equipment remain exposed to AI and digital-infrastructure demand, but a 4.0% policy rate raises the valuation hurdle and the semiconductor cycle can amplify changes in customer capex.",
+        "drivers": [
+          "AI/data-center investment",
+          "Semiconductor inventory and pricing cycle",
+          "Rates and export restrictions"
+        ],
+        "sensitivity": "High factor sensitivity to technology capex and valuation multiples; memory, equipment, IP and diversified electronics have distinct end-market risks."
+      },
+      "angle2_fundamental": {
+        "summary": "Small revenue base (<$60M), unique MRAM niche with defense/aerospace customers, royalty/licensing optionality but limited analyst coverage.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "STT-MRAM AI/data-center wins, defense backlog, licensing expansion",
+        "valuation": "Latest quote $18.83 versus stored dashboard target $19.00; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated.",
+        "tag": "thinly-covered; price above lone target"
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +1.95%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Semiconductors / AI hardware"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMD, ARM, ASM.AS, FLEX, INTC, KYNCY, NVDA, SNDK; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      }
+    },
+    {
+      "ticker": "AMD",
+      "bucket": "quality_growth",
+      "portfolio_role": "AI/semiconductor growth satellite",
+      "complement_or_compete": "Factor overlap to monitor: ARM, ASM.AS, FLEX, INTC, KYNCY, MRAM, NVDA, SNDK. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Compute, memory and equipment remain exposed to AI and digital-infrastructure demand, but a 4.0% policy rate raises the valuation hurdle and the semiconductor cycle can amplify changes in customer capex.",
+        "drivers": [
+          "AI/data-center investment",
+          "Semiconductor inventory and pricing cycle",
+          "Rates and export restrictions"
+        ],
+        "sensitivity": "High factor sensitivity to technology capex and valuation multiples; memory, equipment, IP and diversified electronics have distinct end-market risks."
+      },
+      "angle2_fundamental": {
+        "summary": "Large semiconductor platform with substantial secular demand exposure; the central debate is whether growth and execution justify the current valuation.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Product-cycle execution, data-center demand, gross-margin trajectory and foundry/architecture adoption.",
+        "valuation": "Latest quote $633.91 versus stored dashboard target $593.72; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +0.52%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Semiconductors / AI hardware"
+        ],
+        "diversification": "Shared watchlist factor exposure with ARM, ASM.AS, FLEX, INTC, KYNCY, MRAM, NVDA, SNDK; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W32"
+    },
+    {
+      "ticker": "ARM",
+      "bucket": "quality_growth",
+      "portfolio_role": "AI/semiconductor growth satellite",
+      "complement_or_compete": "Factor overlap to monitor: AMD, ASM.AS, FLEX, INTC, KYNCY, MRAM, NVDA, SNDK. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Compute, memory and equipment remain exposed to AI and digital-infrastructure demand, but a 4.0% policy rate raises the valuation hurdle and the semiconductor cycle can amplify changes in customer capex.",
+        "drivers": [
+          "AI/data-center investment",
+          "Semiconductor inventory and pricing cycle",
+          "Rates and export restrictions"
+        ],
+        "sensitivity": "High factor sensitivity to technology capex and valuation multiples; memory, equipment, IP and diversified electronics have distinct end-market risks."
+      },
+      "angle2_fundamental": {
+        "summary": "Large semiconductor platform with substantial secular demand exposure; the central debate is whether growth and execution justify the current valuation.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Product-cycle execution, data-center demand, gross-margin trajectory and foundry/architecture adoption.",
+        "valuation": "Latest quote $307.49 versus stored dashboard target $294.11; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -0.91%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Semiconductors / AI hardware"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMD, ASM.AS, FLEX, INTC, KYNCY, MRAM, NVDA, SNDK; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W32"
+    },
+    {
+      "ticker": "NVDA",
+      "bucket": "quality_growth",
+      "portfolio_role": "AI/semiconductor growth satellite",
+      "complement_or_compete": "Factor overlap to monitor: AMD, ARM, ASM.AS, FLEX, INTC, KYNCY, MRAM, SNDK. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Compute, memory and equipment remain exposed to AI and digital-infrastructure demand, but a 4.0% policy rate raises the valuation hurdle and the semiconductor cycle can amplify changes in customer capex.",
+        "drivers": [
+          "AI/data-center investment",
+          "Semiconductor inventory and pricing cycle",
+          "Rates and export restrictions"
+        ],
+        "sensitivity": "High factor sensitivity to technology capex and valuation multiples; memory, equipment, IP and diversified electronics have distinct end-market risks."
+      },
+      "angle2_fundamental": {
+        "summary": "Large semiconductor platform with substantial secular demand exposure; the central debate is whether growth and execution justify the current valuation.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Product-cycle execution, data-center demand, gross-margin trajectory and foundry/architecture adoption.",
+        "valuation": "Latest quote $233.95 versus stored dashboard target $347.81; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move +3.95%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Semiconductors / AI hardware"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMD, ARM, ASM.AS, FLEX, INTC, KYNCY, MRAM, SNDK; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W32"
+    },
+    {
+      "ticker": "INTC",
+      "bucket": "quality_growth",
+      "portfolio_role": "AI/semiconductor growth satellite",
+      "complement_or_compete": "Factor overlap to monitor: AMD, ARM, ASM.AS, FLEX, KYNCY, MRAM, NVDA, SNDK. This watchlist is not a portfolio allocation; assess complementarity against actual holdings and weights.",
+      "angle1_macro": {
+        "regime_fit": "Compute, memory and equipment remain exposed to AI and digital-infrastructure demand, but a 4.0% policy rate raises the valuation hurdle and the semiconductor cycle can amplify changes in customer capex.",
+        "drivers": [
+          "AI/data-center investment",
+          "Semiconductor inventory and pricing cycle",
+          "Rates and export restrictions"
+        ],
+        "sensitivity": "High factor sensitivity to technology capex and valuation multiples; memory, equipment, IP and diversified electronics have distinct end-market risks."
+      },
+      "angle2_fundamental": {
+        "summary": "Large semiconductor platform with substantial secular demand exposure; the central debate is whether growth and execution justify the current valuation.\n\nQ4 review: prior fundamental thesis retained as a carry-forward baseline. A current quote and target screen was refreshed; company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled review.",
+        "drivers": "Product-cycle execution, data-center demand, gross-margin trajectory and foundry/architecture adoption.",
+        "valuation": "Latest quote $119.33 versus stored dashboard target $106.31; the analyst target was not refreshed this cycle, so the implied upside may be stale and should be revalidated."
+      },
+      "angle3_quant": {
+        "vol_drawdown": "Q4 quantitative check: latest weekly move -2.98%; historical volatility and maximum drawdown were not recalculated in this run. Recorded dashboard risk score: 5/10 (carried forward).",
+        "factor_clusters": [
+          "Semiconductors / AI hardware"
+        ],
+        "diversification": "Shared watchlist factor exposure with AMD, ARM, ASM.AS, FLEX, KYNCY, MRAM, NVDA, SNDK; the list contains no position weights, so actual portfolio concentration cannot be inferred from membership alone.",
+        "sizing_tier": "moderate satellite; size against correlated exposures"
+      },
+      "added_in_week": "2026-W32"
+    }
+  ],
+  "factor_clusters": [
+    {
+      "cluster": "Nuclear / uranium",
+      "members": [
+        "BWXT",
+        "CCJ",
+        "OKLO",
+        "SMR",
+        "ASY.PA"
+      ],
+      "shared_risks": "Policy support and energy security can help demand, but licensing, project finance, uranium pricing and pre-revenue dilution risks are distinct.",
+      "concentration_warning": "5 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    },
+    {
+      "cluster": "Grid / electrification / data-center power",
+      "members": [
+        "AMSC",
+        "HUBB",
+        "PRY.MI",
+        "SCHNEIDER",
+        "VRT"
+      ],
+      "shared_risks": "Shared exposure to utility and data-center capex, project timing, electrical-equipment supply and copper/labor costs; no portfolio weights are implied.",
+      "concentration_warning": "5 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    },
+    {
+      "cluster": "Semiconductors / AI hardware",
+      "members": [
+        "ASM.AS",
+        "AMD",
+        "ARM",
+        "NVDA",
+        "INTC",
+        "SNDK",
+        "MRAM",
+        "KYNCY",
+        "FLEX"
+      ],
+      "shared_risks": "Shared sensitivity to semiconductor demand and customer investment; equipment, IP, memory and manufacturing have different cycle positions and business models.",
+      "concentration_warning": "9 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    },
+    {
+      "cluster": "Energy producers",
+      "members": [
+        "SU",
+        "XOM",
+        "TTE"
+      ],
+      "shared_risks": "Commodity prices, production costs, transition investment and global demand drive common exposure; geography and integration reduce but do not remove correlation.",
+      "concentration_warning": "3 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    },
+    {
+      "cluster": "Oil refining",
+      "members": [
+        "VLO",
+        "MPC"
+      ],
+      "shared_risks": "Refining margins, utilization, maintenance and product demand dominate results; crude price by itself is not a reliable proxy for profitability.",
+      "concentration_warning": "2 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    },
+    {
+      "cluster": "Metals / materials",
+      "members": [
+        "TGB",
+        "CMC",
+        "MT",
+        "APAM.AS",
+        "NHY.OL",
+        "VOE.VI"
+      ],
+      "shared_risks": "Industrial demand, trade policy, energy costs and product-specific commodity prices create cyclical factor overlap.",
+      "concentration_warning": "6 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    },
+    {
+      "cluster": "Swiss quality / healthcare / defensives",
+      "members": [
+        "GIVN.SW",
+        "ROG.SW",
+        "NESN.SW",
+        "TECN.SW",
+        "SQN.SW"
+      ],
+      "shared_risks": "Shared CHF and quality characteristics, but healthcare, consumer staples, instruments and financial services have different underlying earnings drivers.",
+      "concentration_warning": "5 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    },
+    {
+      "cluster": "Software / information / cybersecurity",
+      "members": [
+        "GOOGL",
+        "RELX",
+        "BSY",
+        "ESTC",
+        "PANW",
+        "IBM",
+        "FIG"
+      ],
+      "shared_risks": "Enterprise and digital spend supports the group, while rates, platform competition, AI substitution and regulation can create correlated multiple risk.",
+      "concentration_warning": "7 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    },
+    {
+      "cluster": "Consumer finance / insurtech",
+      "members": [
+        "PYPL",
+        "SEZL",
+        "LMND"
+      ],
+      "shared_risks": "Consumer health, funding, loss ratios, regulation and risk appetite link the names; business models are not interchangeable.",
+      "concentration_warning": "3 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    },
+    {
+      "cluster": "Defense / aerospace / maritime",
+      "members": [
+        "RR.L",
+        "EXA.PA",
+        "ASY.PA",
+        "PNG.CVE"
+      ],
+      "shared_risks": "Procurement and security spending support demand, with program execution, budgets and working-capital intensity as common risks.",
+      "concentration_warning": "4 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    },
+    {
+      "cluster": "Industrial automation / water / connectivity",
+      "members": [
+        "6324.T",
+        "6861",
+        "BMI",
+        "XYL",
+        "ECL",
+        "HMS",
+        "ETH",
+        "SYM",
+        "TEA.AX",
+        "TE.PA"
+      ],
+      "shared_risks": "Industrial orders, customer capex, project delivery and end-market cycles overlap; recurring/service revenue and pricing power vary by issuer.",
+      "concentration_warning": "10 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    },
+    {
+      "cluster": "High-beta / special situations",
+      "members": [
+        "CORZ",
+        "NNBR",
+        "IRDM",
+        "BIDU"
+      ],
+      "shared_risks": "Company-specific balance-sheet, execution, regulatory, geography and commodity risks can dominate broad market correlations.",
+      "concentration_warning": "4 watchlist names share some exposure to this theme; the count does not represent portfolio weights. Avoid treating the names as independent sources of diversification."
+    }
+  ],
+  "high_priority_names": [
+    {
+      "ticker": "CORZ",
+      "type": "Q4_watchlist_review",
+      "case": "Latest quote $16.45 and refreshed consensus target $30.94 imply 88.1% upside. Dashboard verdict: Attractively Priced; risk score 4/10. This is a review candidate, not a buy recommendation.",
+      "entry_triggers": [
+        "Recheck the next earnings release and company guidance.",
+        "Compare the live quote with the user's intended entry level.",
+        "Review correlation against actual holdings and position weights."
+      ],
+      "thesis_risks": {
+        "macro": "Sensitivity depends on end markets, pricing power and balance-sheet capacity; current macro data are not a substitute for company-level operating updates.",
+        "fundamental": "Company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled run.",
+        "quantitative": "Target-implied upside and the recorded risk score do not replace a drawdown or position-weight analysis."
+      }
+    },
+    {
+      "ticker": "CCJ",
+      "type": "Q4_watchlist_review",
+      "case": "Latest quote $85.18 and refreshed consensus target $137.03 imply 60.9% upside. Dashboard verdict: Attractively Priced; risk score 7/10. This is a review candidate, not a buy recommendation.",
+      "entry_triggers": [
+        "Recheck the next earnings release and company guidance.",
+        "Compare the live quote with the user's intended entry level.",
+        "Review correlation against actual holdings and position weights."
+      ],
+      "thesis_risks": {
+        "macro": "High sensitivity to long-duration valuations, financing conditions and project execution; established contractors and uranium producers have different risk than pre-revenue developers.",
+        "fundamental": "Company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled run.",
+        "quantitative": "Target-implied upside and the recorded risk score do not replace a drawdown or position-weight analysis."
+      }
+    },
+    {
+      "ticker": "SEZL",
+      "type": "Q4_watchlist_review",
+      "case": "Latest quote $107.41 and refreshed consensus target $158.60 imply 47.7% upside. Dashboard verdict: Attractively Priced; risk score 7/10. This is a review candidate, not a buy recommendation.",
+      "entry_triggers": [
+        "Recheck the next earnings release and company guidance.",
+        "Compare the live quote with the user's intended entry level.",
+        "Review correlation against actual holdings and position weights."
+      ],
+      "thesis_risks": {
+        "macro": "High sensitivity to customer acquisition, losses and funding conditions; regulatory and underwriting execution dominate broad macro tailwinds.",
+        "fundamental": "Company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled run.",
+        "quantitative": "Target-implied upside and the recorded risk score do not replace a drawdown or position-weight analysis."
+      }
+    },
+    {
+      "ticker": "ECL",
+      "type": "Q4_watchlist_review",
+      "case": "Latest quote $273.70 and refreshed consensus target $326.27 imply 19.2% upside. Dashboard verdict: Reasonably Priced; risk score 2/10. This is a review candidate, not a buy recommendation.",
+      "entry_triggers": [
+        "Recheck the next earnings release and company guidance.",
+        "Compare the live quote with the user's intended entry level.",
+        "Review correlation against actual holdings and position weights."
+      ],
+      "thesis_risks": {
+        "macro": "Moderate-to-high sensitivity to manufacturing and investment cycles; recurring service exposure and pricing power differ materially by company.",
+        "fundamental": "Company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled run.",
+        "quantitative": "Target-implied upside and the recorded risk score do not replace a drawdown or position-weight analysis."
+      }
+    },
+    {
+      "ticker": "CMC",
+      "type": "Q4_watchlist_review",
+      "case": "Latest quote $63.58 and refreshed consensus target $80.70 imply 26.9% upside. Dashboard verdict: Attractively Priced; risk score 6/10. This is a review candidate, not a buy recommendation.",
+      "entry_triggers": [
+        "Recheck the next earnings release and company guidance.",
+        "Compare the live quote with the user's intended entry level.",
+        "Review correlation against actual holdings and position weights."
+      ],
+      "thesis_risks": {
+        "macro": "High sensitivity to the industrial cycle and product-specific prices; elevated energy inflation can squeeze producers even when nominal commodity prices rise.",
+        "fundamental": "Company-specific earnings, filings and operating KPIs were not re-fetched in this scheduled run.",
+        "quantitative": "Target-implied upside and the recorded risk score do not replace a drawdown or position-weight analysis."
+      }
+    }
+  ],
+  "actions_to_consider": {
+    "upgrade_priority": [
+      "CORZ: Recheck fundamentals, current valuation and correlated exposure before changing priority; analyst consensus is not fair value.",
+      "CCJ: Recheck fundamentals, current valuation and correlated exposure before changing priority; analyst consensus is not fair value.",
+      "SEZL: Recheck fundamentals, current valuation and correlated exposure before changing priority; analyst consensus is not fair value.",
+      "ECL: Recheck fundamentals, current valuation and correlated exposure before changing priority; analyst consensus is not fair value.",
+      "CMC: Recheck fundamentals, current valuation and correlated exposure before changing priority; analyst consensus is not fair value."
+    ],
+    "downgrade_priority": [
+      "IRDM: Current quote is above the refreshed consensus target by 21.6%; revisit assumptions and verify the next update.",
+      "NNBR: Current quote is above the refreshed consensus target by 33.5%; revisit assumptions and verify the next update.",
+      "MPC: Current quote is above the refreshed consensus target by 12.2%; revisit assumptions and verify the next update.",
+      "TTE: Current quote is above the refreshed consensus target by 1.4%; revisit assumptions and verify the next update.",
+      "PANW: Current quote is above the refreshed consensus target by 2.8%; revisit assumptions and verify the next update."
+    ],
+    "themes_to_add": [
+      "Consider whether the watchlist needs non-equity diversifiers or an explicit cash/bond ballast; this file contains watchlist names, not current portfolio holdings.",
+      "Review geographic exposure outside the U.S. and Europe against the user's actual holdings rather than inferring portfolio diversification from ticker count."
+    ],
+    "themes_to_trim": [
+      "Nuclear / uranium: Review correlation and actual position weights across BWXT, CCJ, OKLO, SMR, ASY.PA; cluster membership alone does not imply a need to sell.",
+      "Grid / electrification / data-center power: Review correlation and actual position weights across AMSC, HUBB, PRY.MI, SCHNEIDER, VRT; cluster membership alone does not imply a need to sell.",
+      "Semiconductors / AI hardware: Review correlation and actual position weights across ASM.AS, AMD, ARM, NVDA, INTC, SNDK, MRAM, KYNCY, FLEX; cluster membership alone does not imply a need to sell.",
+      "Metals / materials: Review correlation and actual position weights across TGB, CMC, MT, APAM.AS, NHY.OL, VOE.VI; cluster membership alone does not imply a need to sell.",
+      "Swiss quality / healthcare / defensives: Review correlation and actual position weights across GIVN.SW, ROG.SW, NESN.SW, TECN.SW, SQN.SW; cluster membership alone does not imply a need to sell.",
+      "Software / information / cybersecurity: Review correlation and actual position weights across GOOGL, RELX, BSY, ESTC, PANW, IBM, FIG; cluster membership alone does not imply a need to sell.",
+      "Industrial automation / water / connectivity: Review correlation and actual position weights across 6324.T, 6861, BMI, XYL, ECL, HMS, ETH, SYM, TEA.AX, TE.PA; cluster membership alone does not imply a need to sell."
+    ]
+  },
+  "last_synced_week": "2026-W41"
+}
